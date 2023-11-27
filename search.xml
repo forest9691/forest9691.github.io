@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>hook</title>
+      <link href="/2023/11/27/hook/"/>
+      <url>/2023/11/27/hook/</url>
+      
+        <content type="html"><![CDATA[<p>useEffect 是一个 React Hook，它允许你 将组件与外部系统同步。</p><p><code>useDeferredValue</code> 是一个 React Hook，可以让你延迟更新 UI 的某些部分。</p><p><code>useImperativeHandle</code> 是 React 中的一个 Hook，它能让你自定义由 <a href="https://react.docschina.org/learn/manipulating-the-dom-with-refs">ref</a> 暴露出来的句柄。</p><p><code>memo</code> 允许你的组件在 props 没有改变的情况下跳过重新渲染。</p><p><code>useInsertionEffect</code> 可以在布局副作用触发之前将元素插入到 DOM 中。</p><p><code>useLayoutEffect</code> 是 <a href="https://react.docschina.org/reference/react/useEffect"><code>useEffect</code></a> 的一个版本，在浏览器重新绘制屏幕之前触发。</p><p>在组件的顶层作用域调用 <code>useReducer</code> 以创建一个用于管理状态的 <a href="https://react.docschina.org/learn/extracting-state-logic-into-a-reducer">reducer</a>。</p><p><code>useRef</code> 是一个 React Hook，它能帮助引用一个不需要渲染的值。</p><p><code>useState</code> 是一个 React Hook，它允许你向组件添加一个 <a href="https://react.docschina.org/learn/state-a-components-memory">状态变量</a>。</p><p><code>useSyncExternalStore</code> 是一个让你订阅外部 store 的 React Hook。</p><p><code>useTransition</code> 是一个帮助你在不阻塞 UI 的情况下更新状态的 React Hook。</p><p><code>useCallback</code> 是一个允许你在多次渲染中缓存函数的 React Hook。</p><p><code>useContext</code> 是一个 React Hook，可以让你读取和订阅组件中的 <a href="https://react.docschina.org/learn/passing-data-deeply-with-context">context</a>。</p><p><code>useDebugValue</code> 是一个 React Hook，可以让你在 <a href="https://react.docschina.org/learn/react-developer-tools">React 开发工具</a> 中为自定义 Hook 添加标签。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> hook </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/11/27/picgo/"/>
       <url>/2023/11/27/picgo/</url>
