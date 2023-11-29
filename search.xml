@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>React内置的组件</title>
+      <link href="/2023/11/29/React-built-in-components/"/>
+      <url>/2023/11/29/React-built-in-components/</url>
+      
+        <content type="html"><![CDATA[<h4 id="通常使用-代替，它们都允许你在不添加额外节点的情况下将子元素组合。"><a href="#通常使用-代替，它们都允许你在不添加额外节点的情况下将子元素组合。" class="headerlink" title="&lt;Fragment&gt; 通常使用 &lt;&gt;...&lt;/&gt; 代替，它们都允许你在不添加额外节点的情况下将子元素组合。"></a><code>&lt;Fragment&gt;</code> 通常使用 <code>&lt;&gt;...&lt;/&gt;</code> 代替，它们都允许你在不添加额外节点的情况下将子元素组合。</h4><figure class="highlight jsx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs jsx">&lt;&gt;<br>  <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">OneChild</span> /&gt;</span></span><br>  <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">AnotherChild</span> /&gt;</span></span><br>&lt;/&gt;<br></code></pre></td></tr></table></figure><h4 id="帮助你在开发过程中尽早地发现组件中的常见错误。"><a href="#帮助你在开发过程中尽早地发现组件中的常见错误。" class="headerlink" title="&lt;StrictMode&gt; 帮助你在开发过程中尽早地发现组件中的常见错误。"></a><code>&lt;StrictMode&gt;</code> 帮助你在开发过程中尽早地发现组件中的常见错误。</h4><figure class="highlight jsx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs jsx">&lt;<span class="hljs-title class_">StrictMode</span>&gt;<br>  <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">App</span> /&gt;</span></span><br>&lt;/<span class="hljs-title class_">StrictMode</span>&gt;<br></code></pre></td></tr></table></figure><h4 id="允许在子组件完成加载前展示后备方案。"><a href="#允许在子组件完成加载前展示后备方案。" class="headerlink" title="&lt;Suspense&gt; 允许在子组件完成加载前展示后备方案。"></a><code>&lt;Suspense&gt;</code> 允许在子组件完成加载前展示后备方案。</h4><figure class="highlight jsx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs jsx">&lt;<span class="hljs-title class_">Suspense</span> fallback=&#123;<span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">Loading</span> /&gt;</span></span>&#125;&gt;<br>  <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">SomeComponent</span> /&gt;</span></span><br>&lt;/<span class="hljs-title class_">Suspense</span>&gt;<br></code></pre></td></tr></table></figure><h4 id="允许你编程式测量-React-树的渲染性能。"><a href="#允许你编程式测量-React-树的渲染性能。" class="headerlink" title="&lt;Profiler&gt; 允许你编程式测量 React 树的渲染性能。"></a><code>&lt;Profiler&gt;</code> 允许你编程式测量 React 树的渲染性能。</h4><figure class="highlight jsx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><code class="hljs jsx"><span class="hljs-keyword">function</span> <span class="hljs-title function_">onRender</span>(<span class="hljs-params">id, phase, actualDuration, baseDuration, startTime, commitTime</span>) &#123;<br>  <span class="hljs-comment">// 对渲染时间进行汇总或记录...</span><br>&#125;<br><br>&lt;<span class="hljs-title class_">Profiler</span> id=<span class="hljs-string">&quot;App&quot;</span> onRender=&#123;onRender&#125;&gt;<br>  <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">App</span> /&gt;</span></span><br>&lt;/<span class="hljs-title class_">Profiler</span>&gt;<br></code></pre></td></tr></table></figure><ul><li><code>id</code>：字符串，为 <code>&lt;Profiler&gt;</code> 树的 <code>id</code> 属性，用于标识刚刚提交的部分。如果使用多个 profiler，可以通过此属性识别提交的是树中的哪一部分。</li><li><code>phase</code>：为 <code>&quot;mount&quot;</code>、<code>&quot;update&quot;</code> 或 <code>&quot;nested-update&quot;</code> 中之一。这可以让你知道组件树是首次挂载还是由于 props、state 或 hook 的更改而重新渲染。</li><li><code>actualDuration</code>：在此次更新中，渲染 <code>&lt;Profiler&gt;</code> 组件树的毫秒数。这可以显示子树在使用记忆化（例如 <a href="https://react.docschina.org/reference/react/memo"><code>memo</code></a> 和 <a href="https://react.docschina.org/reference/react/useMemo"><code>useMemo</code></a>）后的效果如何。理想情况下，此值在挂载后应显著减少，因为许多后代组件只会在特定的 props 变化时重新渲染。</li><li><code>baseDuration</code>：估算在没有任何优化的情况下重新渲染整棵 <code>&lt;Profiler&gt;</code> 子树所需的毫秒数。它通过累加树中每个组件的最近一次渲染持续时间来计算。此值估计了渲染的最差情况成本（例如初始挂载或没有使用记忆化的树）。将其与 <code>actualDuration</code> 进行比较，以确定记忆化是否起作用。</li><li><code>startTime</code>：当 React 开始渲染此次更新时的时间戳。</li><li><code>commitTime</code>：当 React 提交此次更新时的时间戳。此值在提交的所有 profiler 中共享，如果需要，可以对它们进行分组。</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> react </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>hook</title>
       <link href="/2023/11/27/hook/"/>
       <url>/2023/11/27/hook/</url>
