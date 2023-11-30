@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>Markdown配置</title>
+      <link href="/2023/11/30/Markdown%E9%85%8D%E7%BD%AE/"/>
+      <url>/2023/11/30/Markdown%E9%85%8D%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="声明区块"><a href="#声明区块" class="headerlink" title="声明区块"></a>声明区块</h1><blockquote><p>第一层</p><blockquote><p>第二层嵌套</p><blockquote><p>第三层嵌套</p></blockquote></blockquote></blockquote><h1 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h1><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs javascript">$(<span class="hljs-variable language_">document</span>).<span class="hljs-title function_">ready</span>(<span class="hljs-keyword">function</span> (<span class="hljs-params"></span>) &#123;<br>    <span class="hljs-title function_">alert</span>(<span class="hljs-string">&#x27;Hello Markdown&#x27;</span>);<br>&#125;);<br></code></pre></td></tr></table></figure><h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs Markdown">[<span class="hljs-string">链接名称</span>](<span class="hljs-link">链接地址</span>)<br>或者<br>&lt;链接地址&gt;<br></code></pre></td></tr></table></figure><h1 id="高级链接"><a href="#高级链接" class="headerlink" title="高级链接"></a>高级链接</h1><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><code class="hljs Markdown">这个链接用 1 作为网址变量 [<span class="hljs-string">Google</span>][<span class="hljs-symbol">1</span>]<br>这个链接用 Jayhrn 作为网址变量 [<span class="hljs-string">Jayhrn</span>][<span class="hljs-symbol">Jayhrn</span>]<br>然后在文档的结尾为变量赋值（网址）<br><br>[<span class="hljs-symbol">1</span>]: <span class="hljs-link">http://www.google.com/</span><br>[<span class="hljs-symbol">Jayhrn</span>]: <span class="hljs-link">https://blog.jayhrn.com/</span><br></code></pre></td></tr></table></figure><p>这个链接用 1 作为网址变量 <a href="http://www.google.com/">Google</a><br>这个链接用 Jayhrn 作为网址变量 <a href="https://blog.jayhrn.com/">Jayhrn</a><br>然后在文档的结尾为变量赋值（网址）</p><h1 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h1><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs Markdown">![<span class="hljs-string">alt 属性文本</span>](<span class="hljs-link">图片地址</span>)<br><br>![<span class="hljs-string">alt 属性文本</span>](<span class="hljs-link">图片地址 &quot;可选标题&quot;</span>)<br><br><span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">img</span> <span class="hljs-attr">src</span>=<span class="hljs-string">&quot;https://img.jayhrn.com/img/posts/20220727/003.webp&quot;</span> <span class="hljs-attr">width</span>=<span class="hljs-string">&quot;25%&quot;</span>&gt;</span></span><br></code></pre></td></tr></table></figure><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><code class="hljs Markdown">| 左对齐 | 右对齐 | 居中对齐 |<br>| :-----| ----: | :----: |<br>| 单元格 | 单元格 | 单元格 |<br>| 单元格 | 单元格 | 单元格 |<br></code></pre></td></tr></table></figure><table><thead><tr><th align="left">左对齐</th><th align="right">右对齐</th><th align="center">居中对齐</th></tr></thead><tbody><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr><tr><td align="left">单元格</td><td align="right">单元格</td><td align="center">单元格</td></tr></tbody></table><h1 id="高级Markdown技巧"><a href="#高级Markdown技巧" class="headerlink" title="高级Markdown技巧"></a>高级Markdown技巧</h1><h2 id="html元素"><a href="#html元素" class="headerlink" title="html元素"></a>html元素</h2><figure class="highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs Markdown">使用 <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">kbd</span>&gt;</span></span>Ctrl<span class="language-xml"><span class="hljs-tag">&lt;/<span class="hljs-name">kbd</span>&gt;</span></span>+<span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">kbd</span>&gt;</span></span>Alt<span class="language-xml"><span class="hljs-tag">&lt;/<span class="hljs-name">kbd</span>&gt;</span></span>+<span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">kbd</span>&gt;</span></span>Del<span class="language-xml"><span class="hljs-tag">&lt;/<span class="hljs-name">kbd</span>&gt;</span></span> 重启电脑<br></code></pre></td></tr></table></figure><p>使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Chrome浏览器DevTools的快捷键</title>
+      <link href="/2023/11/30/Chrome%E6%B5%8F%E8%A7%88%E5%99%A8DevTools%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE/"/>
+      <url>/2023/11/30/Chrome%E6%B5%8F%E8%A7%88%E5%99%A8DevTools%E7%9A%84%E5%BF%AB%E6%8D%B7%E9%94%AE/</url>
+      
+        <content type="html"><![CDATA[<table><thead><tr><th align="left">dev面板功能</th><th>Window</th><th>Mac</th></tr></thead><tbody><tr><td align="left">search全站关键字搜索</td><td>Ctrl+Shift+F</td><td>option+cmd+F</td></tr><tr><td align="left"><code>run command</code>搜索框</td><td>Ctrl+Shift+P</td><td>shift+cmd+P</td></tr><tr><td align="left">打开查找文件搜索框</td><td>Ctrl+F</td><td>cmd+P</td></tr><tr><td align="left">显示或隐藏<code>console</code>标签</td><td>Esc</td><td>Esc</td></tr><tr><td align="left">在文件中搜索</td><td></td><td>cmd+F</td></tr><tr><td align="left">打开<code>console</code>标签</td><td>Ctrl+&#96;</td><td>Ctrl+&#96;</td></tr><tr><td align="left">清除<code>clonsole history</code>和<code>network</code>内容</td><td>Ctrl+L</td><td>Ctrl+L</td></tr><tr><td align="left">复现<code>Element</code>结点上的style</td><td>Ctrl+Alt+C</td><td>option+cmd+C</td></tr><tr><td align="left">重复加载<code>devTools</code></td><td>Alt+R</td><td>option+R</td></tr><tr><td align="left">打开<code>settings</code>面板</td><td>F1</td><td>F1</td></tr><tr><td align="left">隐藏<code>settings</code>标签</td><td>Esc</td><td>Esc</td></tr><tr><td align="left"></td><td></td><td></td></tr><tr><td align="left"></td><td></td><td></td></tr><tr><td align="left"></td><td></td><td></td></tr><tr><td align="left"></td><td></td><td></td></tr></tbody></table>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Chrome </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>React性能优化方案</title>
       <link href="/2023/11/29/React%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/"/>
       <url>/2023/11/29/React%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E6%96%B9%E6%A1%88/</url>
