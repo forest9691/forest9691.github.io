@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>修改Network访问速率</title>
+      <link href="/2023/11/30/Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84Network%E8%AE%BF%E9%97%AE%E9%80%9F%E7%8E%87/"/>
+      <url>/2023/11/30/Chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E7%9A%84Network%E8%AE%BF%E9%97%AE%E9%80%9F%E7%8E%87/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/images/image_2023-11-30-12-18-34.png" alt="image_2023-11-30-12-18-34"></p><h1 id="第一种-Presets方式"><a href="#第一种-Presets方式" class="headerlink" title="第一种:Presets方式"></a>第一种:Presets方式</h1><ul><li>fast 3G</li><li>slow 3G</li><li>offline</li></ul><h1 id="第二种：Custom方式"><a href="#第二种：Custom方式" class="headerlink" title="第二种：Custom方式"></a>第二种：Custom方式</h1><ul><li>打开<code>devTools</code>面板</li><li>按<code>F1</code>打开<code>Settings</code>面板</li><li>点击左侧菜单的<code>Throttling</code>选项</li><li>点击<code>Add custom profile</code>按钮</li><li>添加<code>ProfileName</code>、下载速率、上传速率、<code>Latency延迟时间</code></li><li>按<code>Esc</code></li><li>配置完后，点击<code>Network</code>标签</li><li>在<code>Disable cache</code>后面有一个下拉框，找到<code>Custom</code>下的自定义的选项。</li><li>刷新页面就能实现配置请求速率，可以调试在低速率的情况下应用表现情况</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Chrome </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Markdown配置</title>
       <link href="/2023/11/30/Markdown%E9%85%8D%E7%BD%AE/"/>
       <url>/2023/11/30/Markdown%E9%85%8D%E7%BD%AE/</url>
