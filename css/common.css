@@ -1,7 +1,7 @@
 .recent-post-item,
 .layout > div:first-child:not(.recent-posts),
 .card-widget {
-    background-color: rgb(255,255,255,.5) !important;
+    background-color: rgb(255,255,255,.93) !important;
 }
 
 /* 头部导航字体颜色 */
