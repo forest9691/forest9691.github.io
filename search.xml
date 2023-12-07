@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>React反思</title>
+      <link href="/2023/12/07/React%E5%8F%8D%E6%80%9D/"/>
+      <url>/2023/12/07/React%E5%8F%8D%E6%80%9D/</url>
+      
+        <content type="html"><![CDATA[<h1 id="抽象能力＝编程能力"><a href="#抽象能力＝编程能力" class="headerlink" title="抽象能力＝编程能力"></a>抽象能力＝编程能力</h1><p>编程能力就是抽象能力，其中最重要的一个项就是命名能力。</p><figure class="highlight jsx"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br></pre></td><td class="code"><pre><code class="hljs jsx"><span class="hljs-keyword">export</span> <span class="hljs-keyword">default</span> <span class="hljs-keyword">function</span> <span class="hljs-title function_">App</span>(<span class="hljs-params"></span>) &#123;<br>    <span class="hljs-keyword">const</span> style = &#123; <br>        <span class="hljs-attr">width</span>: <span class="hljs-number">300</span>, <br>        <span class="hljs-attr">margin</span>: <span class="hljs-number">50</span>, <br>    &#125;;<br>    <span class="hljs-comment">// 这里的命令好否的标准就是抽象能力</span><br>    <span class="hljs-keyword">const</span> searchStyle = &#123;<br>        <span class="hljs-attr">padding</span>: <span class="hljs-string">&quot;20px&quot;</span>,<br>        <span class="hljs-attr">border</span>: <span class="hljs-string">&quot;1px solid blue&quot;</span><br>    &#125;<br>    <span class="hljs-keyword">const</span> search = (<br>    <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">style</span>=<span class="hljs-string">&#123;searchStyle&#125;</span>&gt;</span></span><br><span class="language-xml">            <span class="hljs-tag">&lt;<span class="hljs-name">input</span> <span class="hljs-attr">onChange</span>=<span class="hljs-string">&#123;(e)</span> =&gt;</span> setInput(e.target.value)&#125; /&gt;</span><br><span class="language-xml">            <span class="hljs-tag">&lt;<span class="hljs-name">div</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span></span><br><span class="language-xml">            input content:  &#123;text&#125;</span><br><span class="language-xml">        <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span></span><br>    )<br>    <span class="hljs-keyword">const</span> classString = <span class="hljs-title function_">classNames</span>(<br>        prefixCls,<br>        &#123;<br>          [<span class="hljs-string">`<span class="hljs-subst">$&#123;prefixCls&#125;</span>-loading`</span>]: loading,<br>        &#125;,<br>        className,<br>    );<br>    <span class="hljs-keyword">return</span> (<br>        &lt;!--style的属性值提取出来命名能力就是抽象能力--&gt;<br>        <span class="language-xml"><span class="hljs-tag">&lt;<span class="hljs-name">div</span> <span class="hljs-attr">className</span>=<span class="hljs-string">&#123;classString&#125;</span>&gt;</span></span><br><span class="language-xml">            &#123;search&#125;</span><br><span class="language-xml">            <span class="hljs-tag">&lt;<span class="hljs-name">Child</span>&gt;</span><span class="hljs-tag">&lt;/<span class="hljs-name">Child</span>&gt;</span></span><br><span class="language-xml">        <span class="hljs-tag">&lt;/<span class="hljs-name">div</span>&gt;</span></span><br>    )<br>&#125;<br></code></pre></td></tr></table></figure><h2 id="React-哲学"><a href="#React-哲学" class="headerlink" title="React 哲学"></a>React 哲学</h2><p>首先，会把它分解成一个个 <strong>组件</strong></p><blockquote><p>函数组件、类组件、ＤＯＭ组件</p></blockquote><p>然后，你需要把这些组件连接在一起</p><blockquote><p>嵌套组件、渲染属性、高阶组件</p></blockquote><p>最后，使数据流经它们</p><blockquote><p>state、props、context</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> react </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>React学习教程</title>
       <link href="/2023/12/04/React%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/"/>
       <url>/2023/12/04/React%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B/</url>
