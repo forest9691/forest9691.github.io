@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "邮箱",
+    "en": "Email",
+    "zh-TW": "郵箱",
+    "ja": "メール",
+    "ko": "이메일",
+    "ru": "Почта"
+  },
+  "categoryId": "20108",
+  "categoryCode": "email",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000067",
+      "title": "邮箱",
+      "code": "youxiang;email",
+      "url": "https://www.google.com/search?q=邮箱",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20003",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 43
+    }
+  ]
+}

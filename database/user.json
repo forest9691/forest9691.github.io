@@ -1,0 +1,717 @@
+{
+  "success": true,
+  "data": {
+    "dateVisible": true,
+    "WeatherVisble": true,
+    "searchEngineVisible": true,
+    "allCategoryNavVisible": true,
+    "userWorkSpaceNavVisible": true,
+    "notebookVisible": true,
+    "notebookTasks": [
+      {
+        "id": "task_20260604_001",
+        "content": "完成 Global369 首页性能优化，LCP 降至 1.5s 以内",
+        "date": "2026-06-04",
+        "completed": true,
+        "createdAt": 1748995200000,
+        "updatedAt": 1749081600000
+      },
+      {
+        "id": "task_20260604_002",
+        "content": "代码审查 PR #234：用户中心重构",
+        "date": "2026-06-04",
+        "completed": true,
+        "createdAt": 1748995200000,
+        "updatedAt": 1749052800000
+      },
+      {
+        "id": "task_20260604_003",
+        "content": "更新 Redux Toolkit 到最新版本并修复 breaking changes",
+        "date": "2026-06-04",
+        "completed": true,
+        "createdAt": 1748995200000,
+        "updatedAt": 1749074400000
+      },
+      {
+        "id": "task_20260604_004",
+        "content": "晨跑 5 公里 🏃",
+        "date": "2026-06-04",
+        "completed": true,
+        "createdAt": 1748995200000,
+        "updatedAt": 1749016800000
+      },
+      {
+        "id": "task_20260604_005",
+        "content": "阅读《Clean Architecture》第 8-10 章",
+        "date": "2026-06-04",
+        "completed": true,
+        "createdAt": 1748995200000,
+        "updatedAt": 1749103200000
+      },
+      {
+        "id": "task_20260604_006",
+        "content": "与设计团队同步 Q3 产品路线图",
+        "date": "2026-06-04",
+        "completed": true,
+        "createdAt": 1748995200000,
+        "updatedAt": 1749045600000
+      },
+      {
+        "id": "task_20260604_007",
+        "content": "修复笔记本模块拖拽排序的边界 BUG",
+        "date": "2026-06-04",
+        "completed": false,
+        "createdAt": 1748995200000,
+        "updatedAt": 1748995200000
+      },
+      {
+        "id": "task_20260604_008",
+        "content": "搭建 CI/CD 自动化测试流水线",
+        "date": "2026-06-04",
+        "completed": false,
+        "createdAt": 1748995200000,
+        "updatedAt": 1748995200000
+      },
+      {
+        "id": "task_20260604_009",
+        "content": "编写本周技术周报，汇总迭代进度",
+        "date": "2026-06-04",
+        "completed": false,
+        "createdAt": 1748995200000,
+        "updatedAt": 1748995200000
+      },
+      {
+        "id": "task_20260605_001",
+        "content": "实现主题换肤功能：暗黑模式/极光模式切换",
+        "date": "2026-06-05",
+        "completed": true,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260605_002",
+        "content": "编写 15 个 Ant Design 组件的单元测试",
+        "date": "2026-06-05",
+        "completed": true,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749153600000
+      },
+      {
+        "id": "task_20260605_003",
+        "content": "优化 Webpack 打包体积，Tree-shaking 减少 30%",
+        "date": "2026-06-05",
+        "completed": true,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749164400000
+      },
+      {
+        "id": "task_20260605_004",
+        "content": "游泳 45 分钟 🏊",
+        "date": "2026-06-05",
+        "completed": true,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749103200000
+      },
+      {
+        "id": "task_20260605_005",
+        "content": "学习 Rust 基础语法：所有权与借用",
+        "date": "2026-06-05",
+        "completed": true,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749175200000
+      },
+      {
+        "id": "task_20260605_006",
+        "content": "下午 3 点产品需求评审会（会议室 B）",
+        "date": "2026-06-05",
+        "completed": true,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749132000000
+      },
+      {
+        "id": "task_20260605_007",
+        "content": "调研 SSE 实时推送替代轮询方案",
+        "date": "2026-06-05",
+        "completed": false,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749081600000
+      },
+      {
+        "id": "task_20260605_008",
+        "content": "整理前端脚手架模板，沉淀最佳实践",
+        "date": "2026-06-05",
+        "completed": false,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749081600000
+      },
+      {
+        "id": "task_20260605_009",
+        "content": "回复 GitHub Issues #56、#78、#92",
+        "date": "2026-06-05",
+        "completed": false,
+        "createdAt": 1749081600000,
+        "updatedAt": 1749081600000
+      },
+      {
+        "id": "task_20260606_001",
+        "content": "完成笔记本模块拖拽排序功能开发",
+        "date": "2026-06-06",
+        "completed": true,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749225600000
+      },
+      {
+        "id": "task_20260606_002",
+        "content": "修复日期切换时任务数据闪烁的问题",
+        "date": "2026-06-06",
+        "completed": false,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260606_003",
+        "content": "新增笔记本 Modal 创建/编辑/删除交互",
+        "date": "2026-06-06",
+        "completed": false,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260606_004",
+        "content": "健身房力量训练 1 小时 💪",
+        "date": "2026-06-06",
+        "completed": false,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260606_005",
+        "content": "阅读《System Design Interview》分布式章节",
+        "date": "2026-06-06",
+        "completed": false,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260606_006",
+        "content": "与后端对齐 API 接口规范 v2.0",
+        "date": "2026-06-06",
+        "completed": false,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260606_007",
+        "content": "编写国际站多语言方案技术文档",
+        "date": "2026-06-06",
+        "completed": false,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260606_008",
+        "content": "排查生产环境 502 错误根因",
+        "date": "2026-06-06",
+        "completed": false,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260606_009",
+        "content": "周五团队技术分享：React 19 新特性",
+        "date": "2026-06-06",
+        "completed": false,
+        "createdAt": 1749168000000,
+        "updatedAt": 1749168000000
+      },
+      {
+        "id": "task_20260607_001",
+        "content": "重构 userStorage 模块，改用 IndexedDB 存储",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260607_002",
+        "content": "设计并实现任务标签系统（Tag）",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260607_003",
+        "content": "准备周六黑客松项目 Demo 演示",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260607_004",
+        "content": "瑜伽晨练 30 分钟 🧘",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260607_005",
+        "content": "学习 WebAssembly 基础知识与实战",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260607_006",
+        "content": "上午 10 点 Sprint Review 演示",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260607_007",
+        "content": "迁移 SCSS 变量到 CSS 自定义属性",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260607_008",
+        "content": "给开源项目 antd-mobile 提交 PR",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260607_009",
+        "content": "规划下周迭代计划，排期任务点",
+        "date": "2026-06-07",
+        "completed": false,
+        "createdAt": 1749254400000,
+        "updatedAt": 1749254400000
+      },
+      {
+        "id": "task_20260608_001",
+        "content": "参加前端黑客松比赛 🏆",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260608_002",
+        "content": "实现 AI 智能任务拆解建议功能",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260608_003",
+        "content": "优化 PostCSS 配置，启用 CSS Nesting",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260608_004",
+        "content": "户外骑行 20 公里 🚴",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260608_005",
+        "content": "刷 LeetCode 动态规划 5 道题",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260608_006",
+        "content": "和室友去超市采购一周食材 🛒",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260608_007",
+        "content": "升级 ESLint 到 flat config 新配置格式",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260608_008",
+        "content": "清理项目中未使用的 npm 依赖",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260608_009",
+        "content": "写一篇技术博客：《React 性能优化实战》",
+        "date": "2026-06-08",
+        "completed": false,
+        "createdAt": 1749340800000,
+        "updatedAt": 1749340800000
+      },
+      {
+        "id": "task_20260609_001",
+        "content": "修复 iOS Safari 下笔记本滚动卡顿问题",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260609_002",
+        "content": "为 notebook 模块编写 E2E 测试用例",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260609_003",
+        "content": "搭建新项目 Monorepo 架构（pnpm + Turborepo）",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260609_004",
+        "content": "晨跑 10 公里 🏃",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260609_005",
+        "content": "学习 Docker 与 K8s 容器编排入门",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260609_006",
+        "content": "下午 2 点 UI/UX 评审：笔记本视觉改版",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260609_007",
+        "content": "改造 useTranslation Hook 支持命名空间",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260609_008",
+        "content": "迁移 classnames 到 clsx 减小包体积",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260609_009",
+        "content": "录一期播客：前端职业发展路径分享",
+        "date": "2026-06-09",
+        "completed": false,
+        "createdAt": 1749427200000,
+        "updatedAt": 1749427200000
+      },
+      {
+        "id": "task_20260610_001",
+        "content": "完成笔记本搜索与过滤功能",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260610_002",
+        "content": "实现 Web Worker 后台数据同步",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260610_003",
+        "content": "更新 Ant Design 主题 Token 配置",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260610_004",
+        "content": "篮球友谊赛 2 小时 🏀",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260610_005",
+        "content": "读完《JavaScript 二十年》回顾章节",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260610_006",
+        "content": "晚上 8 点线上技术沙龙：边缘计算",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260610_007",
+        "content": "封装通用 VirtualList 虚拟滚动组件",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260610_008",
+        "content": "给后端提 5 个 API 缺陷报告并跟进修复",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260610_009",
+        "content": "整理个人技术 Wiki 知识库笔记",
+        "date": "2026-06-10",
+        "completed": false,
+        "createdAt": 1749513600000,
+        "updatedAt": 1749513600000
+      },
+      {
+        "id": "task_20260611_001",
+        "content": "开发笔记本数据导出功能（JSON/CSV）",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260611_002",
+        "content": "修复 antd 升级后 Popover 定位偏移问题",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260611_003",
+        "content": "设计 Service Worker 离线缓存策略",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260611_004",
+        "content": "攀岩馆练习 1.5 小时 🧗",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260611_005",
+        "content": "学习 TypeScript 5.5 新特性与类型体操",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260611_006",
+        "content": "上午 11 点团建活动：密室逃脱 🔐",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260611_007",
+        "content": "搭建组件文档站（Storybook + Vite）",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260611_008",
+        "content": "code review 实习生提交的 3 个 PR",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260611_009",
+        "content": "月度复盘：回顾 6 月目标完成度",
+        "date": "2026-06-11",
+        "completed": false,
+        "createdAt": 1749600000000,
+        "updatedAt": 1749600000000
+      },
+      {
+        "id": "task_20260612_001",
+        "content": "笔记本模块整体自测，提交测试报告",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      },
+      {
+        "id": "task_20260612_002",
+        "content": "搭建前端性能监控看板（Lighthouse CI）",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      },
+      {
+        "id": "task_20260612_003",
+        "content": "编写组件库发布脚本与 Changelog 自动生成",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      },
+      {
+        "id": "task_20260612_004",
+        "content": "早起爬山看日出 🌄",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      },
+      {
+        "id": "task_20260612_005",
+        "content": "学习 GraphQL 与 Apollo Client 实战",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      },
+      {
+        "id": "task_20260612_006",
+        "content": "一对一沟通：与团队成员月度 1on1",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      },
+      {
+        "id": "task_20260612_007",
+        "content": "升级 React Router 到 v7 并回归测试",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      },
+      {
+        "id": "task_20260612_008",
+        "content": "给项目补充 README 中英文双语文档",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      },
+      {
+        "id": "task_20260612_009",
+        "content": "周末大扫除：整理桌面、清理代码分支 🧹",
+        "date": "2026-06-12",
+        "completed": false,
+        "createdAt": 1749686400000,
+        "updatedAt": 1749686400000
+      }
+    ],
+    "aiHotNavVisible": true,
+    "userCategoryNavVisible": true,
+    "userCities": [],
+    "userCity": null,
+    "userIp": null,
+    "userWeatherList": [],
+    "quickLinkVisible": true,
+    "currentBackgroundImageKey": null,
+    "currentThemeKey": "admin-emerald",
+    "currentFontSizeLabel": "中",
+    "language": "en",
+    "mainModuleOrder": ["userWorkSpaceNav", "notebookNav", "aiHotNav", "userCategoryNav"],
+    "leftModuleOrder": ["allCategoryNav"],
+    "bottomModuleOrder": ["quickLinksNav"],
+    "topModuleOrder": [],
+    "rightModuleOrder": [],
+    "historySearchList": [
+      {
+        "label": "web",
+        "type": "recommend",
+        "keyword": "DeepSeek"
+      },
+      {
+        "label": "music",
+        "type": "useraction",
+        "keyword": "Suno"
+      },
+      {
+        "label": "image",
+        "type": "recommend",
+        "keyword": "可灵AI"
+      },
+      {
+        "label": "wiki",
+        "type": "recommend",
+        "keyword": "Perplexity"
+      },
+      {
+        "label": "buy",
+        "type": "useraction",
+        "keyword": "拼多多"
+      },
+      {
+        "label": "translate",
+        "type": "recommend",
+        "keyword": "沉浸式翻译"
+      }
+    ],
+    "searchEnginePreference": {
+      "currentEngineKey": "google",
+      "labelKeys": {
+        "google": "web",
+        "baidu": "web",
+        "bing": "web"
+      }
+    }
+  }
+}

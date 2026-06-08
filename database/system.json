@@ -1,0 +1,567 @@
+{
+  "success": true,
+  "data": {
+    "theme": {
+      "themeBackgourndImgages": [
+        {
+          "key": "bg1",
+          "name": "深蓝星空",
+          "url": "/assets/background/bg1.png"
+        },
+        {
+          "key": "bg2",
+          "name": "渐变紫霞",
+          "url": "/assets/background/bg2.png"
+        },
+        {
+          "key": "bg3",
+          "name": "晨曦微光",
+          "url": "/assets/background/bg3.png"
+        },
+        {
+          "key": "bg4",
+          "name": "森林绿意",
+          "url": "/assets/background/bg4.png"
+        },
+        {
+          "key": "bg5",
+          "name": "极简白",
+          "url": "/assets/background/bg5.png"
+        },
+        {
+          "key": "bg6",
+          "name": "暗夜模式",
+          "url": "/assets/background/bg6.png"
+        }
+      ],
+      "themeColors": [
+        {
+          "name": "tech-blue",
+          "label": "科技蓝",
+          "primary": "#0ea5e9",
+          "primaryLight": "#38bdf8",
+          "primaryDark": "#0284c7",
+          "borderColor": "#bae6fd",
+          "backgroundColor": "#f0f9ff",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#f0f9ff",
+          "successColor": "#22c55e",
+          "errorColor": "#ef4444",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f59e0b",
+          "textBaseColor": "#1e293b"
+        },
+        {
+          "name": "business-gold",
+          "label": "商务橙",
+          "primary": "#f59e0b",
+          "primaryLight": "#fbbf24",
+          "primaryDark": "#d97706",
+          "borderColor": "#fde68a",
+          "backgroundColor": "#fffbeb",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#fffbeb",
+          "successColor": "#22c55e",
+          "errorColor": "#ef4444",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f97316",
+          "textBaseColor": "#1e293b"
+        },
+        {
+          "name": "admin-emerald",
+          "label": "行政绿",
+          "primary": "#059669",
+          "primaryLight": "#34d399",
+          "primaryDark": "#047857",
+          "borderColor": "#a7f3d0",
+          "backgroundColor": "#ecfdf5",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#f0fdf5",
+          "successColor": "#22c55e",
+          "errorColor": "#ef4444",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f59e0b",
+          "textBaseColor": "#1e293b"
+        },
+        {
+          "name": "gaming-neon",
+          "label": "游戏紫",
+          "primary": "#8b5cf6",
+          "primaryLight": "#a78bfa",
+          "primaryDark": "#7c3aed",
+          "borderColor": "#c4b5fd",
+          "backgroundColor": "#ede9fe",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#f5f3ff",
+          "successColor": "#22c55e",
+          "errorColor": "#ef4444",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f59e0b",
+          "textBaseColor": "#1e293b"
+        },
+        {
+          "name": "product-cyan",
+          "label": "产品青",
+          "primary": "#06b6d4",
+          "primaryLight": "#22d3ee",
+          "primaryDark": "#0891b2",
+          "borderColor": "#a5f3fc",
+          "backgroundColor": "#ecfeff",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#ecfeff",
+          "successColor": "#22c55e",
+          "errorColor": "#ef4444",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f59e0b",
+          "textBaseColor": "#1e293b"
+        },
+        {
+          "name": "sales-coral",
+          "label": "销售红",
+          "primary": "#f43f5e",
+          "primaryLight": "#fb7185",
+          "primaryDark": "#e11d48",
+          "borderColor": "#fecdd3",
+          "backgroundColor": "#fff1f2",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#fff1f2",
+          "successColor": "#22c55e",
+          "errorColor": "#dc2626",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f59e0b",
+          "textBaseColor": "#1e293b"
+        },
+        {
+          "name": "creative-rose",
+          "label": "创意粉",
+          "primary": "#e879f9",
+          "primaryLight": "#f0abfc",
+          "primaryDark": "#c026d3",
+          "borderColor": "#f5d0fe",
+          "backgroundColor": "#fdf4ff",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#fdf4ff",
+          "successColor": "#22c55e",
+          "errorColor": "#ef4444",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f59e0b",
+          "textBaseColor": "#1e293b"
+        },
+        {
+          "name": "finance-navy",
+          "label": "金融藏青",
+          "primary": "#1e3a8a",
+          "primaryLight": "#3b82f6",
+          "primaryDark": "#1e40af",
+          "borderColor": "#bfdbfe",
+          "backgroundColor": "#eff6ff",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#eff6ff",
+          "successColor": "#22c55e",
+          "errorColor": "#ef4444",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f59e0b",
+          "textBaseColor": "#1e293b"
+        },
+        {
+          "name": "ops-warm",
+          "label": "运营暖橙",
+          "primary": "#ea580c",
+          "primaryLight": "#fb923c",
+          "primaryDark": "#c2410c",
+          "borderColor": "#fed7aa",
+          "backgroundColor": "#fff7ed",
+          "titleColor": "#0f172a",
+          "titleBackgroundColor": "#fff7ed",
+          "successColor": "#22c55e",
+          "errorColor": "#ef4444",
+          "infoColor": "#3b82f6",
+          "warningColor": "#f97316",
+          "textBaseColor": "#1e293b"
+        }
+      ],
+      "fontSize": [
+        {
+          "sm": 12,
+          "base": 14,
+          "lg": 16,
+          "xl": 18,
+          "label": "小"
+        },
+        {
+          "sm": 14,
+          "base": 16,
+          "lg": 18,
+          "xl": 20,
+          "label": "中"
+        },
+        {
+          "sm": 16,
+          "base": 18,
+          "lg": 20,
+          "xl": 22,
+          "label": "大"
+        }
+      ]
+    },
+    "searchEngines": [
+      {
+        "key": "google",
+        "name": "Google",
+        "selected": true,
+        "label": [
+          {
+            "key": "web",
+            "label": "网页",
+            "url": "https://www.google.com/search?q=",
+            "selected": true
+          },
+          {
+            "key": "news",
+            "label": "新闻",
+            "url": "https://www.google.com/search?tbm=nws&q="
+          },
+          {
+            "key": "map",
+            "label": "地图",
+            "url": "https://www.google.com/maps/search/"
+          },
+          {
+            "key": "video",
+            "label": "视频",
+            "url": "https://www.google.com/search?tbm=vid&q="
+          },
+          {
+            "key": "image",
+            "label": "图片",
+            "url": "https://www.google.com/search?tbm=isch&q="
+          },
+          {
+            "key": "wiki",
+            "label": "百科",
+            "url": "https://zh.wikipedia.org/wiki/"
+          },
+          {
+            "key": "translate",
+            "label": "翻译",
+            "url": "https://translate.google.com/?sl=auto&tl=zh-CN&text="
+          },
+          {
+            "key": "music",
+            "label": "音乐",
+            "url": "https://www.google.com/search?q=music"
+          },
+          {
+            "key": "buy",
+            "label": "购物",
+            "url": "https://www.google.com/search?q=shopping"
+          }
+        ]
+      },
+
+      {
+        "key": "bing",
+        "name": "Bing",
+        "selected": false,
+        "url": "https://www.bing.com/search?q=",
+        "label": [
+          {
+            "key": "web",
+            "label": "网页",
+            "url": "https://www.bing.com/search?q=",
+            "selected": true
+          },
+          {
+            "key": "news",
+            "label": "新闻",
+            "url": "https://www.bing.com/news/search?q="
+          },
+          {
+            "key": "map",
+            "label": "地图",
+            "url": "https://www.bing.com/maps?q="
+          },
+          {
+            "key": "video",
+            "label": "视频",
+            "url": "https://www.bing.com/videos/search?q="
+          },
+          {
+            "key": "image",
+            "label": "图片",
+            "url": "https://www.bing.com/images/search?q="
+          },
+          {
+            "key": "wiki",
+            "label": "百科",
+            "url": "https://en.wikipedia.org/wiki/"
+          },
+          {
+            "key": "translate",
+            "label": "翻译",
+            "url": "https://www.bing.com/translator/?text="
+          },
+          {
+            "key": "music",
+            "label": "音乐",
+            "url": "https://www.bing.com/search?q=music"
+          },
+          {
+            "key": "buy",
+            "label": "购物",
+            "url": "https://www.bing.com/shop?q="
+          }
+        ]
+      },
+      {
+        "key": "Baidu",
+        "name": "Baidu",
+        "selected": false,
+        "url": "https://www.baidu.com/s?wd=",
+        "label": [
+          {
+            "key": "web",
+            "label": "网页",
+            "url": "https://www.baidu.com/s?wd=",
+            "selected": true
+          },
+          {
+            "key": "news",
+            "label": "新闻",
+            "url": "https://www.baidu.com/s?tn=news&wd="
+          },
+          {
+            "key": "map",
+            "label": "地图",
+            "url": "http://map.baidu.com/search/"
+          },
+          {
+            "key": "video",
+            "label": "视频",
+            "url": "https://www.baidu.com/s?tn=video&wd="
+          },
+          {
+            "key": "image",
+            "label": "图片",
+            "url": "https://image.baidu.com/search/index?tn=baiduimage&word="
+          },
+          {
+            "key": "wiki",
+            "label": "百科",
+            "url": "https://baike.baidu.com/search?word="
+          },
+          {
+            "key": "translate",
+            "label": "翻译",
+            "url": "https://fanyi.baidu.com/#auto/zh/"
+          },
+          {
+            "key": "music",
+            "label": "音乐",
+            "url": "https://music.baidu.com/search?key="
+          },
+          {
+            "key": "buy",
+            "label": "购物",
+            "url": "https://www.baidu.com/s?tn=baidulocal&wd="
+          }
+        ]
+      },
+      {
+        "key": "yandex",
+        "name": "Yandex",
+        "selected": false,
+        "url": "https://yandex.com/search/?text=",
+        "label": [
+          {
+            "key": "web",
+            "label": "网页",
+            "url": "https://yandex.com/search/?text=",
+            "selected": true
+          },
+          {
+            "key": "news",
+            "label": "新闻",
+            "url": "https://yandex.com/news/search?text="
+          },
+          {
+            "key": "map",
+            "label": "地图",
+            "url": "https://yandex.com/maps/?text="
+          },
+          {
+            "key": "video",
+            "label": "视频",
+            "url": "https://yandex.com/video/search?text="
+          },
+          {
+            "key": "image",
+            "label": "图片",
+            "url": "https://yandex.com/images/search?text="
+          },
+          {
+            "key": "wiki",
+            "label": "百科",
+            "url": "https://en.wikipedia.org/wiki/"
+          },
+          {
+            "key": "translate",
+            "label": "翻译",
+            "url": "https://translate.yandex.com/?text="
+          },
+          {
+            "key": "music",
+            "label": "音乐",
+            "url": "https://music.yandex.com/search?text="
+          },
+          {
+            "key": "buy",
+            "label": "购物",
+            "url": "https://yandex.com/search/?text=shopping"
+          }
+        ]
+      },
+      {
+        "key": "naver",
+        "name": "Naver",
+        "selected": false,
+        "url": "https://search.naver.com/search.naver?query=",
+        "label": [
+          {
+            "key": "web",
+            "label": "网页",
+            "url": "https://search.naver.com/search.naver?query=",
+            "selected": true
+          },
+          {
+            "key": "news",
+            "label": "新闻",
+            "url": "https://news.search.naver.com/search.naver?query="
+          },
+          {
+            "key": "map",
+            "label": "地图",
+            "url": "https://map.naver.com/papi/search?query="
+          },
+          {
+            "key": "video",
+            "label": "视频",
+            "url": "https://tv.naver.com/search?query="
+          },
+          {
+            "key": "image",
+            "label": "图片",
+            "url": "https://search.naver.com/search.naver?where=image&query="
+          },
+          {
+            "key": "wiki",
+            "label": "百科",
+            "url": "https://en.wikipedia.org/wiki/"
+          },
+          {
+            "key": "translate",
+            "label": "翻译",
+            "url": "https://papago.naver.com/?st=auto&sp=en&tk=ko&query="
+          },
+          {
+            "key": "music",
+            "label": "音乐",
+            "url": "https://music.naver.com/search/search.nhn?query="
+          },
+          {
+            "key": "buy",
+            "label": "购物",
+            "url": "https://search.shopping.naver.com/search/all?query="
+          }
+        ]
+      },
+      {
+        "key": "yahoo",
+        "name": "Yahoo",
+        "selected": false,
+        "url": "https://search.yahoo.com/search?p=",
+        "label": [
+          {
+            "key": "web",
+            "label": "网页",
+            "url": "https://search.yahoo.com/search?p=",
+            "selected": true
+          },
+          {
+            "key": "news",
+            "label": "新闻",
+            "url": "https://news.search.yahoo.com/search?p="
+          },
+          {
+            "key": "map",
+            "label": "地图",
+            "url": "https://maps.yahoo.com/search?q="
+          },
+          {
+            "key": "video",
+            "label": "视频",
+            "url": "https://video.search.yahoo.com/search?p="
+          },
+          {
+            "key": "image",
+            "label": "图片",
+            "url": "https://images.search.yahoo.com/search?p="
+          },
+          {
+            "key": "wiki",
+            "label": "百科",
+            "url": "https://en.wikipedia.org/wiki/"
+          },
+          {
+            "key": "translate",
+            "label": "翻译",
+            "url": "https://translate.yahoo.com/translate?text="
+          },
+          {
+            "key": "music",
+            "label": "音乐",
+            "url": "https://search.yahoo.com/search?p=music"
+          },
+          {
+            "key": "buy",
+            "label": "购物",
+            "url": "https://shopping.yahoo.com/search?p="
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "code": "en",
+        "name": "English",
+        "flag": "🇬🇧",
+        "selected": true
+      },
+      {
+        "code": "ja",
+        "name": "日本語",
+        "flag": "🇯🇵"
+      },
+      {
+        "code": "ko",
+        "name": "한국어",
+        "flag": "🇰🇷"
+      },
+      {
+        "code": "ru",
+        "name": "Русский",
+        "flag": "🇷🇺"
+      },
+      {
+        "code": "zh-TW",
+        "name": "繁體中文",
+        "flag": "🇨🇳"
+      },
+      {
+        "code": "zh-CN",
+        "name": "简体中文",
+        "flag": "🇨🇳"
+      }
+    ]
+  }
+}

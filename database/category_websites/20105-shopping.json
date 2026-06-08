@@ -1,0 +1,56 @@
+{
+  "categoryName": {
+    "zh-CN": "购物",
+    "en": "Shopping",
+    "zh-TW": "購物",
+    "ja": "ショッピング",
+    "ko": "쇼핑",
+    "ru": "Покупки"
+  },
+  "categoryId": "20105",
+  "categoryCode": "shopping",
+  "data": [
+    {
+      "id": "30100000000000000000000000000014",
+      "title": "淘宝网",
+      "code": "taobao;tb",
+      "url": "https://www.taobao.com",
+      "visitCount": 0,
+      "description": "淘宝网",
+      "icon": null,
+      "categoryId": "20105",
+      "highlight": true,
+      "bold": false,
+      "color": null,
+      "sort": 1
+    },
+    {
+      "id": "30100000000000000000000000000015",
+      "title": "京东商城",
+      "code": "jd;jingdong",
+      "url": "https://www.jd.com",
+      "visitCount": 0,
+      "description": "京东商城",
+      "icon": null,
+      "categoryId": "20105",
+      "highlight": true,
+      "bold": false,
+      "color": null,
+      "sort": 2
+    },
+    {
+      "id": "3010000000000000000000000000000063",
+      "title": "购物",
+      "code": "gouwu;shopping",
+      "url": "https://www.google.com/search?q=购物",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 39
+    }
+  ]
+}

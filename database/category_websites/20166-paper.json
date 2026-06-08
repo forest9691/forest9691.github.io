@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "论文",
+    "en": "Paper",
+    "zh-TW": "論文",
+    "ja": "論文",
+    "ko": "논문",
+    "ru": "Статья"
+  },
+  "categoryId": "20166",
+  "categoryCode": "paper",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000109",
+      "title": "论文",
+      "code": "lunwen;paper",
+      "url": "https://www.google.com/search?q=论文",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20005",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 85
+    }
+  ]
+}

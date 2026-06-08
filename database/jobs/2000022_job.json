@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "data": {
+    "dateVisible": true,
+    "WeatherVisble": true,
+    "searchEngineVisible": true,
+    "allCategoryNavVisible": true,
+    "userWorkSpaceNavVisible": true,
+    "notebookVisible": true,
+    "notebookTasks": [],
+    "aiHotNavVisible": false,
+    "userCategoryNavVisible": true,
+    "userCities": [],
+    "userCity": null,
+    "userIp": null,
+    "userWeatherList": [],
+    "quickLinkVisible": false,
+    "currentBackgroundImageKey": null,
+    "currentThemeKey": "admin-emerald",
+    "currentFontSizeLabel": "中",
+    "language": "en",
+    "mainModuleOrder": [
+      "userWorkSpaceNav",
+      "notebookNav",
+      "aiHotNav",
+      "userCategoryNav"
+    ],
+    "leftModuleOrder": [],
+    "bottomModuleOrder": [
+      "quickLinksNav"
+    ],
+    "topModuleOrder": [],
+    "rightModuleOrder": [],
+    "historySearchList": [],
+    "searchEnginePreference": {
+      "currentEngineKey": "google",
+      "labelKeys": {
+        "google": "web",
+        "baidu": "web",
+        "bing": "web"
+      }
+    }
+  }
+}

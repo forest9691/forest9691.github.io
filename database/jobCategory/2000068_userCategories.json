@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-02T00:00:00.000Z",
+  "description": "职位分类表 - 我的工作台与程序员",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-workspace-001",
+      "categoryId": "10001",
+      "categoryCode": "workspace",
+      "categoryName": {
+        "zh-CN": "我的工作台",
+        "en": "My Workspace",
+        "zh-TW": "我的工作台",
+        "ja": "マイワークスペース",
+        "ko": "내 작업 공간",
+        "ru": "Мое рабочее пространство"
+      },
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-programmer-001",
+      "categoryId": "10002",
+      "categoryCode": "programmer",
+      "categoryName": {
+        "zh-CN": "程序员",
+        "en": "Developer",
+        "zh-TW": "程式設計師",
+        "ja": "開発者",
+        "ko": "개발자",
+        "ru": "Разработчик"
+      },
+      "sort": 2,
+      "parentId": "0",
+      "description": "开发者常用工具和网站",
+      "icon": "icon-code",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

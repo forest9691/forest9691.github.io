@@ -1,0 +1,79 @@
+{
+  "success": true,
+  "data": {
+    "ai_engineer": {
+      "categoryCnName": "AI与深度学习",
+      "categoryEnName": "AI & Deep Learning",
+      "links": [
+        {
+          "title": "谷歌Gemini大模型开发与API密钥平台",
+          "url": "https://aistudio.google.com",
+          "icon": "google-ai"
+        },
+        {
+          "title": "全球主流大模型API聚合路由平台",
+          "url": "https://openrouter.ai",
+          "icon": "openrouter"
+        },
+        {
+          "title": "开源模型权重与数据集极客社区",
+          "url": "https://huggingface.co",
+          "icon": "huggingface"
+        },
+        {
+          "title": "极速大语言模型推理与服务引擎",
+          "url": "https://github.com/vllm-project/vllm",
+          "icon": "github"
+        },
+        {
+          "title": "开源LLM应用开发与零代码工作流平台",
+          "url": "https://dify.ai",
+          "icon": "dify"
+        },
+        {
+          "title": "大语言模型应用开发与组件编排框架",
+          "url": "https://www.langchain.com",
+          "icon": "langchain"
+        }
+      ]
+    },
+    "foreign_trade": {
+      "categoryCnName": "全球商业与出海",
+      "categoryEnName": "Global Business",
+      "links": [
+        {
+          "title": "全球最精准AI翻译与商务沟通工具",
+          "url": "https://www.deepl.com",
+          "icon": "deepl"
+        },
+        {
+          "title": "1688出海供应链源头货源选品站",
+          "url": "https://www.1688.com",
+          "icon": "1688",
+          "trackingType": "utm",
+          "trackingParam": "global369"
+        },
+        {
+          "title": "全球海关进出口贸易数据情报平台",
+          "url": "https://panjiva.com",
+          "icon": "panjiva"
+        },
+        {
+          "title": "低费率跨境收付款与国际账户管理",
+          "url": "https://wise.com",
+          "icon": "wise"
+        },
+        {
+          "title": "海外企业领英与官网邮箱查询工具",
+          "url": "https://hunter.io",
+          "icon": "hunter"
+        },
+        {
+          "title": "全球包裹一体化物流追踪查询平台",
+          "url": "https://www.17track.net",
+          "icon": "17track"
+        }
+      ]
+    }
+  }
+}

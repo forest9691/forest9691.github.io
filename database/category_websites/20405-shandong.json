@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "山东",
+    "en": "Shandong",
+    "zh-TW": "山東",
+    "ja": "山東",
+    "ko": "산둥",
+    "ru": "Шаньдун"
+  },
+  "categoryId": "20405",
+  "categoryCode": "shandong",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000086",
+      "title": "山东",
+      "code": "shandong;sd",
+      "url": "https://www.google.com/search?q=山东",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20405",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 62
+    }
+  ]
+}

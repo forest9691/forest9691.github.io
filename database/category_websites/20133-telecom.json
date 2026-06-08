@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "移动",
+    "en": "Telecom",
+    "zh-TW": "移動",
+    "ja": "通信",
+    "ko": "통신",
+    "ru": "Связь"
+  },
+  "categoryId": "20133",
+  "categoryCode": "telecom",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000051",
+      "title": "移动",
+      "code": "yidong;china-mobile",
+      "url": "https://www.google.com/search?q=移动",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 27
+    }
+  ]
+}

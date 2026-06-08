@@ -1,0 +1,548 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-02T00:00:00.000Z",
+  "description": "用户分类表 - 用于首页角色切换的一级分类",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-workspace-001",
+      "categoryId": "10001",
+      "categoryCode": "workspace",
+      "categoryName": {
+        "zh-CN": "我的工作台",
+        "en": "My Workspace",
+        "zh-TW": "我的工作台",
+        "ja": "マイワークスペース",
+        "ko": "내 작업 공간",
+        "ru": "Мое рабочее пространство"
+      },
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-programmer-001",
+      "categoryId": "10002",
+      "categoryCode": "programmer",
+      "categoryName": {
+        "zh-CN": "程序员",
+        "en": "Developer",
+        "zh-TW": "程式設計師",
+        "ja": "開発者",
+        "ko": "개발자",
+        "ru": "Разработчик"
+      },
+      "sort": 2,
+      "parentId": "0",
+      "description": "开发者常用工具和网站",
+      "icon": "icon-code",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-trade-001",
+      "categoryId": "10003",
+      "categoryCode": "trade",
+      "categoryName": {
+        "zh-CN": "外贸",
+        "en": "Trade",
+        "zh-TW": "外貿",
+        "ja": "貿易",
+        "ko": "무역",
+        "ru": "Торговля"
+      },
+      "sort": 3,
+      "parentId": "0",
+      "description": "跨境贸易从业者",
+      "icon": "icon-trade",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-living-001",
+      "categoryId": "10004",
+      "categoryCode": "living",
+      "categoryName": {
+        "zh-CN": "生活",
+        "en": "Living",
+        "zh-TW": "生活",
+        "ja": "生活",
+        "ko": "생활",
+        "ru": "Жизнь"
+      },
+      "sort": 4,
+      "parentId": "0",
+      "description": "日常生活相关",
+      "icon": "icon-living",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-video-001",
+      "categoryId": "10005",
+      "categoryCode": "video",
+      "categoryName": {
+        "zh-CN": "视频",
+        "en": "Video",
+        "zh-TW": "視頻",
+        "ja": "動画",
+        "ko": "비디오",
+        "ru": "Видео"
+      },
+      "sort": 5,
+      "parentId": "0",
+      "description": "视频平台与影视资源",
+      "icon": "icon-video",
+      "color": "#22c55e",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-news-001",
+      "categoryId": "10006",
+      "categoryCode": "news",
+      "categoryName": {
+        "zh-CN": "新闻",
+        "en": "News",
+        "zh-TW": "新聞",
+        "ja": "ニュース",
+        "ko": "뉴스",
+        "ru": "Новости"
+      },
+      "sort": 6,
+      "parentId": "0",
+      "description": "新闻资讯与媒体平台",
+      "icon": "icon-news",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-military-001",
+      "categoryId": "10007",
+      "categoryCode": "military",
+      "categoryName": {
+        "zh-CN": "军事",
+        "en": "Military",
+        "zh-TW": "軍事",
+        "ja": "軍事",
+        "ko": "군사",
+        "ru": "Военное"
+      },
+      "sort": 7,
+      "parentId": "0",
+      "description": "军事资讯与国防信息",
+      "icon": "icon-military",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-sports-001",
+      "categoryId": "10008",
+      "categoryCode": "sports",
+      "categoryName": {
+        "zh-CN": "体育",
+        "en": "Sports",
+        "zh-TW": "體育",
+        "ja": "スポーツ",
+        "ko": "스포츠",
+        "ru": "Спорт"
+      },
+      "sort": 8,
+      "parentId": "0",
+      "description": "体育赛事与运动资讯",
+      "icon": "icon-sports",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-gaming-001",
+      "categoryId": "10009",
+      "categoryCode": "gaming",
+      "categoryName": {
+        "zh-CN": "游戏",
+        "en": "Gaming",
+        "zh-TW": "遊戲",
+        "ja": "ゲーム",
+        "ko": "게임",
+        "ru": "Игры"
+      },
+      "sort": 9,
+      "parentId": "0",
+      "description": "游戏娱乐与电玩资讯",
+      "icon": "icon-gaming",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-shopping-001",
+      "categoryId": "10010",
+      "categoryCode": "shopping",
+      "categoryName": {
+        "zh-CN": "购物",
+        "en": "Shopping",
+        "zh-TW": "購物",
+        "ja": "ショッピング",
+        "ko": "쇼핑",
+        "ru": "Покупки"
+      },
+      "sort": 10,
+      "parentId": "0",
+      "description": "电商购物与比价平台",
+      "icon": "icon-shopping",
+      "color": "#ec4899",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-mall-001",
+      "categoryId": "10011",
+      "categoryCode": "mall",
+      "categoryName": {
+        "zh-CN": "商城",
+        "en": "Mall",
+        "zh-TW": "商城",
+        "ja": "モール",
+        "ko": "쇼핑몰",
+        "ru": "Магазин"
+      },
+      "sort": 11,
+      "parentId": "0",
+      "description": "品牌商城与官方旗舰店",
+      "icon": "icon-mall",
+      "color": "#f97316",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-auto-001",
+      "categoryId": "10012",
+      "categoryCode": "automotive",
+      "categoryName": {
+        "zh-CN": "汽车",
+        "en": "Automotive",
+        "zh-TW": "汽車",
+        "ja": "自動車",
+        "ko": "자동차",
+        "ru": "Авто"
+      },
+      "sort": 12,
+      "parentId": "0",
+      "description": "汽车资讯与用车服务",
+      "icon": "icon-automotive",
+      "color": "#06b6d4",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-finance-001",
+      "categoryId": "10013",
+      "categoryCode": "finance",
+      "categoryName": {
+        "zh-CN": "财经",
+        "en": "Finance",
+        "zh-TW": "財經",
+        "ja": "財経",
+        "ko": "재경",
+        "ru": "Финансы"
+      },
+      "sort": 13,
+      "parentId": "0",
+      "description": "财经资讯与投资信息",
+      "icon": "icon-finance",
+      "color": "#22c55e",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-banking-001",
+      "categoryId": "10014",
+      "categoryCode": "banking",
+      "categoryName": {
+        "zh-CN": "银行",
+        "en": "Banking",
+        "zh-TW": "銀行",
+        "ja": "銀行",
+        "ko": "은행",
+        "ru": "Банк"
+      },
+      "sort": 14,
+      "parentId": "0",
+      "description": "银行服务与金融理财",
+      "icon": "icon-banking",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-travel-001",
+      "categoryId": "10015",
+      "categoryCode": "travel",
+      "categoryName": {
+        "zh-CN": "旅游",
+        "en": "Travel",
+        "zh-TW": "旅遊",
+        "ja": "旅行",
+        "ko": "여행",
+        "ru": "Путешествия"
+      },
+      "sort": 15,
+      "parentId": "0",
+      "description": "旅游攻略与出行服务",
+      "icon": "icon-travel",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-tech-001",
+      "categoryId": "10016",
+      "categoryCode": "technology",
+      "categoryName": {
+        "zh-CN": "科技",
+        "en": "Technology",
+        "zh-TW": "科技",
+        "ja": "テクノロジー",
+        "ko": "기술",
+        "ru": "Технологии"
+      },
+      "sort": 16,
+      "parentId": "0",
+      "description": "科技资讯与数码产品",
+      "icon": "icon-technology",
+      "color": "#0ea5e9",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-email-001",
+      "categoryId": "10017",
+      "categoryCode": "email",
+      "categoryName": {
+        "zh-CN": "邮箱",
+        "en": "Email",
+        "zh-TW": "郵箱",
+        "ja": "メール",
+        "ko": "이메일",
+        "ru": "Почта"
+      },
+      "sort": 17,
+      "parentId": "0",
+      "description": "电子邮箱与邮件服务",
+      "icon": "icon-email",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-health-001",
+      "categoryId": "10018",
+      "categoryCode": "health",
+      "categoryName": {
+        "zh-CN": "健康",
+        "en": "Health",
+        "zh-TW": "健康",
+        "ja": "健康",
+        "ko": "건강",
+        "ru": "Здоровье"
+      },
+      "sort": 18,
+      "parentId": "0",
+      "description": "健康资讯与医疗服务",
+      "icon": "icon-health",
+      "color": "#22c55e",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-literature-001",
+      "categoryId": "10019",
+      "categoryCode": "literature",
+      "categoryName": {
+        "zh-CN": "文学",
+        "en": "Literature",
+        "zh-TW": "文學",
+        "ja": "文学",
+        "ko": "문학",
+        "ru": "Литература"
+      },
+      "sort": 19,
+      "parentId": "0",
+      "description": "文学作品与阅读资源",
+      "icon": "icon-literature",
+      "color": "#f97316",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-music-001",
+      "categoryId": "10020",
+      "categoryCode": "music",
+      "categoryName": {
+        "zh-CN": "音乐",
+        "en": "Music",
+        "zh-TW": "音樂",
+        "ja": "音楽",
+        "ko": "음악",
+        "ru": "Музыка"
+      },
+      "sort": 20,
+      "parentId": "0",
+      "description": "音乐平台与音频资源",
+      "icon": "icon-music",
+      "color": "#ec4899",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-community-001",
+      "categoryId": "10021",
+      "categoryCode": "community",
+      "categoryName": {
+        "zh-CN": "社区",
+        "en": "Community",
+        "zh-TW": "社區",
+        "ja": "コミュニティ",
+        "ko": "커뮤니티",
+        "ru": "Сообщество"
+      },
+      "sort": 21,
+      "parentId": "0",
+      "description": "社区论坛与社交平台",
+      "icon": "icon-community",
+      "color": "#6366f1",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-flashgame-001",
+      "categoryId": "10022",
+      "categoryCode": "flashgame",
+      "categoryName": {
+        "zh-CN": "闪游",
+        "en": "Flash Games",
+        "zh-TW": "閃遊",
+        "ja": "フラッシュゲーム",
+        "ko": "플래시 게임",
+        "ru": "Флэш игры"
+      },
+      "sort": 22,
+      "parentId": "0",
+      "description": "轻量级小游戏与休闲娱乐",
+      "icon": "icon-flashgame",
+      "color": "#f97316",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-jobs-001",
+      "categoryId": "10023",
+      "categoryCode": "jobs",
+      "categoryName": {
+        "zh-CN": "招聘",
+        "en": "Jobs",
+        "zh-TW": "招聘",
+        "ja": "求人",
+        "ko": "채용",
+        "ru": "Работа"
+      },
+      "sort": 23,
+      "parentId": "0",
+      "description": "招聘求职与职场信息",
+      "icon": "icon-jobs",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-dating-001",
+      "categoryId": "10024",
+      "categoryCode": "dating",
+      "categoryName": {
+        "zh-CN": "交友",
+        "en": "Dating",
+        "zh-TW": "交友",
+        "ja": "出会い",
+        "ko": "소개팅",
+        "ru": "Знакомства"
+      },
+      "sort": 24,
+      "parentId": "0",
+      "description": "交友约会与社交平台",
+      "icon": "icon-dating",
+      "color": "#ec4899",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-mobile-001",
+      "categoryId": "10025",
+      "categoryCode": "mobile",
+      "categoryName": {
+        "zh-CN": "手机",
+        "en": "Mobile",
+        "zh-TW": "手機",
+        "ja": "モバイル",
+        "ko": "모바일",
+        "ru": "Мобильный"
+      },
+      "sort": 25,
+      "parentId": "0",
+      "description": "手机资讯与应用服务",
+      "icon": "icon-mobile",
+      "color": "#06b6d4",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-food-001",
+      "categoryId": "10026",
+      "categoryCode": "food",
+      "categoryName": {
+        "zh-CN": "美食",
+        "en": "Food",
+        "zh-TW": "美食",
+        "ja": "グルメ",
+        "ko": "음식",
+        "ru": "Еда"
+      },
+      "sort": 26,
+      "parentId": "0",
+      "description": "美食推荐与餐饮服务",
+      "icon": "icon-food",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-realestate-001",
+      "categoryId": "10027",
+      "categoryCode": "realestate",
+      "categoryName": {
+        "zh-CN": "房产",
+        "en": "Real Estate",
+        "zh-TW": "房產",
+        "ja": "不動産",
+        "ko": "부동산",
+        "ru": "Недвижимость"
+      },
+      "sort": 27,
+      "parentId": "0",
+      "description": "房产信息与置业服务",
+      "icon": "icon-realestate",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

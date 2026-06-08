@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "湖南",
+    "en": "Hunan",
+    "zh-TW": "湖南",
+    "ja": "湖南",
+    "ko": "후난",
+    "ru": "Хунань"
+  },
+  "categoryId": "20407",
+  "categoryCode": "hunan",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000088",
+      "title": "湖南",
+      "code": "hunan;hn",
+      "url": "https://www.google.com/search?q=湖南",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20407",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 64
+    }
+  ]
+}

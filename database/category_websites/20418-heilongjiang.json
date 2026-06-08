@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "黑龙江",
+    "en": "Heilongjiang",
+    "zh-TW": "黑龍江",
+    "ja": "黒龍江",
+    "ko": "헤이룽장",
+    "ru": "Хэйлунцзян"
+  },
+  "categoryId": "20418",
+  "categoryCode": "heilongjiang",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000099",
+      "title": "黑龙江",
+      "code": "heilongjiang;hlj",
+      "url": "https://www.google.com/search?q=黑龙江",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20418",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 75
+    }
+  ]
+}

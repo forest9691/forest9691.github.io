@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "辽宁",
+    "en": "Liaoning",
+    "zh-TW": "遼寧",
+    "ja": "遼寧",
+    "ko": "랴오닝",
+    "ru": "Ляонин"
+  },
+  "categoryId": "20414",
+  "categoryCode": "liaoning",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000095",
+      "title": "辽宁",
+      "code": "liaoning;ln",
+      "url": "https://www.google.com/search?q=辽宁",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20414",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 71
+    }
+  ]
+}

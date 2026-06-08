@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "网页",
+    "en": "Webpage",
+    "zh-TW": "網頁",
+    "ja": "ウェブページ",
+    "ko": "웹페이지",
+    "ru": "Веб-страница"
+  },
+  "categoryId": "20151",
+  "categoryCode": "webpage",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000073",
+      "title": "网页",
+      "code": "wangye;webpage",
+      "url": "https://www.google.com/search?q=网页",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20003",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 49
+    }
+  ]
+}

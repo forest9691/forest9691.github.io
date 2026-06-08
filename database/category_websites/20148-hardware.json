@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "硬件",
+    "en": "Hardware",
+    "zh-TW": "硬體",
+    "ja": "ハードウェア",
+    "ko": "하드웨어",
+    "ru": "Оборудование"
+  },
+  "categoryId": "20148",
+  "categoryCode": "hardware",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000070",
+      "title": "硬件",
+      "code": "yingjian;hardware",
+      "url": "https://www.google.com/search?q=硬件",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20003",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 46
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "银行",
+    "en": "Bank",
+    "zh-TW": "銀行",
+    "ja": "銀行",
+    "ko": "은행",
+    "ru": "Банк"
+  },
+  "categoryId": "20132",
+  "categoryCode": "bank",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000050",
+      "title": "银行",
+      "code": "yinhang;bank",
+      "url": "https://www.google.com/search?q=银行",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 26
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "博客",
+    "en": "Blog",
+    "zh-TW": "部落格",
+    "ja": "ブログ",
+    "ko": "블로그",
+    "ru": "Блог"
+  },
+  "categoryId": "20146",
+  "categoryCode": "blog",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000068",
+      "title": "博客",
+      "code": "boke;blog",
+      "url": "https://www.google.com/search?q=博客",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20003",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 44
+    }
+  ]
+}

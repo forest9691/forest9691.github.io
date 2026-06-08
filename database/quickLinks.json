@@ -1,0 +1,214 @@
+{
+  "success": true,
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-02T00:00:00.000Z",
+  "description": "快捷链接分组数据 - 用于首页快捷导航",
+  "data": [
+    {
+      "id": "uuid-quick-001",
+      "groupId": "30001",
+      "groupCode": "common-software",
+      "groupName": {
+        "zh-CN": "常用软件",
+        "en": "Common Software"
+      },
+      "sort": 1,
+      "icon": "AppstoreOutlined",
+      "items": [
+        "Google浏览器",
+        "腾讯QQ",
+        "金山词霸",
+        "1905影音",
+        "安全管家",
+        "美图秀秀",
+        "金山毒霸",
+        "阿里旺旺",
+        "迅雷",
+        "谷歌输入工具",
+        "WPS",
+        "WinRAR"
+      ]
+    },
+    {
+      "id": "uuid-quick-002",
+      "groupId": "30002",
+      "groupCode": "games",
+      "groupName": {
+        "zh-CN": "游戏专题",
+        "en": "Games"
+      },
+      "sort": 2,
+      "icon": "FireOutlined",
+      "items": [
+        "天龙八部",
+        "原神",
+        "天涯明月刀",
+        "我的世界",
+        "阴阳师",
+        "剑网三",
+        "地下城与勇士",
+        "王者荣耀",
+        "和平精英",
+        "三国杀Online",
+        "英雄联盟",
+        "梦幻西游"
+      ]
+    },
+    {
+      "id": "uuid-quick-003",
+      "groupId": "30003",
+      "groupCode": "new-sites",
+      "groupName": {
+        "zh-CN": "新站导航",
+        "en": "New Sites"
+      },
+      "sort": 3,
+      "icon": "CompassOutlined",
+      "items": [
+        "苏宁易购",
+        "华为商城",
+        "当当网",
+        "唯品会",
+        "荣耀商城",
+        "1688网",
+        "去哪儿旅行",
+        "新东方在线"
+      ]
+    },
+    {
+      "id": "uuid-quick-004",
+      "groupId": "30004",
+      "groupCode": "hot-topics",
+      "groupName": {
+        "zh-CN": "时代焦点",
+        "en": "Hot Topics"
+      },
+      "sort": 4,
+      "icon": "GlobalOutlined",
+      "items": [
+        "DeepSeek-R1",
+        "智能具身智能",
+        "跨境全托管",
+        "新高考/强基计划",
+        "数字医疗孪生",
+        "大国工匠/新型蓝领",
+        "零信任网络架构",
+        "AI智能体 (Agent)"
+      ]
+    },
+    {
+      "id": "uuid-quick-005",
+      "groupId": "30005",
+      "groupCode": "ai",
+      "groupName": {
+        "zh-CN": "人工智能",
+        "en": "AI"
+      },
+      "sort": 5,
+      "icon": "CodeOutlined",
+      "items": [
+        "Google AI Studio",
+        "OpenRouter",
+        "Hugging Face",
+        "vLLM",
+        "Dify",
+        "LangChain"
+      ]
+    },
+    {
+      "id": "uuid-quick-006",
+      "groupId": "30006",
+      "groupCode": "overseas",
+      "groupName": {
+        "zh-CN": "外贸出海",
+        "en": "Overseas"
+      },
+      "sort": 6,
+      "icon": "GlobalOutlined",
+      "items": [
+        "DeepL Pro",
+        "ChatGPT Plus",
+        "Grammarly",
+        "1688跨境专退",
+        "Panjiva海关数据",
+        "Wise企业版"
+      ]
+    },
+    {
+      "id": "uuid-quick-007",
+      "groupId": "30007",
+      "groupCode": "postgraduate",
+      "groupName": {
+        "zh-CN": "大学生考研",
+        "en": "Postgraduate"
+      },
+      "sort": 7,
+      "icon": "BookOutlined",
+      "items": [
+        "研招网官网",
+        "中国大学MOOC",
+        "粉笔考研",
+        "中国知网 (CNKI)",
+        "Connected Papers",
+        "Zotero"
+      ]
+    },
+    {
+      "id": "uuid-quick-008",
+      "groupId": "30008",
+      "groupCode": "software-exam",
+      "groupName": {
+        "zh-CN": "计算机软考",
+        "en": "Software Exam"
+      },
+      "sort": 8,
+      "icon": "SolutionOutlined",
+      "items": [
+        "中国计算机技术职业资格网",
+        "各省软考办报名入口",
+        "软考通",
+        "信管网高项专区",
+        "51CTO软考学院",
+        "ProcessOn思维导图"
+      ]
+    },
+    {
+      "id": "uuid-quick-009",
+      "groupId": "30009",
+      "groupCode": "education",
+      "groupName": {
+        "zh-CN": "教师教育",
+        "en": "Education"
+      },
+      "sort": 9,
+      "icon": "AppleOutlined",
+      "items": [
+        "国家中小学智慧教育平台",
+        "Gamma App",
+        "第一PPT",
+        "希沃白板 (Seewo)",
+        "问卷星",
+        "班级小管家"
+      ]
+    },
+    {
+      "id": "uuid-quick-010",
+      "groupId": "30010",
+      "groupCode": "office",
+      "groupName": {
+        "zh-CN": "行政办公",
+        "en": "Office"
+      },
+      "sort": 10,
+      "icon": "HeartOutlined",
+      "items": [
+        "飞书多维表格",
+        "金山文档企业版",
+        "腾讯即时协作",
+        "秀米 XIUMI",
+        "草料二维码",
+        "天眼查专业版"
+      ]
+    }
+  ]
+}

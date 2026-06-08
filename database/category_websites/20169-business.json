@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "招商",
+    "en": "Business",
+    "zh-TW": "招商",
+    "ja": "ビジネス",
+    "ko": "비즈니스",
+    "ru": "Бизнес"
+  },
+  "categoryId": "20169",
+  "categoryCode": "business",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000113",
+      "title": "招商",
+      "code": "zhaoshang;business",
+      "url": "https://www.google.com/search?q=招商",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20005",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 89
+    }
+  ]
+}

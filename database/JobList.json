@@ -1,0 +1,1568 @@
+{
+  "jobType": [
+    {
+      "code": "1000001",
+      "parentCode": null,
+      "jobName": "销售",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000001",
+          "parentCode": "1000001",
+          "jobName": "房地产销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000002",
+          "parentCode": "1000001",
+          "jobName": "外贸销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000003",
+          "parentCode": "1000001",
+          "jobName": "金融销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000004",
+          "parentCode": "1000001",
+          "jobName": "医疗销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000005",
+          "parentCode": "1000001",
+          "jobName": "汽车销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000006",
+          "parentCode": "1000001",
+          "jobName": "广告/会展销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000007",
+          "parentCode": "1000001",
+          "jobName": "教培销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000008",
+          "parentCode": "1000001",
+          "jobName": "服务业销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000009",
+          "parentCode": "1000001",
+          "jobName": "销售工程师",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000010",
+          "parentCode": "1000001",
+          "jobName": "其他销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000011",
+          "parentCode": "1000001",
+          "jobName": "销售管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000012",
+          "parentCode": "1000001",
+          "jobName": "商务拓展",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000013",
+          "parentCode": "1000001",
+          "jobName": "销售行政",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000002",
+      "parentCode": null,
+      "jobName": "人事/行政/党群",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000014",
+          "parentCode": "1000002",
+          "jobName": "人力资源",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000015",
+          "parentCode": "1000002",
+          "jobName": "行政",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000016",
+          "parentCode": "1000002",
+          "jobName": "文员/助理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000017",
+          "parentCode": "1000002",
+          "jobName": "档案管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000018",
+          "parentCode": "1000002",
+          "jobName": "党群/工会",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000003",
+      "parentCode": null,
+      "jobName": "财务/法务",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000019",
+          "parentCode": "1000003",
+          "jobName": "财务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000020",
+          "parentCode": "1000003",
+          "jobName": "合规风控/法务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000004",
+      "parentCode": null,
+      "jobName": "技术",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000021",
+          "parentCode": "1000004",
+          "jobName": "后端开发",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000022",
+          "parentCode": "1000004",
+          "jobName": "前端开发",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000023",
+          "parentCode": "1000004",
+          "jobName": "移动研发",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000024",
+          "parentCode": "1000004",
+          "jobName": "数据",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000025",
+          "parentCode": "1000004",
+          "jobName": "人工智能/算法",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000026",
+          "parentCode": "1000004",
+          "jobName": "IT技术管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000027",
+          "parentCode": "1000004",
+          "jobName": "测试",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000028",
+          "parentCode": "1000004",
+          "jobName": "运维",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000029",
+          "parentCode": "1000004",
+          "jobName": "售前/售后/技术支持",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000005",
+      "parentCode": null,
+      "jobName": "电子/通信/半导体",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000030",
+          "parentCode": "1000005",
+          "jobName": "半导体/芯片",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000031",
+          "parentCode": "1000005",
+          "jobName": "电子/电路",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000032",
+          "parentCode": "1000005",
+          "jobName": "电气/仪器/自动化",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000033",
+          "parentCode": "1000005",
+          "jobName": "通信",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000034",
+          "parentCode": "1000005",
+          "jobName": "硬件",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000006",
+      "parentCode": null,
+      "jobName": "产品",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000035",
+          "parentCode": "1000006",
+          "jobName": "互联网产品经理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000036",
+          "parentCode": "1000006",
+          "jobName": "其他产品经理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000044",
+          "parentCode": "1000006",
+          "jobName": "游戏策划/制作",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000007",
+      "parentCode": null,
+      "jobName": "设计",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000037",
+          "parentCode": "1000007",
+          "jobName": "视觉/交互设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000038",
+          "parentCode": "1000007",
+          "jobName": "动画动效设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000039",
+          "parentCode": "1000007",
+          "jobName": "建筑/室内设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000040",
+          "parentCode": "1000007",
+          "jobName": "工业设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000041",
+          "parentCode": "1000007",
+          "jobName": "广告设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000042",
+          "parentCode": "1000007",
+          "jobName": "服装/纺织设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000043",
+          "parentCode": "1000007",
+          "jobName": "其他设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000008",
+      "parentCode": null,
+      "jobName": "游戏",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000044",
+          "parentCode": "1000008",
+          "jobName": "游戏策划/制作",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000045",
+          "parentCode": "1000008",
+          "jobName": "游戏设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000046",
+          "parentCode": "1000008",
+          "jobName": "游戏开发/测试",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000047",
+          "parentCode": "1000008",
+          "jobName": "游戏推广/运营",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000009",
+      "parentCode": null,
+      "jobName": "运营/客服",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000048",
+          "parentCode": "1000009",
+          "jobName": "电商运营",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000049",
+          "parentCode": "1000009",
+          "jobName": "新媒体运营",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000050",
+          "parentCode": "1000009",
+          "jobName": "网络/网站运营",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000051",
+          "parentCode": "1000009",
+          "jobName": "互联网运营",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000052",
+          "parentCode": "1000009",
+          "jobName": "业务运营",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000149",
+          "parentCode": "1000009",
+          "jobName": "线下运营",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000053",
+          "parentCode": "1000009",
+          "jobName": "运营管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000054",
+          "parentCode": "1000009",
+          "jobName": "数据分析",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000055",
+          "parentCode": "1000009",
+          "jobName": "客服",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000010",
+      "parentCode": null,
+      "jobName": "市场/公关/广告",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000056",
+          "parentCode": "1000010",
+          "jobName": "市场营销/推广",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000057",
+          "parentCode": "1000010",
+          "jobName": "市场调研",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000058",
+          "parentCode": "1000010",
+          "jobName": "策划",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000059",
+          "parentCode": "1000010",
+          "jobName": "广告",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000060",
+          "parentCode": "1000010",
+          "jobName": "公关媒介",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000061",
+          "parentCode": "1000010",
+          "jobName": "品牌",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000150",
+          "parentCode": "1000010",
+          "jobName": "政府事务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000062",
+          "parentCode": "1000010",
+          "jobName": "会展会务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000011",
+      "parentCode": null,
+      "jobName": "项目管理",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000063",
+          "parentCode": "1000011",
+          "jobName": "IT项目管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000064",
+          "parentCode": "1000011",
+          "jobName": "其他项目管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000065",
+          "parentCode": "1000011",
+          "jobName": "项目管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000012",
+      "parentCode": null,
+      "jobName": "高级管理",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000066",
+          "parentCode": "1000012",
+          "jobName": "高级管理职位",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000013",
+      "parentCode": null,
+      "jobName": "房地产/建筑",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000067",
+          "parentCode": "1000013",
+          "jobName": "房地产规划开发",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000001",
+          "parentCode": "1000013",
+          "jobName": "房地产销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000068",
+          "parentCode": "1000013",
+          "jobName": "物业管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000069",
+          "parentCode": "1000013",
+          "jobName": "建筑/规划设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000070",
+          "parentCode": "1000013",
+          "jobName": "装饰/装修",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000071",
+          "parentCode": "1000013",
+          "jobName": "建筑工程",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000072",
+          "parentCode": "1000013",
+          "jobName": "安装工程",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000073",
+          "parentCode": "1000013",
+          "jobName": "工程管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000074",
+          "parentCode": "1000013",
+          "jobName": "工程安全/质检",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000075",
+          "parentCode": "1000013",
+          "jobName": "施工员",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000014",
+      "parentCode": null,
+      "jobName": "金融",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000076",
+          "parentCode": "1000014",
+          "jobName": "保险",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000077",
+          "parentCode": "1000014",
+          "jobName": "银行/金融服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000078",
+          "parentCode": "1000014",
+          "jobName": "投融资",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000079",
+          "parentCode": "1000014",
+          "jobName": "证券/基金/期货",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000080",
+          "parentCode": "1000014",
+          "jobName": "信托/担保/拍卖/典当",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000015",
+      "parentCode": null,
+      "jobName": "采购/贸易",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000081",
+          "parentCode": "1000015",
+          "jobName": "采购",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000082",
+          "parentCode": "1000015",
+          "jobName": "进出口贸易",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000083",
+          "parentCode": "1000015",
+          "jobName": "招投标",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000016",
+      "parentCode": null,
+      "jobName": "物流/仓储/司机",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000084",
+          "parentCode": "1000016",
+          "jobName": "物流",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000087",
+          "parentCode": "1000016",
+          "jobName": "配送理货",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000088",
+          "parentCode": "1000016",
+          "jobName": "驾驶员",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000089",
+          "parentCode": "1000016",
+          "jobName": "乘务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000086",
+          "parentCode": "1000016",
+          "jobName": "仓储",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000085",
+          "parentCode": "1000016",
+          "jobName": "供应链",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000017",
+      "parentCode": null,
+      "jobName": "汽车",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000090",
+          "parentCode": "1000017",
+          "jobName": "汽车设计/制造",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000148",
+          "parentCode": "1000017",
+          "jobName": "新能源汽车",
+          "jobNameEn": "",
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000091",
+          "parentCode": "1000017",
+          "jobName": "汽车服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000005",
+          "parentCode": "1000017",
+          "jobName": "汽车销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000028",
+      "parentCode": null,
+      "jobName": "普工/技工",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000156",
+          "parentCode": "1000028",
+          "jobName": "普工",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000157",
+          "parentCode": "1000028",
+          "jobName": "机械加工",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000158",
+          "parentCode": "1000028",
+          "jobName": "技工",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000018",
+      "parentCode": null,
+      "jobName": "生产制造",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000092",
+          "parentCode": "1000018",
+          "jobName": "机械设计/制造",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000093",
+          "parentCode": "1000018",
+          "jobName": "其他机械设计/制造",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000094",
+          "parentCode": "1000018",
+          "jobName": "新能源",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000095",
+          "parentCode": "1000018",
+          "jobName": "化工/食品",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000096",
+          "parentCode": "1000018",
+          "jobName": "服装/纺织/皮革",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000097",
+          "parentCode": "1000018",
+          "jobName": "印刷包装",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000098",
+          "parentCode": "1000018",
+          "jobName": "飞机/船舶/轨道交通",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000099",
+          "parentCode": "1000018",
+          "jobName": "生产管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000100",
+          "parentCode": "1000018",
+          "jobName": "生产质量管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000101",
+          "parentCode": "1000018",
+          "jobName": "普工/技工",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000019",
+      "parentCode": null,
+      "jobName": "能源/环保",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000102",
+          "parentCode": "1000019",
+          "jobName": "能源/矿产/地质",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000103",
+          "parentCode": "1000019",
+          "jobName": "环境科学/环保",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000020",
+      "parentCode": null,
+      "jobName": "农/林/牧/渔",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000104",
+          "parentCode": "1000020",
+          "jobName": "农业/林业",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000105",
+          "parentCode": "1000020",
+          "jobName": "畜牧/渔业",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000021",
+      "parentCode": null,
+      "jobName": "医疗健康",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000106",
+          "parentCode": "1000021",
+          "jobName": "生物/医药研发",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000107",
+          "parentCode": "1000021",
+          "jobName": "临床研究/试验",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000108",
+          "parentCode": "1000021",
+          "jobName": "医药市场/销售",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000109",
+          "parentCode": "1000021",
+          "jobName": "医疗器械",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000110",
+          "parentCode": "1000021",
+          "jobName": "医生/药剂师",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000111",
+          "parentCode": "1000021",
+          "jobName": "护士/医助",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000112",
+          "parentCode": "1000021",
+          "jobName": "医务管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000113",
+          "parentCode": "1000021",
+          "jobName": "药店",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000114",
+          "parentCode": "1000021",
+          "jobName": "健康整形",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000022",
+      "parentCode": null,
+      "jobName": "教育培训",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000115",
+          "parentCode": "1000022",
+          "jobName": "早教/幼教",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000116",
+          "parentCode": "1000022",
+          "jobName": "中小学教育",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000117",
+          "parentCode": "1000022",
+          "jobName": "高等教育",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000118",
+          "parentCode": "1000022",
+          "jobName": "才艺特长培训",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000119",
+          "parentCode": "1000022",
+          "jobName": "语言培训",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000120",
+          "parentCode": "1000022",
+          "jobName": "留学辅导",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000121",
+          "parentCode": "1000022",
+          "jobName": "IT培训",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000122",
+          "parentCode": "1000022",
+          "jobName": "职业培训",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000123",
+          "parentCode": "1000022",
+          "jobName": "教务管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000124",
+          "parentCode": "1000022",
+          "jobName": "特殊教育",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000125",
+          "parentCode": "1000022",
+          "jobName": "科研/学术研究",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000023",
+      "parentCode": null,
+      "jobName": "直播/影视/传媒",
+      "jobNameEn": "Live Streaming/Film and Television/Media",
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000126",
+          "parentCode": "1000023",
+          "jobName": "影视制作",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000127",
+          "parentCode": "1000023",
+          "jobName": "采编/写作/出版",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000128",
+          "parentCode": "1000023",
+          "jobName": "主播/演艺人员/经纪人",
+          "jobNameEn": "Streamer/Artist/Agent",
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000059",
+          "parentCode": "1000023",
+          "jobName": "广告",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000060",
+          "parentCode": "1000023",
+          "jobName": "公关媒介",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000129",
+          "parentCode": "1000023",
+          "jobName": "舞美设计",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000130",
+          "parentCode": "1000023",
+          "jobName": "场务/剧务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000024",
+      "parentCode": null,
+      "jobName": "咨询/翻译/法律",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000131",
+          "parentCode": "1000024",
+          "jobName": "咨询服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000132",
+          "parentCode": "1000024",
+          "jobName": "翻译服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000133",
+          "parentCode": "1000024",
+          "jobName": "法律服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000134",
+          "parentCode": "1000024",
+          "jobName": "其他服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000025",
+      "parentCode": null,
+      "jobName": "生活服务",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000135",
+          "parentCode": "1000025",
+          "jobName": "餐饮服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000136",
+          "parentCode": "1000025",
+          "jobName": "零售百货",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000137",
+          "parentCode": "1000025",
+          "jobName": "安保服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000138",
+          "parentCode": "1000025",
+          "jobName": "酒店服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000139",
+          "parentCode": "1000025",
+          "jobName": "家政/维修",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000140",
+          "parentCode": "1000025",
+          "jobName": "旅游服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000141",
+          "parentCode": "1000025",
+          "jobName": "美容/保健",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000142",
+          "parentCode": "1000025",
+          "jobName": "运动健身",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000143",
+          "parentCode": "1000025",
+          "jobName": "宠物服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000144",
+          "parentCode": "1000025",
+          "jobName": "婚礼/花艺",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000027",
+      "parentCode": null,
+      "jobName": "餐饮",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000151",
+          "parentCode": "1000027",
+          "jobName": "前厅",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000152",
+          "parentCode": "1000027",
+          "jobName": "厨师",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000153",
+          "parentCode": "1000027",
+          "jobName": "后厨",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000154",
+          "parentCode": "1000027",
+          "jobName": "甜品饮品",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000155",
+          "parentCode": "1000027",
+          "jobName": "餐饮管理",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000159",
+          "parentCode": "1000027",
+          "jobName": "其他餐饮服务",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    },
+    {
+      "code": "1000026",
+      "parentCode": null,
+      "jobName": "管培生/非企业从业者",
+      "jobNameEn": null,
+      "deleted": false,
+      "sublist": [
+        {
+          "code": "2000145",
+          "parentCode": "1000026",
+          "jobName": "管培生/储备干部",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000146",
+          "parentCode": "1000026",
+          "jobName": "政府及非盈利机构从业者",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        },
+        {
+          "code": "2000147",
+          "parentCode": "1000026",
+          "jobName": "社工",
+          "jobNameEn": null,
+          "deleted": false,
+          "sublist": []
+        }
+      ]
+    }
+  ]
+}

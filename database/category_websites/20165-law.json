@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "法律",
+    "en": "Law",
+    "zh-TW": "法律",
+    "ja": "法律",
+    "ko": "법률",
+    "ru": "Право"
+  },
+  "categoryId": "20165",
+  "categoryCode": "law",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000108",
+      "title": "法律",
+      "code": "falv;law",
+      "url": "https://www.google.com/search?q=法律",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20005",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 84
+    }
+  ]
+}

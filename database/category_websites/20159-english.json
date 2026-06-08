@@ -1,0 +1,42 @@
+{
+  "categoryName": {
+    "zh-CN": "英语",
+    "en": "English",
+    "zh-TW": "英語",
+    "ja": "英語",
+    "ko": "영어",
+    "ru": "Английский"
+  },
+  "categoryId": "20159",
+  "categoryCode": "english",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000102",
+      "title": "英语",
+      "code": "yingyu;english",
+      "url": "https://www.google.com/search?q=英语",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20005",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 78
+    },
+    {
+      "id": "3010000000000000000000000000000122",
+      "title": "英语",
+      "code": "yingyu;english",
+      "url": "https://www.google.com/search?q=英语",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20006",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 98
+    }
+  ]
+}

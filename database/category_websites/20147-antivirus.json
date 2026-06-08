@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "杀毒",
+    "en": "Antivirus",
+    "zh-TW": "防毒",
+    "ja": "ウイルス対策",
+    "ko": "백신",
+    "ru": "Антивирус"
+  },
+  "categoryId": "20147",
+  "categoryCode": "antivirus",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000069",
+      "title": "杀毒",
+      "code": "shadu;antivirus",
+      "url": "https://www.google.com/search?q=杀毒",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20003",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 45
+    }
+  ]
+}
