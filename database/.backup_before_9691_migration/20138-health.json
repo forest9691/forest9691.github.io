@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "健康",
+    "en": "Health",
+    "zh-TW": "健康",
+    "ja": "健康",
+    "ko": "건강",
+    "ru": "Здоровье"
+  },
+  "categoryId": "20138",
+  "categoryCode": "health",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000056",
+      "title": "健康",
+      "code": "jiankang;health",
+      "url": "https://www.google.com/search?q=健康",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 32
+    }
+  ]
+}

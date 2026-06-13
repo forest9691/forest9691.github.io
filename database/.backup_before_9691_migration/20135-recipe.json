@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "菜谱",
+    "en": "Recipe",
+    "zh-TW": "菜譜",
+    "ja": "レシピ",
+    "ko": "레시피",
+    "ru": "Рецепты"
+  },
+  "categoryId": "20135",
+  "categoryCode": "recipe",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000053",
+      "title": "菜谱",
+      "code": "caipu;recipe",
+      "url": "https://www.google.com/search?q=菜谱",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 29
+    }
+  ]
+}

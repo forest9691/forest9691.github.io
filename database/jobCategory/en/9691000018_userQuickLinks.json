@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Clerk/Assistant（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000018-en-1",
+      "groupId": "9695328548398",
+      "groupCode": "hr-platforms",
+      "groupName": "HR Platforms",
+      "sort": 1,
+      "jobCode": "9691000018",
+      "icon": "TeamOutlined",
+      "items": [
+        "Boss直聘",
+        "猎聘",
+        "智联招聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000018-en-2",
+      "groupId": "9695332907303",
+      "groupCode": "office-software",
+      "groupName": "Office Software",
+      "sort": 2,
+      "jobCode": "9691000018",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

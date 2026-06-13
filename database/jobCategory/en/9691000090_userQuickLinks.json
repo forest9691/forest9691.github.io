@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Construction Worker（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000090-en-1",
+      "groupId": "9695826920626",
+      "groupCode": "construction",
+      "groupName": "Construction",
+      "sort": 1,
+      "jobCode": "9691000090",
+      "icon": "HomeOutlined",
+      "items": [
+        "AutoCAD",
+        "天正",
+        "广联达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000090-en-2",
+      "groupId": "9695332841165",
+      "groupCode": "industry-tools",
+      "groupName": "Industry Tools",
+      "sort": 2,
+      "jobCode": "9691000090",
+      "icon": "ToolOutlined",
+      "items": [
+        "贝壳找房",
+        "安居客",
+        "链家"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 半導體/晶片（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000035-zh-TW-1",
+      "groupId": "9695543188545",
+      "groupCode": "electronics",
+      "groupName": "電子工程",
+      "sort": 1,
+      "jobCode": "9691000035",
+      "icon": "ThunderboltOutlined",
+      "items": [
+        "Cadence",
+        "Altium Designer",
+        "立创EDA"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000035-zh-TW-2",
+      "groupId": "9695397730338",
+      "groupCode": "industry-tools",
+      "groupName": "行業工具",
+      "sort": 2,
+      "jobCode": "9691000035",
+      "icon": "ToolOutlined",
+      "items": [
+        "CSDN",
+        "电子发烧友",
+        "21ic"
+      ]
+    }
+  ]
+}

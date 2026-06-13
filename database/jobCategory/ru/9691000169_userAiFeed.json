@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 订阅简报主题 - Охранные услуги（ru）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-9691000169-ru",
+      "topicId": "96949694001290",
+      "topicCode": "general",
+      "topicName": "Общая информация",
+      "sort": 1,
+      "jobCode": "9691000169",
+      "description": "Тенденции отрасли",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini — платформа разработки ИИ и API-ключей",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "Глобальная платформа агрегации LLM API",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "Хаб open-source моделей и датасетов",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    }
+  ]
+}

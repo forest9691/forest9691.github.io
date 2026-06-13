@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 新媒體營運（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000058-zh-TW-1",
+      "groupId": "9695449897099",
+      "groupCode": "ecommerce",
+      "groupName": "電商營運",
+      "sort": 1,
+      "jobCode": "9691000058",
+      "icon": "ShoppingOutlined",
+      "items": [
+        "淘宝",
+        "京东",
+        "拼多多"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000058-zh-TW-2",
+      "groupId": "9695376082897",
+      "groupCode": "analytics",
+      "groupName": "數據分析",
+      "sort": 2,
+      "jobCode": "9691000058",
+      "icon": "BarChartOutlined",
+      "items": [
+        "Google Analytics",
+        "百度统计",
+        "友盟+"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "电视",
+    "en": "TV",
+    "zh-TW": "電視",
+    "ja": "テレビ",
+    "ko": "TV",
+    "ru": "ТВ"
+  },
+  "categoryId": "96910000206",
+  "categoryCode": "tv",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000061",
+      "title": "电视",
+      "code": "dianshi;tv",
+      "url": "https://www.google.com/search?q=电视",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 37
+    }
+  ]
+}

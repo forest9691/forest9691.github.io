@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-02T00:00:00.000Z",
+  "description": "職種カテゴリテーブル - マイワークスペース & 開発者",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-workspace-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "マイワークスペース",
+      "sort": 1,
+      "parentId": "0",
+      "description": "よく使うツールのユーザー定義コレクション",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-programmer-001",
+      "categoryId": "9693000002",
+      "categoryCode": "programmer",
+      "categoryName": "開発者",
+      "sort": 2,
+      "parentId": "0",
+      "description": "開発者向けのよく使うツールとウェブサイト",
+      "icon": "icon-code",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

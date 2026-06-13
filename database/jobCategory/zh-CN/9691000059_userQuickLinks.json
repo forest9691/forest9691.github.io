@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 网络/网站运营（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000059-zh-CN-1",
+      "groupId": "9695778502007",
+      "groupCode": "seo-tools",
+      "groupName": "SEO 工具",
+      "sort": 1,
+      "jobCode": "9691000059",
+      "icon": "SearchOutlined",
+      "items": [
+        "Google Search Console",
+        "Ahrefs",
+        "SEMrush"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000059-zh-CN-2",
+      "groupId": "9695532710644",
+      "groupCode": "site-analytics",
+      "groupName": "站点分析",
+      "sort": 2,
+      "jobCode": "9691000059",
+      "icon": "DashboardOutlined",
+      "items": [
+        "Google Analytics",
+        "Hotjar",
+        "Cloudflare"
+      ]
+    }
+  ]
+}

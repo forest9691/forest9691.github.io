@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Mechanical Design/Manufacturing（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000117-en-1",
+      "groupId": "9695647786573",
+      "groupCode": "manufacturing",
+      "groupName": "Manufacturing",
+      "sort": 1,
+      "jobCode": "9691000117",
+      "icon": "SettingOutlined",
+      "items": [
+        "SolidWorks",
+        "AutoCAD",
+        "西门子工业"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000117-en-2",
+      "groupId": "9695955024395",
+      "groupCode": "professional-platforms",
+      "groupName": "Professional Platforms",
+      "sort": 2,
+      "jobCode": "9691000117",
+      "icon": "GlobalOutlined",
+      "items": [
+        "OFweek",
+        "工控网",
+        "CSDN"
+      ]
+    }
+  ]
+}

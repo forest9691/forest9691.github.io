@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Фронтенд разработка（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000026-ru-1",
+      "groupId": "9695451744975",
+      "groupCode": "dev-tools",
+      "groupName": "Инструменты разработки",
+      "sort": 1,
+      "jobCode": "9691000026",
+      "icon": "CodeOutlined",
+      "items": [
+        "VS Code",
+        "GitHub",
+        "Chrome DevTools"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000026-ru-2",
+      "groupId": "9695439173318",
+      "groupCode": "ai-assistants",
+      "groupName": "ИИ-ассистенты",
+      "sort": 2,
+      "jobCode": "9691000026",
+      "icon": "FireOutlined",
+      "items": [
+        "ChatGPT",
+        "Claude",
+        "GitHub Copilot"
+      ]
+    }
+  ]
+}

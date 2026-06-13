@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "人才",
+    "en": "Talent",
+    "zh-TW": "人才",
+    "ja": "人材",
+    "ko": "인재",
+    "ru": "Таланты"
+  },
+  "categoryId": "96910000210",
+  "categoryCode": "talent",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000065",
+      "title": "人才",
+      "code": "rencai;talent",
+      "url": "https://www.google.com/search?q=人才",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 41
+    }
+  ]
+}

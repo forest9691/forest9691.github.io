@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 購読ブリーフィングトピック - フロントエンド開発（ja）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-001",
+      "topicId": "9694000001",
+      "topicCode": "react",
+      "topicName": "React 最前線",
+      "sort": 1,
+      "jobCode": "9691000026",
+      "description": "Reactフレームワークの最新動向、エコシステムツールとベストプラクティス",
+      "icon": "icon-react",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-002",
+      "topicId": "9694000002",
+      "topicCode": "css-engineering",
+      "topicName": "CSS エンジニアリング",
+      "sort": 2,
+      "jobCode": "9691000026",
+      "description": "CSSの新機能、フレームワークの進化とスタイリング手法のトレンド",
+      "icon": "icon-palette",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-003",
+      "topicId": "9694000003",
+      "topicCode": "web-standards",
+      "topicName": "Web標準",
+      "sort": 3,
+      "jobCode": "9691000026",
+      "description": "W3C仕様、ブラウザAPIの更新とWebプラットフォームの進化",
+      "icon": "icon-globe",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-004",
+      "topicId": "9694000004",
+      "topicCode": "ai-frontier",
+      "topicName": "AI最前線",
+      "sort": 4,
+      "jobCode": "9691000026",
+      "description": "大規模言語モデル、AIエージェント、AIGCの最新動向と応用",
+      "icon": "icon-cpu",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini 大規模モデル開発とAPIキープラットフォーム",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "グローバル主要LLM API集約ルーティングプラットフォーム",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "オープンソースモデル重みとデータセットコミュニティ",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    },
+    {
+      "title": "高速大規模言語モデル推論とサービスエンジン",
+      "url": "https://github.com/vllm-project/vllm",
+      "icon": "github"
+    },
+    {
+      "title": "オープンソースLLMアプリ開発とノーコードワークフロープラットフォーム",
+      "url": "https://dify.ai",
+      "icon": "dify"
+    },
+    {
+      "title": "大規模言語モデルアプリケーション開発とコンポーネントオーケストレーションフレームワーク",
+      "url": "https://www.langchain.com",
+      "icon": "langchain"
+    }
+  ]
+}

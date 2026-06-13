@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "更多地区",
+    "en": "More Regions",
+    "zh-TW": "更多地區",
+    "ja": "その他の地域",
+    "ko": "더 많은 지역",
+    "ru": "Другие регионы"
+  },
+  "categoryId": "20419",
+  "categoryCode": "more-regions",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000100",
+      "title": "更多>>",
+      "code": "more",
+      "url": "https://www.google.com/search?q=更多>>",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20419",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 76
+    }
+  ]
+}

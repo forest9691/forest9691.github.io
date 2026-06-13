@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 证券/基金/期货（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000095-zh-CN-1",
+      "groupId": "9695735983025",
+      "groupCode": "finance-platforms",
+      "groupName": "金融平台",
+      "sort": 1,
+      "jobCode": "9691000095",
+      "icon": "DollarOutlined",
+      "items": [
+        "东方财富",
+        "同花顺",
+        "雪球"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000095-zh-CN-2",
+      "groupId": "9695027514371",
+      "groupCode": "market-insight",
+      "groupName": "市场洞察",
+      "sort": 2,
+      "jobCode": "9691000095",
+      "icon": "FundOutlined",
+      "items": [
+        "Wind",
+        "彭博",
+        "Choice数据"
+      ]
+    }
+  ]
+}

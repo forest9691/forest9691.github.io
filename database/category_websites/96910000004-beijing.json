@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "北京",
+    "en": "Beijing",
+    "zh-TW": "北京",
+    "ja": "北京",
+    "ko": "베이징",
+    "ru": "Пекин"
+  },
+  "categoryId": "96910000004",
+  "categoryCode": "beijing",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000082",
+      "title": "北京",
+      "code": "beijing;bj",
+      "url": "https://www.google.com/search?q=北京",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000004",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 58
+    }
+  ]
+}

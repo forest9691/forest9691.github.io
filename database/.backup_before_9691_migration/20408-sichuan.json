@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "四川",
+    "en": "Sichuan",
+    "zh-TW": "四川",
+    "ja": "四川",
+    "ko": "쓰촨",
+    "ru": "Сычуань"
+  },
+  "categoryId": "20408",
+  "categoryCode": "sichuan",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000089",
+      "title": "四川",
+      "code": "sichuan;sc",
+      "url": "https://www.google.com/search?q=四川",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20408",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 65
+    }
+  ]
+}

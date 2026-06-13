@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 医疗器械（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000137-zh-CN-1",
+      "groupId": "9695578017728",
+      "groupCode": "healthcare",
+      "groupName": "医疗健康",
+      "sort": 1,
+      "jobCode": "9691000137",
+      "icon": "HeartOutlined",
+      "items": [
+        "丁香园",
+        "医脉通",
+        "梅斯医学"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000137-zh-CN-2",
+      "groupId": "9695095573005",
+      "groupCode": "professional-platforms",
+      "groupName": "专业平台",
+      "sort": 2,
+      "jobCode": "9691000137",
+      "icon": "GlobalOutlined",
+      "items": [
+        "PubMed",
+        "CNKI",
+        "国家卫健委"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 医务管理",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-hospitalmgmt-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "hospitalmgmt",
+      "categoryName": "医院管理",
+      "sort": 2,
+      "parentId": "0",
+      "description": "医院管理相关资源",
+      "icon": "icon-home",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-medquality-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "medquality",
+      "categoryName": "医疗质量",
+      "sort": 3,
+      "parentId": "0",
+      "description": "医疗质量相关资源",
+      "icon": "icon-shield",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-medpolicy-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "medpolicy",
+      "categoryName": "政策法规",
+      "sort": 4,
+      "parentId": "0",
+      "description": "政策法规相关资源",
+      "icon": "icon-file-text",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

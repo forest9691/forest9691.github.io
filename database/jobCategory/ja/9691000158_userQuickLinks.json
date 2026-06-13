@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 配信者・芸能人・マネージャー（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000158-ja-1",
+      "groupId": "9695065222782",
+      "groupCode": "media-tools",
+      "groupName": "メディアツール",
+      "sort": 1,
+      "jobCode": "9691000158",
+      "icon": "PlayCircleOutlined",
+      "items": [
+        "剪映",
+        "Premiere Pro",
+        "DaVinci"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000158-ja-2",
+      "groupId": "9695117063992",
+      "groupCode": "social-media",
+      "groupName": "ソーシャルメディア",
+      "sort": 2,
+      "jobCode": "9691000158",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "抖音",
+        "B站",
+        "快手"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Темы AI-сводок - По умолчанию（ru）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-101",
+      "topicId": "9694000101",
+      "topicCode": "cross-border-ecommerce",
+      "topicName": "Трансграничная электронная коммерция",
+      "sort": 1,
+      "jobCode": "9691",
+      "description": "Тенденции платформ, логистики и платежей в трансграничной электронной коммерции",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-102",
+      "topicId": "9694000102",
+      "topicCode": "ai-frontier",
+      "topicName": "Передовые ИИ",
+      "sort": 2,
+      "jobCode": "9691",
+      "description": "Большие языковые модели, ИИ-агенты, AIGC — прорывы и применение",
+      "icon": "icon-cpu",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-103",
+      "topicId": "9694000103",
+      "topicCode": "saas-trends",
+      "topicName": "Тренды SaaS",
+      "sort": 3,
+      "jobCode": "9691",
+      "description": "Бизнес-модели SaaS, PLG-рост и инвестиции в корпоративные сервисы",
+      "icon": "icon-cloud",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-104",
+      "topicId": "9694000104",
+      "topicCode": "digital-nomad",
+      "topicName": "Цифровые кочевники",
+      "sort": 4,
+      "jobCode": "9691",
+      "description": "Удаленная работа, глобальные визы, фриланс и кочевой образ жизни",
+      "icon": "icon-map-pin",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Платформа разработки и API-ключей Google Gemini",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "Глобальная платформа агрегации и маршрутизации API LLM",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "Сообщество открытых весов моделей и наборов данных",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    },
+    {
+      "title": "Высокоскоростной движок инференса и обслуживания LLM",
+      "url": "https://github.com/vllm-project/vllm",
+      "icon": "github"
+    },
+    {
+      "title": "Платформа разработки LLM-приложений с открытым исходным кодом и no-code рабочих процессов",
+      "url": "https://dify.ai",
+      "icon": "dify"
+    },
+    {
+      "title": "Фреймворк разработки LLM-приложений и оркестрации компонентов",
+      "url": "https://www.langchain.com",
+      "icon": "langchain"
+    }
+  ]
+}

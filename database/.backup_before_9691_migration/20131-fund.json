@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "基金",
+    "en": "Fund",
+    "zh-TW": "基金",
+    "ja": "ファンド",
+    "ko": "펀드",
+    "ru": "Фонд"
+  },
+  "categoryId": "20131",
+  "categoryCode": "fund",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000049",
+      "title": "基金",
+      "code": "jijin;fund",
+      "url": "https://www.google.com/search?q=基金",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 25
+    }
+  ]
+}

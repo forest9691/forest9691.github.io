@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Тестирование（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000031-ru-1",
+      "groupId": "9695800356644",
+      "groupCode": "testing-tools",
+      "groupName": "Инструменты тестирования",
+      "sort": 1,
+      "jobCode": "9691000031",
+      "icon": "BugOutlined",
+      "items": [
+        "Selenium",
+        "Postman",
+        "JMeter"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000031-ru-2",
+      "groupId": "9695211431307",
+      "groupCode": "collaboration",
+      "groupName": "Совместная работа",
+      "sort": 2,
+      "jobCode": "9691000031",
+      "icon": "TeamOutlined",
+      "items": [
+        "Jira",
+        "GitHub",
+        "Confluence"
+      ]
+    }
+  ]
+}

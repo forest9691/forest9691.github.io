@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Автосервис（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000111-ru-1",
+      "groupId": "9695527443801",
+      "groupCode": "auto-platforms",
+      "groupName": "Автоплатформы",
+      "sort": 1,
+      "jobCode": "9691000111",
+      "icon": "CarOutlined",
+      "items": [
+        "汽车之家",
+        "懂车帝",
+        "易车"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000111-ru-2",
+      "groupId": "9695883658947",
+      "groupCode": "industry-tools",
+      "groupName": "Отраслевые инструменты",
+      "sort": 2,
+      "jobCode": "9691000111",
+      "icon": "ToolOutlined",
+      "items": [
+        "CATIA",
+        "SolidWorks",
+        "AutoCAD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Механическая обработка（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000114-ru-1",
+      "groupId": "9695123082988",
+      "groupCode": "job-search",
+      "groupName": "Поиск работы",
+      "sort": 1,
+      "jobCode": "9691000114",
+      "icon": "SearchOutlined",
+      "items": [
+        "58同城",
+        "赶集直招",
+        "BOSS直聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000114-ru-2",
+      "groupId": "9695352056416",
+      "groupCode": "industry-tools",
+      "groupName": "Отраслевые инструменты",
+      "sort": 2,
+      "jobCode": "9691000114",
+      "icon": "ToolOutlined",
+      "items": [
+        "技成培训",
+        "工控论坛",
+        "AutoCAD"
+      ]
+    }
+  ]
+}

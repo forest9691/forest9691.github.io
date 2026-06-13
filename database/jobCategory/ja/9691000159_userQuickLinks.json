@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 舞台美術デザイン（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000159-ja-1",
+      "groupId": "9695771819775",
+      "groupCode": "media-tools",
+      "groupName": "メディアツール",
+      "sort": 1,
+      "jobCode": "9691000159",
+      "icon": "PlayCircleOutlined",
+      "items": [
+        "剪映",
+        "Premiere Pro",
+        "DaVinci"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000159-ja-2",
+      "groupId": "9695611505367",
+      "groupCode": "social-media",
+      "groupName": "ソーシャルメディア",
+      "sort": 2,
+      "jobCode": "9691000159",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "抖音",
+        "B站",
+        "快手"
+      ]
+    }
+  ]
+}

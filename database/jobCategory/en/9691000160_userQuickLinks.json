@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Stage/Production Crew（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000160-en-1",
+      "groupId": "9695759404565",
+      "groupCode": "media-tools",
+      "groupName": "Media Tools",
+      "sort": 1,
+      "jobCode": "9691000160",
+      "icon": "PlayCircleOutlined",
+      "items": [
+        "剪映",
+        "Premiere Pro",
+        "DaVinci"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000160-en-2",
+      "groupId": "9695226633857",
+      "groupCode": "social-media",
+      "groupName": "Social Media",
+      "sort": 2,
+      "jobCode": "9691000160",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "抖音",
+        "B站",
+        "快手"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 인터넷 운영（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000060-ko-1",
+      "groupId": "9695853595352",
+      "groupCode": "operations-tools",
+      "groupName": "운영 도구",
+      "sort": 1,
+      "jobCode": "9691000060",
+      "icon": "ToolOutlined",
+      "items": [
+        "Google Analytics",
+        "Meta Business Suite",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000060-ko-2",
+      "groupId": "9695117110453",
+      "groupCode": "content-management",
+      "groupName": "콘텐츠 관리",
+      "sort": 2,
+      "jobCode": "9691000060",
+      "icon": "FolderOutlined",
+      "items": [
+        "WordPress",
+        "Notion",
+        "ChatGPT"
+      ]
+    }
+  ]
+}

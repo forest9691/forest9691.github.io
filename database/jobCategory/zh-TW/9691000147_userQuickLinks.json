@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 才藝特長培訓（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000147-zh-TW-1",
+      "groupId": "9695210133641",
+      "groupCode": "edtech",
+      "groupName": "線上教育",
+      "sort": 1,
+      "jobCode": "9691000147",
+      "icon": "LaptopOutlined",
+      "items": [
+        "中国大学MOOC",
+        "网易公开课",
+        "智慧树"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000147-zh-TW-2",
+      "groupId": "9695586359620",
+      "groupCode": "office-software",
+      "groupName": "辦公軟體",
+      "sort": 2,
+      "jobCode": "9691000147",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "钉钉",
+        "微信"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Data（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000028-en-1",
+      "groupId": "9695005325905",
+      "groupCode": "dev-tools",
+      "groupName": "Dev Tools",
+      "sort": 1,
+      "jobCode": "9691000028",
+      "icon": "CodeOutlined",
+      "items": [
+        "GitHub",
+        "VS Code",
+        "Docker"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000028-en-2",
+      "groupId": "9695052789366",
+      "groupCode": "cloud-platforms",
+      "groupName": "Cloud Platforms",
+      "sort": 2,
+      "jobCode": "9691000028",
+      "icon": "CloudOutlined",
+      "items": [
+        "AWS",
+        "阿里云",
+        "腾讯云"
+      ]
+    }
+  ]
+}

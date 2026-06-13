@@ -1,0 +1,84 @@
+{
+  "categoryName": {
+    "zh-CN": "科技",
+    "en": "Technology",
+    "zh-TW": "科技",
+    "ja": "テクノロジー",
+    "ko": "기술",
+    "ru": "Технологии"
+  },
+  "categoryId": "96910000079",
+  "categoryCode": "tech",
+  "data": [
+    {
+      "id": "30100000000000000000000000000021",
+      "title": "36氪",
+      "code": "36kr",
+      "url": "https://36kr.com",
+      "visitCount": 0,
+      "description": "科技媒体",
+      "icon": null,
+      "categoryId": "96910000079",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 1
+    },
+    {
+      "id": "30100000000000000000000000000022",
+      "title": "虎嗅",
+      "code": "huxiu",
+      "url": "https://huxiu.com",
+      "visitCount": 0,
+      "description": "科技媒体",
+      "icon": null,
+      "categoryId": "96910000079",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 2
+    },
+    {
+      "id": "30100000000000000000000000000023",
+      "title": "中关村在线",
+      "code": "zol;zgc",
+      "url": "https://zol.com.cn",
+      "visitCount": 0,
+      "description": "科技产品资讯",
+      "icon": null,
+      "categoryId": "96910000079",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 3
+    },
+    {
+      "id": "30100000000000000000000000000024",
+      "title": "太平洋电脑",
+      "code": "pconline;tpy",
+      "url": "https://pconline.com.cn",
+      "visitCount": 0,
+      "description": "电脑硬件资讯",
+      "icon": null,
+      "categoryId": "96910000079",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 4
+    },
+    {
+      "id": "3010000000000000000000000000000076",
+      "title": "科技",
+      "code": "keji;tech",
+      "url": "https://www.google.com/search?q=科技",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000076",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 52
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 新エネルギー（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000119-ja-1",
+      "groupId": "9695367922895",
+      "groupCode": "manufacturing",
+      "groupName": "製造リソース",
+      "sort": 1,
+      "jobCode": "9691000119",
+      "icon": "SettingOutlined",
+      "items": [
+        "SolidWorks",
+        "AutoCAD",
+        "西门子工业"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000119-ja-2",
+      "groupId": "9695821010889",
+      "groupCode": "professional-platforms",
+      "groupName": "専門プラットフォーム",
+      "sort": 2,
+      "jobCode": "9691000119",
+      "icon": "GlobalOutlined",
+      "items": [
+        "OFweek",
+        "工控网",
+        "CSDN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - ソーシャルワーカー（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000187-ja-1",
+      "groupId": "9695012744597",
+      "groupCode": "gov-services",
+      "groupName": "行政サービス",
+      "sort": 1,
+      "jobCode": "9691000187",
+      "icon": "BankOutlined",
+      "items": [
+        "国家政务服务",
+        "学习强国",
+        "公考雷达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000187-ja-2",
+      "groupId": "9695299460882",
+      "groupCode": "professional-platforms",
+      "groupName": "専門プラットフォーム",
+      "sort": 2,
+      "jobCode": "9691000187",
+      "icon": "GlobalOutlined",
+      "items": [
+        "LinkedIn",
+        "脉脉",
+        "应届生求职网"
+      ]
+    }
+  ]
+}

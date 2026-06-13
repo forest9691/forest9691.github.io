@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Senior Management Position（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000080-en-1",
+      "groupId": "9695737488346",
+      "groupCode": "professional-platforms",
+      "groupName": "Professional Platforms",
+      "sort": 1,
+      "jobCode": "9691000080",
+      "icon": "GlobalOutlined",
+      "items": [
+        "LinkedIn",
+        "脉脉",
+        "得到"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000080-en-2",
+      "groupId": "9695854276088",
+      "groupCode": "office-software",
+      "groupName": "Office Software",
+      "sort": 2,
+      "jobCode": "9691000080",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "企业微信",
+        "飞书"
+      ]
+    }
+  ]
+}

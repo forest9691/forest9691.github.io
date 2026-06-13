@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Исследование рынка（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000068-ru-1",
+      "groupId": "9695987666330",
+      "groupCode": "social-media",
+      "groupName": "Социальные сети",
+      "sort": 1,
+      "jobCode": "9691000068",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "巨量引擎",
+        "腾讯广告",
+        "小红书"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000068-ru-2",
+      "groupId": "9695383106249",
+      "groupCode": "content-creation",
+      "groupName": "Создание контента",
+      "sort": 2,
+      "jobCode": "9691000068",
+      "icon": "EditOutlined",
+      "items": [
+        "Canva",
+        "剪映",
+        "WPS Office"
+      ]
+    }
+  ]
+}

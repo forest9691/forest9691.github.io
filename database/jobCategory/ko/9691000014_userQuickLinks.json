@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 영업 행정（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000014-ko-1",
+      "groupId": "9695065667831",
+      "groupCode": "crm-tools",
+      "groupName": "CRM 도구",
+      "sort": 1,
+      "jobCode": "9691000014",
+      "icon": "UserSwitchOutlined",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "纷享销客"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000014-ko-2",
+      "groupId": "9695099218465",
+      "groupCode": "communication",
+      "groupName": "커뮤니케이션",
+      "sort": 2,
+      "jobCode": "9691000014",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

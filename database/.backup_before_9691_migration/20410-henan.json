@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "河南",
+    "en": "Henan",
+    "zh-TW": "河南",
+    "ja": "河南",
+    "ko": "허난",
+    "ru": "Хэнань"
+  },
+  "categoryId": "20410",
+  "categoryCode": "henan",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000091",
+      "title": "河南",
+      "code": "henan;ha",
+      "url": "https://www.google.com/search?q=河南",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20410",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 67
+    }
+  ]
+}

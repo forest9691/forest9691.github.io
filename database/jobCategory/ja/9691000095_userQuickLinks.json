@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 証券・ファンド・先物（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000095-ja-1",
+      "groupId": "9695735983025",
+      "groupCode": "finance-platforms",
+      "groupName": "金融プラットフォーム",
+      "sort": 1,
+      "jobCode": "9691000095",
+      "icon": "DollarOutlined",
+      "items": [
+        "东方财富",
+        "同花顺",
+        "雪球"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000095-ja-2",
+      "groupId": "9695027514371",
+      "groupCode": "market-insight",
+      "groupName": "市場インサイト",
+      "sort": 2,
+      "jobCode": "9691000095",
+      "icon": "FundOutlined",
+      "items": [
+        "Wind",
+        "彭博",
+        "Choice数据"
+      ]
+    }
+  ]
+}

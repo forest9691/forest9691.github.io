@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "壁纸",
+    "en": "Wallpaper",
+    "zh-TW": "桌布",
+    "ja": "壁紙",
+    "ko": "배경화면",
+    "ru": "Обои"
+  },
+  "categoryId": "96910000127",
+  "categoryCode": "wallpaper",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000071",
+      "title": "壁纸",
+      "code": "bizhi;wallpaper",
+      "url": "https://www.google.com/search?q=壁纸",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000076",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 47
+    }
+  ]
+}

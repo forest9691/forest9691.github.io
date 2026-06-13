@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 테스트/품질보증（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000031-ko-1",
+      "groupId": "9695800356644",
+      "groupCode": "testing-tools",
+      "groupName": "테스트 도구",
+      "sort": 1,
+      "jobCode": "9691000031",
+      "icon": "BugOutlined",
+      "items": [
+        "Selenium",
+        "Postman",
+        "JMeter"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000031-ko-2",
+      "groupId": "9695211431307",
+      "groupCode": "collaboration",
+      "groupName": "협업 플랫폼",
+      "sort": 2,
+      "jobCode": "9691000031",
+      "icon": "TeamOutlined",
+      "items": [
+        "Jira",
+        "GitHub",
+        "Confluence"
+      ]
+    }
+  ]
+}

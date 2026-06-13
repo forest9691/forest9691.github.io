@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "男女",
+    "en": "Men & Women",
+    "zh-TW": "男女",
+    "ja": "男女",
+    "ko": "남녀",
+    "ru": "Мужчины и женщины"
+  },
+  "categoryId": "96910000198",
+  "categoryCode": "men-women",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000057",
+      "title": "男女",
+      "code": "nannan;men-women",
+      "url": "https://www.google.com/search?q=男女",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 33
+    }
+  ]
+}

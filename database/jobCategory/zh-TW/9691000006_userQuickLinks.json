@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 汽車銷售（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000006-zh-TW-1",
+      "groupId": "9695490166042",
+      "groupCode": "crm-tools",
+      "groupName": "客戶管理",
+      "sort": 1,
+      "jobCode": "9691000006",
+      "icon": "UserSwitchOutlined",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "纷享销客"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000006-zh-TW-2",
+      "groupId": "9695329888964",
+      "groupCode": "communication",
+      "groupName": "溝通協作",
+      "sort": 2,
+      "jobCode": "9691000006",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

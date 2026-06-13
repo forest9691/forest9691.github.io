@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 會展會務（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000074-zh-TW-1",
+      "groupId": "9695222485343",
+      "groupCode": "social-media",
+      "groupName": "社群媒體",
+      "sort": 1,
+      "jobCode": "9691000074",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "巨量引擎",
+        "腾讯广告",
+        "小红书"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000074-zh-TW-2",
+      "groupId": "9695231956494",
+      "groupCode": "content-creation",
+      "groupName": "內容創作",
+      "sort": 2,
+      "jobCode": "9691000074",
+      "icon": "EditOutlined",
+      "items": [
+        "Canva",
+        "剪映",
+        "WPS Office"
+      ]
+    }
+  ]
+}

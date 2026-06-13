@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Web/Site Operations（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000059-en-1",
+      "groupId": "9695778502007",
+      "groupCode": "seo-tools",
+      "groupName": "SEO Tools",
+      "sort": 1,
+      "jobCode": "9691000059",
+      "icon": "SearchOutlined",
+      "items": [
+        "Google Search Console",
+        "Ahrefs",
+        "SEMrush"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000059-en-2",
+      "groupId": "9695532710644",
+      "groupCode": "site-analytics",
+      "groupName": "Site Analytics",
+      "sort": 2,
+      "jobCode": "9691000059",
+      "icon": "DashboardOutlined",
+      "items": [
+        "Google Analytics",
+        "Hotjar",
+        "Cloudflare"
+      ]
+    }
+  ]
+}

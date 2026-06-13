@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 財務（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000022-ja-1",
+      "groupId": "9695688717269",
+      "groupCode": "finance-platforms",
+      "groupName": "金融プラットフォーム",
+      "sort": 1,
+      "jobCode": "9691000022",
+      "icon": "DollarOutlined",
+      "items": [
+        "金蝶",
+        "用友",
+        "SAP"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000022-ja-2",
+      "groupId": "9695324377967",
+      "groupCode": "legal-tools",
+      "groupName": "法律リソース",
+      "sort": 2,
+      "jobCode": "9691000022",
+      "icon": "FileProtectOutlined",
+      "items": [
+        "北大法宝",
+        "威科先行",
+        "中国裁判文书网"
+      ]
+    }
+  ]
+}

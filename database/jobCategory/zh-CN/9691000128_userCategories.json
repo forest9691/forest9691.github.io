@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 能源/矿产/地质",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-mining-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "mining",
+      "categoryName": "矿产信息",
+      "sort": 2,
+      "parentId": "0",
+      "description": "矿产信息相关资源",
+      "icon": "icon-box",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-geology-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "geology",
+      "categoryName": "地质勘查",
+      "sort": 3,
+      "parentId": "0",
+      "description": "地质勘查相关资源",
+      "icon": "icon-map",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

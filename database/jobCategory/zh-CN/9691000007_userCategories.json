@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 广告/会展销售",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-adplatform-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "adplatform",
+      "categoryName": "广告平台",
+      "sort": 2,
+      "parentId": "0",
+      "description": "广告平台相关资源",
+      "icon": "icon-target",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-adinfo-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "adinfo",
+      "categoryName": "行业资讯",
+      "sort": 3,
+      "parentId": "0",
+      "description": "行业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-adexhibition-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "adexhibition",
+      "categoryName": "会展平台",
+      "sort": 4,
+      "parentId": "0",
+      "description": "会展平台相关资源",
+      "icon": "icon-calendar",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-addesign-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "addesign",
+      "categoryName": "创意设计",
+      "sort": 5,
+      "parentId": "0",
+      "description": "创意设计相关资源",
+      "icon": "icon-pen-tool",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-adclient-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "adclient",
+      "categoryName": "客户管理",
+      "sort": 6,
+      "parentId": "0",
+      "description": "客户管理相关资源",
+      "icon": "icon-users",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

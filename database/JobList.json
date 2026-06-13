@@ -1,1566 +1,2748 @@
 {
-  "jobType": [
+  "success": true,
+  "data": [
     {
-      "code": "1000001",
+      "code": "9691000188",
       "parentCode": null,
-      "jobName": "销售",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": true,
+      "name": {
+        "zh-CN": "默认职位",
+        "en": "Default Job",
+        "zh-TW": "預設職位",
+        "ja": "デフォルト職位",
+        "ko": "기본 직위",
+        "ru": "Должность по умолчанию"
+      },
+      "children": [
         {
-          "code": "2000001",
-          "parentCode": "1000001",
-          "jobName": "房地产销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000002",
-          "parentCode": "1000001",
-          "jobName": "外贸销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000003",
-          "parentCode": "1000001",
-          "jobName": "金融销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000004",
-          "parentCode": "1000001",
-          "jobName": "医疗销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000005",
-          "parentCode": "1000001",
-          "jobName": "汽车销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000006",
-          "parentCode": "1000001",
-          "jobName": "广告/会展销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000007",
-          "parentCode": "1000001",
-          "jobName": "教培销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000008",
-          "parentCode": "1000001",
-          "jobName": "服务业销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000009",
-          "parentCode": "1000001",
-          "jobName": "销售工程师",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000010",
-          "parentCode": "1000001",
-          "jobName": "其他销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000011",
-          "parentCode": "1000001",
-          "jobName": "销售管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000012",
-          "parentCode": "1000001",
-          "jobName": "商务拓展",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000013",
-          "parentCode": "1000001",
-          "jobName": "销售行政",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691",
+          "parentCode": "9691000188",
+          "show": true,
+          "name": {
+            "zh-CN": "选择职位",
+            "en": "Select Job",
+            "zh-TW": "選擇職位",
+            "ja": "職位を選択",
+            "ko": "직위 선택",
+            "ru": "Выбор должности"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000002",
+      "code": "9691000001",
       "parentCode": null,
-      "jobName": "人事/行政/党群",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "销售",
+        "en": "Sales",
+        "zh-TW": "銷售",
+        "ja": "営業",
+        "ko": "영업",
+        "ru": "Продажи"
+      },
+      "children": [
         {
-          "code": "2000014",
-          "parentCode": "1000002",
-          "jobName": "人力资源",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000002",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "房地产销售",
+            "en": "Real Estate Sales",
+            "zh-TW": "房地產銷售",
+            "ja": "不動産営業",
+            "ko": "부동산 영업",
+            "ru": "Продажи недвижимости"
+          },
+          "children": []
         },
         {
-          "code": "2000015",
-          "parentCode": "1000002",
-          "jobName": "行政",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000003",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "外贸销售",
+            "en": "Foreign Trade Sales",
+            "zh-TW": "外貿銷售",
+            "ja": "貿易営業",
+            "ko": "무역 영업",
+            "ru": "Внешнеторговые продажи"
+          },
+          "children": []
         },
         {
-          "code": "2000016",
-          "parentCode": "1000002",
-          "jobName": "文员/助理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000004",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "金融销售",
+            "en": "Financial Sales",
+            "zh-TW": "金融銷售",
+            "ja": "金融営業",
+            "ko": "금융 영업",
+            "ru": "Финансовые продажи"
+          },
+          "children": []
         },
         {
-          "code": "2000017",
-          "parentCode": "1000002",
-          "jobName": "档案管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000005",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "医疗销售",
+            "en": "Medical Sales",
+            "zh-TW": "醫療銷售",
+            "ja": "医療営業",
+            "ko": "의료 영업",
+            "ru": "Медицинские продажи"
+          },
+          "children": []
         },
         {
-          "code": "2000018",
-          "parentCode": "1000002",
-          "jobName": "党群/工会",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000006",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "汽车销售",
+            "en": "Auto Sales",
+            "zh-TW": "汽車銷售",
+            "ja": "自動車営業",
+            "ko": "자동차 영업",
+            "ru": "Продажи автомобилей"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000007",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "广告/会展销售",
+            "en": "Advertising/Exhibition Sales",
+            "zh-TW": "廣告/會展銷售",
+            "ja": "広告・展示会営業",
+            "ko": "광고/전시 영업",
+            "ru": "Продажи рекламы/выставок"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000008",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "教培销售",
+            "en": "Education & Training Sales",
+            "zh-TW": "教培銷售",
+            "ja": "教育研修営業",
+            "ko": "교육 훈련 영업",
+            "ru": "Продажи в сфере образования"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000009",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "服务业销售",
+            "en": "Service Industry Sales",
+            "zh-TW": "服務業銷售",
+            "ja": "サービス業営業",
+            "ko": "서비스업 영업",
+            "ru": "Продажи в сфере услуг"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000010",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "销售工程师",
+            "en": "Sales Engineer",
+            "zh-TW": "銷售工程師",
+            "ja": "セールスエンジニア",
+            "ko": "세일즈 엔지니어",
+            "ru": "Инженер по продажам"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000011",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "其他销售",
+            "en": "Other Sales",
+            "zh-TW": "其他銷售",
+            "ja": "その他営業",
+            "ko": "기타 영업",
+            "ru": "Прочие продажи"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000012",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "销售管理",
+            "en": "Sales Management",
+            "zh-TW": "銷售管理",
+            "ja": "営業管理",
+            "ko": "영업 관리",
+            "ru": "Управление продажами"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000013",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "商务拓展",
+            "en": "Business Development",
+            "zh-TW": "商務拓展",
+            "ja": "ビジネス開発",
+            "ko": "비즈니스 개발",
+            "ru": "Развитие бизнеса"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000014",
+          "parentCode": "9691000001",
+          "show": false,
+          "name": {
+            "zh-CN": "销售行政",
+            "en": "Sales Administration",
+            "zh-TW": "銷售行政",
+            "ja": "営業事務",
+            "ko": "영업 행정",
+            "ru": "Администрирование продаж"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000003",
+      "code": "9691000015",
       "parentCode": null,
-      "jobName": "财务/法务",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "人事/行政/党群",
+        "en": "HR/Admin/Party Affairs",
+        "zh-TW": "人事/行政/黨群",
+        "ja": "人事・総務・党群",
+        "ko": "인사/행정/당무",
+        "ru": "Кадры/Администрирование/Партийные дела"
+      },
+      "children": [
         {
-          "code": "2000019",
-          "parentCode": "1000003",
-          "jobName": "财务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000016",
+          "parentCode": "9691000015",
+          "show": false,
+          "name": {
+            "zh-CN": "人力资源",
+            "en": "Human Resources",
+            "zh-TW": "人力資源",
+            "ja": "人事",
+            "ko": "인사",
+            "ru": "Человеческие ресурсы"
+          },
+          "children": []
         },
         {
-          "code": "2000020",
-          "parentCode": "1000003",
-          "jobName": "合规风控/法务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000017",
+          "parentCode": "9691000015",
+          "show": false,
+          "name": {
+            "zh-CN": "行政",
+            "en": "Administration",
+            "zh-TW": "行政",
+            "ja": "総務",
+            "ko": "행정",
+            "ru": "Администрирование"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000018",
+          "parentCode": "9691000015",
+          "show": false,
+          "name": {
+            "zh-CN": "文员/助理",
+            "en": "Clerk/Assistant",
+            "zh-TW": "文員/助理",
+            "ja": "事務員/アシスタント",
+            "ko": "사무원/보조",
+            "ru": "Делопроизводитель/Ассистент"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000019",
+          "parentCode": "9691000015",
+          "show": false,
+          "name": {
+            "zh-CN": "档案管理",
+            "en": "Archives Management",
+            "zh-TW": "檔案管理",
+            "ja": "文書管理",
+            "ko": "문서 관리",
+            "ru": "Управление архивами"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000020",
+          "parentCode": "9691000015",
+          "show": false,
+          "name": {
+            "zh-CN": "党群/工会",
+            "en": "Party & Union Affairs",
+            "zh-TW": "黨群/工會",
+            "ja": "党群・労働組合",
+            "ko": "당무/노동조합",
+            "ru": "Партийные и профсоюзные дела"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000004",
+      "code": "9691000021",
       "parentCode": null,
-      "jobName": "技术",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "财务/法务",
+        "en": "Finance/Legal",
+        "zh-TW": "財務/法務",
+        "ja": "財務・法務",
+        "ko": "재무/법무",
+        "ru": "Финансы/Юриспруденция"
+      },
+      "children": [
         {
-          "code": "2000021",
-          "parentCode": "1000004",
-          "jobName": "后端开发",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000022",
+          "parentCode": "9691000021",
+          "show": false,
+          "name": {
+            "zh-CN": "财务",
+            "en": "Finance",
+            "zh-TW": "財務",
+            "ja": "財務",
+            "ko": "재무",
+            "ru": "Финансы"
+          },
+          "children": []
         },
         {
-          "code": "2000022",
-          "parentCode": "1000004",
-          "jobName": "前端开发",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000023",
-          "parentCode": "1000004",
-          "jobName": "移动研发",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000024",
-          "parentCode": "1000004",
-          "jobName": "数据",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000025",
-          "parentCode": "1000004",
-          "jobName": "人工智能/算法",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000026",
-          "parentCode": "1000004",
-          "jobName": "IT技术管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000027",
-          "parentCode": "1000004",
-          "jobName": "测试",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000028",
-          "parentCode": "1000004",
-          "jobName": "运维",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000029",
-          "parentCode": "1000004",
-          "jobName": "售前/售后/技术支持",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000023",
+          "parentCode": "9691000021",
+          "show": false,
+          "name": {
+            "zh-CN": "合规风控/法务",
+            "en": "Compliance/Risk Control/Legal",
+            "zh-TW": "合規風控/法務",
+            "ja": "コンプライアンス・リスク管理・法務",
+            "ko": "규정준수/리스크관리/법무",
+            "ru": "Комплаенс/Риск-контроль/Юриспруденция"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000005",
+      "code": "9691000024",
       "parentCode": null,
-      "jobName": "电子/通信/半导体",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": true,
+      "name": {
+        "zh-CN": "技术",
+        "en": "Technology",
+        "zh-TW": "技術",
+        "ja": "技術",
+        "ko": "기술",
+        "ru": "Технологии"
+      },
+      "children": [
         {
-          "code": "2000030",
-          "parentCode": "1000005",
-          "jobName": "半导体/芯片",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000025",
+          "parentCode": "9691000024",
+          "show": true,
+          "name": {
+            "zh-CN": "后端开发",
+            "en": "Backend Development",
+            "zh-TW": "後端開發",
+            "ja": "バックエンド開発",
+            "ko": "백엔드 개발",
+            "ru": "Бэкенд разработка"
+          },
+          "children": []
         },
         {
-          "code": "2000031",
-          "parentCode": "1000005",
-          "jobName": "电子/电路",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000026",
+          "parentCode": "9691000024",
+          "show": true,
+          "name": {
+            "zh-CN": "前端开发",
+            "en": "Frontend Development",
+            "zh-TW": "前端開發",
+            "ja": "フロントエンド開発",
+            "ko": "프론트엔드 개발",
+            "ru": "Фронтенд разработка"
+          },
+          "children": []
         },
         {
-          "code": "2000032",
-          "parentCode": "1000005",
-          "jobName": "电气/仪器/自动化",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000027",
+          "parentCode": "9691000024",
+          "show": false,
+          "name": {
+            "zh-CN": "移动研发",
+            "en": "Mobile Development",
+            "zh-TW": "移動研發",
+            "ja": "モバイル開発",
+            "ko": "모바일 개발",
+            "ru": "Мобильная разработка"
+          },
+          "children": []
         },
         {
-          "code": "2000033",
-          "parentCode": "1000005",
-          "jobName": "通信",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000028",
+          "parentCode": "9691000024",
+          "show": false,
+          "name": {
+            "zh-CN": "数据",
+            "en": "Data",
+            "zh-TW": "數據",
+            "ja": "データ",
+            "ko": "데이터",
+            "ru": "Данные"
+          },
+          "children": []
         },
         {
-          "code": "2000034",
-          "parentCode": "1000005",
-          "jobName": "硬件",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000029",
+          "parentCode": "9691000024",
+          "show": false,
+          "name": {
+            "zh-CN": "人工智能/算法",
+            "en": "AI/Algorithm",
+            "zh-TW": "人工智能/演算法",
+            "ja": "AI・アルゴリズム",
+            "ko": "인공지능/알고리즘",
+            "ru": "ИИ/Алгоритмы"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000030",
+          "parentCode": "9691000024",
+          "show": false,
+          "name": {
+            "zh-CN": "IT技术管理",
+            "en": "IT Technology Management",
+            "zh-TW": "IT技術管理",
+            "ja": "IT技術管理",
+            "ko": "IT 기술 관리",
+            "ru": "Управление ИТ-технологиями"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000031",
+          "parentCode": "9691000024",
+          "show": true,
+          "name": {
+            "zh-CN": "测试",
+            "en": "Testing/QA",
+            "zh-TW": "測試",
+            "ja": "テスト・品質保証",
+            "ko": "테스트/품질보증",
+            "ru": "Тестирование"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000032",
+          "parentCode": "9691000024",
+          "show": false,
+          "name": {
+            "zh-CN": "运维",
+            "en": "Operations & Maintenance",
+            "zh-TW": "運維",
+            "ja": "運用保守",
+            "ko": "운영 및 유지보수",
+            "ru": "Эксплуатация и обслуживание"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000033",
+          "parentCode": "9691000024",
+          "show": false,
+          "name": {
+            "zh-CN": "售前/售后/技术支持",
+            "en": "Pre-Sales/After-Sales/Tech Support",
+            "zh-TW": "售前/售後/技術支援",
+            "ja": "プリセールス・アフターセールス・技術サポート",
+            "ko": "프리세일즈/애프터세일즈/기술지원",
+            "ru": "Предпродажная/Послепродажная/Техподдержка"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000006",
+      "code": "9691000034",
       "parentCode": null,
-      "jobName": "产品",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "电子/通信/半导体",
+        "en": "Electronics/Telecom/Semiconductor",
+        "zh-TW": "電子/通訊/半導體",
+        "ja": "電子・通信・半導体",
+        "ko": "전자/통신/반도체",
+        "ru": "Электроника/Телеком/Полупроводники"
+      },
+      "children": [
         {
-          "code": "2000035",
-          "parentCode": "1000006",
-          "jobName": "互联网产品经理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000035",
+          "parentCode": "9691000034",
+          "show": false,
+          "name": {
+            "zh-CN": "半导体/芯片",
+            "en": "Semiconductor/Chip",
+            "zh-TW": "半導體/晶片",
+            "ja": "半導体・チップ",
+            "ko": "반도체/칩",
+            "ru": "Полупроводники/Чипы"
+          },
+          "children": []
         },
         {
-          "code": "2000036",
-          "parentCode": "1000006",
-          "jobName": "其他产品经理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000036",
+          "parentCode": "9691000034",
+          "show": false,
+          "name": {
+            "zh-CN": "电子/电路",
+            "en": "Electronics/Circuits",
+            "zh-TW": "電子/電路",
+            "ja": "電子・回路",
+            "ko": "전자/회로",
+            "ru": "Электроника/Схемы"
+          },
+          "children": []
         },
         {
-          "code": "2000044",
-          "parentCode": "1000006",
-          "jobName": "游戏策划/制作",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000037",
+          "parentCode": "9691000034",
+          "show": false,
+          "name": {
+            "zh-CN": "电气/仪器/自动化",
+            "en": "Electrical/Instrumentation/Automation",
+            "zh-TW": "電氣/儀器/自動化",
+            "ja": "電気・計装・自動化",
+            "ko": "전기/계측/자동화",
+            "ru": "Электрика/Приборы/Автоматизация"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000038",
+          "parentCode": "9691000034",
+          "show": false,
+          "name": {
+            "zh-CN": "通信",
+            "en": "Telecommunications",
+            "zh-TW": "通訊",
+            "ja": "通信",
+            "ko": "통신",
+            "ru": "Телекоммуникации"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000039",
+          "parentCode": "9691000034",
+          "show": false,
+          "name": {
+            "zh-CN": "硬件",
+            "en": "Hardware",
+            "zh-TW": "硬體",
+            "ja": "ハードウェア",
+            "ko": "하드웨어",
+            "ru": "Аппаратное обеспечение"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000007",
+      "code": "9691000040",
       "parentCode": null,
-      "jobName": "设计",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": true,
+      "name": {
+        "zh-CN": "产品",
+        "en": "Product",
+        "zh-TW": "產品",
+        "ja": "プロダクト",
+        "ko": "제품",
+        "ru": "Продукт"
+      },
+      "children": [
         {
-          "code": "2000037",
-          "parentCode": "1000007",
-          "jobName": "视觉/交互设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000041",
+          "parentCode": "9691000040",
+          "show": true,
+          "name": {
+            "zh-CN": "互联网产品经理",
+            "en": "Internet Product Manager",
+            "zh-TW": "互聯網產品經理",
+            "ja": "インターネットプロダクトマネージャー",
+            "ko": "인터넷 제품 관리자",
+            "ru": "Интернет-продакт-менеджер"
+          },
+          "children": []
         },
         {
-          "code": "2000038",
-          "parentCode": "1000007",
-          "jobName": "动画动效设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000042",
+          "parentCode": "9691000040",
+          "show": false,
+          "name": {
+            "zh-CN": "其他产品经理",
+            "en": "Other Product Manager",
+            "zh-TW": "其他產品經理",
+            "ja": "その他プロダクトマネージャー",
+            "ko": "기타 제품 관리자",
+            "ru": "Прочие продакт-менеджеры"
+          },
+          "children": []
         },
         {
-          "code": "2000039",
-          "parentCode": "1000007",
-          "jobName": "建筑/室内设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000040",
-          "parentCode": "1000007",
-          "jobName": "工业设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000041",
-          "parentCode": "1000007",
-          "jobName": "广告设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000042",
-          "parentCode": "1000007",
-          "jobName": "服装/纺织设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000043",
-          "parentCode": "1000007",
-          "jobName": "其他设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000043",
+          "parentCode": "9691000040",
+          "show": false,
+          "name": {
+            "zh-CN": "游戏策划/制作",
+            "en": "Game Design/Production",
+            "zh-TW": "遊戲策劃/製作",
+            "ja": "ゲーム企画・制作",
+            "ko": "게임 기획/제작",
+            "ru": "Гейм-дизайн/Продакшн"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000008",
+      "code": "9691000044",
       "parentCode": null,
-      "jobName": "游戏",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "设计",
+        "en": "Design",
+        "zh-TW": "設計",
+        "ja": "デザイン",
+        "ko": "디자인",
+        "ru": "Дизайн"
+      },
+      "children": [
         {
-          "code": "2000044",
-          "parentCode": "1000008",
-          "jobName": "游戏策划/制作",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000045",
+          "parentCode": "9691000044",
+          "show": true,
+          "name": {
+            "zh-CN": "视觉/交互设计",
+            "en": "Visual/Interaction Design",
+            "zh-TW": "視覺/互動設計",
+            "ja": "ビジュアル・インタラクションデザイン",
+            "ko": "시각/인터랙션 디자인",
+            "ru": "Визуальный/Интерактивный дизайн"
+          },
+          "children": []
         },
         {
-          "code": "2000045",
-          "parentCode": "1000008",
-          "jobName": "游戏设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000046",
+          "parentCode": "9691000044",
+          "show": false,
+          "name": {
+            "zh-CN": "动画动效设计",
+            "en": "Animation & Motion Design",
+            "zh-TW": "動畫動效設計",
+            "ja": "アニメーション・モーションデザイン",
+            "ko": "애니메이션/모션 디자인",
+            "ru": "Анимационный и моушн-дизайн"
+          },
+          "children": []
         },
         {
-          "code": "2000046",
-          "parentCode": "1000008",
-          "jobName": "游戏开发/测试",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000047",
+          "parentCode": "9691000044",
+          "show": false,
+          "name": {
+            "zh-CN": "建筑/室内设计",
+            "en": "Architecture/Interior Design",
+            "zh-TW": "建築/室內設計",
+            "ja": "建築・インテリアデザイン",
+            "ko": "건축/인테리어 디자인",
+            "ru": "Архитектура/Дизайн интерьера"
+          },
+          "children": []
         },
         {
-          "code": "2000047",
-          "parentCode": "1000008",
-          "jobName": "游戏推广/运营",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000048",
+          "parentCode": "9691000044",
+          "show": false,
+          "name": {
+            "zh-CN": "工业设计",
+            "en": "Industrial Design",
+            "zh-TW": "工業設計",
+            "ja": "工業デザイン",
+            "ko": "산업 디자인",
+            "ru": "Промышленный дизайн"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000049",
+          "parentCode": "9691000044",
+          "show": false,
+          "name": {
+            "zh-CN": "广告设计",
+            "en": "Advertising Design",
+            "zh-TW": "廣告設計",
+            "ja": "広告デザイン",
+            "ko": "광고 디자인",
+            "ru": "Рекламный дизайн"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000050",
+          "parentCode": "9691000044",
+          "show": false,
+          "name": {
+            "zh-CN": "服装/纺织设计",
+            "en": "Fashion/Textile Design",
+            "zh-TW": "服裝/紡織設計",
+            "ja": "ファッション・テキスタイルデザイン",
+            "ko": "의류/섬유 디자인",
+            "ru": "Дизайн одежды/текстиля"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000051",
+          "parentCode": "9691000044",
+          "show": false,
+          "name": {
+            "zh-CN": "其他设计",
+            "en": "Other Design",
+            "zh-TW": "其他設計",
+            "ja": "その他デザイン",
+            "ko": "기타 디자인",
+            "ru": "Прочий дизайн"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000009",
+      "code": "9691000052",
       "parentCode": null,
-      "jobName": "运营/客服",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "游戏",
+        "en": "Gaming",
+        "zh-TW": "遊戲",
+        "ja": "ゲーム",
+        "ko": "게임",
+        "ru": "Игры"
+      },
+      "children": [
         {
-          "code": "2000048",
-          "parentCode": "1000009",
-          "jobName": "电商运营",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000043",
+          "parentCode": "9691000052",
+          "show": false,
+          "name": {
+            "zh-CN": "游戏策划/制作",
+            "en": "Game Design/Production",
+            "zh-TW": "遊戲策劃/製作",
+            "ja": "ゲーム企画・制作",
+            "ko": "게임 기획/제작",
+            "ru": "Гейм-дизайн/Продакшн"
+          },
+          "children": []
         },
         {
-          "code": "2000049",
-          "parentCode": "1000009",
-          "jobName": "新媒体运营",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000053",
+          "parentCode": "9691000052",
+          "show": false,
+          "name": {
+            "zh-CN": "游戏设计",
+            "en": "Game Design",
+            "zh-TW": "遊戲設計",
+            "ja": "ゲームデザイン",
+            "ko": "게임 디자인",
+            "ru": "Гейм-дизайн"
+          },
+          "children": []
         },
         {
-          "code": "2000050",
-          "parentCode": "1000009",
-          "jobName": "网络/网站运营",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000054",
+          "parentCode": "9691000052",
+          "show": true,
+          "name": {
+            "zh-CN": "游戏开发/测试",
+            "en": "Game Development/Testing",
+            "zh-TW": "遊戲開發/測試",
+            "ja": "ゲーム開発・テスト",
+            "ko": "게임 개발/테스트",
+            "ru": "Разработка/Тестирование игр"
+          },
+          "children": []
         },
         {
-          "code": "2000051",
-          "parentCode": "1000009",
-          "jobName": "互联网运营",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000052",
-          "parentCode": "1000009",
-          "jobName": "业务运营",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000149",
-          "parentCode": "1000009",
-          "jobName": "线下运营",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000053",
-          "parentCode": "1000009",
-          "jobName": "运营管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000054",
-          "parentCode": "1000009",
-          "jobName": "数据分析",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000055",
-          "parentCode": "1000009",
-          "jobName": "客服",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000055",
+          "parentCode": "9691000052",
+          "show": false,
+          "name": {
+            "zh-CN": "游戏推广/运营",
+            "en": "Game Promotion/Operations",
+            "zh-TW": "遊戲推廣/營運",
+            "ja": "ゲームプロモーション・運営",
+            "ko": "게임 프로모션/운영",
+            "ru": "Продвижение/Эксплуатация игр"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000010",
+      "code": "9691000056",
       "parentCode": null,
-      "jobName": "市场/公关/广告",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "运营/客服",
+        "en": "Operations/Customer Service",
+        "zh-TW": "營運/客服",
+        "ja": "運営・カスタマーサービス",
+        "ko": "운영/고객서비스",
+        "ru": "Операции/Поддержка клиентов"
+      },
+      "children": [
         {
-          "code": "2000056",
-          "parentCode": "1000010",
-          "jobName": "市场营销/推广",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000057",
+          "parentCode": "9691000056",
+          "show": false,
+          "name": {
+            "zh-CN": "电商运营",
+            "en": "E-commerce Operations",
+            "zh-TW": "電商營運",
+            "ja": "EC運営",
+            "ko": "전자상거래 운영",
+            "ru": "Операции в электронной коммерции"
+          },
+          "children": []
         },
         {
-          "code": "2000057",
-          "parentCode": "1000010",
-          "jobName": "市场调研",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000058",
+          "parentCode": "9691000056",
+          "show": false,
+          "name": {
+            "zh-CN": "新媒体运营",
+            "en": "New Media Operations",
+            "zh-TW": "新媒體營運",
+            "ja": "ニューメディア運営",
+            "ko": "뉴미디어 운영",
+            "ru": "Операции в новых медиа"
+          },
+          "children": []
         },
         {
-          "code": "2000058",
-          "parentCode": "1000010",
-          "jobName": "策划",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000059",
+          "parentCode": "9691000056",
+          "show": true,
+          "name": {
+            "zh-CN": "网络/网站运营",
+            "en": "Web/Site Operations",
+            "zh-TW": "網路/網站營運",
+            "ja": "ウェブサイト運営",
+            "ko": "웹/사이트 운영",
+            "ru": "Веб-операции"
+          },
+          "children": []
         },
         {
-          "code": "2000059",
-          "parentCode": "1000010",
-          "jobName": "广告",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000060",
+          "parentCode": "9691000056",
+          "show": true,
+          "name": {
+            "zh-CN": "互联网运营",
+            "en": "Internet Operations",
+            "zh-TW": "互聯網營運",
+            "ja": "インターネット運営",
+            "ko": "인터넷 운영",
+            "ru": "Интернет-операции"
+          },
+          "children": []
         },
         {
-          "code": "2000060",
-          "parentCode": "1000010",
-          "jobName": "公关媒介",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000061",
+          "parentCode": "9691000056",
+          "show": false,
+          "name": {
+            "zh-CN": "业务运营",
+            "en": "Business Operations",
+            "zh-TW": "業務營運",
+            "ja": "ビジネス運営",
+            "ko": "비즈니스 운영",
+            "ru": "Бизнес-операции"
+          },
+          "children": []
         },
         {
-          "code": "2000061",
-          "parentCode": "1000010",
-          "jobName": "品牌",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000062",
+          "parentCode": "9691000056",
+          "show": false,
+          "name": {
+            "zh-CN": "线下运营",
+            "en": "Offline Operations",
+            "zh-TW": "線下營運",
+            "ja": "オフライン運営",
+            "ko": "오프라인 운영",
+            "ru": "Офлайн-операции"
+          },
+          "children": []
         },
         {
-          "code": "2000150",
-          "parentCode": "1000010",
-          "jobName": "政府事务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000063",
+          "parentCode": "9691000056",
+          "show": false,
+          "name": {
+            "zh-CN": "运营管理",
+            "en": "Operations Management",
+            "zh-TW": "營運管理",
+            "ja": "運営管理",
+            "ko": "운영 관리",
+            "ru": "Управление операциями"
+          },
+          "children": []
         },
         {
-          "code": "2000062",
-          "parentCode": "1000010",
-          "jobName": "会展会务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000064",
+          "parentCode": "9691000056",
+          "show": true,
+          "name": {
+            "zh-CN": "数据分析",
+            "en": "Data Analysis",
+            "zh-TW": "數據分析",
+            "ja": "データ分析",
+            "ko": "데이터 분석",
+            "ru": "Анализ данных"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000065",
+          "parentCode": "9691000056",
+          "show": false,
+          "name": {
+            "zh-CN": "客服",
+            "en": "Customer Service",
+            "zh-TW": "客服",
+            "ja": "カスタマーサービス",
+            "ko": "고객 서비스",
+            "ru": "Поддержка клиентов"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000011",
+      "code": "9691000066",
       "parentCode": null,
-      "jobName": "项目管理",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "市场/公关/广告",
+        "en": "Marketing/PR/Advertising",
+        "zh-TW": "市場/公關/廣告",
+        "ja": "マーケティング・PR・広告",
+        "ko": "마케팅/홍보/광고",
+        "ru": "Маркетинг/PR/Реклама"
+      },
+      "children": [
         {
-          "code": "2000063",
-          "parentCode": "1000011",
-          "jobName": "IT项目管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000067",
+          "parentCode": "9691000066",
+          "show": false,
+          "name": {
+            "zh-CN": "市场营销/推广",
+            "en": "Marketing/Promotion",
+            "zh-TW": "市場行銷/推廣",
+            "ja": "マーケティング・プロモーション",
+            "ko": "마케팅/프로모션",
+            "ru": "Маркетинг/Продвижение"
+          },
+          "children": []
         },
         {
-          "code": "2000064",
-          "parentCode": "1000011",
-          "jobName": "其他项目管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000068",
+          "parentCode": "9691000066",
+          "show": false,
+          "name": {
+            "zh-CN": "市场调研",
+            "en": "Market Research",
+            "zh-TW": "市場調研",
+            "ja": "市場調査",
+            "ko": "시장 조사",
+            "ru": "Исследование рынка"
+          },
+          "children": []
         },
         {
-          "code": "2000065",
-          "parentCode": "1000011",
-          "jobName": "项目管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000069",
+          "parentCode": "9691000066",
+          "show": false,
+          "name": {
+            "zh-CN": "策划",
+            "en": "Planning",
+            "zh-TW": "策劃",
+            "ja": "企画",
+            "ko": "기획",
+            "ru": "Планирование"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000070",
+          "parentCode": "9691000066",
+          "show": false,
+          "name": {
+            "zh-CN": "广告",
+            "en": "Advertising",
+            "zh-TW": "廣告",
+            "ja": "広告",
+            "ko": "광고",
+            "ru": "Реклама"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000071",
+          "parentCode": "9691000066",
+          "show": false,
+          "name": {
+            "zh-CN": "公关媒介",
+            "en": "PR/Media",
+            "zh-TW": "公關媒介",
+            "ja": "PR・メディア",
+            "ko": "홍보/미디어",
+            "ru": "Связи с общественностью/Медиа"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000072",
+          "parentCode": "9691000066",
+          "show": false,
+          "name": {
+            "zh-CN": "品牌",
+            "en": "Branding",
+            "zh-TW": "品牌",
+            "ja": "ブランディング",
+            "ko": "브랜딩",
+            "ru": "Брендинг"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000073",
+          "parentCode": "9691000066",
+          "show": false,
+          "name": {
+            "zh-CN": "政府事务",
+            "en": "Government Affairs",
+            "zh-TW": "政府事務",
+            "ja": "政府関係業務",
+            "ko": "정부 업무",
+            "ru": "Государственные дела"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000074",
+          "parentCode": "9691000066",
+          "show": false,
+          "name": {
+            "zh-CN": "会展会务",
+            "en": "Exhibition & Conference",
+            "zh-TW": "會展會務",
+            "ja": "展示会・会議",
+            "ko": "전시/컨퍼런스",
+            "ru": "Выставки и конференции"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000012",
+      "code": "9691000075",
       "parentCode": null,
-      "jobName": "高级管理",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "项目管理",
+        "en": "Project Management",
+        "zh-TW": "專案管理",
+        "ja": "プロジェクト管理",
+        "ko": "프로젝트 관리",
+        "ru": "Управление проектами"
+      },
+      "children": [
         {
-          "code": "2000066",
-          "parentCode": "1000012",
-          "jobName": "高级管理职位",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000076",
+          "parentCode": "9691000075",
+          "show": true,
+          "name": {
+            "zh-CN": "IT项目管理",
+            "en": "IT Project Management",
+            "zh-TW": "IT專案管理",
+            "ja": "ITプロジェクト管理",
+            "ko": "IT 프로젝트 관리",
+            "ru": "Управление ИТ-проектами"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000077",
+          "parentCode": "9691000075",
+          "show": false,
+          "name": {
+            "zh-CN": "其他项目管理",
+            "en": "Other Project Management",
+            "zh-TW": "其他專案管理",
+            "ja": "その他プロジェクト管理",
+            "ko": "기타 프로젝트 관리",
+            "ru": "Прочее управление проектами"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000078",
+          "parentCode": "9691000075",
+          "show": false,
+          "name": {
+            "zh-CN": "项目管理",
+            "en": "Project Management",
+            "zh-TW": "專案管理",
+            "ja": "プロジェクト管理",
+            "ko": "프로젝트 관리",
+            "ru": "Управление проектами"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000013",
+      "code": "9691000079",
       "parentCode": null,
-      "jobName": "房地产/建筑",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "高级管理",
+        "en": "Senior Management",
+        "zh-TW": "高級管理",
+        "ja": "上級管理職",
+        "ko": "고위 관리",
+        "ru": "Высшее руководство"
+      },
+      "children": [
         {
-          "code": "2000067",
-          "parentCode": "1000013",
-          "jobName": "房地产规划开发",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000001",
-          "parentCode": "1000013",
-          "jobName": "房地产销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000068",
-          "parentCode": "1000013",
-          "jobName": "物业管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000069",
-          "parentCode": "1000013",
-          "jobName": "建筑/规划设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000070",
-          "parentCode": "1000013",
-          "jobName": "装饰/装修",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000071",
-          "parentCode": "1000013",
-          "jobName": "建筑工程",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000072",
-          "parentCode": "1000013",
-          "jobName": "安装工程",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000073",
-          "parentCode": "1000013",
-          "jobName": "工程管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000074",
-          "parentCode": "1000013",
-          "jobName": "工程安全/质检",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000075",
-          "parentCode": "1000013",
-          "jobName": "施工员",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000080",
+          "parentCode": "9691000079",
+          "show": false,
+          "name": {
+            "zh-CN": "高级管理职位",
+            "en": "Senior Management Position",
+            "zh-TW": "高級管理職位",
+            "ja": "上級管理職ポジション",
+            "ko": "고위 관리직",
+            "ru": "Должность высшего руководства"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000014",
+      "code": "9691000081",
       "parentCode": null,
-      "jobName": "金融",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "房地产/建筑",
+        "en": "Real Estate/Construction",
+        "zh-TW": "房地產/建築",
+        "ja": "不動産・建設",
+        "ko": "부동산/건설",
+        "ru": "Недвижимость/Строительство"
+      },
+      "children": [
         {
-          "code": "2000076",
-          "parentCode": "1000014",
-          "jobName": "保险",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000082",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "房地产规划开发",
+            "en": "Real Estate Planning & Development",
+            "zh-TW": "房地產規劃開發",
+            "ja": "不動産企画・開発",
+            "ko": "부동산 기획/개발",
+            "ru": "Планирование и развитие недвижимости"
+          },
+          "children": []
         },
         {
-          "code": "2000077",
-          "parentCode": "1000014",
-          "jobName": "银行/金融服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000002",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "房地产销售",
+            "en": "Real Estate Sales",
+            "zh-TW": "房地產銷售",
+            "ja": "不動産営業",
+            "ko": "부동산 영업",
+            "ru": "Продажи недвижимости"
+          },
+          "children": []
         },
         {
-          "code": "2000078",
-          "parentCode": "1000014",
-          "jobName": "投融资",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000083",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "物业管理",
+            "en": "Property Management",
+            "zh-TW": "物業管理",
+            "ja": "不動産管理",
+            "ko": "부동산 관리",
+            "ru": "Управление недвижимостью"
+          },
+          "children": []
         },
         {
-          "code": "2000079",
-          "parentCode": "1000014",
-          "jobName": "证券/基金/期货",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000084",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "建筑/规划设计",
+            "en": "Architecture/Planning Design",
+            "zh-TW": "建築/規劃設計",
+            "ja": "建築・計画設計",
+            "ko": "건축/계획 설계",
+            "ru": "Архитектура/Проектирование"
+          },
+          "children": []
         },
         {
-          "code": "2000080",
-          "parentCode": "1000014",
-          "jobName": "信托/担保/拍卖/典当",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000085",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "装饰/装修",
+            "en": "Decoration/Renovation",
+            "zh-TW": "裝飾/裝修",
+            "ja": "内装・リフォーム",
+            "ko": "인테리어/리모델링",
+            "ru": "Декорирование/Ремонт"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000086",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "建筑工程",
+            "en": "Construction Engineering",
+            "zh-TW": "建築工程",
+            "ja": "建設工事",
+            "ko": "건설 공학",
+            "ru": "Строительная инженерия"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000087",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "安装工程",
+            "en": "Installation Engineering",
+            "zh-TW": "安裝工程",
+            "ja": "設備工事",
+            "ko": "설치 공학",
+            "ru": "Монтажные работы"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000088",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "工程管理",
+            "en": "Engineering Management",
+            "zh-TW": "工程管理",
+            "ja": "工事管理",
+            "ko": "공학 관리",
+            "ru": "Управление инженерными работами"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000089",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "工程安全/质检",
+            "en": "Engineering Safety/Quality Inspection",
+            "zh-TW": "工程安全/質檢",
+            "ja": "工事安全・品質検査",
+            "ko": "공학 안전/품질검사",
+            "ru": "Безопасность/Контроль качества в строительстве"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000090",
+          "parentCode": "9691000081",
+          "show": false,
+          "name": {
+            "zh-CN": "施工员",
+            "en": "Construction Worker",
+            "zh-TW": "施工員",
+            "ja": "施工管理者",
+            "ko": "시공 기사",
+            "ru": "Строитель"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000015",
+      "code": "9691000091",
       "parentCode": null,
-      "jobName": "采购/贸易",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "金融",
+        "en": "Finance",
+        "zh-TW": "金融",
+        "ja": "金融",
+        "ko": "금융",
+        "ru": "Финансы"
+      },
+      "children": [
         {
-          "code": "2000081",
-          "parentCode": "1000015",
-          "jobName": "采购",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000092",
+          "parentCode": "9691000091",
+          "show": false,
+          "name": {
+            "zh-CN": "保险",
+            "en": "Insurance",
+            "zh-TW": "保險",
+            "ja": "保険",
+            "ko": "보험",
+            "ru": "Страхование"
+          },
+          "children": []
         },
         {
-          "code": "2000082",
-          "parentCode": "1000015",
-          "jobName": "进出口贸易",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000093",
+          "parentCode": "9691000091",
+          "show": false,
+          "name": {
+            "zh-CN": "银行/金融服务",
+            "en": "Banking/Financial Services",
+            "zh-TW": "銀行/金融服務",
+            "ja": "銀行・金融サービス",
+            "ko": "은행/금융 서비스",
+            "ru": "Банковские/Финансовые услуги"
+          },
+          "children": []
         },
         {
-          "code": "2000083",
-          "parentCode": "1000015",
-          "jobName": "招投标",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000094",
+          "parentCode": "9691000091",
+          "show": false,
+          "name": {
+            "zh-CN": "投融资",
+            "en": "Investment & Financing",
+            "zh-TW": "投融資",
+            "ja": "投資・融資",
+            "ko": "투자/금융",
+            "ru": "Инвестиции и финансирование"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000095",
+          "parentCode": "9691000091",
+          "show": false,
+          "name": {
+            "zh-CN": "证券/基金/期货",
+            "en": "Securities/Funds/Futures",
+            "zh-TW": "證券/基金/期貨",
+            "ja": "証券・ファンド・先物",
+            "ko": "증권/펀드/선물",
+            "ru": "Ценные бумаги/Фонды/Фьючерсы"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000096",
+          "parentCode": "9691000091",
+          "show": false,
+          "name": {
+            "zh-CN": "信托/担保/拍卖/典当",
+            "en": "Trust/Guarantee/Auction/Pawn",
+            "zh-TW": "信託/擔保/拍賣/典當",
+            "ja": "信託・保証・競売・質屋",
+            "ko": "신탁/보증/경매/전당",
+            "ru": "Траст/Гарантии/Аукцион/Ломбард"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000016",
+      "code": "9691000097",
       "parentCode": null,
-      "jobName": "物流/仓储/司机",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "采购/贸易",
+        "en": "Procurement/Trade",
+        "zh-TW": "採購/貿易",
+        "ja": "購買・貿易",
+        "ko": "구매/무역",
+        "ru": "Закупки/Торговля"
+      },
+      "children": [
         {
-          "code": "2000084",
-          "parentCode": "1000016",
-          "jobName": "物流",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000098",
+          "parentCode": "9691000097",
+          "show": false,
+          "name": {
+            "zh-CN": "采购",
+            "en": "Procurement",
+            "zh-TW": "採購",
+            "ja": "購買",
+            "ko": "구매",
+            "ru": "Закупки"
+          },
+          "children": []
         },
         {
-          "code": "2000087",
-          "parentCode": "1000016",
-          "jobName": "配送理货",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000099",
+          "parentCode": "9691000097",
+          "show": false,
+          "name": {
+            "zh-CN": "进出口贸易",
+            "en": "Import/Export Trade",
+            "zh-TW": "進出口貿易",
+            "ja": "輸出入貿易",
+            "ko": "수출입 무역",
+            "ru": "Импортно-экспортная торговля"
+          },
+          "children": []
         },
         {
-          "code": "2000088",
-          "parentCode": "1000016",
-          "jobName": "驾驶员",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000089",
-          "parentCode": "1000016",
-          "jobName": "乘务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000086",
-          "parentCode": "1000016",
-          "jobName": "仓储",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000085",
-          "parentCode": "1000016",
-          "jobName": "供应链",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000100",
+          "parentCode": "9691000097",
+          "show": false,
+          "name": {
+            "zh-CN": "招投标",
+            "en": "Bidding & Tendering",
+            "zh-TW": "招投標",
+            "ja": "入札",
+            "ko": "입찰",
+            "ru": "Тендеры и закупки"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000017",
+      "code": "9691000101",
       "parentCode": null,
-      "jobName": "汽车",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "物流/仓储/司机",
+        "en": "Logistics/Warehousing/Driver",
+        "zh-TW": "物流/倉儲/司機",
+        "ja": "物流・倉庫・ドライバー",
+        "ko": "물류/창고/운전사",
+        "ru": "Логистика/Склад/Водитель"
+      },
+      "children": [
         {
-          "code": "2000090",
-          "parentCode": "1000017",
-          "jobName": "汽车设计/制造",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000102",
+          "parentCode": "9691000101",
+          "show": false,
+          "name": {
+            "zh-CN": "物流",
+            "en": "Logistics",
+            "zh-TW": "物流",
+            "ja": "物流",
+            "ko": "물류",
+            "ru": "Логистика"
+          },
+          "children": []
         },
         {
-          "code": "2000148",
-          "parentCode": "1000017",
-          "jobName": "新能源汽车",
-          "jobNameEn": "",
-          "deleted": false,
-          "sublist": []
+          "code": "9691000103",
+          "parentCode": "9691000101",
+          "show": false,
+          "name": {
+            "zh-CN": "配送理货",
+            "en": "Delivery & Sorting",
+            "zh-TW": "配送理貨",
+            "ja": "配送・仕分け",
+            "ko": "배송/분류",
+            "ru": "Доставка и сортировка"
+          },
+          "children": []
         },
         {
-          "code": "2000091",
-          "parentCode": "1000017",
-          "jobName": "汽车服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000104",
+          "parentCode": "9691000101",
+          "show": false,
+          "name": {
+            "zh-CN": "驾驶员",
+            "en": "Driver",
+            "zh-TW": "駕駛員",
+            "ja": "ドライバー",
+            "ko": "운전사",
+            "ru": "Водитель"
+          },
+          "children": []
         },
         {
-          "code": "2000005",
-          "parentCode": "1000017",
-          "jobName": "汽车销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000105",
+          "parentCode": "9691000101",
+          "show": false,
+          "name": {
+            "zh-CN": "乘务",
+            "en": "Cabin/Crew Service",
+            "zh-TW": "乘務",
+            "ja": "客室乗務",
+            "ko": "승무",
+            "ru": "Бортпроводник/Проводник"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000106",
+          "parentCode": "9691000101",
+          "show": false,
+          "name": {
+            "zh-CN": "仓储",
+            "en": "Warehousing",
+            "zh-TW": "倉儲",
+            "ja": "倉庫管理",
+            "ko": "창고 관리",
+            "ru": "Складское хозяйство"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000107",
+          "parentCode": "9691000101",
+          "show": false,
+          "name": {
+            "zh-CN": "供应链",
+            "en": "Supply Chain",
+            "zh-TW": "供應鏈",
+            "ja": "サプライチェーン",
+            "ko": "공급망",
+            "ru": "Цепочка поставок"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000028",
+      "code": "9691000108",
       "parentCode": null,
-      "jobName": "普工/技工",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "汽车",
+        "en": "Automotive",
+        "zh-TW": "汽車",
+        "ja": "自動車",
+        "ko": "자동차",
+        "ru": "Автомобили"
+      },
+      "children": [
         {
-          "code": "2000156",
-          "parentCode": "1000028",
-          "jobName": "普工",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000109",
+          "parentCode": "9691000108",
+          "show": false,
+          "name": {
+            "zh-CN": "汽车设计/制造",
+            "en": "Automotive Design/Manufacturing",
+            "zh-TW": "汽車設計/製造",
+            "ja": "自動車設計・製造",
+            "ko": "자동차 설계/제조",
+            "ru": "Дизайн/Производство автомобилей"
+          },
+          "children": []
         },
         {
-          "code": "2000157",
-          "parentCode": "1000028",
-          "jobName": "机械加工",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000110",
+          "parentCode": "9691000108",
+          "show": false,
+          "name": {
+            "zh-CN": "新能源汽车",
+            "en": "New Energy Vehicles",
+            "zh-TW": "新能源汽車",
+            "ja": "新エネルギー車",
+            "ko": "신에너지 자동차",
+            "ru": "Автомобили на новой энергии"
+          },
+          "children": []
         },
         {
-          "code": "2000158",
-          "parentCode": "1000028",
-          "jobName": "技工",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000111",
+          "parentCode": "9691000108",
+          "show": false,
+          "name": {
+            "zh-CN": "汽车服务",
+            "en": "Automotive Service",
+            "zh-TW": "汽車服務",
+            "ja": "自動車サービス",
+            "ko": "자동차 서비스",
+            "ru": "Автосервис"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000006",
+          "parentCode": "9691000108",
+          "show": false,
+          "name": {
+            "zh-CN": "汽车销售",
+            "en": "Auto Sales",
+            "zh-TW": "汽車銷售",
+            "ja": "自動車営業",
+            "ko": "자동차 영업",
+            "ru": "Продажи автомобилей"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000018",
+      "code": "9691000112",
       "parentCode": null,
-      "jobName": "生产制造",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "普工/技工",
+        "en": "General/Skilled Workers",
+        "zh-TW": "普工/技工",
+        "ja": "一般工・技能工",
+        "ko": "일반공/기능공",
+        "ru": "Разнорабочие/Квалифицированные рабочие"
+      },
+      "children": [
         {
-          "code": "2000092",
-          "parentCode": "1000018",
-          "jobName": "机械设计/制造",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000113",
+          "parentCode": "9691000112",
+          "show": false,
+          "name": {
+            "zh-CN": "普工",
+            "en": "General Worker",
+            "zh-TW": "普工",
+            "ja": "一般工",
+            "ko": "일반공",
+            "ru": "Разнорабочий"
+          },
+          "children": []
         },
         {
-          "code": "2000093",
-          "parentCode": "1000018",
-          "jobName": "其他机械设计/制造",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000114",
+          "parentCode": "9691000112",
+          "show": false,
+          "name": {
+            "zh-CN": "机械加工",
+            "en": "Machining",
+            "zh-TW": "機械加工",
+            "ja": "機械加工",
+            "ko": "기계 가공",
+            "ru": "Механическая обработка"
+          },
+          "children": []
         },
         {
-          "code": "2000094",
-          "parentCode": "1000018",
-          "jobName": "新能源",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000095",
-          "parentCode": "1000018",
-          "jobName": "化工/食品",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000096",
-          "parentCode": "1000018",
-          "jobName": "服装/纺织/皮革",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000097",
-          "parentCode": "1000018",
-          "jobName": "印刷包装",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000098",
-          "parentCode": "1000018",
-          "jobName": "飞机/船舶/轨道交通",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000099",
-          "parentCode": "1000018",
-          "jobName": "生产管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000100",
-          "parentCode": "1000018",
-          "jobName": "生产质量管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000101",
-          "parentCode": "1000018",
-          "jobName": "普工/技工",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000115",
+          "parentCode": "9691000112",
+          "show": false,
+          "name": {
+            "zh-CN": "技工",
+            "en": "Skilled Worker/Technician",
+            "zh-TW": "技工",
+            "ja": "技能工",
+            "ko": "기능공",
+            "ru": "Квалифицированный рабочий"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000019",
+      "code": "9691000116",
       "parentCode": null,
-      "jobName": "能源/环保",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "生产制造",
+        "en": "Manufacturing & Production",
+        "zh-TW": "生產製造",
+        "ja": "生産製造",
+        "ko": "생산 제조",
+        "ru": "Производство"
+      },
+      "children": [
         {
-          "code": "2000102",
-          "parentCode": "1000019",
-          "jobName": "能源/矿产/地质",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000117",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "机械设计/制造",
+            "en": "Mechanical Design/Manufacturing",
+            "zh-TW": "機械設計/製造",
+            "ja": "機械設計・製造",
+            "ko": "기계 설계/제조",
+            "ru": "Машиностроение/Производство"
+          },
+          "children": []
         },
         {
-          "code": "2000103",
-          "parentCode": "1000019",
-          "jobName": "环境科学/环保",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000118",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "其他机械设计/制造",
+            "en": "Other Mechanical Design/Mfg",
+            "zh-TW": "其他機械設計/製造",
+            "ja": "その他機械設計・製造",
+            "ko": "기타 기계 설계/제조",
+            "ru": "Прочее машиностроение"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000119",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "新能源",
+            "en": "New Energy",
+            "zh-TW": "新能源",
+            "ja": "新エネルギー",
+            "ko": "신에너지",
+            "ru": "Новая энергетика"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000120",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "化工/食品",
+            "en": "Chemical/Food",
+            "zh-TW": "化工/食品",
+            "ja": "化学・食品",
+            "ko": "화학/식품",
+            "ru": "Химия/Пищевая промышленность"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000121",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "服装/纺织/皮革",
+            "en": "Apparel/Textile/Leather",
+            "zh-TW": "服裝/紡織/皮革",
+            "ja": "アパレル・繊維・皮革",
+            "ko": "의류/섬유/가죽",
+            "ru": "Одежда/Текстиль/Кожа"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000122",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "印刷包装",
+            "en": "Printing & Packaging",
+            "zh-TW": "印刷包裝",
+            "ja": "印刷・包装",
+            "ko": "인쇄/포장",
+            "ru": "Печать и упаковка"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000123",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "飞机/船舶/轨道交通",
+            "en": "Aircraft/Ship/Rail Transit",
+            "zh-TW": "飛機/船舶/軌道交通",
+            "ja": "航空機・船舶・鉄道",
+            "ko": "항공기/선박/철도교통",
+            "ru": "Авиация/Судостроение/Железнодорожный транспорт"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000124",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "生产管理",
+            "en": "Production Management",
+            "zh-TW": "生產管理",
+            "ja": "生産管理",
+            "ko": "생산 관리",
+            "ru": "Управление производством"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000125",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "生产质量管理",
+            "en": "Production Quality Management",
+            "zh-TW": "生產品質管理",
+            "ja": "生産品質管理",
+            "ko": "생산 품질 관리",
+            "ru": "Управление качеством производства"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000126",
+          "parentCode": "9691000116",
+          "show": false,
+          "name": {
+            "zh-CN": "普工/技工",
+            "en": "General/Skilled Workers",
+            "zh-TW": "普工/技工",
+            "ja": "一般工・技能工",
+            "ko": "일반공/기능공",
+            "ru": "Разнорабочие/Квалифицированные рабочие"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000020",
+      "code": "9691000127",
       "parentCode": null,
-      "jobName": "农/林/牧/渔",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "能源/环保",
+        "en": "Energy/Environmental Protection",
+        "zh-TW": "能源/環保",
+        "ja": "エネルギー・環境保護",
+        "ko": "에너지/환경보호",
+        "ru": "Энергетика/Охрана окружающей среды"
+      },
+      "children": [
         {
-          "code": "2000104",
-          "parentCode": "1000020",
-          "jobName": "农业/林业",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000128",
+          "parentCode": "9691000127",
+          "show": false,
+          "name": {
+            "zh-CN": "能源/矿产/地质",
+            "en": "Energy/Mining/Geology",
+            "zh-TW": "能源/礦產/地質",
+            "ja": "エネルギー・鉱業・地質",
+            "ko": "에너지/광업/지질",
+            "ru": "Энергетика/Горное дело/Геология"
+          },
+          "children": []
         },
         {
-          "code": "2000105",
-          "parentCode": "1000020",
-          "jobName": "畜牧/渔业",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000129",
+          "parentCode": "9691000127",
+          "show": false,
+          "name": {
+            "zh-CN": "环境科学/环保",
+            "en": "Environmental Science/Protection",
+            "zh-TW": "環境科學/環保",
+            "ja": "環境科学・環境保護",
+            "ko": "환경과학/환경보호",
+            "ru": "Наука об окружающей среде/Экология"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000021",
+      "code": "9691000130",
       "parentCode": null,
-      "jobName": "医疗健康",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "农/林/牧/渔",
+        "en": "Agriculture/Forestry/Husbandry/Fishery",
+        "zh-TW": "農/林/牧/漁",
+        "ja": "農林牧漁",
+        "ko": "농업/임업/목축업/어업",
+        "ru": "Сельское/Лесное/Животноводство/Рыболовство"
+      },
+      "children": [
         {
-          "code": "2000106",
-          "parentCode": "1000021",
-          "jobName": "生物/医药研发",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000131",
+          "parentCode": "9691000130",
+          "show": false,
+          "name": {
+            "zh-CN": "农业/林业",
+            "en": "Agriculture/Forestry",
+            "zh-TW": "農業/林業",
+            "ja": "農業・林業",
+            "ko": "농업/임업",
+            "ru": "Сельское/Лесное хозяйство"
+          },
+          "children": []
         },
         {
-          "code": "2000107",
-          "parentCode": "1000021",
-          "jobName": "临床研究/试验",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000108",
-          "parentCode": "1000021",
-          "jobName": "医药市场/销售",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000109",
-          "parentCode": "1000021",
-          "jobName": "医疗器械",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000110",
-          "parentCode": "1000021",
-          "jobName": "医生/药剂师",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000111",
-          "parentCode": "1000021",
-          "jobName": "护士/医助",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000112",
-          "parentCode": "1000021",
-          "jobName": "医务管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000113",
-          "parentCode": "1000021",
-          "jobName": "药店",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000114",
-          "parentCode": "1000021",
-          "jobName": "健康整形",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000132",
+          "parentCode": "9691000130",
+          "show": false,
+          "name": {
+            "zh-CN": "畜牧/渔业",
+            "en": "Animal Husbandry/Fishery",
+            "zh-TW": "畜牧/漁業",
+            "ja": "畜産・漁業",
+            "ko": "축산/어업",
+            "ru": "Животноводство/Рыболовство"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000022",
+      "code": "9691000133",
       "parentCode": null,
-      "jobName": "教育培训",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "医疗健康",
+        "en": "Healthcare & Medical",
+        "zh-TW": "醫療健康",
+        "ja": "医療・健康",
+        "ko": "의료/건강",
+        "ru": "Здравоохранение"
+      },
+      "children": [
         {
-          "code": "2000115",
-          "parentCode": "1000022",
-          "jobName": "早教/幼教",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000134",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "生物/医药研发",
+            "en": "Biotech/Pharma R&D",
+            "zh-TW": "生物/醫藥研發",
+            "ja": "バイオ・医薬品研究開発",
+            "ko": "생물/의약 연구개발",
+            "ru": "Биотех/Фармацевтические исследования"
+          },
+          "children": []
         },
         {
-          "code": "2000116",
-          "parentCode": "1000022",
-          "jobName": "中小学教育",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000135",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "临床研究/试验",
+            "en": "Clinical Research/Trials",
+            "zh-TW": "臨床研究/試驗",
+            "ja": "臨床研究・治験",
+            "ko": "임상 연구/시험",
+            "ru": "Клинические исследования/Испытания"
+          },
+          "children": []
         },
         {
-          "code": "2000117",
-          "parentCode": "1000022",
-          "jobName": "高等教育",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000136",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "医药市场/销售",
+            "en": "Pharma Marketing/Sales",
+            "zh-TW": "醫藥市場/銷售",
+            "ja": "医薬品マーケティング・営業",
+            "ko": "의약품 마케팅/영업",
+            "ru": "Фармацевтический маркетинг/Продажи"
+          },
+          "children": []
         },
         {
-          "code": "2000118",
-          "parentCode": "1000022",
-          "jobName": "才艺特长培训",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000137",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "医疗器械",
+            "en": "Medical Devices",
+            "zh-TW": "醫療器械",
+            "ja": "医療機器",
+            "ko": "의료기기",
+            "ru": "Медицинское оборудование"
+          },
+          "children": []
         },
         {
-          "code": "2000119",
-          "parentCode": "1000022",
-          "jobName": "语言培训",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000138",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "医生/药剂师",
+            "en": "Doctor/Pharmacist",
+            "zh-TW": "醫生/藥劑師",
+            "ja": "医師・薬剤師",
+            "ko": "의사/약사",
+            "ru": "Врач/Фармацевт"
+          },
+          "children": []
         },
         {
-          "code": "2000120",
-          "parentCode": "1000022",
-          "jobName": "留学辅导",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000139",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "护士/医助",
+            "en": "Nurse/Medical Assistant",
+            "zh-TW": "護士/醫助",
+            "ja": "看護師・医療助手",
+            "ko": "간호사/의료보조",
+            "ru": "Медсестра/Фельдшер"
+          },
+          "children": []
         },
         {
-          "code": "2000121",
-          "parentCode": "1000022",
-          "jobName": "IT培训",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000140",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "医务管理",
+            "en": "Medical Administration",
+            "zh-TW": "醫務管理",
+            "ja": "医療管理",
+            "ko": "의무 관리",
+            "ru": "Медицинское администрирование"
+          },
+          "children": []
         },
         {
-          "code": "2000122",
-          "parentCode": "1000022",
-          "jobName": "职业培训",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000141",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "药店",
+            "en": "Pharmacy",
+            "zh-TW": "藥店",
+            "ja": "薬局",
+            "ko": "약국",
+            "ru": "Аптека"
+          },
+          "children": []
         },
         {
-          "code": "2000123",
-          "parentCode": "1000022",
-          "jobName": "教务管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000124",
-          "parentCode": "1000022",
-          "jobName": "特殊教育",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000125",
-          "parentCode": "1000022",
-          "jobName": "科研/学术研究",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000142",
+          "parentCode": "9691000133",
+          "show": false,
+          "name": {
+            "zh-CN": "健康整形",
+            "en": "Aesthetic & Cosmetic Medicine",
+            "zh-TW": "健康整形",
+            "ja": "美容整形",
+            "ko": "건강 성형",
+            "ru": "Эстетическая медицина"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000023",
+      "code": "9691000143",
       "parentCode": null,
-      "jobName": "直播/影视/传媒",
-      "jobNameEn": "Live Streaming/Film and Television/Media",
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "教育培训",
+        "en": "Education & Training",
+        "zh-TW": "教育培訓",
+        "ja": "教育・研修",
+        "ko": "교육 훈련",
+        "ru": "Образование и обучение"
+      },
+      "children": [
         {
-          "code": "2000126",
-          "parentCode": "1000023",
-          "jobName": "影视制作",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000144",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "早教/幼教",
+            "en": "Early Childhood Education",
+            "zh-TW": "早教/幼教",
+            "ja": "幼児教育",
+            "ko": "조기/유아 교육",
+            "ru": "Раннее/Дошкольное образование"
+          },
+          "children": []
         },
         {
-          "code": "2000127",
-          "parentCode": "1000023",
-          "jobName": "采编/写作/出版",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000145",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "中小学教育",
+            "en": "K-12 Education",
+            "zh-TW": "中小學教育",
+            "ja": "小中学校教育",
+            "ko": "초중등 교육",
+            "ru": "Школьное образование"
+          },
+          "children": []
         },
         {
-          "code": "2000128",
-          "parentCode": "1000023",
-          "jobName": "主播/演艺人员/经纪人",
-          "jobNameEn": "Streamer/Artist/Agent",
-          "deleted": false,
-          "sublist": []
+          "code": "9691000146",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "高等教育",
+            "en": "Higher Education",
+            "zh-TW": "高等教育",
+            "ja": "高等教育",
+            "ko": "고등 교육",
+            "ru": "Высшее образование"
+          },
+          "children": []
         },
         {
-          "code": "2000059",
-          "parentCode": "1000023",
-          "jobName": "广告",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000147",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "才艺特长培训",
+            "en": "Talent & Specialty Training",
+            "zh-TW": "才藝特長培訓",
+            "ja": "才能・特技トレーニング",
+            "ko": "재능/특기 훈련",
+            "ru": "Обучение талантам и навыкам"
+          },
+          "children": []
         },
         {
-          "code": "2000060",
-          "parentCode": "1000023",
-          "jobName": "公关媒介",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000148",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "语言培训",
+            "en": "Language Training",
+            "zh-TW": "語言培訓",
+            "ja": "語学研修",
+            "ko": "언어 훈련",
+            "ru": "Языковое обучение"
+          },
+          "children": []
         },
         {
-          "code": "2000129",
-          "parentCode": "1000023",
-          "jobName": "舞美设计",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000149",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "留学辅导",
+            "en": "Study Abroad Counseling",
+            "zh-TW": "留學輔導",
+            "ja": "留学カウンセリング",
+            "ko": "유학 상담",
+            "ru": "Консультирование по обучению за рубежом"
+          },
+          "children": []
         },
         {
-          "code": "2000130",
-          "parentCode": "1000023",
-          "jobName": "场务/剧务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000150",
+          "parentCode": "9691000143",
+          "show": true,
+          "name": {
+            "zh-CN": "IT培训",
+            "en": "IT Training",
+            "zh-TW": "IT培訓",
+            "ja": "IT研修",
+            "ko": "IT 훈련",
+            "ru": "ИТ-обучение"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000151",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "职业培训",
+            "en": "Vocational Training",
+            "zh-TW": "職業培訓",
+            "ja": "職業訓練",
+            "ko": "직업 훈련",
+            "ru": "Профессиональное обучение"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000152",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "教务管理",
+            "en": "Academic Affairs Management",
+            "zh-TW": "教務管理",
+            "ja": "教務管理",
+            "ko": "교무 관리",
+            "ru": "Управление учебной деятельностью"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000153",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "特殊教育",
+            "en": "Special Education",
+            "zh-TW": "特殊教育",
+            "ja": "特別支援教育",
+            "ko": "특수 교육",
+            "ru": "Специальное образование"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000154",
+          "parentCode": "9691000143",
+          "show": false,
+          "name": {
+            "zh-CN": "科研/学术研究",
+            "en": "Research & Academic Studies",
+            "zh-TW": "科研/學術研究",
+            "ja": "科学研究・学術研究",
+            "ko": "과학/학술 연구",
+            "ru": "Научные/Академические исследования"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000024",
+      "code": "9691000155",
       "parentCode": null,
-      "jobName": "咨询/翻译/法律",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "直播/影视/传媒",
+        "en": "Live Streaming/Film & TV/Media",
+        "zh-TW": "直播/影視/傳媒",
+        "ja": "ライブ配信・映像・メディア",
+        "ko": "라이브스트리밍/영상/미디어",
+        "ru": "Стриминг/Кино и ТВ/Медиа"
+      },
+      "children": [
         {
-          "code": "2000131",
-          "parentCode": "1000024",
-          "jobName": "咨询服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000156",
+          "parentCode": "9691000155",
+          "show": false,
+          "name": {
+            "zh-CN": "影视制作",
+            "en": "Film & TV Production",
+            "zh-TW": "影視製作",
+            "ja": "映像制作",
+            "ko": "영상 제작",
+            "ru": "Кино- и телепроизводство"
+          },
+          "children": []
         },
         {
-          "code": "2000132",
-          "parentCode": "1000024",
-          "jobName": "翻译服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000157",
+          "parentCode": "9691000155",
+          "show": false,
+          "name": {
+            "zh-CN": "采编/写作/出版",
+            "en": "Editing/Writing/Publishing",
+            "zh-TW": "採編/寫作/出版",
+            "ja": "取材編集・執筆・出版",
+            "ko": "취재편집/작문/출판",
+            "ru": "Редактура/Писательство/Издательство"
+          },
+          "children": []
         },
         {
-          "code": "2000133",
-          "parentCode": "1000024",
-          "jobName": "法律服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000158",
+          "parentCode": "9691000155",
+          "show": false,
+          "name": {
+            "zh-CN": "主播/演艺人员/经纪人",
+            "en": "Streamer/Performer/Agent",
+            "zh-TW": "主播/演藝人員/經紀人",
+            "ja": "配信者・芸能人・マネージャー",
+            "ko": "스트리머/연예인/매니저",
+            "ru": "Стример/Артист/Агент"
+          },
+          "children": []
         },
         {
-          "code": "2000134",
-          "parentCode": "1000024",
-          "jobName": "其他服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000070",
+          "parentCode": "9691000155",
+          "show": false,
+          "name": {
+            "zh-CN": "广告",
+            "en": "Advertising",
+            "zh-TW": "廣告",
+            "ja": "広告",
+            "ko": "광고",
+            "ru": "Реклама"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000071",
+          "parentCode": "9691000155",
+          "show": false,
+          "name": {
+            "zh-CN": "公关媒介",
+            "en": "PR/Media",
+            "zh-TW": "公關媒介",
+            "ja": "PR・メディア",
+            "ko": "홍보/미디어",
+            "ru": "Связи с общественностью/Медиа"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000159",
+          "parentCode": "9691000155",
+          "show": false,
+          "name": {
+            "zh-CN": "舞美设计",
+            "en": "Stage Art Design",
+            "zh-TW": "舞美設計",
+            "ja": "舞台美術デザイン",
+            "ko": "무대 미술 디자인",
+            "ru": "Сценический дизайн"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000160",
+          "parentCode": "9691000155",
+          "show": false,
+          "name": {
+            "zh-CN": "场务/剧务",
+            "en": "Stage/Production Crew",
+            "zh-TW": "場務/劇務",
+            "ja": "舞台スタッフ・制作進行",
+            "ko": "무대/제작 스태프",
+            "ru": "Персонал сцены/Съёмочной группы"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000025",
+      "code": "9691000161",
       "parentCode": null,
-      "jobName": "生活服务",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "咨询/翻译/法律",
+        "en": "Consulting/Translation/Legal",
+        "zh-TW": "諮詢/翻譯/法律",
+        "ja": "コンサル・翻訳・法務",
+        "ko": "컨설팅/번역/법률",
+        "ru": "Консалтинг/Перевод/Юриспруденция"
+      },
+      "children": [
         {
-          "code": "2000135",
-          "parentCode": "1000025",
-          "jobName": "餐饮服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000162",
+          "parentCode": "9691000161",
+          "show": false,
+          "name": {
+            "zh-CN": "咨询服务",
+            "en": "Consulting Services",
+            "zh-TW": "諮詢服務",
+            "ja": "コンサルティング",
+            "ko": "컨설팅 서비스",
+            "ru": "Консультационные услуги"
+          },
+          "children": []
         },
         {
-          "code": "2000136",
-          "parentCode": "1000025",
-          "jobName": "零售百货",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000163",
+          "parentCode": "9691000161",
+          "show": false,
+          "name": {
+            "zh-CN": "翻译服务",
+            "en": "Translation Services",
+            "zh-TW": "翻譯服務",
+            "ja": "翻訳サービス",
+            "ko": "번역 서비스",
+            "ru": "Услуги перевода"
+          },
+          "children": []
         },
         {
-          "code": "2000137",
-          "parentCode": "1000025",
-          "jobName": "安保服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000164",
+          "parentCode": "9691000161",
+          "show": false,
+          "name": {
+            "zh-CN": "法律服务",
+            "en": "Legal Services",
+            "zh-TW": "法律服務",
+            "ja": "法律サービス",
+            "ko": "법률 서비스",
+            "ru": "Юридические услуги"
+          },
+          "children": []
         },
         {
-          "code": "2000138",
-          "parentCode": "1000025",
-          "jobName": "酒店服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000139",
-          "parentCode": "1000025",
-          "jobName": "家政/维修",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000140",
-          "parentCode": "1000025",
-          "jobName": "旅游服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000141",
-          "parentCode": "1000025",
-          "jobName": "美容/保健",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000142",
-          "parentCode": "1000025",
-          "jobName": "运动健身",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000143",
-          "parentCode": "1000025",
-          "jobName": "宠物服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
-        },
-        {
-          "code": "2000144",
-          "parentCode": "1000025",
-          "jobName": "婚礼/花艺",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000165",
+          "parentCode": "9691000161",
+          "show": false,
+          "name": {
+            "zh-CN": "其他服务",
+            "en": "Other Services",
+            "zh-TW": "其他服務",
+            "ja": "その他サービス",
+            "ko": "기타 서비스",
+            "ru": "Прочие услуги"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000027",
+      "code": "9691000166",
       "parentCode": null,
-      "jobName": "餐饮",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "生活服务",
+        "en": "Life Services",
+        "zh-TW": "生活服務",
+        "ja": "生活サービス",
+        "ko": "생활 서비스",
+        "ru": "Бытовые услуги"
+      },
+      "children": [
         {
-          "code": "2000151",
-          "parentCode": "1000027",
-          "jobName": "前厅",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000167",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "餐饮服务",
+            "en": "Catering Services",
+            "zh-TW": "餐飲服務",
+            "ja": "飲食サービス",
+            "ko": "요식 서비스",
+            "ru": "Общественное питание"
+          },
+          "children": []
         },
         {
-          "code": "2000152",
-          "parentCode": "1000027",
-          "jobName": "厨师",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000168",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "零售百货",
+            "en": "Retail & Department Store",
+            "zh-TW": "零售百貨",
+            "ja": "小売・百貨店",
+            "ko": "소매/백화점",
+            "ru": "Розничная торговля"
+          },
+          "children": []
         },
         {
-          "code": "2000153",
-          "parentCode": "1000027",
-          "jobName": "后厨",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000169",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "安保服务",
+            "en": "Security Services",
+            "zh-TW": "安保服務",
+            "ja": "警備サービス",
+            "ko": "보안 서비스",
+            "ru": "Охранные услуги"
+          },
+          "children": []
         },
         {
-          "code": "2000154",
-          "parentCode": "1000027",
-          "jobName": "甜品饮品",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000170",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "酒店服务",
+            "en": "Hotel Services",
+            "zh-TW": "酒店服務",
+            "ja": "ホテルサービス",
+            "ko": "호텔 서비스",
+            "ru": "Гостиничные услуги"
+          },
+          "children": []
         },
         {
-          "code": "2000155",
-          "parentCode": "1000027",
-          "jobName": "餐饮管理",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000171",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "家政/维修",
+            "en": "Housekeeping/Maintenance",
+            "zh-TW": "家政/維修",
+            "ja": "家事代行・メンテナンス",
+            "ko": "가사/수리",
+            "ru": "Домашнее хозяйство/Ремонт"
+          },
+          "children": []
         },
         {
-          "code": "2000159",
-          "parentCode": "1000027",
-          "jobName": "其他餐饮服务",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000172",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "旅游服务",
+            "en": "Travel Services",
+            "zh-TW": "旅遊服務",
+            "ja": "旅行サービス",
+            "ko": "여행 서비스",
+            "ru": "Туристические услуги"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000173",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "美容/保健",
+            "en": "Beauty & Wellness",
+            "zh-TW": "美容/保健",
+            "ja": "美容・健康",
+            "ko": "미용/건강",
+            "ru": "Красота и оздоровление"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000174",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "运动健身",
+            "en": "Sports & Fitness",
+            "zh-TW": "運動健身",
+            "ja": "スポーツ・フィットネス",
+            "ko": "스포츠/피트니스",
+            "ru": "Спорт и фитнес"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000175",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "宠物服务",
+            "en": "Pet Services",
+            "zh-TW": "寵物服務",
+            "ja": "ペットサービス",
+            "ko": "반려동물 서비스",
+            "ru": "Услуги для домашних животных"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000176",
+          "parentCode": "9691000166",
+          "show": false,
+          "name": {
+            "zh-CN": "婚礼/花艺",
+            "en": "Wedding & Floristry",
+            "zh-TW": "婚禮/花藝",
+            "ja": "ウェディング・フラワー",
+            "ko": "웨딩/플라워",
+            "ru": "Свадьбы/Флористика"
+          },
+          "children": []
         }
       ]
     },
     {
-      "code": "1000026",
+      "code": "9691000177",
       "parentCode": null,
-      "jobName": "管培生/非企业从业者",
-      "jobNameEn": null,
-      "deleted": false,
-      "sublist": [
+      "show": false,
+      "name": {
+        "zh-CN": "餐饮",
+        "en": "Food & Beverage",
+        "zh-TW": "餐飲",
+        "ja": "飲食",
+        "ko": "외식",
+        "ru": "Общественное питание"
+      },
+      "children": [
         {
-          "code": "2000145",
-          "parentCode": "1000026",
-          "jobName": "管培生/储备干部",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000178",
+          "parentCode": "9691000177",
+          "show": false,
+          "name": {
+            "zh-CN": "前厅",
+            "en": "Front of House",
+            "zh-TW": "前廳",
+            "ja": "フロントスタッフ",
+            "ko": "프론트 서비스",
+            "ru": "Зал обслуживания"
+          },
+          "children": []
         },
         {
-          "code": "2000146",
-          "parentCode": "1000026",
-          "jobName": "政府及非盈利机构从业者",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000179",
+          "parentCode": "9691000177",
+          "show": false,
+          "name": {
+            "zh-CN": "厨师",
+            "en": "Chef/Cook",
+            "zh-TW": "廚師",
+            "ja": "料理人・シェフ",
+            "ko": "요리사",
+            "ru": "Повар/Шеф-повар"
+          },
+          "children": []
         },
         {
-          "code": "2000147",
-          "parentCode": "1000026",
-          "jobName": "社工",
-          "jobNameEn": null,
-          "deleted": false,
-          "sublist": []
+          "code": "9691000180",
+          "parentCode": "9691000177",
+          "show": false,
+          "name": {
+            "zh-CN": "后厨",
+            "en": "Kitchen Staff",
+            "zh-TW": "後廚",
+            "ja": "キッチンスタッフ",
+            "ko": "주방 스태프",
+            "ru": "Персонал кухни"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000181",
+          "parentCode": "9691000177",
+          "show": false,
+          "name": {
+            "zh-CN": "甜品饮品",
+            "en": "Desserts & Beverages",
+            "zh-TW": "甜品飲品",
+            "ja": "デザート・ドリンク",
+            "ko": "디저트/음료",
+            "ru": "Десерты и напитки"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000182",
+          "parentCode": "9691000177",
+          "show": false,
+          "name": {
+            "zh-CN": "餐饮管理",
+            "en": "F&B Management",
+            "zh-TW": "餐飲管理",
+            "ja": "飲食管理",
+            "ko": "외식 관리",
+            "ru": "Управление общепитом"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000183",
+          "parentCode": "9691000177",
+          "show": false,
+          "name": {
+            "zh-CN": "其他餐饮服务",
+            "en": "Other F&B Services",
+            "zh-TW": "其他餐飲服務",
+            "ja": "その他飲食サービス",
+            "ko": "기타 외식 서비스",
+            "ru": "Прочие услуги общепита"
+          },
+          "children": []
+        }
+      ]
+    },
+    {
+      "code": "9691000184",
+      "parentCode": null,
+      "show": false,
+      "name": {
+        "zh-CN": "管培生/非企业从业者",
+        "en": "Management Trainee/Non-Corporate",
+        "zh-TW": "管培生/非企業從業者",
+        "ja": "管理研修生・非企業従事者",
+        "ko": "관리연수생/비기업 종사자",
+        "ru": "Стажёр управления/Некорпоративные работники"
+      },
+      "children": [
+        {
+          "code": "9691000185",
+          "parentCode": "9691000184",
+          "show": false,
+          "name": {
+            "zh-CN": "管培生/储备干部",
+            "en": "Management Trainee/Reserve Cadre",
+            "zh-TW": "管培生/儲備幹部",
+            "ja": "管理研修生・幹部候補",
+            "ko": "관리연수생/예비 간부",
+            "ru": "Стажёр управления/Кадровый резерв"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000186",
+          "parentCode": "9691000184",
+          "show": false,
+          "name": {
+            "zh-CN": "政府及非盈利机构从业者",
+            "en": "Government & Non-Profit Worker",
+            "zh-TW": "政府及非營利機構從業者",
+            "ja": "政府・非営利機関従事者",
+            "ko": "정부/비영리기관 종사자",
+            "ru": "Работник госучреждений и НКО"
+          },
+          "children": []
+        },
+        {
+          "code": "9691000187",
+          "parentCode": "9691000184",
+          "show": false,
+          "name": {
+            "zh-CN": "社工",
+            "en": "Social Worker",
+            "zh-TW": "社工",
+            "ja": "ソーシャルワーカー",
+            "ko": "사회복지사",
+            "ru": "Социальный работник"
+          },
+          "children": []
         }
       ]
     }

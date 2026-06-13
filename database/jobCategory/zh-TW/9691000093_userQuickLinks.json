@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 銀行/金融服務（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000093-zh-TW-1",
+      "groupId": "9695277443119",
+      "groupCode": "finance-platforms",
+      "groupName": "金融平台",
+      "sort": 1,
+      "jobCode": "9691000093",
+      "icon": "DollarOutlined",
+      "items": [
+        "东方财富",
+        "同花顺",
+        "雪球"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000093-zh-TW-2",
+      "groupId": "9695048582725",
+      "groupCode": "market-insight",
+      "groupName": "市場洞察",
+      "sort": 2,
+      "jobCode": "9691000093",
+      "icon": "FundOutlined",
+      "items": [
+        "Wind",
+        "彭博",
+        "Choice数据"
+      ]
+    }
+  ]
+}

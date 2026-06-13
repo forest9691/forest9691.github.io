@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 小中学校教育（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000145-ja-1",
+      "groupId": "9695019480267",
+      "groupCode": "edtech",
+      "groupName": "EdTechツール",
+      "sort": 1,
+      "jobCode": "9691000145",
+      "icon": "LaptopOutlined",
+      "items": [
+        "中国大学MOOC",
+        "网易公开课",
+        "智慧树"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000145-ja-2",
+      "groupId": "9695027223874",
+      "groupCode": "office-software",
+      "groupName": "オフィスソフト",
+      "sort": 2,
+      "jobCode": "9691000145",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "钉钉",
+        "微信"
+      ]
+    }
+  ]
+}

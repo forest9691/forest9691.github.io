@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 运动健身（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000174-zh-CN-1",
+      "groupId": "9695845334933",
+      "groupCode": "life-services",
+      "groupName": "生活服务",
+      "sort": 1,
+      "jobCode": "9691000174",
+      "icon": "ShopOutlined",
+      "items": [
+        "美团",
+        "大众点评",
+        "58同城"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000174-zh-CN-2",
+      "groupId": "9695389323100",
+      "groupCode": "communication",
+      "groupName": "沟通协作",
+      "sort": 2,
+      "jobCode": "9691000174",
+      "icon": "MessageOutlined",
+      "items": [
+        "微信",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

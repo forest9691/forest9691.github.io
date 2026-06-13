@@ -1,0 +1,42 @@
+{
+  "categoryName": {
+    "zh-CN": "查询",
+    "en": "Query",
+    "zh-TW": "查詢",
+    "ja": "検索",
+    "ko": "조회",
+    "ru": "Запрос"
+  },
+  "categoryId": "96910000133",
+  "categoryCode": "query",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000046",
+      "title": "查询",
+      "code": "chaxun;query",
+      "url": "https://www.google.com/search?q=查询",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 22
+    },
+    {
+      "id": "3010000000000000000000000000000111",
+      "title": "查询",
+      "code": "chaxun;query",
+      "url": "https://www.google.com/search?q=查询",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000133",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 87
+    }
+  ]
+}

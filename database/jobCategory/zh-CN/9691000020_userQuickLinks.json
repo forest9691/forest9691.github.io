@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 党群/工会（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000020-zh-CN-1",
+      "groupId": "9695438118263",
+      "groupCode": "hr-platforms",
+      "groupName": "人力资源平台",
+      "sort": 1,
+      "jobCode": "9691000020",
+      "icon": "TeamOutlined",
+      "items": [
+        "Boss直聘",
+        "猎聘",
+        "智联招聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000020-zh-CN-2",
+      "groupId": "9695394259262",
+      "groupCode": "office-software",
+      "groupName": "办公软件",
+      "sort": 2,
+      "jobCode": "9691000020",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

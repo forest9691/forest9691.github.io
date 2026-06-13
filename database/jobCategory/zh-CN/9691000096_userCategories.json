@@ -1,0 +1,73 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 信托/担保/拍卖/典当",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-trustinfo-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "trustinfo",
+      "categoryName": "行业资讯",
+      "sort": 2,
+      "parentId": "0",
+      "description": "行业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-trustreg-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "trustreg",
+      "categoryName": "监管法规",
+      "sort": 3,
+      "parentId": "0",
+      "description": "监管法规相关资源",
+      "icon": "icon-shield",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-auction-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "auction",
+      "categoryName": "拍卖平台",
+      "sort": 4,
+      "parentId": "0",
+      "description": "拍卖平台相关资源",
+      "icon": "icon-gavel",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-trustproduct-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "trustproduct",
+      "categoryName": "产品服务",
+      "sort": 5,
+      "parentId": "0",
+      "description": "产品服务相关资源",
+      "icon": "icon-credit-card",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

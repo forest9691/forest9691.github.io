@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Домашнее хозяйство/Ремонт（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000171-ru-1",
+      "groupId": "9695617646802",
+      "groupCode": "life-services",
+      "groupName": "Бытовые услуги",
+      "sort": 1,
+      "jobCode": "9691000171",
+      "icon": "ShopOutlined",
+      "items": [
+        "美团",
+        "大众点评",
+        "58同城"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000171-ru-2",
+      "groupId": "9695161634969",
+      "groupCode": "communication",
+      "groupName": "Коммуникация",
+      "sort": 2,
+      "jobCode": "9691000171",
+      "icon": "MessageOutlined",
+      "items": [
+        "微信",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

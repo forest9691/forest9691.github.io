@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - ゲームデザイン（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000053-ja-1",
+      "groupId": "9695703565940",
+      "groupCode": "game-dev",
+      "groupName": "ゲーム開発",
+      "sort": 1,
+      "jobCode": "9691000053",
+      "icon": "RocketOutlined",
+      "items": [
+        "Unity",
+        "Unreal Engine",
+        "Cocos"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000053-ja-2",
+      "groupId": "9695830450790",
+      "groupCode": "industry-tools",
+      "groupName": "業界ツール",
+      "sort": 2,
+      "jobCode": "9691000053",
+      "icon": "ToolOutlined",
+      "items": [
+        "TapTap",
+        "Steamworks",
+        "七麦数据"
+      ]
+    }
+  ]
+}

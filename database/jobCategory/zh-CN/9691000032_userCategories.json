@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 运维",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-cloudops-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "cloudops",
+      "categoryName": "云平台运维",
+      "sort": 2,
+      "parentId": "0",
+      "description": "云平台运维相关资源",
+      "icon": "icon-cloud",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-monitor-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "monitor",
+      "categoryName": "监控告警",
+      "sort": 3,
+      "parentId": "0",
+      "description": "监控告警相关资源",
+      "icon": "icon-activity",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-automate-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "automate",
+      "categoryName": "自动化运维",
+      "sort": 4,
+      "parentId": "0",
+      "description": "自动化运维相关资源",
+      "icon": "icon-tool",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-container-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "container",
+      "categoryName": "容器编排",
+      "sort": 5,
+      "parentId": "0",
+      "description": "容器编排相关资源",
+      "icon": "icon-box",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-opscomm-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "opscomm",
+      "categoryName": "运维社区",
+      "sort": 6,
+      "parentId": "0",
+      "description": "运维社区相关资源",
+      "icon": "icon-message",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

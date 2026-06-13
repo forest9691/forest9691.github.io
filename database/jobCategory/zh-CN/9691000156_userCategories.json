@@ -1,0 +1,73 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 影视制作",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-filmmake-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "filmmake",
+      "categoryName": "制作工具",
+      "sort": 2,
+      "parentId": "0",
+      "description": "制作工具相关资源",
+      "icon": "icon-film",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-filmmodel-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "filmmodel",
+      "categoryName": "素材资源",
+      "sort": 3,
+      "parentId": "0",
+      "description": "素材资源相关资源",
+      "icon": "icon-box",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-filminfo-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "filminfo",
+      "categoryName": "行业资讯",
+      "sort": 4,
+      "parentId": "0",
+      "description": "行业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-filmtrain-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "filmtrain",
+      "categoryName": "影视学习",
+      "sort": 5,
+      "parentId": "0",
+      "description": "影视学习相关资源",
+      "icon": "icon-star",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

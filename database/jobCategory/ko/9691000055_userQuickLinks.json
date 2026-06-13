@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 게임 프로모션/운영（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000055-ko-1",
+      "groupId": "9695310538930",
+      "groupCode": "game-dev",
+      "groupName": "게임 개발",
+      "sort": 1,
+      "jobCode": "9691000055",
+      "icon": "RocketOutlined",
+      "items": [
+        "Unity",
+        "Unreal Engine",
+        "Cocos"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000055-ko-2",
+      "groupId": "9695956866084",
+      "groupCode": "industry-tools",
+      "groupName": "업계 도구",
+      "sort": 2,
+      "jobCode": "9691000055",
+      "icon": "ToolOutlined",
+      "items": [
+        "TapTap",
+        "Steamworks",
+        "七麦数据"
+      ]
+    }
+  ]
+}

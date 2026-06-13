@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Прочий дизайн（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000051-ru-1",
+      "groupId": "9695229436808",
+      "groupCode": "design-tools",
+      "groupName": "Инструменты дизайна",
+      "sort": 1,
+      "jobCode": "9691000051",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000051-ru-2",
+      "groupId": "9695029084910",
+      "groupCode": "inspiration",
+      "groupName": "Вдохновение",
+      "sort": 2,
+      "jobCode": "9691000051",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

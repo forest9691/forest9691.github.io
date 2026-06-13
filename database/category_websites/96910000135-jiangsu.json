@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "江苏",
+    "en": "Jiangsu",
+    "zh-TW": "江蘇",
+    "ja": "江蘇",
+    "ko": "장쑤",
+    "ru": "Цзянсу"
+  },
+  "categoryId": "96910000135",
+  "categoryCode": "jiangsu",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000090",
+      "title": "江苏",
+      "code": "jiangsu;js",
+      "url": "https://www.google.com/search?q=江苏",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000135",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 66
+    }
+  ]
+}

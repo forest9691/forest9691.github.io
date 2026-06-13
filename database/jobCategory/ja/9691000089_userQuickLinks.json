@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 工事安全・品質検査（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000089-ja-1",
+      "groupId": "9695211792136",
+      "groupCode": "construction",
+      "groupName": "建築ツール",
+      "sort": 1,
+      "jobCode": "9691000089",
+      "icon": "HomeOutlined",
+      "items": [
+        "AutoCAD",
+        "天正",
+        "广联达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000089-ja-2",
+      "groupId": "9695827174819",
+      "groupCode": "industry-tools",
+      "groupName": "業界ツール",
+      "sort": 2,
+      "jobCode": "9691000089",
+      "icon": "ToolOutlined",
+      "items": [
+        "贝壳找房",
+        "安居客",
+        "链家"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 數據分析（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000064-zh-TW-1",
+      "groupId": "9695128195071",
+      "groupCode": "analytics-platforms",
+      "groupName": "分析平台",
+      "sort": 1,
+      "jobCode": "9691000064",
+      "icon": "PieChartOutlined",
+      "items": [
+        "Tableau",
+        "Power BI",
+        "Google Analytics"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000064-zh-TW-2",
+      "groupId": "9695244342802",
+      "groupCode": "data-tools",
+      "groupName": "數據工具",
+      "sort": 2,
+      "jobCode": "9691000064",
+      "icon": "DatabaseOutlined",
+      "items": [
+        "Jupyter Notebook",
+        "Python",
+        "SQL"
+      ]
+    }
+  ]
+}

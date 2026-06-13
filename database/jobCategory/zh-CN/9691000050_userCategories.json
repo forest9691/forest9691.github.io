@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 服装/纺织设计",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-fashiontool-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "fashiontool",
+      "categoryName": "设计工具",
+      "sort": 2,
+      "parentId": "0",
+      "description": "设计工具相关资源",
+      "icon": "icon-tool",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-fashioninsp-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "fashioninsp",
+      "categoryName": "时尚灵感",
+      "sort": 3,
+      "parentId": "0",
+      "description": "时尚灵感相关资源",
+      "icon": "icon-image",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-fabric-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "fabric",
+      "categoryName": "面料辅料",
+      "sort": 4,
+      "parentId": "0",
+      "description": "面料辅料相关资源",
+      "icon": "icon-box",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-fashioninfo-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "fashioninfo",
+      "categoryName": "时尚资讯",
+      "sort": 5,
+      "parentId": "0",
+      "description": "时尚资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-fashioncomm-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "fashioncomm",
+      "categoryName": "时尚社区",
+      "sort": 6,
+      "parentId": "0",
+      "description": "时尚社区相关资源",
+      "icon": "icon-message",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 新媒体运营",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-socialplat-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "socialplat",
+      "categoryName": "内容平台",
+      "sort": 2,
+      "parentId": "0",
+      "description": "内容平台相关资源",
+      "icon": "icon-globe",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-contenttool-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "contenttool",
+      "categoryName": "内容工具",
+      "sort": 3,
+      "parentId": "0",
+      "description": "内容工具相关资源",
+      "icon": "icon-tool",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-videotool-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "videotool",
+      "categoryName": "视频工具",
+      "sort": 4,
+      "parentId": "0",
+      "description": "视频工具相关资源",
+      "icon": "icon-film",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-socialdata-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "socialdata",
+      "categoryName": "数据分析",
+      "sort": 5,
+      "parentId": "0",
+      "description": "数据分析相关资源",
+      "icon": "icon-chart",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-socialinfo-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "socialinfo",
+      "categoryName": "行业资讯",
+      "sort": 6,
+      "parentId": "0",
+      "description": "行业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

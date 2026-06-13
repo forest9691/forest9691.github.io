@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 互联网运营（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000060-zh-CN-1",
+      "groupId": "9695853595352",
+      "groupCode": "operations-tools",
+      "groupName": "运营工具",
+      "sort": 1,
+      "jobCode": "9691000060",
+      "icon": "ToolOutlined",
+      "items": [
+        "Google Analytics",
+        "Meta Business Suite",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000060-zh-CN-2",
+      "groupId": "9695117110453",
+      "groupCode": "content-management",
+      "groupName": "内容管理",
+      "sort": 2,
+      "jobCode": "9691000060",
+      "icon": "FolderOutlined",
+      "items": [
+        "WordPress",
+        "Notion",
+        "ChatGPT"
+      ]
+    }
+  ]
+}

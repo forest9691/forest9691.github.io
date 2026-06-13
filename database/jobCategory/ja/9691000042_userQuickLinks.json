@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - その他プロダクトマネージャー（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000042-ja-1",
+      "groupId": "9695363810022",
+      "groupCode": "design-tools",
+      "groupName": "デザインツール",
+      "sort": 1,
+      "jobCode": "9691000042",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Axure",
+        "墨刀"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000042-ja-2",
+      "groupId": "9695291290092",
+      "groupCode": "analytics",
+      "groupName": "データ分析",
+      "sort": 2,
+      "jobCode": "9691000042",
+      "icon": "BarChartOutlined",
+      "items": [
+        "Google Analytics",
+        "神策数据",
+        "GrowingIO"
+      ]
+    }
+  ]
+}

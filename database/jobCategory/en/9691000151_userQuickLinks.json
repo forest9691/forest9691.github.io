@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Vocational Training（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000151-en-1",
+      "groupId": "9695830719056",
+      "groupCode": "edtech",
+      "groupName": "EdTech Tools",
+      "sort": 1,
+      "jobCode": "9691000151",
+      "icon": "LaptopOutlined",
+      "items": [
+        "中国大学MOOC",
+        "网易公开课",
+        "智慧树"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000151-en-2",
+      "groupId": "9695059363677",
+      "groupCode": "office-software",
+      "groupName": "Office Software",
+      "sort": 2,
+      "jobCode": "9691000151",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "钉钉",
+        "微信"
+      ]
+    }
+  ]
+}

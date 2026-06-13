@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - IT 훈련（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000150-ko-1",
+      "groupId": "9695283597357",
+      "groupCode": "learning-platforms",
+      "groupName": "학습 플랫폼",
+      "sort": 1,
+      "jobCode": "9691000150",
+      "icon": "ReadOutlined",
+      "items": [
+        "Coursera",
+        "Udemy",
+        "Pluralsight"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000150-ko-2",
+      "groupId": "9695582392087",
+      "groupCode": "teaching-tools",
+      "groupName": "교육 도구",
+      "sort": 2,
+      "jobCode": "9691000150",
+      "icon": "DesktopOutlined",
+      "items": [
+        "Notion",
+        "Canva",
+        "Miro"
+      ]
+    }
+  ]
+}

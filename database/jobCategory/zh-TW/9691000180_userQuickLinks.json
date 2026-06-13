@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 後廚（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000180-zh-TW-1",
+      "groupId": "9695726890351",
+      "groupCode": "food-beverage",
+      "groupName": "餐飲管理",
+      "sort": 1,
+      "jobCode": "9691000180",
+      "icon": "CoffeeOutlined",
+      "items": [
+        "美团餐饮",
+        "饿了么商家版",
+        "客如云"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000180-zh-TW-2",
+      "groupId": "9695094253827",
+      "groupCode": "social-media",
+      "groupName": "社群媒體",
+      "sort": 2,
+      "jobCode": "9691000180",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "小红书",
+        "抖音",
+        "微信"
+      ]
+    }
+  ]
+}

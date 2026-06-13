@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 投融资",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-invplatform-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "invplatform",
+      "categoryName": "投融资平台",
+      "sort": 2,
+      "parentId": "0",
+      "description": "投融资平台相关资源",
+      "icon": "icon-trending-up",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-invdata-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "invdata",
+      "categoryName": "投资数据",
+      "sort": 3,
+      "parentId": "0",
+      "description": "投资数据相关资源",
+      "icon": "icon-chart",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-invresearc-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "invresearc",
+      "categoryName": "行业研究",
+      "sort": 4,
+      "parentId": "0",
+      "description": "行业研究相关资源",
+      "icon": "icon-search",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-invreg-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "invreg",
+      "categoryName": "监管法规",
+      "sort": 5,
+      "parentId": "0",
+      "description": "监管法规相关资源",
+      "icon": "icon-file-text",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-invinfo-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "invinfo",
+      "categoryName": "投资资讯",
+      "sort": 6,
+      "parentId": "0",
+      "description": "投资资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

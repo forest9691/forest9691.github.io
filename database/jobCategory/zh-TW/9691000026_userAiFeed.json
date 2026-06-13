@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 訂閱簡報主題 - 前端開發（zh-TW）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-001",
+      "topicId": "9694000001",
+      "topicCode": "react",
+      "topicName": "React 前沿",
+      "sort": 1,
+      "jobCode": "9691000026",
+      "description": "React 框架最新動態、生態工具與最佳實踐",
+      "icon": "icon-react",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-002",
+      "topicId": "9694000002",
+      "topicCode": "css-engineering",
+      "topicName": "CSS 工程化",
+      "sort": 2,
+      "jobCode": "9691000026",
+      "description": "CSS 新特性、框架演進與樣式方案趨勢",
+      "icon": "icon-palette",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-003",
+      "topicId": "9694000003",
+      "topicCode": "web-standards",
+      "topicName": "Web 標準",
+      "sort": 3,
+      "jobCode": "9691000026",
+      "description": "W3C 規範、瀏覽器 API 更新與 Web 平台演進",
+      "icon": "icon-globe",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-004",
+      "topicId": "9694000004",
+      "topicCode": "ai-frontier",
+      "topicName": "AI 前沿",
+      "sort": 4,
+      "jobCode": "9691000026",
+      "description": "大型語言模型、AI 代理、AIGC 最新突破與應用",
+      "icon": "icon-cpu",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini 大模型開發與API金鑰平台",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "全球主流大模型API聚合路由平台",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "開源模型權重與資料集極客社群",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    },
+    {
+      "title": "極速大語言模型推理與服務引擎",
+      "url": "https://github.com/vllm-project/vllm",
+      "icon": "github"
+    },
+    {
+      "title": "開源LLM應用開發與零程式碼工作流平台",
+      "url": "https://dify.ai",
+      "icon": "dify"
+    },
+    {
+      "title": "大語言模型應用開發與組件編排框架",
+      "url": "https://www.langchain.com",
+      "icon": "langchain"
+    }
+  ]
+}

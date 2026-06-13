@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 에너지/광업/지질（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000128-ko-1",
+      "groupId": "9695556100441",
+      "groupCode": "energy-env",
+      "groupName": "에너지 환경",
+      "sort": 1,
+      "jobCode": "9691000128",
+      "icon": "EnvironmentOutlined",
+      "items": [
+        "国家能源局",
+        "北极星电力网",
+        "国际能源网"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000128-ko-2",
+      "groupId": "9695958291947",
+      "groupCode": "professional-platforms",
+      "groupName": "전문 플랫폼",
+      "sort": 2,
+      "jobCode": "9691000128",
+      "icon": "GlobalOutlined",
+      "items": [
+        "中国环保在线",
+        "生态环境部",
+        "中国能源网"
+      ]
+    }
+  ]
+}

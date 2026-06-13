@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 后厨",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-kitchen-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "kitchen",
+      "categoryName": "后厨管理",
+      "sort": 2,
+      "parentId": "0",
+      "description": "后厨管理相关资源",
+      "icon": "icon-tool",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-kitchensafe-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "kitchensafe",
+      "categoryName": "卫生安全",
+      "sort": 3,
+      "parentId": "0",
+      "description": "卫生安全相关资源",
+      "icon": "icon-shield",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

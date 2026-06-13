@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - ゲーム開発・テスト（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000054-ja-1",
+      "groupId": "9695816686831",
+      "groupCode": "game-engines",
+      "groupName": "ゲームエンジン",
+      "sort": 1,
+      "jobCode": "9691000054",
+      "icon": "ThunderboltOutlined",
+      "items": [
+        "Unity",
+        "Unreal Engine",
+        "Godot"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000054-ja-2",
+      "groupId": "9695815504084",
+      "groupCode": "dev-collaboration",
+      "groupName": "開発コラボレーション",
+      "sort": 2,
+      "jobCode": "9691000054",
+      "icon": "ClusterOutlined",
+      "items": [
+        "GitHub",
+        "Blender",
+        "VS Code"
+      ]
+    }
+  ]
+}

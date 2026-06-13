@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 其他產品經理（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000042-zh-TW-1",
+      "groupId": "9695363810022",
+      "groupCode": "design-tools",
+      "groupName": "設計工具",
+      "sort": 1,
+      "jobCode": "9691000042",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Axure",
+        "墨刀"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000042-zh-TW-2",
+      "groupId": "9695291290092",
+      "groupCode": "analytics",
+      "groupName": "數據分析",
+      "sort": 2,
+      "jobCode": "9691000042",
+      "icon": "BarChartOutlined",
+      "items": [
+        "Google Analytics",
+        "神策数据",
+        "GrowingIO"
+      ]
+    }
+  ]
+}

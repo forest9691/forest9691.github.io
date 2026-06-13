@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 인터넷 제품 관리자（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000041-ko-1",
+      "groupId": "9695126124503",
+      "groupCode": "product-design",
+      "groupName": "제품 디자인",
+      "sort": 1,
+      "jobCode": "9691000041",
+      "icon": "SketchOutlined",
+      "items": [
+        "Figma",
+        "Notion",
+        "Axure"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000041-ko-2",
+      "groupId": "9695088241451",
+      "groupCode": "analytics",
+      "groupName": "데이터 분석",
+      "sort": 2,
+      "jobCode": "9691000041",
+      "icon": "BarChartOutlined",
+      "items": [
+        "Google Analytics",
+        "Tableau",
+        "Mixpanel"
+      ]
+    }
+  ]
+}

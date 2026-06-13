@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 汽车设计/制造（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000109-zh-CN-1",
+      "groupId": "9695384827984",
+      "groupCode": "auto-platforms",
+      "groupName": "汽车平台",
+      "sort": 1,
+      "jobCode": "9691000109",
+      "icon": "CarOutlined",
+      "items": [
+        "汽车之家",
+        "懂车帝",
+        "易车"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000109-zh-CN-2",
+      "groupId": "9695741043130",
+      "groupCode": "industry-tools",
+      "groupName": "行业工具",
+      "sort": 2,
+      "jobCode": "9691000109",
+      "icon": "ToolOutlined",
+      "items": [
+        "CATIA",
+        "SolidWorks",
+        "AutoCAD"
+      ]
+    }
+  ]
+}

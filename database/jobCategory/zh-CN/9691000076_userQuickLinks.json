@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - IT项目管理（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000076-zh-CN-1",
+      "groupId": "9695089721808",
+      "groupCode": "project-management",
+      "groupName": "项目管理",
+      "sort": 1,
+      "jobCode": "9691000076",
+      "icon": "ProjectOutlined",
+      "items": [
+        "Jira",
+        "Trello",
+        "Asana"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000076-zh-CN-2",
+      "groupId": "9695882452782",
+      "groupCode": "team-collaboration",
+      "groupName": "团队协作",
+      "sort": 2,
+      "jobCode": "9691000076",
+      "icon": "MessageOutlined",
+      "items": [
+        "Slack",
+        "Confluence",
+        "Microsoft Teams"
+      ]
+    }
+  ]
+}

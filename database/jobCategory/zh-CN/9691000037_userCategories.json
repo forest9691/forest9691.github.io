@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 电气/仪器/自动化",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-autoinfo-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "autoinfo",
+      "categoryName": "行业资讯",
+      "sort": 2,
+      "parentId": "0",
+      "description": "行业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-plc-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "plc",
+      "categoryName": "PLC工控",
+      "sort": 3,
+      "parentId": "0",
+      "description": "PLC工控相关资源",
+      "icon": "icon-cpu",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-instrument-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "instrument",
+      "categoryName": "仪器仪表",
+      "sort": 4,
+      "parentId": "0",
+      "description": "仪器仪表相关资源",
+      "icon": "icon-activity",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-autodesign-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "autodesign",
+      "categoryName": "设计仿真",
+      "sort": 5,
+      "parentId": "0",
+      "description": "设计仿真相关资源",
+      "icon": "icon-tool",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-autocomm-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "autocomm",
+      "categoryName": "工程师社区",
+      "sort": 6,
+      "parentId": "0",
+      "description": "工程师社区相关资源",
+      "icon": "icon-message",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

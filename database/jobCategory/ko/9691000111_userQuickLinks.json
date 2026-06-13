@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 자동차 서비스（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000111-ko-1",
+      "groupId": "9695527443801",
+      "groupCode": "auto-platforms",
+      "groupName": "자동차 플랫폼",
+      "sort": 1,
+      "jobCode": "9691000111",
+      "icon": "CarOutlined",
+      "items": [
+        "汽车之家",
+        "懂车帝",
+        "易车"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000111-ko-2",
+      "groupId": "9695883658947",
+      "groupCode": "industry-tools",
+      "groupName": "업계 도구",
+      "sort": 2,
+      "jobCode": "9691000111",
+      "icon": "ToolOutlined",
+      "items": [
+        "CATIA",
+        "SolidWorks",
+        "AutoCAD"
+      ]
+    }
+  ]
+}

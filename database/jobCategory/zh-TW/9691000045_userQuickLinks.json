@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 視覺/互動設計（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000045-zh-TW-1",
+      "groupId": "9695994617795",
+      "groupCode": "design-tools",
+      "groupName": "設計工具",
+      "sort": 1,
+      "jobCode": "9691000045",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe XD",
+        "Sketch"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000045-zh-TW-2",
+      "groupId": "9695508515155",
+      "groupCode": "inspiration",
+      "groupName": "靈感資源",
+      "sort": 2,
+      "jobCode": "9691000045",
+      "icon": "BulbOutlined",
+      "items": [
+        "Dribbble",
+        "Behance",
+        "Pinterest"
+      ]
+    }
+  ]
+}

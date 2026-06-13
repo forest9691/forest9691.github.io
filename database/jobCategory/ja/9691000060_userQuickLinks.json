@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - インターネット運営（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000060-ja-1",
+      "groupId": "9695853595352",
+      "groupCode": "operations-tools",
+      "groupName": "運用ツール",
+      "sort": 1,
+      "jobCode": "9691000060",
+      "icon": "ToolOutlined",
+      "items": [
+        "Google Analytics",
+        "Meta Business Suite",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000060-ja-2",
+      "groupId": "9695117110453",
+      "groupCode": "content-management",
+      "groupName": "コンテンツ管理",
+      "sort": 2,
+      "jobCode": "9691000060",
+      "icon": "FolderOutlined",
+      "items": [
+        "WordPress",
+        "Notion",
+        "ChatGPT"
+      ]
+    }
+  ]
+}

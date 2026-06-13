@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 农业/林业（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000131-zh-CN-1",
+      "groupId": "9695530293560",
+      "groupCode": "agriculture",
+      "groupName": "农业平台",
+      "sort": 1,
+      "jobCode": "9691000131",
+      "icon": "ExperimentOutlined",
+      "items": [
+        "惠农网",
+        "一亩田",
+        "中国农业信息网"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000131-zh-CN-2",
+      "groupId": "9695542655136",
+      "groupCode": "market-insight",
+      "groupName": "市场洞察",
+      "sort": 2,
+      "jobCode": "9691000131",
+      "icon": "FundOutlined",
+      "items": [
+        "农业农村部",
+        "中国农产品网",
+        "养猪网"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 订阅简报主题 - その他飲食サービス（ja）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-9691000183-ja",
+      "topicId": "96949694001366",
+      "topicCode": "general",
+      "topicName": "総合情報",
+      "sort": 1,
+      "jobCode": "9691000183",
+      "description": "業界動向と最新トレンド",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini AI開発・APIキープラットフォーム",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "グローバルLLM API集約ルーティングサービス",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "オープンソースモデルハブ＆データセットコミュニティ",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    }
+  ]
+}

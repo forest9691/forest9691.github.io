@@ -1,0 +1,80 @@
+{
+  "success": true,
+  "data": {
+    "userJob": {
+      "code": "9691",
+      "name": {
+        "zh-CN": "选择职位",
+        "en": "Select Job",
+        "zh-TW": "選擇職位",
+        "ja": "職位を選択",
+        "ko": "직위 선택",
+        "ru": "Выбор должности"
+      },
+      "parentCode": 0
+    },
+    "dateVisible": true,
+    "WeatherVisble": true,
+    "searchEngineVisible": true,
+    "allCategoryNavVisible": true,
+    "userWorkSpaceNavVisible": true,
+    "notebookVisible": true,
+    "notebookTasks": [],
+    "aiHotNavVisible": true,
+    "userCategoryNavVisible": true,
+    "userCities": [],
+    "userCity": null,
+    "userIp": null,
+    "userWeatherList": [],
+    "quickLinkVisible": true,
+    "currentBackgroundImageKey": null,
+    "currentThemeKey": "admin-emerald",
+    "currentFontSizeKey": "medium",
+    "language": "en",
+    "mainModuleOrder": ["userWorkSpaceNav", "aiHotNav", "userCategoryNav"],
+    "leftModuleOrder": ["allCategoryNav"],
+    "bottomModuleOrder": ["quickLinksNav"],
+    "topModuleOrder": [],
+    "rightModuleOrder": [],
+    "historySearchList": [
+      {
+        "label": "web",
+        "type": "recommend",
+        "keyword": "Claude Code"
+      },
+      {
+        "label": "music",
+        "type": "useraction",
+        "keyword": "Suno"
+      },
+      {
+        "label": "image",
+        "type": "recommend",
+        "keyword": "Kling AI"
+      },
+      {
+        "label": "wiki",
+        "type": "recommend",
+        "keyword": "Perplexity"
+      },
+      {
+        "label": "buy",
+        "type": "useraction",
+        "keyword": "Temu"
+      },
+      {
+        "label": "translate",
+        "type": "recommend",
+        "keyword": "Immersive Translate"
+      }
+    ],
+    "searchEnginePreference": {
+      "currentEngineKey": "google",
+      "labelKeys": {
+        "google": "web",
+        "baidu": "web",
+        "bing": "web"
+      }
+    }
+  }
+}

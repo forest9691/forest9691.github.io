@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 订阅简报主题 - 餐饮服务（zh-CN）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-9691000167-zh-CN",
+      "topicId": "96949694001279",
+      "topicCode": "general",
+      "topicName": "综合资讯",
+      "sort": 1,
+      "jobCode": "9691000167",
+      "description": "行业动态与前沿趋势",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "谷歌Gemini大模型开发与API密钥平台",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "全球主流大模型API聚合路由平台",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "开源模型权重与数据集极客社区",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    }
+  ]
+}

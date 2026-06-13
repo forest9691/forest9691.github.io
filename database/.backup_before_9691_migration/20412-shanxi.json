@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "山西",
+    "en": "Shanxi",
+    "zh-TW": "山西",
+    "ja": "山西",
+    "ko": "산시",
+    "ru": "Шаньси"
+  },
+  "categoryId": "20412",
+  "categoryCode": "shanxi",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000093",
+      "title": "山西",
+      "code": "shanxi;sx",
+      "url": "https://www.google.com/search?q=山西",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20412",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 69
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": {
+        "zh-CN": "元旦",
+        "en": "New Year's Day"
+      },
+      "start_date": "2026-01-01",
+      "end_date": "2026-01-03",
+      "duration_days": 3,
+      "type": ["zh-CN", "zh-TW"],
+      "work_days_adjusted": ["2026-01-04"],
+      "background_img": "/assets/holiday/2026/yuandan.png"
+    },
+    {
+      "name": {
+        "zh-CN": "春节",
+        "en": "Spring Festival"
+      },
+      "start_date": "2026-02-15",
+      "end_date": "2026-02-23",
+      "duration_days": 9,
+      "type": ["zh-CN", "zh-TW"],
+      "work_days_adjusted": ["2026-02-14", "2026-02-28"],
+      "note": "长达9天，属于近年来最长的春节假期",
+      "background_img": "/assets/holiday/2026/chunjie.png"
+    },
+    {
+      "name": {
+        "zh-CN": "清明节",
+        "en": "Qingming Festival"
+      },
+      "start_date": "2026-04-04",
+      "end_date": "2026-04-06",
+      "duration_days": 3,
+      "type": ["zh-CN", "zh-TW"],
+      "work_days_adjusted": [],
+      "background_img": "/assets/holiday/2026/qingming.png"
+    },
+    {
+      "name": {
+        "zh-CN": "劳动节",
+        "en": "Labor Day"
+      },
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-05",
+      "duration_days": 5,
+      "type": ["zh-CN", "zh-TW"],
+      "work_days_adjusted": ["2026-05-09"],
+      "background_img": "/assets/holiday/2026/laodong.png"
+    },
+    {
+      "name": {
+        "zh-CN": "端午节",
+        "en": "Dragon Boat Festival"
+      },
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-21",
+      "duration_days": 3,
+      "type": ["zh-CN", "zh-TW"],
+      "work_days_adjusted": [],
+      "background_img": "/assets/holiday/2026/duanwu.png"
+    },
+    {
+      "name": {
+        "zh-CN": "中秋节",
+        "en": "Mid-Autumn Festival"
+      },
+      "start_date": "2026-09-25",
+      "end_date": "2026-09-27",
+      "duration_days": 3,
+      "type": ["zh-CN", "zh-TW"],
+      "work_days_adjusted": [],
+      "background_img": "/assets/holiday/2026/zhongqiu.png"
+    },
+    {
+      "name": {
+        "zh-CN": "国庆节",
+        "en": "National Day"
+      },
+      "start_date": "2026-10-01",
+      "end_date": "2026-10-07",
+      "duration_days": 7,
+      "type": ["zh-CN", "zh-TW"],
+      "work_days_adjusted": ["2026-09-20", "2026-10-10"],
+      "background_img": "/assets/holiday/2026/guoqing.png"
+    },
+    {
+      "name": {
+        "zh-CN": "马丁·路德·金纪念日",
+        "en": "Martin Luther King Jr. Day"
+      },
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-19",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "每年1月第三个星期一",
+      "background_img": "/assets/holiday/2026/mlk-day.png"
+    },
+    {
+      "name": {
+        "zh-CN": "总统日",
+        "en": "Presidents' Day"
+      },
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-16",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "每年2月第三个星期一",
+      "background_img": "/assets/holiday/2026/presidents-day.png"
+    },
+    {
+      "name": {
+        "zh-CN": "阵亡将士纪念日",
+        "en": "Memorial Day"
+      },
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-25",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "每年5月最后一个星期一",
+      "background_img": "/assets/holiday/2026/memorial-day.png"
+    },
+    {
+      "name": {
+        "zh-CN": "六月节",
+        "en": "Juneteenth"
+      },
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-19",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "Juneteenth，纪念美国奴隶制结束",
+      "background_img": "/assets/holiday/2026/juneteenth.png"
+    },
+    {
+      "name": {
+        "zh-CN": "美国独立日",
+        "en": "Independence Day"
+      },
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-04",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "美国国庆日",
+      "background_img": "/assets/holiday/2026/independence-day.png"
+    },
+    {
+      "name": {
+        "zh-CN": "美国劳动节",
+        "en": "Labor Day"
+      },
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-07",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "每年9月第一个星期一",
+      "background_img": "/assets/holiday/2026/labor-day.png"
+    },
+    {
+      "name": {
+        "zh-CN": "哥伦布日",
+        "en": "Columbus Day"
+      },
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "每年10月第二个星期一",
+      "background_img": "/assets/holiday/2026/columbus-day.png"
+    },
+    {
+      "name": {
+        "zh-CN": "退伍军人节",
+        "en": "Veterans Day"
+      },
+      "start_date": "2026-11-11",
+      "end_date": "2026-11-11",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "致敬所有曾服役的美国军人",
+      "background_img": "/assets/holiday/2026/veterans-day.png"
+    },
+    {
+      "name": {
+        "zh-CN": "感恩节",
+        "en": "Thanksgiving"
+      },
+      "start_date": "2026-11-26",
+      "end_date": "2026-11-27",
+      "duration_days": 2,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "每年11月第四个星期四，含黑色星期五",
+      "background_img": "/assets/holiday/2026/thanksgiving.png"
+    },
+    {
+      "name": {
+        "zh-CN": "圣诞节",
+        "en": "Christmas"
+      },
+      "start_date": "2026-12-25",
+      "end_date": "2026-12-25",
+      "duration_days": 1,
+      "type": ["en"],
+      "work_days_adjusted": [],
+      "note": "12月25日，全美最重要的节日",
+      "background_img": "/assets/holiday/2026/christmas.png"
+    }
+  ]
+}

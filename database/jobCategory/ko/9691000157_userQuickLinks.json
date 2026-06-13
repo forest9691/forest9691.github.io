@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 취재편집/작문/출판（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000157-ko-1",
+      "groupId": "9695211142141",
+      "groupCode": "media-tools",
+      "groupName": "미디어 도구",
+      "sort": 1,
+      "jobCode": "9691000157",
+      "icon": "PlayCircleOutlined",
+      "items": [
+        "剪映",
+        "Premiere Pro",
+        "DaVinci"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000157-ko-2",
+      "groupId": "9695475138969",
+      "groupCode": "social-media",
+      "groupName": "소셜 미디어",
+      "sort": 2,
+      "jobCode": "9691000157",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "抖音",
+        "B站",
+        "快手"
+      ]
+    }
+  ]
+}

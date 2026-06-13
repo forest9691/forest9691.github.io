@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "房产",
+    "en": "Real Estate",
+    "zh-TW": "房產",
+    "ja": "不動産",
+    "ko": "부동산",
+    "ru": "Недвижимость"
+  },
+  "categoryId": "20134",
+  "categoryCode": "house",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000052",
+      "title": "房产",
+      "code": "fangchan;house",
+      "url": "https://www.google.com/search?q=房产",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 28
+    }
+  ]
+}

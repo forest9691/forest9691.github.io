@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 広告デザイン（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000049-ja-1",
+      "groupId": "9695119866943",
+      "groupCode": "design-tools",
+      "groupName": "デザインツール",
+      "sort": 1,
+      "jobCode": "9691000049",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000049-ja-2",
+      "groupId": "9695334903127",
+      "groupCode": "inspiration",
+      "groupName": "インスピレーション",
+      "sort": 2,
+      "jobCode": "9691000049",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

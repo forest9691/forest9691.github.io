@@ -1,0 +1,4606 @@
+{
+  "success": true,
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-02T00:00:00.000Z",
+  "description": "全部分类表 - 支持多层级结构，用于经典导航站",
+  "data": [
+    {
+      "id": "uuid-cat-006",
+      "categoryId": "20006",
+      "categoryCode": "career",
+      "categoryName": {
+        "zh-CN": "职场提升",
+        "en": "Career",
+        "zh-TW": "職場提升",
+        "ja": "キャリア",
+        "ko": "커리어",
+        "ru": "Карьера"
+      },
+      "sort": 1,
+      "parentId": "0",
+      "description": "职场提升类网站导航",
+      "icon": "icon-career",
+      "color": "#22c55e",
+      "level": 1
+    },
+    {
+      "id": "uuid-cat-101",
+      "categoryId": "20101",
+      "categoryCode": "music",
+      "categoryName": {
+        "zh-CN": "音乐",
+        "en": "Music",
+        "zh-TW": "音樂",
+        "ja": "音楽",
+        "ko": "음악",
+        "ru": "Музыка"
+      },
+      "sort": 1,
+      "parentId": "20001",
+      "description": "音乐平台与音频资源",
+      "icon": "icon-music",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-107",
+      "categoryId": "20107",
+      "categoryCode": "software",
+      "categoryName": {
+        "zh-CN": "软件",
+        "en": "Software",
+        "zh-TW": "軟體",
+        "ja": "ソフト",
+        "ko": "소프트웨어",
+        "ru": "ПО"
+      },
+      "sort": 1,
+      "parentId": "20003",
+      "description": "软件下载与资源",
+      "icon": "icon-software",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-401",
+      "categoryId": "20401",
+      "categoryCode": "beijing",
+      "categoryName": {
+        "zh-CN": "北京",
+        "en": "Beijing",
+        "zh-TW": "北京",
+        "ja": "北京",
+        "ko": "베이징",
+        "ru": "Пекин"
+      },
+      "sort": 1,
+      "parentId": "20004",
+      "description": "北京地方网站",
+      "icon": "icon-beijing",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-158",
+      "categoryId": "20158",
+      "categoryCode": "photography",
+      "categoryName": {
+        "zh-CN": "摄影",
+        "en": "Photography",
+        "zh-TW": "攝影",
+        "ja": "写真",
+        "ko": "사진",
+        "ru": "Фотография"
+      },
+      "sort": 1,
+      "parentId": "20005",
+      "description": "摄影作品与技巧",
+      "icon": "icon-photography",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-170",
+      "categoryId": "20170",
+      "categoryCode": "recruitment",
+      "categoryName": {
+        "zh-CN": "招聘",
+        "en": "Recruitment",
+        "zh-TW": "招聘",
+        "ja": "求人",
+        "ko": "채용",
+        "ru": "Рекрутинг"
+      },
+      "sort": 1,
+      "parentId": "20006",
+      "description": "招聘信息与平台",
+      "icon": "icon-recruitment",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-30101",
+      "categoryId": "30101",
+      "categoryCode": "online-music",
+      "categoryName": {
+        "zh-CN": "在线音乐",
+        "en": "Online Music",
+        "zh-TW": "在線音樂",
+        "ja": "オンライン音楽",
+        "ko": "온라인 음악",
+        "ru": "Онлайн музыка"
+      },
+      "sort": 1,
+      "parentId": "20101",
+      "description": "在线音乐播放平台",
+      "icon": "icon-online-music",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-30201",
+      "categoryId": "30201",
+      "categoryCode": "video-platform",
+      "categoryName": {
+        "zh-CN": "视频平台",
+        "en": "Video Platform",
+        "zh-TW": "視頻平台",
+        "ja": "動画プラットフォーム",
+        "ko": "비디오 플랫폼",
+        "ru": "Видео платформа"
+      },
+      "sort": 1,
+      "parentId": "20102",
+      "description": "在线视频平台",
+      "icon": "icon-video-platform",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-30301",
+      "categoryId": "30301",
+      "categoryCode": "game-platform",
+      "categoryName": {
+        "zh-CN": "游戏平台",
+        "en": "Game Platform",
+        "zh-TW": "遊戲平台",
+        "ja": "ゲームプラットフォーム",
+        "ko": "게임 플랫폼",
+        "ru": "Игровая платформа"
+      },
+      "sort": 1,
+      "parentId": "20103",
+      "description": "游戏娱乐平台",
+      "icon": "icon-game-platform",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31101",
+      "categoryId": "31101",
+      "categoryCode": "online-movie",
+      "categoryName": {
+        "zh-CN": "在线电影",
+        "en": "Online Movie",
+        "zh-TW": "在線電影",
+        "ja": "オンライン映画",
+        "ko": "온라인 영화",
+        "ru": "Онлайн фильмы"
+      },
+      "sort": 1,
+      "parentId": "20111",
+      "description": "在线电影观看",
+      "icon": "icon-online-movie",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31201",
+      "categoryId": "31201",
+      "categoryCode": "original-novel",
+      "categoryName": {
+        "zh-CN": "原创文学",
+        "en": "Original Novel",
+        "zh-TW": "原創文學",
+        "ja": "オリジナル小説",
+        "ko": "원작 소설",
+        "ru": "Оригинальная литература"
+      },
+      "sort": 1,
+      "parentId": "20112",
+      "description": "原创小说平台",
+      "icon": "icon-original-novel",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31301",
+      "categoryId": "31301",
+      "categoryCode": "military-news",
+      "categoryName": {
+        "zh-CN": "军事资讯",
+        "en": "Military News",
+        "zh-TW": "軍事資訊",
+        "ja": "軍事ニュース",
+        "ko": "군사 뉴스",
+        "ru": "Военные новости"
+      },
+      "sort": 1,
+      "parentId": "20113",
+      "description": "军事新闻资讯",
+      "icon": "icon-military-news",
+      "color": "#ef4444",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31401",
+      "categoryId": "31401",
+      "categoryCode": "image-search",
+      "categoryName": {
+        "zh-CN": "图片搜索",
+        "en": "Image Search",
+        "zh-TW": "圖片搜尋",
+        "ja": "画像検索",
+        "ko": "이미지 검색",
+        "ru": "Поиск изображений"
+      },
+      "sort": 1,
+      "parentId": "20114",
+      "description": "图片搜索引擎",
+      "icon": "icon-image-search",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31501",
+      "categoryId": "31501",
+      "categoryCode": "online-anime",
+      "categoryName": {
+        "zh-CN": "在线动漫",
+        "en": "Online Anime",
+        "zh-TW": "在線動漫",
+        "ja": "オンラインアニメ",
+        "ko": "온라인 애니메이션",
+        "ru": "Онлайн аниме"
+      },
+      "sort": 1,
+      "parentId": "20115",
+      "description": "在线动漫观看",
+      "icon": "icon-online-anime",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31601",
+      "categoryId": "31601",
+      "categoryCode": "sports-news",
+      "categoryName": {
+        "zh-CN": "综合体育",
+        "en": "Sports News",
+        "zh-TW": "綜合體育",
+        "ja": "スポーツニュース",
+        "ko": "스포츠 뉴스",
+        "ru": "Спортивные новости"
+      },
+      "sort": 1,
+      "parentId": "20116",
+      "description": "综合体育资讯",
+      "icon": "icon-sports-news",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31701",
+      "categoryId": "31701",
+      "categoryCode": "football-live",
+      "categoryName": {
+        "zh-CN": "足球直播",
+        "en": "Football Live",
+        "zh-TW": "足球直播",
+        "ja": "サッカー中継",
+        "ko": "축구 중계",
+        "ru": "Футбол трансляции"
+      },
+      "sort": 1,
+      "parentId": "20117",
+      "description": "足球赛事直播",
+      "icon": "icon-football-live",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31801",
+      "categoryId": "31801",
+      "categoryCode": "nba-live",
+      "categoryName": {
+        "zh-CN": "NBA直播",
+        "en": "NBA Live",
+        "zh-TW": "NBA直播",
+        "ja": "NBA中継",
+        "ko": "NBA 중계",
+        "ru": "NBA трансляции"
+      },
+      "sort": 1,
+      "parentId": "20118",
+      "description": "NBA赛事直播",
+      "icon": "icon-nba-live",
+      "color": "#f97316",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31901",
+      "categoryId": "31901",
+      "categoryCode": "social-platform",
+      "categoryName": {
+        "zh-CN": "社交平台",
+        "en": "Social Platform",
+        "zh-TW": "社交平台",
+        "ja": "ソーシャルプラットフォーム",
+        "ko": "소셜 플랫폼",
+        "ru": "Социальная платформа"
+      },
+      "sort": 1,
+      "parentId": "20119",
+      "description": "社交网络平台",
+      "icon": "icon-social-platform",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32001",
+      "categoryId": "32001",
+      "categoryCode": "entertainment-news",
+      "categoryName": {
+        "zh-CN": "明星资讯",
+        "en": "Entertainment News",
+        "zh-TW": "明星資訊",
+        "ja": "芸能ニュース",
+        "ko": "연예 뉴스",
+        "ru": "Новости шоу-бизнеса"
+      },
+      "sort": 1,
+      "parentId": "20120",
+      "description": "明星娱乐资讯",
+      "icon": "icon-entertainment-news",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32101",
+      "categoryId": "32101",
+      "categoryCode": "general-forum",
+      "categoryName": {
+        "zh-CN": "综合论坛",
+        "en": "General Forum",
+        "zh-TW": "綜合論壇",
+        "ja": "総合フォーラム",
+        "ko": "종합 포럼",
+        "ru": "Общий форум"
+      },
+      "sort": 1,
+      "parentId": "20121",
+      "description": "综合社区论坛",
+      "icon": "icon-general-forum",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32201",
+      "categoryId": "32201",
+      "categoryCode": "joke-collection",
+      "categoryName": {
+        "zh-CN": "笑话大全",
+        "en": "Joke Collection",
+        "zh-TW": "笑話大全",
+        "ja": "ジョーク集",
+        "ko": "유머 모음",
+        "ru": "Сборник шуток"
+      },
+      "sort": 1,
+      "parentId": "20122",
+      "description": "笑话段子大全",
+      "icon": "icon-joke-collection",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32301",
+      "categoryId": "32301",
+      "categoryCode": "horoscope-fortune",
+      "categoryName": {
+        "zh-CN": "星座运势",
+        "en": "Horoscope Fortune",
+        "zh-TW": "星座運勢",
+        "ja": "星座運勢",
+        "ko": "별자리 운세",
+        "ru": "Гороскоп"
+      },
+      "sort": 1,
+      "parentId": "20123",
+      "description": "星座运势查询",
+      "icon": "icon-horoscope-fortune",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32401",
+      "categoryId": "32401",
+      "categoryCode": "popular-mmo",
+      "categoryName": {
+        "zh-CN": "热门网游",
+        "en": "Popular MMO",
+        "zh-TW": "熱門網遊",
+        "ja": "人気MMO",
+        "ko": "인기 MMORPG",
+        "ru": "Популярные MMO"
+      },
+      "sort": 1,
+      "parentId": "20124",
+      "description": "热门网络游戏",
+      "icon": "icon-popular-mmo",
+      "color": "#f97316",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32501",
+      "categoryId": "32501",
+      "categoryCode": "personalization",
+      "categoryName": {
+        "zh-CN": "个性装扮",
+        "en": "Personalization",
+        "zh-TW": "個性裝扮",
+        "ja": "パーソナライゼーション",
+        "ko": "개인화",
+        "ru": "Персонализация"
+      },
+      "sort": 1,
+      "parentId": "20125",
+      "description": "个性装扮资源",
+      "icon": "icon-personalization",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-37001",
+      "categoryId": "37001",
+      "categoryCode": "recruit-platform",
+      "categoryName": {
+        "zh-CN": "招聘平台",
+        "en": "Recruitment Platform",
+        "zh-TW": "招聘平臺",
+        "ja": "採用プラットフォーム",
+        "ko": "채용 플랫폼",
+        "ru": "Платформа"
+      },
+      "sort": 1,
+      "parentId": "20170",
+      "description": "招聘平台",
+      "icon": "icon-recruit-platform",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-001",
+      "categoryId": "20001",
+      "categoryCode": "entertainment",
+      "categoryName": {
+        "zh-CN": "娱乐休闲",
+        "en": "Entertainment",
+        "zh-TW": "娛樂休閒",
+        "ja": "エンタメ",
+        "ko": "엔터테인먼트",
+        "ru": "Развлечения"
+      },
+      "sort": 2,
+      "parentId": "0",
+      "description": "娱乐休闲类网站导航",
+      "icon": "icon-entertainment",
+      "color": "#ec4899",
+      "level": 1
+    },
+    {
+      "id": "uuid-cat-102",
+      "categoryId": "20102",
+      "categoryCode": "video",
+      "categoryName": {
+        "zh-CN": "视频",
+        "en": "Video",
+        "zh-TW": "視頻",
+        "ja": "動画",
+        "ko": "비디오",
+        "ru": "Видео"
+      },
+      "sort": 2,
+      "parentId": "20001",
+      "description": "视频平台与影视资源",
+      "icon": "icon-video",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-108",
+      "categoryId": "20108",
+      "categoryCode": "email",
+      "categoryName": {
+        "zh-CN": "邮箱",
+        "en": "Email",
+        "zh-TW": "郵箱",
+        "ja": "メール",
+        "ko": "이메일",
+        "ru": "Почта"
+      },
+      "sort": 2,
+      "parentId": "20003",
+      "description": "电子邮箱与邮件服务",
+      "icon": "icon-email",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-402",
+      "categoryId": "20402",
+      "categoryCode": "shanghai",
+      "categoryName": {
+        "zh-CN": "上海",
+        "en": "Shanghai",
+        "zh-TW": "上海",
+        "ja": "上海",
+        "ko": "상하이",
+        "ru": "Шанхай"
+      },
+      "sort": 2,
+      "parentId": "20004",
+      "description": "上海地方网站",
+      "icon": "icon-shanghai",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-159",
+      "categoryId": "20159",
+      "categoryCode": "english",
+      "categoryName": {
+        "zh-CN": "英语",
+        "en": "English",
+        "zh-TW": "英語",
+        "ja": "英語",
+        "ko": "영어",
+        "ru": "Английский"
+      },
+      "sort": 2,
+      "parentId": "20005",
+      "description": "英语学习与资源",
+      "icon": "icon-english",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-171",
+      "categoryId": "20171",
+      "categoryCode": "parttime",
+      "categoryName": {
+        "zh-CN": "兼职",
+        "en": "Part-time",
+        "zh-TW": "兼職",
+        "ja": "アルバイト",
+        "ko": "알바",
+        "ru": "Подработка"
+      },
+      "sort": 2,
+      "parentId": "20006",
+      "description": "兼职工作与机会",
+      "icon": "icon-parttime",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-30102",
+      "categoryId": "30102",
+      "categoryCode": "music-download",
+      "categoryName": {
+        "zh-CN": "音乐下载",
+        "en": "Music Download",
+        "zh-TW": "音樂下載",
+        "ja": "音楽ダウンロード",
+        "ko": "음악 다운로드",
+        "ru": "Скачать музыку"
+      },
+      "sort": 2,
+      "parentId": "20101",
+      "description": "音乐下载资源",
+      "icon": "icon-music-download",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-30202",
+      "categoryId": "30202",
+      "categoryCode": "short-video",
+      "categoryName": {
+        "zh-CN": "短视频",
+        "en": "Short Video",
+        "zh-TW": "短視頻",
+        "ja": "ショート動画",
+        "ko": "숏폼 비디오",
+        "ru": "Короткое видео"
+      },
+      "sort": 2,
+      "parentId": "20102",
+      "description": "短视频平台",
+      "icon": "icon-short-video",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-30302",
+      "categoryId": "30302",
+      "categoryCode": "mobile-game",
+      "categoryName": {
+        "zh-CN": "手游下载",
+        "en": "Mobile Game",
+        "zh-TW": "手遊下載",
+        "ja": "モバイルゲーム",
+        "ko": "모바일 게임",
+        "ru": "Мобильные игры"
+      },
+      "sort": 2,
+      "parentId": "20103",
+      "description": "手机游戏下载",
+      "icon": "icon-mobile-game",
+      "color": "#06b6d4",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31102",
+      "categoryId": "31102",
+      "categoryCode": "movie-download",
+      "categoryName": {
+        "zh-CN": "电影下载",
+        "en": "Movie Download",
+        "zh-TW": "電影下載",
+        "ja": "映画ダウンロード",
+        "ko": "영화 다운로드",
+        "ru": "Скачать фильмы"
+      },
+      "sort": 2,
+      "parentId": "20111",
+      "description": "电影下载资源",
+      "icon": "icon-movie-download",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31202",
+      "categoryId": "31202",
+      "categoryCode": "free-reading",
+      "categoryName": {
+        "zh-CN": "免费阅读",
+        "en": "Free Reading",
+        "zh-TW": "免費閱讀",
+        "ja": "無料読書",
+        "ko": "무료 독서",
+        "ru": "Бесплатное чтение"
+      },
+      "sort": 2,
+      "parentId": "20112",
+      "description": "免费小说阅读",
+      "icon": "icon-free-reading",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31302",
+      "categoryId": "31302",
+      "categoryCode": "military-forum",
+      "categoryName": {
+        "zh-CN": "军事论坛",
+        "en": "Military Forum",
+        "zh-TW": "軍事論壇",
+        "ja": "軍事フォーラム",
+        "ko": "군사 포럼",
+        "ru": "Военный форум"
+      },
+      "sort": 2,
+      "parentId": "20113",
+      "description": "军事爱好者论坛",
+      "icon": "icon-military-forum",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31402",
+      "categoryId": "31402",
+      "categoryCode": "wallpaper",
+      "categoryName": {
+        "zh-CN": "壁纸美图",
+        "en": "Wallpaper",
+        "zh-TW": "桌布美圖",
+        "ja": "壁紙",
+        "ko": "배경화면",
+        "ru": "Обои"
+      },
+      "sort": 2,
+      "parentId": "20114",
+      "description": "高清壁纸资源",
+      "icon": "icon-wallpaper",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31502",
+      "categoryId": "31502",
+      "categoryCode": "anime-community",
+      "categoryName": {
+        "zh-CN": "动漫社区",
+        "en": "Anime Community",
+        "zh-TW": "動漫社區",
+        "ja": "アニメコミュニティ",
+        "ko": "애니메이션 커뮤니티",
+        "ru": "Аниме сообщество"
+      },
+      "sort": 2,
+      "parentId": "20115",
+      "description": "二次元社区",
+      "icon": "icon-anime-community",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31602",
+      "categoryId": "31602",
+      "categoryCode": "sports-live",
+      "categoryName": {
+        "zh-CN": "直播赛事",
+        "en": "Sports Live",
+        "zh-TW": "直播賽事",
+        "ja": "スポーツライブ",
+        "ko": "스포츠 중계",
+        "ru": "Спортивные трансляции"
+      },
+      "sort": 2,
+      "parentId": "20116",
+      "description": "体育赛事直播",
+      "icon": "icon-sports-live",
+      "color": "#ef4444",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31702",
+      "categoryId": "31702",
+      "categoryCode": "premier-league",
+      "categoryName": {
+        "zh-CN": "英超联赛",
+        "en": "Premier League",
+        "zh-TW": "英超聯賽",
+        "ja": "プレミアリーグ",
+        "ko": "프리미어 리그",
+        "ru": "Премьер-лига"
+      },
+      "sort": 2,
+      "parentId": "20117",
+      "description": "英格兰足球超级联赛",
+      "icon": "icon-premier-league",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31802",
+      "categoryId": "31802",
+      "categoryCode": "nba-teams",
+      "categoryName": {
+        "zh-CN": "NBA球队",
+        "en": "NBA Teams",
+        "zh-TW": "NBA球隊",
+        "ja": "NBAチーム",
+        "ko": "NBA 팀",
+        "ru": "NBA команды"
+      },
+      "sort": 2,
+      "parentId": "20118",
+      "description": "NBA球队官网",
+      "icon": "icon-nba-teams",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31902",
+      "categoryId": "31902",
+      "categoryCode": "dating",
+      "categoryName": {
+        "zh-CN": "婚恋交友",
+        "en": "Dating",
+        "zh-TW": "婚戀交友",
+        "ja": "婚活",
+        "ko": "데이트",
+        "ru": "Знакомства"
+      },
+      "sort": 2,
+      "parentId": "20119",
+      "description": "婚恋交友平台",
+      "icon": "icon-dating",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32002",
+      "categoryId": "32002",
+      "categoryCode": "fan-community",
+      "categoryName": {
+        "zh-CN": "粉丝社区",
+        "en": "Fan Community",
+        "zh-TW": "粉絲社區",
+        "ja": "ファンコミュニティ",
+        "ko": "팬 커뮤니티",
+        "ru": "Фан-сообщество"
+      },
+      "sort": 2,
+      "parentId": "20120",
+      "description": "粉丝互动社区",
+      "icon": "icon-fan-community",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32102",
+      "categoryId": "32102",
+      "categoryCode": "tech-forum",
+      "categoryName": {
+        "zh-CN": "专业论坛",
+        "en": "Tech Forum",
+        "zh-TW": "專業論壇",
+        "ja": "技術フォーラム",
+        "ko": "전문 포럼",
+        "ru": "Технический форум"
+      },
+      "sort": 2,
+      "parentId": "20121",
+      "description": "专业技术论坛",
+      "icon": "icon-tech-forum",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32202",
+      "categoryId": "32202",
+      "categoryCode": "funny-community",
+      "categoryName": {
+        "zh-CN": "搞笑社区",
+        "en": "Funny Community",
+        "zh-TW": "搞笑社區",
+        "ja": "面白いコミュニティ",
+        "ko": "웃긴 커뮤니티",
+        "ru": "Смешное сообщество"
+      },
+      "sort": 2,
+      "parentId": "20122",
+      "description": "搞笑视频社区",
+      "icon": "icon-funny-community",
+      "color": "#f97316",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32302",
+      "categoryId": "32302",
+      "categoryCode": "love-match",
+      "categoryName": {
+        "zh-CN": "星座配对",
+        "en": "Love Match",
+        "zh-TW": "星座配對",
+        "ja": "星座相性",
+        "ko": "별자리 궁합",
+        "ru": "Совместимость"
+      },
+      "sort": 2,
+      "parentId": "20123",
+      "description": "星座爱情配对",
+      "icon": "icon-love-match",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32402",
+      "categoryId": "32402",
+      "categoryCode": "game-platforms",
+      "categoryName": {
+        "zh-CN": "网游平台",
+        "en": "Game Platforms",
+        "zh-TW": "網遊平台",
+        "ja": "ゲームプラットフォーム",
+        "ko": "게임 플랫폼",
+        "ru": "Игровые платформы"
+      },
+      "sort": 2,
+      "parentId": "20124",
+      "description": "网游游戏平台",
+      "icon": "icon-game-platforms",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32502",
+      "categoryId": "32502",
+      "categoryCode": "non-mainstream-images",
+      "categoryName": {
+        "zh-CN": "非主流图片",
+        "en": "Non-mainstream Images",
+        "zh-TW": "非主流圖片",
+        "ja": "非主流画像",
+        "ko": "비주류 이미지",
+        "ru": "Нонконформистские изображения"
+      },
+      "sort": 2,
+      "parentId": "20125",
+      "description": "非主流图片资源",
+      "icon": "icon-non-mainstream-images",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-37002",
+      "categoryId": "37002",
+      "categoryCode": "campus-recruit",
+      "categoryName": {
+        "zh-CN": "校园招聘",
+        "en": "Campus Recruitment",
+        "zh-TW": "校園招聘",
+        "ja": "新卒採用",
+        "ko": "캠퍼스 채용",
+        "ru": "Кампус"
+      },
+      "sort": 2,
+      "parentId": "20170",
+      "description": "校园招聘",
+      "icon": "icon-campus-recruit",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-002",
+      "categoryId": "20002",
+      "categoryCode": "lifestyle",
+      "categoryName": {
+        "zh-CN": "生活服务",
+        "en": "Lifestyle",
+        "zh-TW": "生活服務",
+        "ja": "生活サービス",
+        "ko": "생활 서비스",
+        "ru": "Услуги"
+      },
+      "sort": 3,
+      "parentId": "0",
+      "description": "生活服务类网站导航",
+      "icon": "icon-lifestyle",
+      "color": "#10b981",
+      "level": 1
+    },
+    {
+      "id": "uuid-cat-103",
+      "categoryId": "20103",
+      "categoryCode": "games",
+      "categoryName": {
+        "zh-CN": "游戏",
+        "en": "Games",
+        "zh-TW": "遊戲",
+        "ja": "ゲーム",
+        "ko": "게임",
+        "ru": "Игры"
+      },
+      "sort": 3,
+      "parentId": "20001",
+      "description": "游戏娱乐与电玩资讯",
+      "icon": "icon-games",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-109",
+      "categoryId": "20109",
+      "categoryCode": "programmer",
+      "categoryName": {
+        "zh-CN": "编程",
+        "en": "Programming",
+        "zh-TW": "程式設計",
+        "ja": "プログラミング",
+        "ko": "프로그래밍",
+        "ru": "Программирование"
+      },
+      "sort": 3,
+      "parentId": "20003",
+      "description": "编程开发资源",
+      "icon": "icon-code",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-403",
+      "categoryId": "20403",
+      "categoryCode": "guangdong",
+      "categoryName": {
+        "zh-CN": "广东",
+        "en": "Guangdong",
+        "zh-TW": "廣東",
+        "ja": "広東",
+        "ko": "광둥",
+        "ru": "Гуандун"
+      },
+      "sort": 3,
+      "parentId": "20004",
+      "description": "广东地方网站",
+      "icon": "icon-guangdong",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-160",
+      "categoryId": "20160",
+      "categoryCode": "exam",
+      "categoryName": {
+        "zh-CN": "考试",
+        "en": "Exam",
+        "zh-TW": "考試",
+        "ja": "試験",
+        "ko": "시험",
+        "ru": "Экзамен"
+      },
+      "sort": 3,
+      "parentId": "20005",
+      "description": "考试资讯与备考",
+      "icon": "icon-exam",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-172",
+      "categoryId": "20172",
+      "categoryCode": "referral",
+      "categoryName": {
+        "zh-CN": "内推",
+        "en": "Referral",
+        "zh-TW": "內推",
+        "ja": "紹介",
+        "ko": "내부추천",
+        "ru": "Реферал"
+      },
+      "sort": 3,
+      "parentId": "20006",
+      "description": "内推机会与渠道",
+      "icon": "icon-referral",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-30103",
+      "categoryId": "30103",
+      "categoryCode": "music-radio",
+      "categoryName": {
+        "zh-CN": "音乐电台",
+        "en": "Music Radio",
+        "zh-TW": "音樂電台",
+        "ja": "音楽ラジオ",
+        "ko": "음악 라디오",
+        "ru": "Музыкальное радио"
+      },
+      "sort": 3,
+      "parentId": "20101",
+      "description": "网络音乐电台",
+      "icon": "icon-music-radio",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-30203",
+      "categoryId": "30203",
+      "categoryCode": "live-streaming",
+      "categoryName": {
+        "zh-CN": "直播视频",
+        "en": "Live Streaming",
+        "zh-TW": "直播視頻",
+        "ja": "ライブ配信",
+        "ko": "라이브 스트리밍",
+        "ru": "Прямая трансляция"
+      },
+      "sort": 3,
+      "parentId": "20102",
+      "description": "网络直播视频",
+      "icon": "icon-live-streaming",
+      "color": "#ef4444",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-30303",
+      "categoryId": "30303",
+      "categoryCode": "game-news",
+      "categoryName": {
+        "zh-CN": "游戏资讯",
+        "en": "Game News",
+        "zh-TW": "遊戲資訊",
+        "ja": "ゲームニュース",
+        "ko": "게임 뉴스",
+        "ru": "Игровые новости"
+      },
+      "sort": 3,
+      "parentId": "20103",
+      "description": "游戏新闻资讯",
+      "icon": "icon-game-news",
+      "color": "#f97316",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31103",
+      "categoryId": "31103",
+      "categoryCode": "movie-review",
+      "categoryName": {
+        "zh-CN": "影评社区",
+        "en": "Movie Review",
+        "zh-TW": "影評社區",
+        "ja": "映画レビュー",
+        "ko": "영화 리뷰",
+        "ru": "Обзоры фильмов"
+      },
+      "sort": 3,
+      "parentId": "20111",
+      "description": "电影评论社区",
+      "icon": "icon-movie-review",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31203",
+      "categoryId": "31203",
+      "categoryCode": "audio-novel",
+      "categoryName": {
+        "zh-CN": "有声小说",
+        "en": "Audio Novel",
+        "zh-TW": "有聲小說",
+        "ja": "オーディオブック",
+        "ko": "오디오북",
+        "ru": "Аудиокниги"
+      },
+      "sort": 3,
+      "parentId": "20112",
+      "description": "有声小说收听",
+      "icon": "icon-audio-novel",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31303",
+      "categoryId": "31303",
+      "categoryCode": "military-video",
+      "categoryName": {
+        "zh-CN": "军事视频",
+        "en": "Military Video",
+        "zh-TW": "軍事視頻",
+        "ja": "軍事動画",
+        "ko": "군사 비디오",
+        "ru": "Военное видео"
+      },
+      "sort": 3,
+      "parentId": "20113",
+      "description": "军事纪录片视频",
+      "icon": "icon-military-video",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31403",
+      "categoryId": "31403",
+      "categoryCode": "image-material",
+      "categoryName": {
+        "zh-CN": "图片素材",
+        "en": "Image Material",
+        "zh-TW": "圖片素材",
+        "ja": "画像素材",
+        "ko": "이미지 소재",
+        "ru": "Изображения"
+      },
+      "sort": 3,
+      "parentId": "20114",
+      "description": "图片素材资源",
+      "icon": "icon-image-material",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31503",
+      "categoryId": "31503",
+      "categoryCode": "manga",
+      "categoryName": {
+        "zh-CN": "漫画阅读",
+        "en": "Manga",
+        "zh-TW": "漫畫閱讀",
+        "ja": "漫画",
+        "ko": "만화",
+        "ru": "Манга"
+      },
+      "sort": 3,
+      "parentId": "20115",
+      "description": "漫画阅读平台",
+      "icon": "icon-manga",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31603",
+      "categoryId": "31603",
+      "categoryCode": "sports-community",
+      "categoryName": {
+        "zh-CN": "体育社区",
+        "en": "Sports Community",
+        "zh-TW": "體育社區",
+        "ja": "スポーツコミュニティ",
+        "ko": "스포츠 커뮤니티",
+        "ru": "Спортивное сообщество"
+      },
+      "sort": 3,
+      "parentId": "20116",
+      "description": "体育爱好者社区",
+      "icon": "icon-sports-community",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31703",
+      "categoryId": "31703",
+      "categoryCode": "csl",
+      "categoryName": {
+        "zh-CN": "中超国足",
+        "en": "Chinese Football",
+        "zh-TW": "中超國足",
+        "ja": "中国サッカー",
+        "ko": "중국 축구",
+        "ru": "Китайский футбол"
+      },
+      "sort": 3,
+      "parentId": "20117",
+      "description": "中国足球超级联赛",
+      "icon": "icon-csl",
+      "color": "#ef4444",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31803",
+      "categoryId": "31803",
+      "categoryCode": "nba-news",
+      "categoryName": {
+        "zh-CN": "NBA资讯",
+        "en": "NBA News",
+        "zh-TW": "NBA資訊",
+        "ja": "NBAニュース",
+        "ko": "NBA 뉴스",
+        "ru": "NBA новости"
+      },
+      "sort": 3,
+      "parentId": "20118",
+      "description": "NBA新闻资讯",
+      "icon": "icon-nba-news",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31903",
+      "categoryId": "31903",
+      "categoryCode": "interest-social",
+      "categoryName": {
+        "zh-CN": "兴趣交友",
+        "en": "Interest Social",
+        "zh-TW": "興趣交友",
+        "ja": "趣味社交",
+        "ko": "관심사 소셜",
+        "ru": "Интересы социальные"
+      },
+      "sort": 3,
+      "parentId": "20119",
+      "description": "兴趣社交平台",
+      "icon": "icon-interest-social",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32003",
+      "categoryId": "32003",
+      "categoryCode": "star-fashion",
+      "categoryName": {
+        "zh-CN": "明星同款",
+        "en": "Star Fashion",
+        "zh-TW": "明星同款",
+        "ja": "スターファッション",
+        "ko": "스타 패션",
+        "ru": "Мода звезд"
+      },
+      "sort": 3,
+      "parentId": "20120",
+      "description": "明星同款穿搭",
+      "icon": "icon-star-fashion",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32103",
+      "categoryId": "32103",
+      "categoryCode": "campus-forum",
+      "categoryName": {
+        "zh-CN": "校园论坛",
+        "en": "Campus Forum",
+        "zh-TW": "校園論壇",
+        "ja": "キャンパスフォーラム",
+        "ko": "캠퍼스 포럼",
+        "ru": "Университетский форум"
+      },
+      "sort": 3,
+      "parentId": "20121",
+      "description": "校园高校论坛",
+      "icon": "icon-campus-forum",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32203",
+      "categoryId": "32203",
+      "categoryCode": "funny-images",
+      "categoryName": {
+        "zh-CN": "爆笑图片",
+        "en": "Funny Images",
+        "zh-TW": "爆笑圖片",
+        "ja": "おもしろ画像",
+        "ko": "웃긴 이미지",
+        "ru": "Смешные картинки"
+      },
+      "sort": 3,
+      "parentId": "20122",
+      "description": "搞笑图片表情",
+      "icon": "icon-funny-images",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32303",
+      "categoryId": "32303",
+      "categoryCode": "tarot",
+      "categoryName": {
+        "zh-CN": "占星塔罗",
+        "en": "Tarot",
+        "zh-TW": "占星塔羅",
+        "ja": "タロット",
+        "ko": "타로",
+        "ru": "Таро"
+      },
+      "sort": 3,
+      "parentId": "20123",
+      "description": "塔罗占卜占星",
+      "icon": "icon-tarot",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32403",
+      "categoryId": "32403",
+      "categoryCode": "game-recharge",
+      "categoryName": {
+        "zh-CN": "游戏充值",
+        "en": "Game Recharge",
+        "zh-TW": "遊戲充值",
+        "ja": "ゲーム課金",
+        "ko": "게임 충전",
+        "ru": "Пополнение игр"
+      },
+      "sort": 3,
+      "parentId": "20124",
+      "description": "游戏充值交易",
+      "icon": "icon-game-recharge",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32503",
+      "categoryId": "32503",
+      "categoryCode": "mars-text",
+      "categoryName": {
+        "zh-CN": "火星文",
+        "en": "Mars Text",
+        "zh-TW": "火星文",
+        "ja": "火星文字",
+        "ko": "화성 문자",
+        "ru": "Марсианский текст"
+      },
+      "sort": 3,
+      "parentId": "20125",
+      "description": "火星文非主流",
+      "icon": "icon-mars-text",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-37003",
+      "categoryId": "37003",
+      "categoryCode": "headhunting",
+      "categoryName": {
+        "zh-CN": "猎头服务",
+        "en": "Headhunting",
+        "zh-TW": "獵頭服務",
+        "ja": "ヘッドハンティング",
+        "ko": "헤드헌팅",
+        "ru": "Хедхантинг"
+      },
+      "sort": 3,
+      "parentId": "20170",
+      "description": "猎头服务",
+      "icon": "icon-headhunting",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-003",
+      "categoryId": "20003",
+      "categoryCode": "tech-computer",
+      "categoryName": {
+        "zh-CN": "电脑网络",
+        "en": "Computer & Network",
+        "zh-TW": "電腦網路",
+        "ja": "コンピュータ",
+        "ko": "컴퓨터",
+        "ru": "Компьютеры"
+      },
+      "sort": 4,
+      "parentId": "0",
+      "description": "电脑网络类网站导航",
+      "icon": "icon-computer",
+      "color": "#3b82f6",
+      "level": 1
+    },
+    {
+      "id": "uuid-cat-111",
+      "categoryId": "20111",
+      "categoryCode": "movie",
+      "categoryName": {
+        "zh-CN": "电影",
+        "en": "Movie",
+        "zh-TW": "電影",
+        "ja": "映画",
+        "ko": "영화",
+        "ru": "Кино"
+      },
+      "sort": 4,
+      "parentId": "20001",
+      "description": "电影资源与影评",
+      "icon": "icon-movie",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-104",
+      "categoryId": "20104",
+      "categoryCode": "news",
+      "categoryName": {
+        "zh-CN": "新闻",
+        "en": "News",
+        "zh-TW": "新聞",
+        "ja": "ニュース",
+        "ko": "뉴스",
+        "ru": "Новости"
+      },
+      "sort": 4,
+      "parentId": "20002",
+      "description": "新闻资讯与媒体平台",
+      "icon": "icon-news",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-110",
+      "categoryId": "20110",
+      "categoryCode": "tech",
+      "categoryName": {
+        "zh-CN": "科技",
+        "en": "Technology",
+        "zh-TW": "科技",
+        "ja": "テクノロジー",
+        "ko": "기술",
+        "ru": "Технологии"
+      },
+      "sort": 4,
+      "parentId": "20003",
+      "description": "科技资讯与数码产品",
+      "icon": "icon-tech",
+      "color": "#0ea5e9",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-404",
+      "categoryId": "20404",
+      "categoryCode": "hubei",
+      "categoryName": {
+        "zh-CN": "湖北",
+        "en": "Hubei",
+        "zh-TW": "湖北",
+        "ja": "湖北",
+        "ko": "후베이",
+        "ru": "Хубэй"
+      },
+      "sort": 4,
+      "parentId": "20004",
+      "description": "湖北地方网站",
+      "icon": "icon-hubei",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-161",
+      "categoryId": "20161",
+      "categoryCode": "teaching",
+      "categoryName": {
+        "zh-CN": "教学",
+        "en": "Teaching",
+        "zh-TW": "教學",
+        "ja": "教育",
+        "ko": "교육",
+        "ru": "Обучение"
+      },
+      "sort": 4,
+      "parentId": "20005",
+      "description": "教学资源与方法",
+      "icon": "icon-teaching",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-173",
+      "categoryId": "20173",
+      "categoryCode": "resume",
+      "categoryName": {
+        "zh-CN": "简历",
+        "en": "Resume",
+        "zh-TW": "履歷",
+        "ja": "履歴書",
+        "ko": "이력서",
+        "ru": "Резюме"
+      },
+      "sort": 4,
+      "parentId": "20006",
+      "description": "简历制作与优化",
+      "icon": "icon-resume",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-30104",
+      "categoryId": "30104",
+      "categoryCode": "music-community",
+      "categoryName": {
+        "zh-CN": "音乐社区",
+        "en": "Music Community",
+        "zh-TW": "音樂社區",
+        "ja": "音楽コミュニティ",
+        "ko": "음악 커뮤니티",
+        "ru": "Музыкальное сообщество"
+      },
+      "sort": 4,
+      "parentId": "20101",
+      "description": "音乐社交平台",
+      "icon": "icon-music-community",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-30204",
+      "categoryId": "30204",
+      "categoryCode": "video-download",
+      "categoryName": {
+        "zh-CN": "视频下载",
+        "en": "Video Download",
+        "zh-TW": "視頻下載",
+        "ja": "動画ダウンロード",
+        "ko": "비디오 다운로드",
+        "ru": "Скачать видео"
+      },
+      "sort": 4,
+      "parentId": "20102",
+      "description": "视频下载工具",
+      "icon": "icon-video-download",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-30304",
+      "categoryId": "30304",
+      "categoryCode": "mini-game",
+      "categoryName": {
+        "zh-CN": "小游戏",
+        "en": "Mini Game",
+        "zh-TW": "小遊戲",
+        "ja": "ミニゲーム",
+        "ko": "미니 게임",
+        "ru": "Мини-игры"
+      },
+      "sort": 4,
+      "parentId": "20103",
+      "description": "在线小游戏",
+      "icon": "icon-mini-game",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31104",
+      "categoryId": "31104",
+      "categoryCode": "classic-movie",
+      "categoryName": {
+        "zh-CN": "经典电影",
+        "en": "Classic Movie",
+        "zh-TW": "經典電影",
+        "ja": "クラシック映画",
+        "ko": "클래식 영화",
+        "ru": "Классические фильмы"
+      },
+      "sort": 4,
+      "parentId": "20111",
+      "description": "经典电影推荐",
+      "icon": "icon-classic-movie",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31204",
+      "categoryId": "31204",
+      "categoryCode": "classic-literature",
+      "categoryName": {
+        "zh-CN": "经典文学",
+        "en": "Classic Literature",
+        "zh-TW": "經典文學",
+        "ja": "古典文学",
+        "ko": "고전 문학",
+        "ru": "Классическая литература"
+      },
+      "sort": 4,
+      "parentId": "20112",
+      "description": "经典文学作品",
+      "icon": "icon-classic-literature",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31304",
+      "categoryId": "31304",
+      "categoryCode": "military-equipment",
+      "categoryName": {
+        "zh-CN": "军事装备",
+        "en": "Military Equipment",
+        "zh-TW": "軍事裝備",
+        "ja": "軍事装備",
+        "ko": "군사 장비",
+        "ru": "Военная техника"
+      },
+      "sort": 4,
+      "parentId": "20113",
+      "description": "军事武器装备",
+      "icon": "icon-military-equipment",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31404",
+      "categoryId": "31404",
+      "categoryCode": "design-inspiration",
+      "categoryName": {
+        "zh-CN": "设计灵感",
+        "en": "Design Inspiration",
+        "zh-TW": "設計靈感",
+        "ja": "デザインインスピレーション",
+        "ko": "디자인 영감",
+        "ru": "Вдохновение дизайна"
+      },
+      "sort": 4,
+      "parentId": "20114",
+      "description": "设计灵感社区",
+      "icon": "icon-design-inspiration",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31504",
+      "categoryId": "31504",
+      "categoryCode": "anime-news",
+      "categoryName": {
+        "zh-CN": "动漫资讯",
+        "en": "Anime News",
+        "zh-TW": "動漫資訊",
+        "ja": "アニメニュース",
+        "ko": "애니메이션 뉴스",
+        "ru": "Аниме новости"
+      },
+      "sort": 4,
+      "parentId": "20115",
+      "description": "动漫新闻资讯",
+      "icon": "icon-anime-news",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31604",
+      "categoryId": "31604",
+      "categoryCode": "fitness",
+      "categoryName": {
+        "zh-CN": "健身运动",
+        "en": "Fitness",
+        "zh-TW": "健身運動",
+        "ja": "フィットネス",
+        "ko": "피트니스",
+        "ru": "Фитнес"
+      },
+      "sort": 4,
+      "parentId": "20116",
+      "description": "健身运动平台",
+      "icon": "icon-fitness",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31704",
+      "categoryId": "31704",
+      "categoryCode": "champions-league",
+      "categoryName": {
+        "zh-CN": "欧冠世足",
+        "en": "Champions League",
+        "zh-TW": "歐冠世足",
+        "ja": "チャンピオンズリーグ",
+        "ko": "챔피언스 리그",
+        "ru": "Лига чемпионов"
+      },
+      "sort": 4,
+      "parentId": "20117",
+      "description": "欧洲冠军联赛",
+      "icon": "icon-champions-league",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31804",
+      "categoryId": "31804",
+      "categoryCode": "nba-stats",
+      "categoryName": {
+        "zh-CN": "NBA数据",
+        "en": "NBA Stats",
+        "zh-TW": "NBA數據",
+        "ja": "NBA統計",
+        "ko": "NBA 통계",
+        "ru": "NBA статистика"
+      },
+      "sort": 4,
+      "parentId": "20118",
+      "description": "NBA数据统计",
+      "icon": "icon-nba-stats",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-31904",
+      "categoryId": "31904",
+      "categoryCode": "career-social",
+      "categoryName": {
+        "zh-CN": "职场社交",
+        "en": "Career Social",
+        "zh-TW": "職場社交",
+        "ja": "キャリア社交",
+        "ko": "커리어 소셜",
+        "ru": "Карьера социальная"
+      },
+      "sort": 4,
+      "parentId": "20119",
+      "description": "职场社交平台",
+      "icon": "icon-career-social",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32004",
+      "categoryId": "32004",
+      "categoryCode": "star-ranking",
+      "categoryName": {
+        "zh-CN": "明星榜单",
+        "en": "Star Ranking",
+        "zh-TW": "明星榜單",
+        "ja": "スターランキング",
+        "ko": "스타 순위",
+        "ru": "Рейтинг звезд"
+      },
+      "sort": 4,
+      "parentId": "20120",
+      "description": "明星榜单数据",
+      "icon": "icon-star-ranking",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32104",
+      "categoryId": "32104",
+      "categoryCode": "hobby-forum",
+      "categoryName": {
+        "zh-CN": "兴趣论坛",
+        "en": "Hobby Forum",
+        "zh-TW": "興趣論壇",
+        "ja": "趣味フォーラム",
+        "ko": "취미 포럼",
+        "ru": "Хобби форум"
+      },
+      "sort": 4,
+      "parentId": "20121",
+      "description": "兴趣爱好论坛",
+      "icon": "icon-hobby-forum",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32204",
+      "categoryId": "32204",
+      "categoryCode": "cold-joke",
+      "categoryName": {
+        "zh-CN": "冷笑话",
+        "en": "Cold Joke",
+        "zh-TW": "冷笑話",
+        "ja": "寒いジョーク",
+        "ko": "쓸쓸한 유머",
+        "ru": "Холодные шутки"
+      },
+      "sort": 4,
+      "parentId": "20122",
+      "description": "冷笑话智力题",
+      "icon": "icon-cold-joke",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32304",
+      "categoryId": "32304",
+      "categoryCode": "zodiac",
+      "categoryName": {
+        "zh-CN": "生肖命理",
+        "en": "Zodiac",
+        "zh-TW": "生肖命理",
+        "ja": "干支",
+        "ko": "생肖",
+        "ru": "Зодиак"
+      },
+      "sort": 4,
+      "parentId": "20123",
+      "description": "生肖命理预测",
+      "icon": "icon-zodiac",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32404",
+      "categoryId": "32404",
+      "categoryCode": "game-tools",
+      "categoryName": {
+        "zh-CN": "游戏辅助",
+        "en": "Game Tools",
+        "zh-TW": "遊戲輔助",
+        "ja": "ゲームツール",
+        "ko": "게임 도구",
+        "ru": "Игровые инструменты"
+      },
+      "sort": 4,
+      "parentId": "20124",
+      "description": "游戏辅助工具",
+      "icon": "icon-game-tools",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-32504",
+      "categoryId": "32504",
+      "categoryCode": "emo-literature",
+      "categoryName": {
+        "zh-CN": "伤感文学",
+        "en": "Emo Literature",
+        "zh-TW": "傷感文學",
+        "ja": "エモ文学",
+        "ko": "감성 문학",
+        "ru": "Эмо литература"
+      },
+      "sort": 4,
+      "parentId": "20125",
+      "description": "伤感文学日志",
+      "icon": "icon-emo-literature",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-37101",
+      "categoryId": "37101",
+      "categoryCode": "online-parttime",
+      "categoryName": {
+        "zh-CN": "在线兼职",
+        "en": "Online Part-time",
+        "zh-TW": "在線兼職",
+        "ja": "オンラインアルバイト",
+        "ko": "온라인 알바",
+        "ru": "Онлайн"
+      },
+      "sort": 4,
+      "parentId": "20171",
+      "description": "在线兼职",
+      "icon": "icon-online-parttime",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-004",
+      "categoryId": "20004",
+      "categoryCode": "local-sites",
+      "categoryName": {
+        "zh-CN": "地方网站",
+        "en": "Local Sites",
+        "zh-TW": "地方網站",
+        "ja": "地域サイト",
+        "ko": "지역 사이트",
+        "ru": "Местные сайты"
+      },
+      "sort": 5,
+      "parentId": "0",
+      "description": "地方网站导航",
+      "icon": "icon-local",
+      "color": "#f59e0b",
+      "level": 1
+    },
+    {
+      "id": "uuid-cat-112",
+      "categoryId": "20112",
+      "categoryCode": "novel",
+      "categoryName": {
+        "zh-CN": "小说",
+        "en": "Novel",
+        "zh-TW": "小說",
+        "ja": "小説",
+        "ko": "소설",
+        "ru": "Роман"
+      },
+      "sort": 5,
+      "parentId": "20001",
+      "description": "小说阅读与文学",
+      "icon": "icon-novel",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-105",
+      "categoryId": "20105",
+      "categoryCode": "shopping",
+      "categoryName": {
+        "zh-CN": "购物",
+        "en": "Shopping",
+        "zh-TW": "購物",
+        "ja": "ショッピング",
+        "ko": "쇼핑",
+        "ru": "Покупки"
+      },
+      "sort": 5,
+      "parentId": "20002",
+      "description": "电商购物与比价平台",
+      "icon": "icon-shopping",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-146",
+      "categoryId": "20146",
+      "categoryCode": "blog",
+      "categoryName": {
+        "zh-CN": "博客",
+        "en": "Blog",
+        "zh-TW": "部落格",
+        "ja": "ブログ",
+        "ko": "블로그",
+        "ru": "Блог"
+      },
+      "sort": 5,
+      "parentId": "20003",
+      "description": "博客平台与空间",
+      "icon": "icon-blog",
+      "color": "#f97316",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-405",
+      "categoryId": "20405",
+      "categoryCode": "shandong",
+      "categoryName": {
+        "zh-CN": "山东",
+        "en": "Shandong",
+        "zh-TW": "山東",
+        "ja": "山東",
+        "ko": "산둥",
+        "ru": "Шаньдун"
+      },
+      "sort": 5,
+      "parentId": "20004",
+      "description": "山东地方网站",
+      "icon": "icon-shandong",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-162",
+      "categoryId": "20162",
+      "categoryCode": "chess",
+      "categoryName": {
+        "zh-CN": "琴棋",
+        "en": "Chess & Music",
+        "zh-TW": "琴棋",
+        "ja": "琴棋",
+        "ko": "거문고와 바둑",
+        "ru": "Шахматы и музыка"
+      },
+      "sort": 5,
+      "parentId": "20005",
+      "description": "琴棋书画艺术",
+      "icon": "icon-chess",
+      "color": "#f97316",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-174",
+      "categoryId": "20174",
+      "categoryCode": "software-exam",
+      "categoryName": {
+        "zh-CN": "软考",
+        "en": "Software Exam",
+        "zh-TW": "軟考",
+        "ja": "ソフト試験",
+        "ko": "소프트웨어시험",
+        "ru": "Экзамен ПО"
+      },
+      "sort": 5,
+      "parentId": "20006",
+      "description": "软件考试与认证",
+      "icon": "icon-software-exam",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37102",
+      "categoryId": "37102",
+      "categoryCode": "offline-parttime",
+      "categoryName": {
+        "zh-CN": "线下兼职",
+        "en": "Offline Part-time",
+        "zh-TW": "線下兼職",
+        "ja": "オフラインアルバイト",
+        "ko": "오프라인 알바",
+        "ru": "Офлайн"
+      },
+      "sort": 5,
+      "parentId": "20171",
+      "description": "线下兼职",
+      "icon": "icon-offline-parttime",
+      "color": "#f97316",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-005",
+      "categoryId": "20005",
+      "categoryCode": "others",
+      "categoryName": {
+        "zh-CN": "其他",
+        "en": "Others",
+        "zh-TW": "其他",
+        "ja": "その他",
+        "ko": "기타",
+        "ru": "Другое"
+      },
+      "sort": 6,
+      "parentId": "0",
+      "description": "其他分类网站导航",
+      "icon": "icon-others",
+      "color": "#8b5cf6",
+      "level": 1
+    },
+    {
+      "id": "uuid-cat-113",
+      "categoryId": "20113",
+      "categoryCode": "military",
+      "categoryName": {
+        "zh-CN": "军事",
+        "en": "Military",
+        "zh-TW": "軍事",
+        "ja": "軍事",
+        "ko": "군사",
+        "ru": "Военное"
+      },
+      "sort": 6,
+      "parentId": "20001",
+      "description": "军事资讯与国防",
+      "icon": "icon-military",
+      "color": "#ef4444",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-106",
+      "categoryId": "20106",
+      "categoryCode": "travel",
+      "categoryName": {
+        "zh-CN": "旅游",
+        "en": "Travel",
+        "zh-TW": "旅遊",
+        "ja": "旅行",
+        "ko": "여행",
+        "ru": "Путешествия"
+      },
+      "sort": 6,
+      "parentId": "20002",
+      "description": "旅游攻略与出行服务",
+      "icon": "icon-travel",
+      "color": "#10b981",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-147",
+      "categoryId": "20147",
+      "categoryCode": "antivirus",
+      "categoryName": {
+        "zh-CN": "杀毒",
+        "en": "Antivirus",
+        "zh-TW": "防毒",
+        "ja": "ウイルス対策",
+        "ko": "백신",
+        "ru": "Антивирус"
+      },
+      "sort": 6,
+      "parentId": "20003",
+      "description": "杀毒软件与安全",
+      "icon": "icon-antivirus",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-406",
+      "categoryId": "20406",
+      "categoryCode": "guangxi",
+      "categoryName": {
+        "zh-CN": "广西",
+        "en": "Guangxi",
+        "zh-TW": "廣西",
+        "ja": "広西",
+        "ko": "광시",
+        "ru": "Гуанси"
+      },
+      "sort": 6,
+      "parentId": "20004",
+      "description": "广西地方网站",
+      "icon": "icon-guangxi",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-163",
+      "categoryId": "20163",
+      "categoryCode": "folk-art",
+      "categoryName": {
+        "zh-CN": "曲艺",
+        "en": "Folk Art",
+        "zh-TW": "曲藝",
+        "ja": "曲芸",
+        "ko": "민속예술",
+        "ru": "Народное искусство"
+      },
+      "sort": 6,
+      "parentId": "20005",
+      "description": "曲艺与民间艺术",
+      "icon": "icon-folk-art",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-175",
+      "categoryId": "20175",
+      "categoryCode": "postgraduate",
+      "categoryName": {
+        "zh-CN": "考研",
+        "en": "Postgraduate",
+        "zh-TW": "考研",
+        "ja": "大学院",
+        "ko": "대학원",
+        "ru": "Аспирантура"
+      },
+      "sort": 6,
+      "parentId": "20006",
+      "description": "考研备考与资讯",
+      "icon": "icon-postgraduate",
+      "color": "#ef4444",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37103",
+      "categoryId": "37103",
+      "categoryCode": "freelance",
+      "categoryName": {
+        "zh-CN": "自由职业",
+        "en": "Freelance",
+        "zh-TW": "自由職業",
+        "ja": "フリーランス",
+        "ko": "프리랜서",
+        "ru": "Фриланс"
+      },
+      "sort": 6,
+      "parentId": "20171",
+      "description": "自由职业",
+      "icon": "icon-freelance",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-114",
+      "categoryId": "20114",
+      "categoryCode": "image",
+      "categoryName": {
+        "zh-CN": "图片",
+        "en": "Image",
+        "zh-TW": "圖片",
+        "ja": "画像",
+        "ko": "이미지",
+        "ru": "Изображение"
+      },
+      "sort": 7,
+      "parentId": "20001",
+      "description": "图片资源与壁纸",
+      "icon": "icon-image",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-126",
+      "categoryId": "20126",
+      "categoryCode": "weather",
+      "categoryName": {
+        "zh-CN": "天气",
+        "en": "Weather",
+        "zh-TW": "天氣",
+        "ja": "天気",
+        "ko": "날씨",
+        "ru": "Погода"
+      },
+      "sort": 7,
+      "parentId": "20002",
+      "description": "天气预报与气象",
+      "icon": "icon-weather",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-148",
+      "categoryId": "20148",
+      "categoryCode": "hardware",
+      "categoryName": {
+        "zh-CN": "硬件",
+        "en": "Hardware",
+        "zh-TW": "硬體",
+        "ja": "ハードウェア",
+        "ko": "하드웨어",
+        "ru": "Оборудование"
+      },
+      "sort": 7,
+      "parentId": "20003",
+      "description": "电脑硬件资讯",
+      "icon": "icon-hardware",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-407",
+      "categoryId": "20407",
+      "categoryCode": "hunan",
+      "categoryName": {
+        "zh-CN": "湖南",
+        "en": "Hunan",
+        "zh-TW": "湖南",
+        "ja": "湖南",
+        "ko": "후난",
+        "ru": "Хунань"
+      },
+      "sort": 7,
+      "parentId": "20004",
+      "description": "湖南地方网站",
+      "icon": "icon-hunan",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-164",
+      "categoryId": "20164",
+      "categoryCode": "pet",
+      "categoryName": {
+        "zh-CN": "宠物",
+        "en": "Pet",
+        "zh-TW": "寵物",
+        "ja": "ペット",
+        "ko": "반려동물",
+        "ru": "Питомцы"
+      },
+      "sort": 7,
+      "parentId": "20005",
+      "description": "宠物养护与资讯",
+      "icon": "icon-pet",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-176",
+      "categoryId": "20176",
+      "categoryCode": "civil-service",
+      "categoryName": {
+        "zh-CN": "公考",
+        "en": "Civil Service",
+        "zh-TW": "公考",
+        "ja": "公務員試験",
+        "ko": "공무원시험",
+        "ru": "Государственная служба"
+      },
+      "sort": 7,
+      "parentId": "20006",
+      "description": "公务员考试",
+      "icon": "icon-civil-service",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37201",
+      "categoryId": "37201",
+      "categoryCode": "tech-referral",
+      "categoryName": {
+        "zh-CN": "技术内推",
+        "en": "Tech Referral",
+        "zh-TW": "技術內推",
+        "ja": "技術紹介",
+        "ko": "기술 내부추천",
+        "ru": "Техно"
+      },
+      "sort": 7,
+      "parentId": "20172",
+      "description": "技术内推",
+      "icon": "icon-tech-referral",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-115",
+      "categoryId": "20115",
+      "categoryCode": "anime",
+      "categoryName": {
+        "zh-CN": "动漫",
+        "en": "Anime",
+        "zh-TW": "動漫",
+        "ja": "アニメ",
+        "ko": "애니메이션",
+        "ru": "Аниме"
+      },
+      "sort": 8,
+      "parentId": "20001",
+      "description": "动漫资源与二次元",
+      "icon": "icon-anime",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-127",
+      "categoryId": "20127",
+      "categoryCode": "lottery",
+      "categoryName": {
+        "zh-CN": "彩票",
+        "en": "Lottery",
+        "zh-TW": "彩票",
+        "ja": "宝くじ",
+        "ko": "복권",
+        "ru": "Лотерея"
+      },
+      "sort": 8,
+      "parentId": "20002",
+      "description": "彩票开奖与资讯",
+      "icon": "icon-lottery",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-149",
+      "categoryId": "20149",
+      "categoryCode": "wallpaper",
+      "categoryName": {
+        "zh-CN": "壁纸",
+        "en": "Wallpaper",
+        "zh-TW": "桌布",
+        "ja": "壁紙",
+        "ko": "배경화면",
+        "ru": "Обои"
+      },
+      "sort": 8,
+      "parentId": "20003",
+      "description": "桌面壁纸资源",
+      "icon": "icon-wallpaper",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-408",
+      "categoryId": "20408",
+      "categoryCode": "sichuan",
+      "categoryName": {
+        "zh-CN": "四川",
+        "en": "Sichuan",
+        "zh-TW": "四川",
+        "ja": "四川",
+        "ko": "쓰촨",
+        "ru": "Сычуань"
+      },
+      "sort": 8,
+      "parentId": "20004",
+      "description": "四川地方网站",
+      "icon": "icon-sichuan",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-165",
+      "categoryId": "20165",
+      "categoryCode": "law",
+      "categoryName": {
+        "zh-CN": "法律",
+        "en": "Law",
+        "zh-TW": "法律",
+        "ja": "法律",
+        "ko": "법률",
+        "ru": "Право"
+      },
+      "sort": 8,
+      "parentId": "20005",
+      "description": "法律资讯与服务",
+      "icon": "icon-law",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-177",
+      "categoryId": "20177",
+      "categoryCode": "certificate",
+      "categoryName": {
+        "zh-CN": "考证",
+        "en": "Certificate",
+        "zh-TW": "考證",
+        "ja": "資格",
+        "ko": "자격증",
+        "ru": "Сертификат"
+      },
+      "sort": 8,
+      "parentId": "20006",
+      "description": "职业资格认证",
+      "icon": "icon-certificate",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37202",
+      "categoryId": "37202",
+      "categoryCode": "product-referral",
+      "categoryName": {
+        "zh-CN": "产品内推",
+        "en": "Product Referral",
+        "zh-TW": "產品內推",
+        "ja": "製品紹介",
+        "ko": "제품 내부추천",
+        "ru": "Продукт"
+      },
+      "sort": 8,
+      "parentId": "20172",
+      "description": "产品内推",
+      "icon": "icon-product-referral",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-116",
+      "categoryId": "20116",
+      "categoryCode": "sports",
+      "categoryName": {
+        "zh-CN": "体育",
+        "en": "Sports",
+        "zh-TW": "體育",
+        "ja": "スポーツ",
+        "ko": "스포츠",
+        "ru": "Спорт"
+      },
+      "sort": 9,
+      "parentId": "20001",
+      "description": "体育赛事与资讯",
+      "icon": "icon-sports",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-128",
+      "categoryId": "20128",
+      "categoryCode": "query",
+      "categoryName": {
+        "zh-CN": "查询",
+        "en": "Query",
+        "zh-TW": "查詢",
+        "ja": "検索",
+        "ko": "조회",
+        "ru": "Запрос"
+      },
+      "sort": 9,
+      "parentId": "20002",
+      "description": "信息查询服务",
+      "icon": "icon-query",
+      "color": "#64748b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-150",
+      "categoryId": "20150",
+      "categoryCode": "chat",
+      "categoryName": {
+        "zh-CN": "聊天",
+        "en": "Chat",
+        "zh-TW": "聊天",
+        "ja": "チャット",
+        "ko": "채팅",
+        "ru": "Чат"
+      },
+      "sort": 9,
+      "parentId": "20003",
+      "description": "即时通讯与聊天",
+      "icon": "icon-chat",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-409",
+      "categoryId": "20409",
+      "categoryCode": "jiangsu",
+      "categoryName": {
+        "zh-CN": "江苏",
+        "en": "Jiangsu",
+        "zh-TW": "江蘇",
+        "ja": "江蘇",
+        "ko": "장쑤",
+        "ru": "Цзянсу"
+      },
+      "sort": 9,
+      "parentId": "20004",
+      "description": "江苏地方网站",
+      "icon": "icon-jiangsu",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-166",
+      "categoryId": "20166",
+      "categoryCode": "paper",
+      "categoryName": {
+        "zh-CN": "论文",
+        "en": "Paper",
+        "zh-TW": "論文",
+        "ja": "論文",
+        "ko": "논문",
+        "ru": "Статья"
+      },
+      "sort": 9,
+      "parentId": "20005",
+      "description": "论文写作与查重",
+      "icon": "icon-paper",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-178",
+      "categoryId": "20178",
+      "categoryCode": "career-english",
+      "categoryName": {
+        "zh-CN": "职场英语",
+        "en": "Business English",
+        "zh-TW": "職場英語",
+        "ja": "ビジネス英語",
+        "ko": "비즈니스영어",
+        "ru": "Деловой английский"
+      },
+      "sort": 9,
+      "parentId": "20006",
+      "description": "职场英语学习",
+      "icon": "icon-career-english",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37203",
+      "categoryId": "37203",
+      "categoryCode": "mgmt-referral",
+      "categoryName": {
+        "zh-CN": "管理内推",
+        "en": "Management Referral",
+        "zh-TW": "管理內推",
+        "ja": "管理職紹介",
+        "ko": "관리직 내부추천",
+        "ru": "Менеджмент"
+      },
+      "sort": 9,
+      "parentId": "20172",
+      "description": "管理内推",
+      "icon": "icon-mgmt-referral",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-117",
+      "categoryId": "20117",
+      "categoryCode": "football",
+      "categoryName": {
+        "zh-CN": "足球",
+        "en": "Football",
+        "zh-TW": "足球",
+        "ja": "サッカー",
+        "ko": "축구",
+        "ru": "Футбол"
+      },
+      "sort": 10,
+      "parentId": "20001",
+      "description": "足球赛事与资讯",
+      "icon": "icon-football",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-129",
+      "categoryId": "20129",
+      "categoryCode": "mobile",
+      "categoryName": {
+        "zh-CN": "手机",
+        "en": "Mobile",
+        "zh-TW": "手機",
+        "ja": "携帯",
+        "ko": "휴대폰",
+        "ru": "Мобильный"
+      },
+      "sort": 10,
+      "parentId": "20002",
+      "description": "手机资讯与应用",
+      "icon": "icon-mobile",
+      "color": "#06b6d4",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-151",
+      "categoryId": "20151",
+      "categoryCode": "webpage",
+      "categoryName": {
+        "zh-CN": "网页",
+        "en": "Webpage",
+        "zh-TW": "網頁",
+        "ja": "ウェブページ",
+        "ko": "웹페이지",
+        "ru": "Веб-страница"
+      },
+      "sort": 10,
+      "parentId": "20003",
+      "description": "网页制作与工具",
+      "icon": "icon-webpage",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-410",
+      "categoryId": "20410",
+      "categoryCode": "henan",
+      "categoryName": {
+        "zh-CN": "河南",
+        "en": "Henan",
+        "zh-TW": "河南",
+        "ja": "河南",
+        "ko": "허난",
+        "ru": "Хэнань"
+      },
+      "sort": 10,
+      "parentId": "20004",
+      "description": "河南地方网站",
+      "icon": "icon-henan",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-167",
+      "categoryId": "20167",
+      "categoryCode": "government",
+      "categoryName": {
+        "zh-CN": "政府",
+        "en": "Government",
+        "zh-TW": "政府",
+        "ja": "政府",
+        "ko": "정부",
+        "ru": "Правительство"
+      },
+      "sort": 10,
+      "parentId": "20005",
+      "description": "政府网站与服务",
+      "icon": "icon-government",
+      "color": "#ef4444",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-179",
+      "categoryId": "20179",
+      "categoryCode": "translation",
+      "categoryName": {
+        "zh-CN": "翻译",
+        "en": "Translation",
+        "zh-TW": "翻譯",
+        "ja": "翻訳",
+        "ko": "번역",
+        "ru": "Перевод"
+      },
+      "sort": 10,
+      "parentId": "20006",
+      "description": "翻译服务与工具",
+      "icon": "icon-translation",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37301",
+      "categoryId": "37301",
+      "categoryCode": "resume-template",
+      "categoryName": {
+        "zh-CN": "简历模板",
+        "en": "Resume Template",
+        "zh-TW": "簡歷模板",
+        "ja": "履歴書テンプレート",
+        "ko": "이력서 템플릿",
+        "ru": "Шаблон"
+      },
+      "sort": 10,
+      "parentId": "20173",
+      "description": "简历模板",
+      "icon": "icon-resume-template",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-118",
+      "categoryId": "20118",
+      "categoryCode": "nba",
+      "categoryName": {
+        "zh-CN": "NBA",
+        "en": "NBA",
+        "zh-TW": "NBA",
+        "ja": "NBA",
+        "ko": "NBA",
+        "ru": "NBA"
+      },
+      "sort": 11,
+      "parentId": "20001",
+      "description": "NBA篮球赛事",
+      "icon": "icon-nba",
+      "color": "#f97316",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-130",
+      "categoryId": "20130",
+      "categoryCode": "stock",
+      "categoryName": {
+        "zh-CN": "股票",
+        "en": "Stock",
+        "zh-TW": "股票",
+        "ja": "株式",
+        "ko": "주식",
+        "ru": "Акции"
+      },
+      "sort": 11,
+      "parentId": "20002",
+      "description": "股票行情与资讯",
+      "icon": "icon-stock",
+      "color": "#ef4444",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-152",
+      "categoryId": "20152",
+      "categoryCode": "search",
+      "categoryName": {
+        "zh-CN": "搜索",
+        "en": "Search",
+        "zh-TW": "搜尋",
+        "ja": "検索",
+        "ko": "검색",
+        "ru": "Поиск"
+      },
+      "sort": 11,
+      "parentId": "20003",
+      "description": "搜索引擎与工具",
+      "icon": "icon-search",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-411",
+      "categoryId": "20411",
+      "categoryCode": "hebei",
+      "categoryName": {
+        "zh-CN": "河北",
+        "en": "Hebei",
+        "zh-TW": "河北",
+        "ja": "河北",
+        "ko": "허베이",
+        "ru": "Хэбэй"
+      },
+      "sort": 11,
+      "parentId": "20004",
+      "description": "河北地方网站",
+      "icon": "icon-hebei",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-168",
+      "categoryId": "20168",
+      "categoryCode": "campus",
+      "categoryName": {
+        "zh-CN": "校园",
+        "en": "Campus",
+        "zh-TW": "校園",
+        "ja": "キャンパス",
+        "ko": "캠퍼스",
+        "ru": "Кампус"
+      },
+      "sort": 11,
+      "parentId": "20005",
+      "description": "校园生活与服务",
+      "icon": "icon-campus",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-180",
+      "categoryId": "20180",
+      "categoryCode": "industry",
+      "categoryName": {
+        "zh-CN": "行业",
+        "en": "Industry",
+        "zh-TW": "行業",
+        "ja": "業界",
+        "ko": "산업",
+        "ru": "Индустрия"
+      },
+      "sort": 11,
+      "parentId": "20006",
+      "description": "行业资讯与分析",
+      "icon": "icon-industry",
+      "color": "#06b6d4",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37302",
+      "categoryId": "37302",
+      "categoryCode": "resume-optimize",
+      "categoryName": {
+        "zh-CN": "简历优化",
+        "en": "Resume Optimization",
+        "zh-TW": "簡歷優化",
+        "ja": "履歴書最適化",
+        "ko": "이력서 최적화",
+        "ru": "Оптимизация"
+      },
+      "sort": 11,
+      "parentId": "20173",
+      "description": "简历优化",
+      "icon": "icon-resume-optimize",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-119",
+      "categoryId": "20119",
+      "categoryCode": "social",
+      "categoryName": {
+        "zh-CN": "交际",
+        "en": "Social",
+        "zh-TW": "社交",
+        "ja": "社交",
+        "ko": "소셜",
+        "ru": "Социальное"
+      },
+      "sort": 12,
+      "parentId": "20001",
+      "description": "社交与交友平台",
+      "icon": "icon-social",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-131",
+      "categoryId": "20131",
+      "categoryCode": "fund",
+      "categoryName": {
+        "zh-CN": "基金",
+        "en": "Fund",
+        "zh-TW": "基金",
+        "ja": "ファンド",
+        "ko": "펀드",
+        "ru": "Фонд"
+      },
+      "sort": 12,
+      "parentId": "20002",
+      "description": "基金投资与理财",
+      "icon": "icon-fund",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-153",
+      "categoryId": "20153",
+      "categoryCode": "mp4",
+      "categoryName": {
+        "zh-CN": "MP4",
+        "en": "MP4",
+        "zh-TW": "MP4",
+        "ja": "MP4",
+        "ko": "MP4",
+        "ru": "MP4"
+      },
+      "sort": 12,
+      "parentId": "20003",
+      "description": "MP4视频资源",
+      "icon": "icon-mp4",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-412",
+      "categoryId": "20412",
+      "categoryCode": "shanxi",
+      "categoryName": {
+        "zh-CN": "山西",
+        "en": "Shanxi",
+        "zh-TW": "山西",
+        "ja": "山西",
+        "ko": "산시",
+        "ru": "Шаньси"
+      },
+      "sort": 12,
+      "parentId": "20004",
+      "description": "山西地方网站",
+      "icon": "icon-shanxi",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-169",
+      "categoryId": "20169",
+      "categoryCode": "business",
+      "categoryName": {
+        "zh-CN": "招商",
+        "en": "Business",
+        "zh-TW": "招商",
+        "ja": "ビジネス",
+        "ko": "비즈니스",
+        "ru": "Бизнес"
+      },
+      "sort": 12,
+      "parentId": "20005",
+      "description": "招商加盟与商业",
+      "icon": "icon-business",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-181",
+      "categoryId": "20181",
+      "categoryCode": "labor",
+      "categoryName": {
+        "zh-CN": "劳动",
+        "en": "Labor",
+        "zh-TW": "勞動",
+        "ja": "労働",
+        "ko": "노동",
+        "ru": "Труд"
+      },
+      "sort": 12,
+      "parentId": "20006",
+      "description": "劳动权益与法规",
+      "icon": "icon-labor",
+      "color": "#f97316",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37303",
+      "categoryId": "37303",
+      "categoryCode": "interview-skills",
+      "categoryName": {
+        "zh-CN": "面试技巧",
+        "en": "Interview Skills",
+        "zh-TW": "面試技巧",
+        "ja": "面接スキル",
+        "ko": "면접 스킬",
+        "ru": "Собеседование"
+      },
+      "sort": 12,
+      "parentId": "20173",
+      "description": "面试技巧",
+      "icon": "icon-interview-skills",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-120",
+      "categoryId": "20120",
+      "categoryCode": "celebrity",
+      "categoryName": {
+        "zh-CN": "明星",
+        "en": "Celebrity",
+        "zh-TW": "明星",
+        "ja": "芸能人",
+        "ko": "연예인",
+        "ru": "Знаменитости"
+      },
+      "sort": 13,
+      "parentId": "20001",
+      "description": "明星资讯与娱乐八卦",
+      "icon": "icon-celebrity",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-132",
+      "categoryId": "20132",
+      "categoryCode": "bank",
+      "categoryName": {
+        "zh-CN": "银行",
+        "en": "Bank",
+        "zh-TW": "銀行",
+        "ja": "銀行",
+        "ko": "은행",
+        "ru": "Банк"
+      },
+      "sort": 13,
+      "parentId": "20002",
+      "description": "银行服务与理财",
+      "icon": "icon-bank",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-154",
+      "categoryId": "20154",
+      "categoryCode": "iptv",
+      "categoryName": {
+        "zh-CN": "网络电视",
+        "en": "IPTV",
+        "zh-TW": "網路電視",
+        "ja": "インターネットTV",
+        "ko": "인터넷 TV",
+        "ru": "Интернет ТВ"
+      },
+      "sort": 13,
+      "parentId": "20003",
+      "description": "网络电视与直播",
+      "icon": "icon-iptv",
+      "color": "#06b6d4",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-413",
+      "categoryId": "20413",
+      "categoryCode": "zhejiang",
+      "categoryName": {
+        "zh-CN": "浙江",
+        "en": "Zhejiang",
+        "zh-TW": "浙江",
+        "ja": "浙江",
+        "ko": "저장",
+        "ru": "Чжэцзян"
+      },
+      "sort": 13,
+      "parentId": "20004",
+      "description": "浙江地方网站",
+      "icon": "icon-zhejiang",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-182",
+      "categoryId": "20182",
+      "categoryCode": "efficiency",
+      "categoryName": {
+        "zh-CN": "效率",
+        "en": "Efficiency",
+        "zh-TW": "效率",
+        "ja": "効率",
+        "ko": "효율",
+        "ru": "Эффективность"
+      },
+      "sort": 13,
+      "parentId": "20006",
+      "description": "效率工具与方法",
+      "icon": "icon-efficiency",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37401",
+      "categoryId": "37401",
+      "categoryCode": "exam-info",
+      "categoryName": {
+        "zh-CN": "考试资讯",
+        "en": "Exam Info",
+        "zh-TW": "考試資訊",
+        "ja": "試験情報",
+        "ko": "시험 정보",
+        "ru": "Экзамен"
+      },
+      "sort": 13,
+      "parentId": "20174",
+      "description": "考试资讯",
+      "icon": "icon-exam-info",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-121",
+      "categoryId": "20121",
+      "categoryCode": "forum",
+      "categoryName": {
+        "zh-CN": "论坛",
+        "en": "Forum",
+        "zh-TW": "論壇",
+        "ja": "フォーラム",
+        "ko": "포럼",
+        "ru": "Форум"
+      },
+      "sort": 14,
+      "parentId": "20001",
+      "description": "论坛与社区",
+      "icon": "icon-forum",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-133",
+      "categoryId": "20133",
+      "categoryCode": "telecom",
+      "categoryName": {
+        "zh-CN": "移动",
+        "en": "Telecom",
+        "zh-TW": "移動",
+        "ja": "通信",
+        "ko": "통신",
+        "ru": "Связь"
+      },
+      "sort": 14,
+      "parentId": "20002",
+      "description": "电信运营商服务",
+      "icon": "icon-telecom",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-155",
+      "categoryId": "20155",
+      "categoryCode": "bt",
+      "categoryName": {
+        "zh-CN": "BT",
+        "en": "BT",
+        "zh-TW": "BT",
+        "ja": "BT",
+        "ko": "BT",
+        "ru": "BT"
+      },
+      "sort": 14,
+      "parentId": "20003",
+      "description": "BT下载资源",
+      "icon": "icon-bt",
+      "color": "#64748b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-414",
+      "categoryId": "20414",
+      "categoryCode": "liaoning",
+      "categoryName": {
+        "zh-CN": "辽宁",
+        "en": "Liaoning",
+        "zh-TW": "遼寧",
+        "ja": "遼寧",
+        "ko": "랴오닝",
+        "ru": "Ляонин"
+      },
+      "sort": 14,
+      "parentId": "20004",
+      "description": "辽宁地方网站",
+      "icon": "icon-liaoning",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-183",
+      "categoryId": "20183",
+      "categoryCode": "collaboration",
+      "categoryName": {
+        "zh-CN": "协作",
+        "en": "Collaboration",
+        "zh-TW": "協作",
+        "ja": "協働",
+        "ko": "협업",
+        "ru": "Сотрудничество"
+      },
+      "sort": 14,
+      "parentId": "20006",
+      "description": "团队协作工具",
+      "icon": "icon-collaboration",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37402",
+      "categoryId": "37402",
+      "categoryCode": "exam-material",
+      "categoryName": {
+        "zh-CN": "备考资料",
+        "en": "Exam Materials",
+        "zh-TW": "備考資料",
+        "ja": "試験対策資料",
+        "ko": "시험 자료",
+        "ru": "Материалы"
+      },
+      "sort": 14,
+      "parentId": "20174",
+      "description": "备考资料",
+      "icon": "icon-exam-material",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-122",
+      "categoryId": "20122",
+      "categoryCode": "joke",
+      "categoryName": {
+        "zh-CN": "笑话",
+        "en": "Joke",
+        "zh-TW": "笑話",
+        "ja": "ジョーク",
+        "ko": "유머",
+        "ru": "Шутки"
+      },
+      "sort": 15,
+      "parentId": "20001",
+      "description": "笑话与幽默",
+      "icon": "icon-joke",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-134",
+      "categoryId": "20134",
+      "categoryCode": "house",
+      "categoryName": {
+        "zh-CN": "房产",
+        "en": "Real Estate",
+        "zh-TW": "房產",
+        "ja": "不動産",
+        "ko": "부동산",
+        "ru": "Недвижимость"
+      },
+      "sort": 15,
+      "parentId": "20002",
+      "description": "房产信息与置业",
+      "icon": "icon-house",
+      "color": "#f97316",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-156",
+      "categoryId": "20156",
+      "categoryCode": "flash",
+      "categoryName": {
+        "zh-CN": "Flash",
+        "en": "Flash",
+        "zh-TW": "Flash",
+        "ja": "Flash",
+        "ko": "Flash",
+        "ru": "Flash"
+      },
+      "sort": 15,
+      "parentId": "20003",
+      "description": "Flash动画与游戏",
+      "icon": "icon-flash",
+      "color": "#f97316",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-415",
+      "categoryId": "20415",
+      "categoryCode": "anhui",
+      "categoryName": {
+        "zh-CN": "安徽",
+        "en": "Anhui",
+        "zh-TW": "安徽",
+        "ja": "安徽",
+        "ko": "안후이",
+        "ru": "Аньхой"
+      },
+      "sort": 15,
+      "parentId": "20004",
+      "description": "安徽地方网站",
+      "icon": "icon-anhui",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-184",
+      "categoryId": "20184",
+      "categoryCode": "cloud",
+      "categoryName": {
+        "zh-CN": "网盘",
+        "en": "Cloud Storage",
+        "zh-TW": "網盤",
+        "ja": "クラウド",
+        "ko": "클라우드",
+        "ru": "Облако"
+      },
+      "sort": 15,
+      "parentId": "20006",
+      "description": "网盘与云存储",
+      "icon": "icon-cloud",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37403",
+      "categoryId": "37403",
+      "categoryCode": "exam-training",
+      "categoryName": {
+        "zh-CN": "培训课程",
+        "en": "Exam Training",
+        "zh-TW": "培訓課程",
+        "ja": "研修コース",
+        "ko": "교육 과정",
+        "ru": "Курсы"
+      },
+      "sort": 15,
+      "parentId": "20174",
+      "description": "培训课程",
+      "icon": "icon-exam-training",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-123",
+      "categoryId": "20123",
+      "categoryCode": "horoscope",
+      "categoryName": {
+        "zh-CN": "星座",
+        "en": "Horoscope",
+        "zh-TW": "星座",
+        "ja": "星座",
+        "ko": "별자리",
+        "ru": "Гороскоп"
+      },
+      "sort": 16,
+      "parentId": "20001",
+      "description": "星座运势与占星",
+      "icon": "icon-horoscope",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-135",
+      "categoryId": "20135",
+      "categoryCode": "recipe",
+      "categoryName": {
+        "zh-CN": "菜谱",
+        "en": "Recipe",
+        "zh-TW": "菜譜",
+        "ja": "レシピ",
+        "ko": "레시피",
+        "ru": "Рецепты"
+      },
+      "sort": 16,
+      "parentId": "20002",
+      "description": "菜谱与美食",
+      "icon": "icon-recipe",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-157",
+      "categoryId": "20157",
+      "categoryCode": "wap",
+      "categoryName": {
+        "zh-CN": "WAP",
+        "en": "WAP",
+        "zh-TW": "WAP",
+        "ja": "WAP",
+        "ko": "WAP",
+        "ru": "WAP"
+      },
+      "sort": 16,
+      "parentId": "20003",
+      "description": "WAP移动网站",
+      "icon": "icon-wap",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-416",
+      "categoryId": "20416",
+      "categoryCode": "fujian",
+      "categoryName": {
+        "zh-CN": "福建",
+        "en": "Fujian",
+        "zh-TW": "福建",
+        "ja": "福建",
+        "ko": "푸젠",
+        "ru": "Фуцзянь"
+      },
+      "sort": 16,
+      "parentId": "20004",
+      "description": "福建地方网站",
+      "icon": "icon-fujian",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-185",
+      "categoryId": "20185",
+      "categoryCode": "material",
+      "categoryName": {
+        "zh-CN": "素材",
+        "en": "Material",
+        "zh-TW": "素材",
+        "ja": "素材",
+        "ko": "소재",
+        "ru": "Материалы"
+      },
+      "sort": 16,
+      "parentId": "20006",
+      "description": "设计素材资源",
+      "icon": "icon-material",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37501",
+      "categoryId": "37501",
+      "categoryCode": "postgrade-info",
+      "categoryName": {
+        "zh-CN": "考研资讯",
+        "en": "Postgraduate Info",
+        "zh-TW": "考研資訊",
+        "ja": "大学院情報",
+        "ko": "대학원 정보",
+        "ru": "Аспирантура"
+      },
+      "sort": 16,
+      "parentId": "20175",
+      "description": "考研资讯",
+      "icon": "icon-postgrade-info",
+      "color": "#ef4444",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-124",
+      "categoryId": "20124",
+      "categoryCode": "online-games",
+      "categoryName": {
+        "zh-CN": "网游",
+        "en": "Online Games",
+        "zh-TW": "網遊",
+        "ja": "オンラインゲーム",
+        "ko": "온라인 게임",
+        "ru": "Онлайн игры"
+      },
+      "sort": 17,
+      "parentId": "20001",
+      "description": "网络游戏",
+      "icon": "icon-online-games",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-136",
+      "categoryId": "20136",
+      "categoryCode": "auto",
+      "categoryName": {
+        "zh-CN": "汽车",
+        "en": "Auto",
+        "zh-TW": "汽車",
+        "ja": "自動車",
+        "ko": "자동차",
+        "ru": "Авто"
+      },
+      "sort": 17,
+      "parentId": "20002",
+      "description": "汽车资讯与服务",
+      "icon": "icon-auto",
+      "color": "#06b6d4",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-417",
+      "categoryId": "20417",
+      "categoryCode": "shanxi2",
+      "categoryName": {
+        "zh-CN": "陕西",
+        "en": "Shaanxi",
+        "zh-TW": "陝西",
+        "ja": "陝西",
+        "ko": "산시",
+        "ru": "Шэньси"
+      },
+      "sort": 17,
+      "parentId": "20004",
+      "description": "陕西地方网站",
+      "icon": "icon-shaanxi",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-186",
+      "categoryId": "20186",
+      "categoryCode": "remote",
+      "categoryName": {
+        "zh-CN": "远程",
+        "en": "Remote",
+        "zh-TW": "遠程",
+        "ja": "リモート",
+        "ko": "원격",
+        "ru": "Удаленная работа"
+      },
+      "sort": 17,
+      "parentId": "20006",
+      "description": "远程工作与办公",
+      "icon": "icon-remote",
+      "color": "#06b6d4",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37502",
+      "categoryId": "37502",
+      "categoryCode": "postgrade-material",
+      "categoryName": {
+        "zh-CN": "备考资料",
+        "en": "Exam Materials",
+        "zh-TW": "備考資料",
+        "ja": "試験対策資料",
+        "ko": "시험 자료",
+        "ru": "Материалы"
+      },
+      "sort": 17,
+      "parentId": "20175",
+      "description": "备考资料",
+      "icon": "icon-postgrade-material",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-125",
+      "categoryId": "20125",
+      "categoryCode": "non-mainstream",
+      "categoryName": {
+        "zh-CN": "非主流",
+        "en": "Non-mainstream",
+        "zh-TW": "非主流",
+        "ja": "非主流",
+        "ko": "비주류",
+        "ru": "Нонконформизм"
+      },
+      "sort": 18,
+      "parentId": "20001",
+      "description": "非主流文化",
+      "icon": "icon-non-mainstream",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-137",
+      "categoryId": "20137",
+      "categoryCode": "map",
+      "categoryName": {
+        "zh-CN": "地图",
+        "en": "Map",
+        "zh-TW": "地圖",
+        "ja": "地図",
+        "ko": "지도",
+        "ru": "Карта"
+      },
+      "sort": 18,
+      "parentId": "20002",
+      "description": "地图与导航",
+      "icon": "icon-map",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-418",
+      "categoryId": "20418",
+      "categoryCode": "heilongjiang",
+      "categoryName": {
+        "zh-CN": "黑龙江",
+        "en": "Heilongjiang",
+        "zh-TW": "黑龍江",
+        "ja": "黒龍江",
+        "ko": "헤이룽장",
+        "ru": "Хэйлунцзян"
+      },
+      "sort": 18,
+      "parentId": "20004",
+      "description": "黑龙江地方网站",
+      "icon": "icon-heilongjiang",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-187",
+      "categoryId": "20187",
+      "categoryCode": "overseas",
+      "categoryName": {
+        "zh-CN": "出海",
+        "en": "Overseas",
+        "zh-TW": "出海",
+        "ja": "海外進出",
+        "ko": "해외진출",
+        "ru": "Зарубежный"
+      },
+      "sort": 18,
+      "parentId": "20006",
+      "description": "出海业务与跨境",
+      "icon": "icon-overseas",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37503",
+      "categoryId": "37503",
+      "categoryCode": "postgrade-training",
+      "categoryName": {
+        "zh-CN": "辅导课程",
+        "en": "Training Courses",
+        "zh-TW": "輔導課程",
+        "ja": "補習コース",
+        "ko": "과외 과정",
+        "ru": "Курсы"
+      },
+      "sort": 18,
+      "parentId": "20175",
+      "description": "辅导课程",
+      "icon": "icon-postgrade-training",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-138",
+      "categoryId": "20138",
+      "categoryCode": "health",
+      "categoryName": {
+        "zh-CN": "健康",
+        "en": "Health",
+        "zh-TW": "健康",
+        "ja": "健康",
+        "ko": "건강",
+        "ru": "Здоровье"
+      },
+      "sort": 19,
+      "parentId": "20002",
+      "description": "健康资讯与医疗",
+      "icon": "icon-health",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-419",
+      "categoryId": "20419",
+      "categoryCode": "more-regions",
+      "categoryName": {
+        "zh-CN": "更多地区",
+        "en": "More Regions",
+        "zh-TW": "更多地區",
+        "ja": "その他の地域",
+        "ko": "더 많은 지역",
+        "ru": "Другие регионы"
+      },
+      "sort": 19,
+      "parentId": "20004",
+      "description": "更多地区网站",
+      "icon": "icon-more",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-188",
+      "categoryId": "20188",
+      "categoryCode": "side-job",
+      "categoryName": {
+        "zh-CN": "副业",
+        "en": "Side Job",
+        "zh-TW": "副業",
+        "ja": "副業",
+        "ko": "부업",
+        "ru": "Подработка"
+      },
+      "sort": 19,
+      "parentId": "20006",
+      "description": "副业赚钱与兼职",
+      "icon": "icon-side-job",
+      "color": "#f97316",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37601",
+      "categoryId": "37601",
+      "categoryCode": "civil-info",
+      "categoryName": {
+        "zh-CN": "公考资讯",
+        "en": "Civil Service Info",
+        "zh-TW": "公考資訊",
+        "ja": "公務員試験情報",
+        "ko": "공무원 정보",
+        "ru": "Госслужба"
+      },
+      "sort": 19,
+      "parentId": "20176",
+      "description": "公考资讯",
+      "icon": "icon-civil-info",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-139",
+      "categoryId": "20139",
+      "categoryCode": "men-women",
+      "categoryName": {
+        "zh-CN": "男女",
+        "en": "Men & Women",
+        "zh-TW": "男女",
+        "ja": "男女",
+        "ko": "남녀",
+        "ru": "Мужчины и женщины"
+      },
+      "sort": 20,
+      "parentId": "20002",
+      "description": "男女话题与情感",
+      "icon": "icon-men-women",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37602",
+      "categoryId": "37602",
+      "categoryCode": "civil-material",
+      "categoryName": {
+        "zh-CN": "备考资料",
+        "en": "Exam Materials",
+        "zh-TW": "備考資料",
+        "ja": "試験対策資料",
+        "ko": "시험 자료",
+        "ru": "Материалы"
+      },
+      "sort": 20,
+      "parentId": "20176",
+      "description": "备考资料",
+      "icon": "icon-civil-material",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-140",
+      "categoryId": "20140",
+      "categoryCode": "female",
+      "categoryName": {
+        "zh-CN": "女性",
+        "en": "Female",
+        "zh-TW": "女性",
+        "ja": "女性",
+        "ko": "여성",
+        "ru": "Женщины"
+      },
+      "sort": 21,
+      "parentId": "20002",
+      "description": "女性时尚与生活",
+      "icon": "icon-female",
+      "color": "#ec4899",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37603",
+      "categoryId": "37603",
+      "categoryCode": "civil-training",
+      "categoryName": {
+        "zh-CN": "培训课程",
+        "en": "Training Courses",
+        "zh-TW": "培訓課程",
+        "ja": "研修コース",
+        "ko": "교육 과정",
+        "ru": "Курсы"
+      },
+      "sort": 21,
+      "parentId": "20176",
+      "description": "培训课程",
+      "icon": "icon-civil-training",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-141",
+      "categoryId": "20141",
+      "categoryCode": "fashion",
+      "categoryName": {
+        "zh-CN": "时尚",
+        "en": "Fashion",
+        "zh-TW": "時尚",
+        "ja": "ファッション",
+        "ko": "패션",
+        "ru": "Мода"
+      },
+      "sort": 22,
+      "parentId": "20002",
+      "description": "时尚潮流与穿搭",
+      "icon": "icon-fashion",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37701",
+      "categoryId": "37701",
+      "categoryCode": "cert-info",
+      "categoryName": {
+        "zh-CN": "考证资讯",
+        "en": "Certificate Info",
+        "zh-TW": "考證資訊",
+        "ja": "資格情報",
+        "ko": "자격증 정보",
+        "ru": "Сертификат"
+      },
+      "sort": 22,
+      "parentId": "20177",
+      "description": "考证资讯",
+      "icon": "icon-cert-info",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-142",
+      "categoryId": "20142",
+      "categoryCode": "kids",
+      "categoryName": {
+        "zh-CN": "儿童",
+        "en": "Kids",
+        "zh-TW": "兒童",
+        "ja": "子供",
+        "ko": "어린이",
+        "ru": "Дети"
+      },
+      "sort": 23,
+      "parentId": "20002",
+      "description": "儿童教育与成长",
+      "icon": "icon-kids",
+      "color": "#f59e0b",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37702",
+      "categoryId": "37702",
+      "categoryCode": "cert-material",
+      "categoryName": {
+        "zh-CN": "备考资料",
+        "en": "Exam Materials",
+        "zh-TW": "備考資料",
+        "ja": "試験対策資料",
+        "ko": "시험 자료",
+        "ru": "Материалы"
+      },
+      "sort": 23,
+      "parentId": "20177",
+      "description": "备考资料",
+      "icon": "icon-cert-material",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-143",
+      "categoryId": "20143",
+      "categoryCode": "tv",
+      "categoryName": {
+        "zh-CN": "电视",
+        "en": "TV",
+        "zh-TW": "電視",
+        "ja": "テレビ",
+        "ko": "TV",
+        "ru": "ТВ"
+      },
+      "sort": 24,
+      "parentId": "20002",
+      "description": "电视节目与直播",
+      "icon": "icon-tv",
+      "color": "#3b82f6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37703",
+      "categoryId": "37703",
+      "categoryCode": "professional-cert",
+      "categoryName": {
+        "zh-CN": "职业认证",
+        "en": "Professional Certification",
+        "zh-TW": "職業認證",
+        "ja": "職業資格",
+        "ko": "직업 자격증",
+        "ru": "Проф. сертификат"
+      },
+      "sort": 24,
+      "parentId": "20177",
+      "description": "职业认证",
+      "icon": "icon-professional-cert",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-144",
+      "categoryId": "20144",
+      "categoryCode": "university",
+      "categoryName": {
+        "zh-CN": "大学",
+        "en": "University",
+        "zh-TW": "大學",
+        "ja": "大学",
+        "ko": "대학",
+        "ru": "Университет"
+      },
+      "sort": 25,
+      "parentId": "20002",
+      "description": "高校信息与教育",
+      "icon": "icon-university",
+      "color": "#8b5cf6",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37801",
+      "categoryId": "37801",
+      "categoryCode": "business-english",
+      "categoryName": {
+        "zh-CN": "商务英语",
+        "en": "Business English",
+        "zh-TW": "商務英語",
+        "ja": "ビジネス英語",
+        "ko": "비즈니스 영어",
+        "ru": "Деловой англ."
+      },
+      "sort": 25,
+      "parentId": "20178",
+      "description": "商务英语",
+      "icon": "icon-business-english",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-145",
+      "categoryId": "20145",
+      "categoryCode": "talent",
+      "categoryName": {
+        "zh-CN": "人才",
+        "en": "Talent",
+        "zh-TW": "人才",
+        "ja": "人材",
+        "ko": "인재",
+        "ru": "Таланты"
+      },
+      "sort": 26,
+      "parentId": "20002",
+      "description": "人才招聘与求职",
+      "icon": "icon-talent",
+      "color": "#22c55e",
+      "level": 2
+    },
+    {
+      "id": "uuid-cat-37802",
+      "categoryId": "37802",
+      "categoryCode": "english-test",
+      "categoryName": {
+        "zh-CN": "英语考试",
+        "en": "English Test",
+        "zh-TW": "英語考試",
+        "ja": "英語試験",
+        "ko": "영어 시험",
+        "ru": "Англ. экзамен"
+      },
+      "sort": 26,
+      "parentId": "20178",
+      "description": "英语考试",
+      "icon": "icon-english-test",
+      "color": "#ef4444",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-37803",
+      "categoryId": "37803",
+      "categoryCode": "oral-english",
+      "categoryName": {
+        "zh-CN": "英语口语",
+        "en": "Oral English",
+        "zh-TW": "英語口語",
+        "ja": "英会話",
+        "ko": "영어 회화",
+        "ru": "Англ. разговор"
+      },
+      "sort": 27,
+      "parentId": "20178",
+      "description": "英语口语",
+      "icon": "icon-oral-english",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-37901",
+      "categoryId": "37901",
+      "categoryCode": "trans-tools",
+      "categoryName": {
+        "zh-CN": "翻译工具",
+        "en": "Translation Tools",
+        "zh-TW": "翻譯工具",
+        "ja": "翻訳ツール",
+        "ko": "번역 도구",
+        "ru": "Инструменты"
+      },
+      "sort": 28,
+      "parentId": "20179",
+      "description": "翻译工具",
+      "icon": "icon-trans-tools",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-37902",
+      "categoryId": "37902",
+      "categoryCode": "trans-platform",
+      "categoryName": {
+        "zh-CN": "翻译平台",
+        "en": "Translation Platform",
+        "zh-TW": "翻譯平臺",
+        "ja": "翻訳プラットフォーム",
+        "ko": "번역 플랫폼",
+        "ru": "Платформа"
+      },
+      "sort": 29,
+      "parentId": "20179",
+      "description": "翻译平台",
+      "icon": "icon-trans-platform",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-37903",
+      "categoryId": "37903",
+      "categoryCode": "trans-service",
+      "categoryName": {
+        "zh-CN": "翻译服务",
+        "en": "Translation Service",
+        "zh-TW": "翻譯服務",
+        "ja": "翻訳サービス",
+        "ko": "번역 서비스",
+        "ru": "Услуги"
+      },
+      "sort": 30,
+      "parentId": "20179",
+      "description": "翻译服务",
+      "icon": "icon-trans-service",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38001",
+      "categoryId": "38001",
+      "categoryCode": "industry-news",
+      "categoryName": {
+        "zh-CN": "行业资讯",
+        "en": "Industry News",
+        "zh-TW": "行業資訊",
+        "ja": "業界ニュース",
+        "ko": "산업 뉴스",
+        "ru": "Новости"
+      },
+      "sort": 31,
+      "parentId": "20180",
+      "description": "行业资讯",
+      "icon": "icon-industry-news",
+      "color": "#06b6d4",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38002",
+      "categoryId": "38002",
+      "categoryCode": "industry-analysis",
+      "categoryName": {
+        "zh-CN": "行业分析",
+        "en": "Industry Analysis",
+        "zh-TW": "行業分析",
+        "ja": "業界分析",
+        "ko": "산업 분석",
+        "ru": "Анализ"
+      },
+      "sort": 32,
+      "parentId": "20180",
+      "description": "行业分析",
+      "icon": "icon-industry-analysis",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38003",
+      "categoryId": "38003",
+      "categoryCode": "industry-report",
+      "categoryName": {
+        "zh-CN": "行业报告",
+        "en": "Industry Report",
+        "zh-TW": "行業報告",
+        "ja": "業界レポート",
+        "ko": "산업 리포트",
+        "ru": "Отчет"
+      },
+      "sort": 33,
+      "parentId": "20180",
+      "description": "行业报告",
+      "icon": "icon-industry-report",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38101",
+      "categoryId": "38101",
+      "categoryCode": "labor-law",
+      "categoryName": {
+        "zh-CN": "劳动法规",
+        "en": "Labor Law",
+        "zh-TW": "勞動法規",
+        "ja": "労働法規",
+        "ko": "노동 법규",
+        "ru": "Законы"
+      },
+      "sort": 34,
+      "parentId": "20181",
+      "description": "劳动法规",
+      "icon": "icon-labor-law",
+      "color": "#f97316",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38102",
+      "categoryId": "38102",
+      "categoryCode": "labor-rights",
+      "categoryName": {
+        "zh-CN": "劳动权益",
+        "en": "Labor Rights",
+        "zh-TW": "勞動權益",
+        "ja": "労働権益",
+        "ko": "노동 권익",
+        "ru": "Права"
+      },
+      "sort": 35,
+      "parentId": "20181",
+      "description": "劳动权益",
+      "icon": "icon-labor-rights",
+      "color": "#ef4444",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38103",
+      "categoryId": "38103",
+      "categoryCode": "social-security",
+      "categoryName": {
+        "zh-CN": "社会保障",
+        "en": "Social Security",
+        "zh-TW": "社會保障",
+        "ja": "社会保障",
+        "ko": "사회 보장",
+        "ru": "Соц. обеспечение"
+      },
+      "sort": 36,
+      "parentId": "20181",
+      "description": "社会保障",
+      "icon": "icon-social-security",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38201",
+      "categoryId": "38201",
+      "categoryCode": "time-mgmt",
+      "categoryName": {
+        "zh-CN": "时间管理",
+        "en": "Time Management",
+        "zh-TW": "時間管理",
+        "ja": "時間管理",
+        "ko": "시간 관리",
+        "ru": "Тайм-менеджмент"
+      },
+      "sort": 37,
+      "parentId": "20182",
+      "description": "时间管理",
+      "icon": "icon-time-mgmt",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38202",
+      "categoryId": "38202",
+      "categoryCode": "productivity-tools",
+      "categoryName": {
+        "zh-CN": "效率工具",
+        "en": "Productivity Tools",
+        "zh-TW": "效率工具",
+        "ja": "効率ツール",
+        "ko": "효율 도구",
+        "ru": "Инструменты"
+      },
+      "sort": 38,
+      "parentId": "20182",
+      "description": "效率工具",
+      "icon": "icon-productivity-tools",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38203",
+      "categoryId": "38203",
+      "categoryCode": "note-taking",
+      "categoryName": {
+        "zh-CN": "笔记工具",
+        "en": "Note Taking",
+        "zh-TW": "筆記工具",
+        "ja": "メモツール",
+        "ko": "메모 도구",
+        "ru": "Заметки"
+      },
+      "sort": 39,
+      "parentId": "20182",
+      "description": "笔记工具",
+      "icon": "icon-note-taking",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38301",
+      "categoryId": "38301",
+      "categoryCode": "team-collab",
+      "categoryName": {
+        "zh-CN": "团队协作",
+        "en": "Team Collaboration",
+        "zh-TW": "團隊協作",
+        "ja": "チーム協働",
+        "ko": "팀 협업",
+        "ru": "Команда"
+      },
+      "sort": 40,
+      "parentId": "20183",
+      "description": "团队协作",
+      "icon": "icon-team-collab",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38302",
+      "categoryId": "38302",
+      "categoryCode": "project-mgmt",
+      "categoryName": {
+        "zh-CN": "项目管理",
+        "en": "Project Management",
+        "zh-TW": "項目管理",
+        "ja": "プロジェクト管理",
+        "ko": "프로젝트 관리",
+        "ru": "Проекты"
+      },
+      "sort": 41,
+      "parentId": "20183",
+      "description": "项目管理",
+      "icon": "icon-project-mgmt",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38303",
+      "categoryId": "38303",
+      "categoryCode": "doc-collab",
+      "categoryName": {
+        "zh-CN": "文档协作",
+        "en": "Document Collaboration",
+        "zh-TW": "文檔協作",
+        "ja": "文書協働",
+        "ko": "문서 협업",
+        "ru": "Документы"
+      },
+      "sort": 42,
+      "parentId": "20183",
+      "description": "文档协作",
+      "icon": "icon-doc-collab",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38401",
+      "categoryId": "38401",
+      "categoryCode": "cloud-drive",
+      "categoryName": {
+        "zh-CN": "云盘存储",
+        "en": "Cloud Drive",
+        "zh-TW": "雲盤存儲",
+        "ja": "クラウドストレージ",
+        "ko": "클라우드 저장",
+        "ru": "Облако"
+      },
+      "sort": 43,
+      "parentId": "20184",
+      "description": "云盘存储",
+      "icon": "icon-cloud-drive",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38402",
+      "categoryId": "38402",
+      "categoryCode": "cloud-backup",
+      "categoryName": {
+        "zh-CN": "云端备份",
+        "en": "Cloud Backup",
+        "zh-TW": "雲端備份",
+        "ja": "クラウドバックアップ",
+        "ko": "클라우드 백업",
+        "ru": "Бэкап"
+      },
+      "sort": 44,
+      "parentId": "20184",
+      "description": "云端备份",
+      "icon": "icon-cloud-backup",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38403",
+      "categoryId": "38403",
+      "categoryCode": "file-transfer",
+      "categoryName": {
+        "zh-CN": "文件传输",
+        "en": "File Transfer",
+        "zh-TW": "文件傳輸",
+        "ja": "ファイル転送",
+        "ko": "파일 전송",
+        "ru": "Передача"
+      },
+      "sort": 45,
+      "parentId": "20184",
+      "description": "文件传输",
+      "icon": "icon-file-transfer",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38501",
+      "categoryId": "38501",
+      "categoryCode": "ui-design",
+      "categoryName": {
+        "zh-CN": "UI设计",
+        "en": "UI Design",
+        "zh-TW": "UI設計",
+        "ja": "UIデザイン",
+        "ko": "UI 디자인",
+        "ru": "UI дизайн"
+      },
+      "sort": 46,
+      "parentId": "20185",
+      "description": "UI设计",
+      "icon": "icon-ui-design",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38502",
+      "categoryId": "38502",
+      "categoryCode": "video-material",
+      "categoryName": {
+        "zh-CN": "视频素材",
+        "en": "Video Material",
+        "zh-TW": "視頻素材",
+        "ja": "動画素材",
+        "ko": "비디오 소재",
+        "ru": "Видео"
+      },
+      "sort": 47,
+      "parentId": "20185",
+      "description": "视频素材",
+      "icon": "icon-video-material",
+      "color": "#ec4899",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38503",
+      "categoryId": "38503",
+      "categoryCode": "font-icon",
+      "categoryName": {
+        "zh-CN": "字体图标",
+        "en": "Font & Icon",
+        "zh-TW": "字體圖標",
+        "ja": "フォントアイコン",
+        "ko": "폰트 아이콘",
+        "ru": "Шрифты"
+      },
+      "sort": 48,
+      "parentId": "20185",
+      "description": "字体图标",
+      "icon": "icon-font-icon",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38601",
+      "categoryId": "38601",
+      "categoryCode": "remote-recruit",
+      "categoryName": {
+        "zh-CN": "远程招聘",
+        "en": "Remote Recruitment",
+        "zh-TW": "遠程招聘",
+        "ja": "リモート採用",
+        "ko": "원격 채용",
+        "ru": "Удаленка"
+      },
+      "sort": 49,
+      "parentId": "20186",
+      "description": "远程招聘",
+      "icon": "icon-remote-recruit",
+      "color": "#06b6d4",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38602",
+      "categoryId": "38602",
+      "categoryCode": "remote-tools",
+      "categoryName": {
+        "zh-CN": "远程工具",
+        "en": "Remote Tools",
+        "zh-TW": "遠程工具",
+        "ja": "リモートツール",
+        "ko": "원격 도구",
+        "ru": "Инструменты"
+      },
+      "sort": 50,
+      "parentId": "20186",
+      "description": "远程工具",
+      "icon": "icon-remote-tools",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38603",
+      "categoryId": "38603",
+      "categoryCode": "coworking",
+      "categoryName": {
+        "zh-CN": "共享办公",
+        "en": "Co-working",
+        "zh-TW": "共享辦公",
+        "ja": "コワーキング",
+        "ko": "공유 오피스",
+        "ru": "Коворкинг"
+      },
+      "sort": 51,
+      "parentId": "20186",
+      "description": "共享办公",
+      "icon": "icon-coworking",
+      "color": "#f59e0b",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38701",
+      "categoryId": "38701",
+      "categoryCode": "cross-border",
+      "categoryName": {
+        "zh-CN": "跨境电商",
+        "en": "Cross-border E-commerce",
+        "zh-TW": "跨境電商",
+        "ja": "越境EC",
+        "ko": "크로스보더 이커머스",
+        "ru": "E-commerce"
+      },
+      "sort": 52,
+      "parentId": "20187",
+      "description": "跨境电商",
+      "icon": "icon-cross-border",
+      "color": "#22c55e",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38702",
+      "categoryId": "38702",
+      "categoryCode": "overseas-market",
+      "categoryName": {
+        "zh-CN": "海外市场",
+        "en": "Overseas Market",
+        "zh-TW": "海外市場",
+        "ja": "海外市場",
+        "ko": "해외 시장",
+        "ru": "Рынок"
+      },
+      "sort": 53,
+      "parentId": "20187",
+      "description": "海外市场",
+      "icon": "icon-overseas-market",
+      "color": "#3b82f6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38703",
+      "categoryId": "38703",
+      "categoryCode": "global-payment",
+      "categoryName": {
+        "zh-CN": "跨境支付",
+        "en": "Global Payment",
+        "zh-TW": "跨境支付",
+        "ja": "越境決済",
+        "ko": "해외 결제",
+        "ru": "Платежи"
+      },
+      "sort": 54,
+      "parentId": "20187",
+      "description": "跨境支付",
+      "icon": "icon-global-payment",
+      "color": "#8b5cf6",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38801",
+      "categoryId": "38801",
+      "categoryCode": "side-business",
+      "categoryName": {
+        "zh-CN": "副业项目",
+        "en": "Side Business",
+        "zh-TW": "副業項目",
+        "ja": "副業プロジェクト",
+        "ko": "부업 프로젝트",
+        "ru": "Проекты"
+      },
+      "sort": 55,
+      "parentId": "20188",
+      "description": "副业项目",
+      "icon": "icon-side-business",
+      "color": "#f97316",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38802",
+      "categoryId": "38802",
+      "categoryCode": "investment",
+      "categoryName": {
+        "zh-CN": "投资理财",
+        "en": "Investment",
+        "zh-TW": "投資理財",
+        "ja": "投資信託",
+        "ko": "투자 재테크",
+        "ru": "Инвестиции"
+      },
+      "sort": 56,
+      "parentId": "20188",
+      "description": "投资理财",
+      "icon": "icon-investment",
+      "color": "#ef4444",
+      "level": 3
+    },
+    {
+      "id": "uuid-cat-38803",
+      "categoryId": "38803",
+      "categoryCode": "monetize",
+      "categoryName": {
+        "zh-CN": "知识变现",
+        "en": "Knowledge Monetization",
+        "zh-TW": "知識變現",
+        "ja": "知識収益化",
+        "ko": "지식 수익화",
+        "ru": "Монетизация"
+      },
+      "sort": 57,
+      "parentId": "20188",
+      "description": "知识变现",
+      "icon": "icon-monetize",
+      "color": "#22c55e",
+      "level": 3
+    }
+  ]
+}

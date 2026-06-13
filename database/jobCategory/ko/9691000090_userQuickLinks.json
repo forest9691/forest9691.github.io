@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 시공 기사（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000090-ko-1",
+      "groupId": "9695826920626",
+      "groupCode": "construction",
+      "groupName": "건축 도구",
+      "sort": 1,
+      "jobCode": "9691000090",
+      "icon": "HomeOutlined",
+      "items": [
+        "AutoCAD",
+        "天正",
+        "广联达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000090-ko-2",
+      "groupId": "9695332841165",
+      "groupCode": "industry-tools",
+      "groupName": "업계 도구",
+      "sort": 2,
+      "jobCode": "9691000090",
+      "icon": "ToolOutlined",
+      "items": [
+        "贝壳找房",
+        "安居客",
+        "链家"
+      ]
+    }
+  ]
+}

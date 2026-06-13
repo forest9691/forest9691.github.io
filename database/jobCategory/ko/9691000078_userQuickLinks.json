@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 프로젝트 관리（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000078-ko-1",
+      "groupId": "9695419557006",
+      "groupCode": "project-management",
+      "groupName": "프로젝트 관리",
+      "sort": 1,
+      "jobCode": "9691000078",
+      "icon": "ProjectOutlined",
+      "items": [
+        "Jira",
+        "Trello",
+        "Asana"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000078-ko-2",
+      "groupId": "9695771253343",
+      "groupCode": "communication",
+      "groupName": "커뮤니케이션",
+      "sort": 2,
+      "jobCode": "9691000078",
+      "icon": "MessageOutlined",
+      "items": [
+        "Slack",
+        "飞书",
+        "企业微信"
+      ]
+    }
+  ]
+}

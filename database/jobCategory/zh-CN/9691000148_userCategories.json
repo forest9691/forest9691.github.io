@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 语言培训",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-lang-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "lang",
+      "categoryName": "语言学习",
+      "sort": 2,
+      "parentId": "0",
+      "description": "语言学习相关资源",
+      "icon": "icon-globe",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-langexam-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "langexam",
+      "categoryName": "考试资讯",
+      "sort": 3,
+      "parentId": "0",
+      "description": "考试资讯相关资源",
+      "icon": "icon-file-text",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

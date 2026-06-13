@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 投資・融資（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000094-ja-1",
+      "groupId": "9695432971248",
+      "groupCode": "finance-platforms",
+      "groupName": "金融プラットフォーム",
+      "sort": 1,
+      "jobCode": "9691000094",
+      "icon": "DollarOutlined",
+      "items": [
+        "东方财富",
+        "同花顺",
+        "雪球"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000094-ja-2",
+      "groupId": "9695538048548",
+      "groupCode": "market-insight",
+      "groupName": "市場インサイト",
+      "sort": 2,
+      "jobCode": "9691000094",
+      "icon": "FundOutlined",
+      "items": [
+        "Wind",
+        "彭博",
+        "Choice数据"
+      ]
+    }
+  ]
+}

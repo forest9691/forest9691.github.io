@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 服装/纺织/皮革",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-apparel-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "apparel",
+      "categoryName": "服装行业",
+      "sort": 2,
+      "parentId": "0",
+      "description": "服装行业相关资源",
+      "icon": "icon-package",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-textile-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "textile",
+      "categoryName": "纺织面料",
+      "sort": 3,
+      "parentId": "0",
+      "description": "纺织面料相关资源",
+      "icon": "icon-box",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

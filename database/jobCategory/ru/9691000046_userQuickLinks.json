@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Анимационный и моушн-дизайн（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000046-ru-1",
+      "groupId": "9695489059170",
+      "groupCode": "design-tools",
+      "groupName": "Инструменты дизайна",
+      "sort": 1,
+      "jobCode": "9691000046",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000046-ru-2",
+      "groupId": "9695215112148",
+      "groupCode": "inspiration",
+      "groupName": "Вдохновение",
+      "sort": 2,
+      "jobCode": "9691000046",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

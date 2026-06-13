@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Service Industry Sales（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000009-en-1",
+      "groupId": "9695541762909",
+      "groupCode": "crm-tools",
+      "groupName": "CRM Tools",
+      "sort": 1,
+      "jobCode": "9691000009",
+      "icon": "UserSwitchOutlined",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "纷享销客"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000009-en-2",
+      "groupId": "9695557577095",
+      "groupCode": "communication",
+      "groupName": "Communication",
+      "sort": 2,
+      "jobCode": "9691000009",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

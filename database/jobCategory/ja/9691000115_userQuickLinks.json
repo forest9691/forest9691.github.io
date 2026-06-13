@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 技能工（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000115-ja-1",
+      "groupId": "9695252165707",
+      "groupCode": "job-search",
+      "groupName": "求人・転職",
+      "sort": 1,
+      "jobCode": "9691000115",
+      "icon": "SearchOutlined",
+      "items": [
+        "58同城",
+        "赶集直招",
+        "BOSS直聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000115-ja-2",
+      "groupId": "9695989005887",
+      "groupCode": "industry-tools",
+      "groupName": "業界ツール",
+      "sort": 2,
+      "jobCode": "9691000115",
+      "icon": "ToolOutlined",
+      "items": [
+        "技成培训",
+        "工控论坛",
+        "AutoCAD"
+      ]
+    }
+  ]
+}

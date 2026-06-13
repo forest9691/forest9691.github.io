@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "搜索",
+    "en": "Search",
+    "zh-TW": "搜尋",
+    "ja": "検索",
+    "ko": "검색",
+    "ru": "Поиск"
+  },
+  "categoryId": "96910000148",
+  "categoryCode": "search",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000074",
+      "title": "搜索",
+      "code": "sousuo;search",
+      "url": "https://www.google.com/search?q=搜索",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000076",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 50
+    }
+  ]
+}

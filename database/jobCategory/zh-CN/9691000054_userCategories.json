@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 游戏开发/测试",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-gengine-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "gengine",
+      "categoryName": "游戏引擎",
+      "sort": 2,
+      "parentId": "0",
+      "description": "游戏引擎相关资源",
+      "icon": "icon-cpu",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-gcodetool-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "gcodetool",
+      "categoryName": "开发工具",
+      "sort": 3,
+      "parentId": "0",
+      "description": "开发工具相关资源",
+      "icon": "icon-tool",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-gtest-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "gtest",
+      "categoryName": "测试工具",
+      "sort": 4,
+      "parentId": "0",
+      "description": "测试工具相关资源",
+      "icon": "icon-activity",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ggraphics-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "ggraphics",
+      "categoryName": "图形渲染",
+      "sort": 5,
+      "parentId": "0",
+      "description": "图形渲染相关资源",
+      "icon": "icon-image",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-gdevcomm-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "gdevcomm",
+      "categoryName": "开发者社区",
+      "sort": 6,
+      "parentId": "0",
+      "description": "开发者社区相关资源",
+      "icon": "icon-message",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "地图",
+    "en": "Map",
+    "zh-TW": "地圖",
+    "ja": "地図",
+    "ko": "지도",
+    "ru": "Карта"
+  },
+  "categoryId": "96910000190",
+  "categoryCode": "map",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000055",
+      "title": "地图",
+      "code": "ditu;map",
+      "url": "https://www.google.com/search?q=地图",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 31
+    }
+  ]
+}

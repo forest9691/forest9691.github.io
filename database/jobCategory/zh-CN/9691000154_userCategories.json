@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 科研/学术研究",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-research-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "research",
+      "categoryName": "文献检索",
+      "sort": 2,
+      "parentId": "0",
+      "description": "文献检索相关资源",
+      "icon": "icon-search",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-researchdata-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "researchdata",
+      "categoryName": "研究数据",
+      "sort": 3,
+      "parentId": "0",
+      "description": "研究数据相关资源",
+      "icon": "icon-database",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-researchfund-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "researchfund",
+      "categoryName": "基金项目",
+      "sort": 4,
+      "parentId": "0",
+      "description": "基金项目相关资源",
+      "icon": "icon-credit-card",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

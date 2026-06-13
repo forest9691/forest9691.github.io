@@ -1,0 +1,70 @@
+{
+  "categoryName": {
+    "zh-CN": "新闻",
+    "en": "News",
+    "zh-TW": "新聞",
+    "ja": "ニュース",
+    "ko": "뉴스",
+    "ru": "Новости"
+  },
+  "categoryId": "20104",
+  "categoryCode": "news",
+  "data": [
+    {
+      "id": "30100000000000000000000000000011",
+      "title": "新华网",
+      "code": "xinhua;xinhuanet",
+      "url": "https://xinhuanet.com",
+      "visitCount": 0,
+      "description": "新华网",
+      "icon": null,
+      "categoryId": "20104",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 1
+    },
+    {
+      "id": "30100000000000000000000000000012",
+      "title": "新浪新闻",
+      "code": "sinanews;sinalxinwen",
+      "url": "https://news.sina.com.cn",
+      "visitCount": 0,
+      "description": "新浪新闻",
+      "icon": null,
+      "categoryId": "20104",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 2
+    },
+    {
+      "id": "30100000000000000000000000000013",
+      "title": "网易新闻",
+      "code": "163news;wangyi",
+      "url": "https://news.163.com",
+      "visitCount": 0,
+      "description": "网易新闻",
+      "icon": null,
+      "categoryId": "20104",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 3
+    },
+    {
+      "id": "3010000000000000000000000000000029",
+      "title": "新闻",
+      "code": "xinwen;news",
+      "url": "https://www.google.com/search?q=新闻",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20104",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 5
+    }
+  ]
+}

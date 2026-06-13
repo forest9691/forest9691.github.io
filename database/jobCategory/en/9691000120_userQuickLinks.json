@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Chemical/Food（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000120-en-1",
+      "groupId": "9695321807973",
+      "groupCode": "manufacturing",
+      "groupName": "Manufacturing",
+      "sort": 1,
+      "jobCode": "9691000120",
+      "icon": "SettingOutlined",
+      "items": [
+        "SolidWorks",
+        "AutoCAD",
+        "西门子工业"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000120-en-2",
+      "groupId": "9695346862323",
+      "groupCode": "professional-platforms",
+      "groupName": "Professional Platforms",
+      "sort": 2,
+      "jobCode": "9691000120",
+      "icon": "GlobalOutlined",
+      "items": [
+        "OFweek",
+        "工控网",
+        "CSDN"
+      ]
+    }
+  ]
+}

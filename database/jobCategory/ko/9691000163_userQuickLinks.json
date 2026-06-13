@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 번역 서비스（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000163-ko-1",
+      "groupId": "9695463705495",
+      "groupCode": "translation",
+      "groupName": "번역 도구",
+      "sort": 1,
+      "jobCode": "9691000163",
+      "icon": "TranslationOutlined",
+      "items": [
+        "DeepL",
+        "Google Translate",
+        "有道翻译"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000163-ko-2",
+      "groupId": "9695663775917",
+      "groupCode": "legal-tools",
+      "groupName": "법률 리소스",
+      "sort": 2,
+      "jobCode": "9691000163",
+      "icon": "FileProtectOutlined",
+      "items": [
+        "北大法宝",
+        "裁判文书网",
+        "无讼"
+      ]
+    }
+  ]
+}

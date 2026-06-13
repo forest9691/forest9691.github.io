@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 게임 개발/테스트（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000054-ko-1",
+      "groupId": "9695816686831",
+      "groupCode": "game-engines",
+      "groupName": "게임 엔진",
+      "sort": 1,
+      "jobCode": "9691000054",
+      "icon": "ThunderboltOutlined",
+      "items": [
+        "Unity",
+        "Unreal Engine",
+        "Godot"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000054-ko-2",
+      "groupId": "9695815504084",
+      "groupCode": "dev-collaboration",
+      "groupName": "개발 협업",
+      "sort": 2,
+      "jobCode": "9691000054",
+      "icon": "ClusterOutlined",
+      "items": [
+        "GitHub",
+        "Blender",
+        "VS Code"
+      ]
+    }
+  ]
+}

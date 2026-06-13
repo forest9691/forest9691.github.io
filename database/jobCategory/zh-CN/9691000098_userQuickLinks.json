@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 采购（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000098-zh-CN-1",
+      "groupId": "9695483651388",
+      "groupCode": "supply-chain",
+      "groupName": "供应链管理",
+      "sort": 1,
+      "jobCode": "9691000098",
+      "icon": "NodeIndexOutlined",
+      "items": [
+        "阿里巴巴国际站",
+        "中国制造网",
+        "环球资源"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000098-zh-CN-2",
+      "groupId": "9695897668637",
+      "groupCode": "communication",
+      "groupName": "沟通协作",
+      "sort": 2,
+      "jobCode": "9691000098",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

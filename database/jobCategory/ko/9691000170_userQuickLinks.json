@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 호텔 서비스（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000170-ko-1",
+      "groupId": "9695257578641",
+      "groupCode": "life-services",
+      "groupName": "생활 서비스",
+      "sort": 1,
+      "jobCode": "9691000170",
+      "icon": "ShopOutlined",
+      "items": [
+        "美团",
+        "大众点评",
+        "58同城"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000170-ko-2",
+      "groupId": "9695801566808",
+      "groupCode": "communication",
+      "groupName": "커뮤니케이션",
+      "sort": 2,
+      "jobCode": "9691000170",
+      "icon": "MessageOutlined",
+      "items": [
+        "微信",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

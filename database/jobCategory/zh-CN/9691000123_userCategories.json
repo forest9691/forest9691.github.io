@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 飞机/船舶/轨道交通",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-aviation-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "aviation",
+      "categoryName": "航空工业",
+      "sort": 2,
+      "parentId": "0",
+      "description": "航空工业相关资源",
+      "icon": "icon-globe",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ship-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "ship",
+      "categoryName": "船舶工业",
+      "sort": 3,
+      "parentId": "0",
+      "description": "船舶工业相关资源",
+      "icon": "icon-truck",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

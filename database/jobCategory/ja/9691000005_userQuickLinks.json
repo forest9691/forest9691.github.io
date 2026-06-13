@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 医療営業（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000005-ja-1",
+      "groupId": "9695139633753",
+      "groupCode": "crm-tools",
+      "groupName": "CRMツール",
+      "sort": 1,
+      "jobCode": "9691000005",
+      "icon": "UserSwitchOutlined",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "纷享销客"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000005-ja-2",
+      "groupId": "9695969820803",
+      "groupCode": "communication",
+      "groupName": "コミュニケーション",
+      "sort": 2,
+      "jobCode": "9691000005",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

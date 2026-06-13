@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Выбор должности（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691-ru-1",
+      "groupId": "9695963699825",
+      "groupCode": "common-software",
+      "groupName": "Популярное ПО",
+      "sort": 1,
+      "jobCode": "9691",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "Google Chrome",
+        "Notion",
+        "Slack"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691-ru-2",
+      "groupId": "9695365459406",
+      "groupCode": "ai-tools",
+      "groupName": "ИИ инструменты",
+      "sort": 2,
+      "jobCode": "9691",
+      "icon": "RobotOutlined",
+      "items": [
+        "ChatGPT",
+        "Claude",
+        "DeepSeek"
+      ]
+    }
+  ]
+}

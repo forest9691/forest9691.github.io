@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 后端开发（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000025-zh-CN-1",
+      "groupId": "9695101212686",
+      "groupCode": "dev-tools",
+      "groupName": "开发工具",
+      "sort": 1,
+      "jobCode": "9691000025",
+      "icon": "CodeOutlined",
+      "items": [
+        "GitHub",
+        "Docker",
+        "Postman"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000025-zh-CN-2",
+      "groupId": "9695140343923",
+      "groupCode": "cloud-platforms",
+      "groupName": "云服务平台",
+      "sort": 2,
+      "jobCode": "9691000025",
+      "icon": "CloudOutlined",
+      "items": [
+        "AWS",
+        "Google Cloud",
+        "Azure"
+      ]
+    }
+  ]
+}

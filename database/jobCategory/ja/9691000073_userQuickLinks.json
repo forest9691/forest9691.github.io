@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 政府関係業務（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000073-ja-1",
+      "groupId": "9695728043968",
+      "groupCode": "social-media",
+      "groupName": "ソーシャルメディア",
+      "sort": 1,
+      "jobCode": "9691000073",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "巨量引擎",
+        "腾讯广告",
+        "小红书"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000073-ja-2",
+      "groupId": "9695229028847",
+      "groupCode": "content-creation",
+      "groupName": "コンテンツ制作",
+      "sort": 2,
+      "jobCode": "9691000073",
+      "icon": "EditOutlined",
+      "items": [
+        "Canva",
+        "剪映",
+        "WPS Office"
+      ]
+    }
+  ]
+}

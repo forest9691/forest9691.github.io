@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Траст/Гарантии/Аукцион/Ломбард（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000096-ru-1",
+      "groupId": "9695891511154",
+      "groupCode": "finance-platforms",
+      "groupName": "Финансовые платформы",
+      "sort": 1,
+      "jobCode": "9691000096",
+      "icon": "DollarOutlined",
+      "items": [
+        "东方财富",
+        "同花顺",
+        "雪球"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000096-ru-2",
+      "groupId": "9695664463842",
+      "groupCode": "market-insight",
+      "groupName": "Аналитика рынка",
+      "sort": 2,
+      "jobCode": "9691000096",
+      "icon": "FundOutlined",
+      "items": [
+        "Wind",
+        "彭博",
+        "Choice数据"
+      ]
+    }
+  ]
+}

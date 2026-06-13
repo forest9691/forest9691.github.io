@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 광고 디자인（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000049-ko-1",
+      "groupId": "9695119866943",
+      "groupCode": "design-tools",
+      "groupName": "디자인 도구",
+      "sort": 1,
+      "jobCode": "9691000049",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000049-ko-2",
+      "groupId": "9695334903127",
+      "groupCode": "inspiration",
+      "groupName": "영감 리소스",
+      "sort": 2,
+      "jobCode": "9691000049",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Управление недвижимостью（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000083-ru-1",
+      "groupId": "9695097660238",
+      "groupCode": "construction",
+      "groupName": "Строительство",
+      "sort": 1,
+      "jobCode": "9691000083",
+      "icon": "HomeOutlined",
+      "items": [
+        "AutoCAD",
+        "天正",
+        "广联达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000083-ru-2",
+      "groupId": "9695595412585",
+      "groupCode": "industry-tools",
+      "groupName": "Отраслевые инструменты",
+      "sort": 2,
+      "jobCode": "9691000083",
+      "icon": "ToolOutlined",
+      "items": [
+        "贝壳找房",
+        "安居客",
+        "链家"
+      ]
+    }
+  ]
+}

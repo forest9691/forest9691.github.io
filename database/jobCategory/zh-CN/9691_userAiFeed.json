@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 订阅简报主题 - 通用默认（zh-CN）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-101",
+      "topicId": "9694000101",
+      "topicCode": "cross-border-ecommerce",
+      "topicName": "跨境电商",
+      "sort": 1,
+      "jobCode": "9691",
+      "description": "跨境电商平台动态、物流与支付趋势",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-102",
+      "topicId": "9694000102",
+      "topicCode": "ai-frontier",
+      "topicName": "AI 前沿",
+      "sort": 2,
+      "jobCode": "9691",
+      "description": "大模型、AI Agent、AIGC 最新突破与应用",
+      "icon": "icon-cpu",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-103",
+      "topicId": "9694000103",
+      "topicCode": "saas-trends",
+      "topicName": "SaaS 趋势",
+      "sort": 3,
+      "jobCode": "9691",
+      "description": "SaaS 商业模式、PLG 增长与企服投融资",
+      "icon": "icon-cloud",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-104",
+      "topicId": "9694000104",
+      "topicCode": "digital-nomad",
+      "topicName": "数字游民",
+      "sort": 4,
+      "jobCode": "9691",
+      "description": "远程工作、全球签证、自由职业与旅居生活",
+      "icon": "icon-map-pin",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "谷歌Gemini大模型开发与API密钥平台",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "全球主流大模型API聚合路由平台",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "开源模型权重与数据集极客社区",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    },
+    {
+      "title": "极速大语言模型推理与服务引擎",
+      "url": "https://github.com/vllm-project/vllm",
+      "icon": "github"
+    },
+    {
+      "title": "开源LLM应用开发与零代码工作流平台",
+      "url": "https://dify.ai",
+      "icon": "dify"
+    },
+    {
+      "title": "大语言模型应用开发与组件编排框架",
+      "url": "https://www.langchain.com",
+      "icon": "langchain"
+    }
+  ]
+}

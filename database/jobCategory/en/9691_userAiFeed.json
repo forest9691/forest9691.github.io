@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI Agent Feed Topics - Default (en)",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-101",
+      "topicId": "9694000101",
+      "topicCode": "cross-border-ecommerce",
+      "topicName": "Cross-Border E-Commerce",
+      "sort": 1,
+      "jobCode": "9691",
+      "description": "Cross-border e-commerce platform updates, logistics and payment trends",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-102",
+      "topicId": "9694000102",
+      "topicCode": "ai-frontier",
+      "topicName": "AI Frontier",
+      "sort": 2,
+      "jobCode": "9691",
+      "description": "LLMs, AI Agents, AIGC breakthroughs and applications",
+      "icon": "icon-cpu",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-103",
+      "topicId": "9694000103",
+      "topicCode": "saas-trends",
+      "topicName": "SaaS Trends",
+      "sort": 3,
+      "jobCode": "9691",
+      "description": "SaaS business models, PLG growth and enterprise service investments",
+      "icon": "icon-cloud",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-104",
+      "topicId": "9694000104",
+      "topicCode": "digital-nomad",
+      "topicName": "Digital Nomad",
+      "sort": 4,
+      "jobCode": "9691",
+      "description": "Remote work, global visas, freelancing and nomadic lifestyle",
+      "icon": "icon-map-pin",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini AI Development & API Key Platform",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "Global LLM API Aggregation & Routing Platform",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "Open-Source Model Weights & Datasets Community",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    },
+    {
+      "title": "High-Performance LLM Inference & Serving Engine",
+      "url": "https://github.com/vllm-project/vllm",
+      "icon": "github"
+    },
+    {
+      "title": "Open-Source LLM App Development & No-Code Workflow Platform",
+      "url": "https://dify.ai",
+      "icon": "dify"
+    },
+    {
+      "title": "LLM Application Development & Component Orchestration Framework",
+      "url": "https://www.langchain.com",
+      "icon": "langchain"
+    }
+  ]
+}

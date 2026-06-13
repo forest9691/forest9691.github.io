@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "手机",
+    "en": "Mobile",
+    "zh-TW": "手機",
+    "ja": "携帯",
+    "ko": "휴대폰",
+    "ru": "Мобильный"
+  },
+  "categoryId": "96910000140",
+  "categoryCode": "mobile",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000047",
+      "title": "手机",
+      "code": "shouji;mobile",
+      "url": "https://www.google.com/search?q=手机",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 23
+    }
+  ]
+}

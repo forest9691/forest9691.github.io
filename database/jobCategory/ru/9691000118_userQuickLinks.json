@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Прочее машиностроение（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000118-ru-1",
+      "groupId": "9695007854734",
+      "groupCode": "manufacturing",
+      "groupName": "Производство",
+      "sort": 1,
+      "jobCode": "9691000118",
+      "icon": "SettingOutlined",
+      "items": [
+        "SolidWorks",
+        "AutoCAD",
+        "西门子工业"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000118-ru-2",
+      "groupId": "9695888017642",
+      "groupCode": "professional-platforms",
+      "groupName": "Профессиональные платформы",
+      "sort": 2,
+      "jobCode": "9691000118",
+      "icon": "GlobalOutlined",
+      "items": [
+        "OFweek",
+        "工控网",
+        "CSDN"
+      ]
+    }
+  ]
+}

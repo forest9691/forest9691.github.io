@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 購読ブリーフィングトピック - デフォルト（ja）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-101",
+      "topicId": "9694000101",
+      "topicCode": "cross-border-ecommerce",
+      "topicName": "越境EC",
+      "sort": 1,
+      "jobCode": "9691",
+      "description": "越境ECプラットフォームの動向、物流と決済のトレンド",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-102",
+      "topicId": "9694000102",
+      "topicCode": "ai-frontier",
+      "topicName": "AI最前線",
+      "sort": 2,
+      "jobCode": "9691",
+      "description": "大規模言語モデル、AIエージェント、AIGCの最新動向と応用",
+      "icon": "icon-cpu",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-103",
+      "topicId": "9694000103",
+      "topicCode": "saas-trends",
+      "topicName": "SaaSトレンド",
+      "sort": 3,
+      "jobCode": "9691",
+      "description": "SaaSビジネスモデル、PLG成長戦略と企業向けサービス投資",
+      "icon": "icon-cloud",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-104",
+      "topicId": "9694000104",
+      "topicCode": "digital-nomad",
+      "topicName": "デジタルノマド",
+      "sort": 4,
+      "jobCode": "9691",
+      "description": "リモートワーク、グローバルビザ、フリーランスとノマドライフ",
+      "icon": "icon-map-pin",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini 大規模モデル開発とAPIキープラットフォーム",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "グローバル主要LLM API集約ルーティングプラットフォーム",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "オープンソースモデル重みとデータセットコミュニティ",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    },
+    {
+      "title": "高速大規模言語モデル推論とサービスエンジン",
+      "url": "https://github.com/vllm-project/vllm",
+      "icon": "github"
+    },
+    {
+      "title": "オープンソースLLMアプリ開発とノーコードワークフロープラットフォーム",
+      "url": "https://dify.ai",
+      "icon": "dify"
+    },
+    {
+      "title": "大規模言語モデルアプリケーション開発とコンポーネントオーケストレーションフレームワーク",
+      "url": "https://www.langchain.com",
+      "icon": "langchain"
+    }
+  ]
+}

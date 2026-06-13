@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "校园",
+    "en": "Campus",
+    "zh-TW": "校園",
+    "ja": "キャンパス",
+    "ko": "캠퍼스",
+    "ru": "Кампус"
+  },
+  "categoryId": "96910000150",
+  "categoryCode": "campus",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000112",
+      "title": "校园",
+      "code": "xiaoyuan;campus",
+      "url": "https://www.google.com/search?q=校园",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000110",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 88
+    }
+  ]
+}

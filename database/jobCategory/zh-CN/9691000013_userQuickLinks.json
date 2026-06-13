@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 商务拓展（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000013-zh-CN-1",
+      "groupId": "9695715135542",
+      "groupCode": "crm-tools",
+      "groupName": "客户管理",
+      "sort": 1,
+      "jobCode": "9691000013",
+      "icon": "UserSwitchOutlined",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "纷享销客"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000013-zh-CN-2",
+      "groupId": "9695591666656",
+      "groupCode": "communication",
+      "groupName": "沟通协作",
+      "sort": 2,
+      "jobCode": "9691000013",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

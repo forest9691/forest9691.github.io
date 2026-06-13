@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Advertising Design（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000049-en-1",
+      "groupId": "9695119866943",
+      "groupCode": "design-tools",
+      "groupName": "Design Tools",
+      "sort": 1,
+      "jobCode": "9691000049",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000049-en-2",
+      "groupId": "9695334903127",
+      "groupCode": "inspiration",
+      "groupName": "Inspiration",
+      "sort": 2,
+      "jobCode": "9691000049",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

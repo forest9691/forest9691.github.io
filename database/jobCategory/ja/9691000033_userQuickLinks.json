@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - プリセールス・アフターセールス・技術サポート（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000033-ja-1",
+      "groupId": "9695529230827",
+      "groupCode": "dev-tools",
+      "groupName": "開発ツール",
+      "sort": 1,
+      "jobCode": "9691000033",
+      "icon": "CodeOutlined",
+      "items": [
+        "GitHub",
+        "VS Code",
+        "Docker"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000033-ja-2",
+      "groupId": "9695731619472",
+      "groupCode": "cloud-platforms",
+      "groupName": "クラウドプラットフォーム",
+      "sort": 2,
+      "jobCode": "9691000033",
+      "icon": "CloudOutlined",
+      "items": [
+        "AWS",
+        "阿里云",
+        "腾讯云"
+      ]
+    }
+  ]
+}

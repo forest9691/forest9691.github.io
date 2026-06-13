@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "大学",
+    "en": "University",
+    "zh-TW": "大學",
+    "ja": "大学",
+    "ko": "대학",
+    "ru": "Университет"
+  },
+  "categoryId": "96910000208",
+  "categoryCode": "university",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000064",
+      "title": "大学",
+      "code": "daxue;university",
+      "url": "https://www.google.com/search?q=大学",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 40
+    }
+  ]
+}

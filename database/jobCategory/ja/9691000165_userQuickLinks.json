@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - その他サービス（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000165-ja-1",
+      "groupId": "9695024383129",
+      "groupCode": "translation",
+      "groupName": "翻訳ツール",
+      "sort": 1,
+      "jobCode": "9691000165",
+      "icon": "TranslationOutlined",
+      "items": [
+        "DeepL",
+        "Google Translate",
+        "有道翻译"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000165-ja-2",
+      "groupId": "9695076969903",
+      "groupCode": "legal-tools",
+      "groupName": "法律リソース",
+      "sort": 2,
+      "jobCode": "9691000165",
+      "icon": "FileProtectOutlined",
+      "items": [
+        "北大法宝",
+        "裁判文书网",
+        "无讼"
+      ]
+    }
+  ]
+}

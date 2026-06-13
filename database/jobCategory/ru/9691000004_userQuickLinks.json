@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Финансовые продажи（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000004-ru-1",
+      "groupId": "9695936585112",
+      "groupCode": "crm-tools",
+      "groupName": "CRM инструменты",
+      "sort": 1,
+      "jobCode": "9691000004",
+      "icon": "UserSwitchOutlined",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "纷享销客"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000004-ru-2",
+      "groupId": "9695462268994",
+      "groupCode": "communication",
+      "groupName": "Коммуникация",
+      "sort": 2,
+      "jobCode": "9691000004",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 党群/工会",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-party-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "party",
+      "categoryName": "党建学习",
+      "sort": 2,
+      "parentId": "0",
+      "description": "党建学习相关资源",
+      "icon": "icon-flag",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-union-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "union",
+      "categoryName": "工会服务",
+      "sort": 3,
+      "parentId": "0",
+      "description": "工会服务相关资源",
+      "icon": "icon-heart",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-policygov-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "policygov",
+      "categoryName": "政策法规",
+      "sort": 4,
+      "parentId": "0",
+      "description": "政策法规相关资源",
+      "icon": "icon-file-text",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-member-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "member",
+      "categoryName": "会员管理",
+      "sort": 5,
+      "parentId": "0",
+      "description": "会员管理相关资源",
+      "icon": "icon-users",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-activity-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "activity",
+      "categoryName": "活动组织",
+      "sort": 6,
+      "parentId": "0",
+      "description": "活动组织相关资源",
+      "icon": "icon-calendar",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

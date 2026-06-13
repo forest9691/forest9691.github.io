@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 网络/网站运营",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-webmaster-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "webmaster",
+      "categoryName": "站长工具",
+      "sort": 2,
+      "parentId": "0",
+      "description": "站长工具相关资源",
+      "icon": "icon-tool",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-seo-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "seo",
+      "categoryName": "SEO优化",
+      "sort": 3,
+      "parentId": "0",
+      "description": "SEO优化相关资源",
+      "icon": "icon-search",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-webanalysis-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "webanalysis",
+      "categoryName": "网站分析",
+      "sort": 4,
+      "parentId": "0",
+      "description": "网站分析相关资源",
+      "icon": "icon-chart",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-webhost-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "webhost",
+      "categoryName": "主机域名",
+      "sort": 5,
+      "parentId": "0",
+      "description": "主机域名相关资源",
+      "icon": "icon-server",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-webinfo-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "webinfo",
+      "categoryName": "行业资讯",
+      "sort": 6,
+      "parentId": "0",
+      "description": "行业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 文员/助理",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-office-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "office",
+      "categoryName": "办公软件",
+      "sort": 2,
+      "parentId": "0",
+      "description": "办公软件相关资源",
+      "icon": "icon-monitor",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-document-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "document",
+      "categoryName": "文档处理",
+      "sort": 3,
+      "parentId": "0",
+      "description": "文档处理相关资源",
+      "icon": "icon-file-text",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-schedule-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "schedule",
+      "categoryName": "日程管理",
+      "sort": 4,
+      "parentId": "0",
+      "description": "日程管理相关资源",
+      "icon": "icon-calendar",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-info-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "info",
+      "categoryName": "信息查询",
+      "sort": 5,
+      "parentId": "0",
+      "description": "信息查询相关资源",
+      "icon": "icon-search",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-officeauto-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "officeauto",
+      "categoryName": "效率工具",
+      "sort": 6,
+      "parentId": "0",
+      "description": "效率工具相关资源",
+      "icon": "icon-tool",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Персонал сцены/Съёмочной группы（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000160-ru-1",
+      "groupId": "9695759404565",
+      "groupCode": "media-tools",
+      "groupName": "Медиа инструменты",
+      "sort": 1,
+      "jobCode": "9691000160",
+      "icon": "PlayCircleOutlined",
+      "items": [
+        "剪映",
+        "Premiere Pro",
+        "DaVinci"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000160-ru-2",
+      "groupId": "9695226633857",
+      "groupCode": "social-media",
+      "groupName": "Социальные сети",
+      "sort": 2,
+      "jobCode": "9691000160",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "抖音",
+        "B站",
+        "快手"
+      ]
+    }
+  ]
+}

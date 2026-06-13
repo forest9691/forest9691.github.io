@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 生产质量管理",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-qualitysys-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "qualitysys",
+      "categoryName": "质量体系",
+      "sort": 2,
+      "parentId": "0",
+      "description": "质量体系相关资源",
+      "icon": "icon-shield",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-qualitytool-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "qualitytool",
+      "categoryName": "质检工具",
+      "sort": 3,
+      "parentId": "0",
+      "description": "质检工具相关资源",
+      "icon": "icon-tool",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

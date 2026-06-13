@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 证券/基金/期货",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-secmarket-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "secmarket",
+      "categoryName": "行情交易",
+      "sort": 2,
+      "parentId": "0",
+      "description": "行情交易相关资源",
+      "icon": "icon-trending-up",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-secresearch-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "secresearch",
+      "categoryName": "研究分析",
+      "sort": 3,
+      "parentId": "0",
+      "description": "研究分析相关资源",
+      "icon": "icon-search",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-secdata-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "secdata",
+      "categoryName": "数据工具",
+      "sort": 4,
+      "parentId": "0",
+      "description": "数据工具相关资源",
+      "icon": "icon-chart",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-secreg-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "secreg",
+      "categoryName": "监管合规",
+      "sort": 5,
+      "parentId": "0",
+      "description": "监管合规相关资源",
+      "icon": "icon-shield",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-secinfo-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "secinfo",
+      "categoryName": "行业资讯",
+      "sort": 6,
+      "parentId": "0",
+      "description": "行业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

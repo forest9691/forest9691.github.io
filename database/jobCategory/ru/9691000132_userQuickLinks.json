@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Животноводство/Рыболовство（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000132-ru-1",
+      "groupId": "9695236890553",
+      "groupCode": "agriculture",
+      "groupName": "Сельское хозяйство",
+      "sort": 1,
+      "jobCode": "9691000132",
+      "icon": "ExperimentOutlined",
+      "items": [
+        "惠农网",
+        "一亩田",
+        "中国农业信息网"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000132-ru-2",
+      "groupId": "9695032120959",
+      "groupCode": "market-insight",
+      "groupName": "Аналитика рынка",
+      "sort": 2,
+      "jobCode": "9691000132",
+      "icon": "FundOutlined",
+      "items": [
+        "农业农村部",
+        "中国农产品网",
+        "养猪网"
+      ]
+    }
+  ]
+}

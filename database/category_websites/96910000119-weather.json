@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "天气",
+    "en": "Weather",
+    "zh-TW": "天氣",
+    "ja": "天気",
+    "ko": "날씨",
+    "ru": "Погода"
+  },
+  "categoryId": "96910000119",
+  "categoryCode": "weather",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000044",
+      "title": "天气",
+      "code": "tianqi;weather",
+      "url": "https://www.google.com/search?q=天气",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000119",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 20
+    }
+  ]
+}

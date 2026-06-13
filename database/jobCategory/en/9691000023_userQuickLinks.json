@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Compliance/Risk Control/Legal（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000023-en-1",
+      "groupId": "9695991729046",
+      "groupCode": "finance-platforms",
+      "groupName": "Finance Platforms",
+      "sort": 1,
+      "jobCode": "9691000023",
+      "icon": "DollarOutlined",
+      "items": [
+        "金蝶",
+        "用友",
+        "SAP"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000023-en-2",
+      "groupId": "9695030974960",
+      "groupCode": "legal-tools",
+      "groupName": "Legal Resources",
+      "sort": 2,
+      "jobCode": "9691000023",
+      "icon": "FileProtectOutlined",
+      "items": [
+        "北大法宝",
+        "威科先行",
+        "中国裁判文书网"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 人工智能/算法",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-aiframework-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "aiframework",
+      "categoryName": "AI框架",
+      "sort": 2,
+      "parentId": "0",
+      "description": "AI框架相关资源",
+      "icon": "icon-cpu",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-aipaper-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "aipaper",
+      "categoryName": "论文研究",
+      "sort": 3,
+      "parentId": "0",
+      "description": "论文研究相关资源",
+      "icon": "icon-book-open",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-aimodel-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "aimodel",
+      "categoryName": "模型平台",
+      "sort": 4,
+      "parentId": "0",
+      "description": "模型平台相关资源",
+      "icon": "icon-box",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-aicompetition-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "aicompetition",
+      "categoryName": "竞赛平台",
+      "sort": 5,
+      "parentId": "0",
+      "description": "竞赛平台相关资源",
+      "icon": "icon-trending-up",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-aicomm-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "aicomm",
+      "categoryName": "AI社区",
+      "sort": 6,
+      "parentId": "0",
+      "description": "AI社区相关资源",
+      "icon": "icon-message",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

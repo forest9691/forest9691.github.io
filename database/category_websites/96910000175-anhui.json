@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "安徽",
+    "en": "Anhui",
+    "zh-TW": "安徽",
+    "ja": "安徽",
+    "ko": "안후이",
+    "ru": "Аньхой"
+  },
+  "categoryId": "96910000175",
+  "categoryCode": "anhui",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000096",
+      "title": "安徽",
+      "code": "anhui;ah",
+      "url": "https://www.google.com/search?q=安徽",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000175",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 72
+    }
+  ]
+}

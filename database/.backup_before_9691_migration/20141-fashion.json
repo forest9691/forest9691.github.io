@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "时尚",
+    "en": "Fashion",
+    "zh-TW": "時尚",
+    "ja": "ファッション",
+    "ko": "패션",
+    "ru": "Мода"
+  },
+  "categoryId": "20141",
+  "categoryCode": "fashion",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000059",
+      "title": "时尚",
+      "code": "shishang;fashion",
+      "url": "https://www.google.com/search?q=时尚",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 35
+    }
+  ]
+}

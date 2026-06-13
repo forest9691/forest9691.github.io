@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "曲艺",
+    "en": "Folk Art",
+    "zh-TW": "曲藝",
+    "ja": "曲芸",
+    "ko": "민속예술",
+    "ru": "Народное искусство"
+  },
+  "categoryId": "20163",
+  "categoryCode": "folk-art",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000106",
+      "title": "曲艺",
+      "code": "quyi;folk-art",
+      "url": "https://www.google.com/search?q=曲艺",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20005",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 82
+    }
+  ]
+}

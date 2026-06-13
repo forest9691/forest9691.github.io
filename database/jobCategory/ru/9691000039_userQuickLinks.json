@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Аппаратное обеспечение（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000039-ru-1",
+      "groupId": "9695517060165",
+      "groupCode": "electronics",
+      "groupName": "Электроника",
+      "sort": 1,
+      "jobCode": "9691000039",
+      "icon": "ThunderboltOutlined",
+      "items": [
+        "Cadence",
+        "Altium Designer",
+        "立创EDA"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000039-ru-2",
+      "groupId": "9695503077278",
+      "groupCode": "industry-tools",
+      "groupName": "Отраслевые инструменты",
+      "sort": 2,
+      "jobCode": "9691000039",
+      "icon": "ToolOutlined",
+      "items": [
+        "CSDN",
+        "电子发烧友",
+        "21ic"
+      ]
+    }
+  ]
+}

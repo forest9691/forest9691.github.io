@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 政府及非盈利机构从业者（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000186-zh-CN-1",
+      "groupId": "9695518303222",
+      "groupCode": "gov-services",
+      "groupName": "政府服务",
+      "sort": 1,
+      "jobCode": "9691000186",
+      "icon": "BankOutlined",
+      "items": [
+        "国家政务服务",
+        "学习强国",
+        "公考雷达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000186-zh-CN-2",
+      "groupId": "9695366467635",
+      "groupCode": "professional-platforms",
+      "groupName": "专业平台",
+      "sort": 2,
+      "jobCode": "9691000186",
+      "icon": "GlobalOutlined",
+      "items": [
+        "LinkedIn",
+        "脉脉",
+        "应届生求职网"
+      ]
+    }
+  ]
+}

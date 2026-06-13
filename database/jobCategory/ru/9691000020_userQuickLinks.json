@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Партийные и профсоюзные дела（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000020-ru-1",
+      "groupId": "9695438118263",
+      "groupCode": "hr-platforms",
+      "groupName": "HR платформы",
+      "sort": 1,
+      "jobCode": "9691000020",
+      "icon": "TeamOutlined",
+      "items": [
+        "Boss直聘",
+        "猎聘",
+        "智联招聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000020-ru-2",
+      "groupId": "9695394259262",
+      "groupCode": "office-software",
+      "groupName": "Офисное ПО",
+      "sort": 2,
+      "jobCode": "9691000020",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

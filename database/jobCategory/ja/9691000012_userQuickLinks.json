@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 営業管理（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000012-ja-1",
+      "groupId": "9695364603253",
+      "groupCode": "crm-tools",
+      "groupName": "CRMツール",
+      "sort": 1,
+      "jobCode": "9691000012",
+      "icon": "UserSwitchOutlined",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "纷享销客"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000012-ja-2",
+      "groupId": "9695231598495",
+      "groupCode": "communication",
+      "groupName": "コミュニケーション",
+      "sort": 2,
+      "jobCode": "9691000012",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

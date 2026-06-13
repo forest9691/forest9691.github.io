@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 公關媒介（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000071-zh-TW-1",
+      "groupId": "9695591677570",
+      "groupCode": "social-media",
+      "groupName": "社群媒體",
+      "sort": 1,
+      "jobCode": "9691000071",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "巨量引擎",
+        "腾讯广告",
+        "小红书"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000071-zh-TW-2",
+      "groupId": "9695075689905",
+      "groupCode": "content-creation",
+      "groupName": "內容創作",
+      "sort": 2,
+      "jobCode": "9691000071",
+      "icon": "EditOutlined",
+      "items": [
+        "Canva",
+        "剪映",
+        "WPS Office"
+      ]
+    }
+  ]
+}

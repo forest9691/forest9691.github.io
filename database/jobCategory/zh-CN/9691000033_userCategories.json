@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 售前/售后/技术支持",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-productinfo-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "productinfo",
+      "categoryName": "产品资料",
+      "sort": 2,
+      "parentId": "0",
+      "description": "产品资料相关资源",
+      "icon": "icon-book-open",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-techsupport-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "techsupport",
+      "categoryName": "技术支持",
+      "sort": 3,
+      "parentId": "0",
+      "description": "技术支持相关资源",
+      "icon": "icon-help-circle",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-solution-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "solution",
+      "categoryName": "方案工具",
+      "sort": 4,
+      "parentId": "0",
+      "description": "方案工具相关资源",
+      "icon": "icon-file-text",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-customer-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "customer",
+      "categoryName": "客户管理",
+      "sort": 5,
+      "parentId": "0",
+      "description": "客户管理相关资源",
+      "icon": "icon-users",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-techlearn-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "techlearn",
+      "categoryName": "技术学习",
+      "sort": 6,
+      "parentId": "0",
+      "description": "技术学习相关资源",
+      "icon": "icon-star",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

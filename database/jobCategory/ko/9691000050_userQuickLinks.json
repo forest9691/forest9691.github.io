@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 의류/섬유 디자인（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000050-ko-1",
+      "groupId": "9695734995433",
+      "groupCode": "design-tools",
+      "groupName": "디자인 도구",
+      "sort": 1,
+      "jobCode": "9691000050",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000050-ko-2",
+      "groupId": "9695322487917",
+      "groupCode": "inspiration",
+      "groupName": "영감 리소스",
+      "sort": 2,
+      "jobCode": "9691000050",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

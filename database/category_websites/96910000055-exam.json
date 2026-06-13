@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "考试",
+    "en": "Exam",
+    "zh-TW": "考試",
+    "ja": "試験",
+    "ko": "시험",
+    "ru": "Экзамен"
+  },
+  "categoryId": "96910000055",
+  "categoryCode": "exam",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000103",
+      "title": "考试",
+      "code": "kaoshi;exam",
+      "url": "https://www.google.com/search?q=考试",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000110",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 79
+    }
+  ]
+}

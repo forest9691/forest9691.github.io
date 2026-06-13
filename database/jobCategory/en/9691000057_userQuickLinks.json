@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - E-commerce Operations（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000057-en-1",
+      "groupId": "9695099364810",
+      "groupCode": "ecommerce",
+      "groupName": "E-Commerce",
+      "sort": 1,
+      "jobCode": "9691000057",
+      "icon": "ShoppingOutlined",
+      "items": [
+        "淘宝",
+        "京东",
+        "拼多多"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000057-en-2",
+      "groupId": "9695025550608",
+      "groupCode": "analytics",
+      "groupName": "Analytics",
+      "sort": 2,
+      "jobCode": "9691000057",
+      "icon": "BarChartOutlined",
+      "items": [
+        "Google Analytics",
+        "百度统计",
+        "友盟+"
+      ]
+    }
+  ]
+}

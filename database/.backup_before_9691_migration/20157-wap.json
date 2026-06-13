@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "WAP",
+    "en": "WAP",
+    "zh-TW": "WAP",
+    "ja": "WAP",
+    "ko": "WAP",
+    "ru": "WAP"
+  },
+  "categoryId": "20157",
+  "categoryCode": "wap",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000081",
+      "title": "wap",
+      "code": "wap",
+      "url": "https://www.google.com/search?q=wap",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20003",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 57
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "聊天",
+    "en": "Chat",
+    "zh-TW": "聊天",
+    "ja": "チャット",
+    "ko": "채팅",
+    "ru": "Чат"
+  },
+  "categoryId": "20150",
+  "categoryCode": "chat",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000072",
+      "title": "聊天",
+      "code": "liaotian;chat",
+      "url": "https://www.google.com/search?q=聊天",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20003",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 48
+    }
+  ]
+}

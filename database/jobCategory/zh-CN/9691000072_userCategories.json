@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 品牌",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-brandstrat-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "brandstrat",
+      "categoryName": "品牌策略",
+      "sort": 2,
+      "parentId": "0",
+      "description": "品牌策略相关资源",
+      "icon": "icon-target",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-branddesign-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "branddesign",
+      "categoryName": "品牌设计",
+      "sort": 3,
+      "parentId": "0",
+      "description": "品牌设计相关资源",
+      "icon": "icon-image",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-brandvoice-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "brandvoice",
+      "categoryName": "品牌传播",
+      "sort": 4,
+      "parentId": "0",
+      "description": "品牌传播相关资源",
+      "icon": "icon-message",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-branddata-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "branddata",
+      "categoryName": "品牌数据",
+      "sort": 5,
+      "parentId": "0",
+      "description": "品牌数据相关资源",
+      "icon": "icon-chart",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-brandinfo-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "brandinfo",
+      "categoryName": "品牌资讯",
+      "sort": 6,
+      "parentId": "0",
+      "description": "品牌资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 法律服务（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000164-zh-CN-1",
+      "groupId": "9695170302488",
+      "groupCode": "translation",
+      "groupName": "翻译工具",
+      "sort": 1,
+      "jobCode": "9691000164",
+      "icon": "TranslationOutlined",
+      "items": [
+        "DeepL",
+        "Google Translate",
+        "有道翻译"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000164-zh-CN-2",
+      "groupId": "9695370372910",
+      "groupCode": "legal-tools",
+      "groupName": "法律资源",
+      "sort": 2,
+      "jobCode": "9691000164",
+      "icon": "FileProtectOutlined",
+      "items": [
+        "北大法宝",
+        "裁判文书网",
+        "无讼"
+      ]
+    }
+  ]
+}

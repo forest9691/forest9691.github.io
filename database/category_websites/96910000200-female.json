@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "女性",
+    "en": "Female",
+    "zh-TW": "女性",
+    "ja": "女性",
+    "ko": "여성",
+    "ru": "Женщины"
+  },
+  "categoryId": "96910000200",
+  "categoryCode": "female",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000058",
+      "title": "女性",
+      "code": "nvxing;female",
+      "url": "https://www.google.com/search?q=女性",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 34
+    }
+  ]
+}

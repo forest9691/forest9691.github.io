@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "Flash",
+    "en": "Flash",
+    "zh-TW": "Flash",
+    "ja": "Flash",
+    "ko": "Flash",
+    "ru": "Flash"
+  },
+  "categoryId": "20156",
+  "categoryCode": "flash",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000080",
+      "title": "Flash",
+      "code": "flash",
+      "url": "https://www.google.com/search?q=Flash",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20003",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 56
+    }
+  ]
+}

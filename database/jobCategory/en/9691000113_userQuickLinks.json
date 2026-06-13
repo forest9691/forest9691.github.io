@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - General Worker（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000113-en-1",
+      "groupId": "9695994000269",
+      "groupCode": "job-search",
+      "groupName": "Job Search",
+      "sort": 1,
+      "jobCode": "9691000113",
+      "icon": "SearchOutlined",
+      "items": [
+        "58同城",
+        "赶集直招",
+        "BOSS直聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000113-en-2",
+      "groupId": "9695862590593",
+      "groupCode": "industry-tools",
+      "groupName": "Industry Tools",
+      "sort": 2,
+      "jobCode": "9691000113",
+      "icon": "ToolOutlined",
+      "items": [
+        "技成培训",
+        "工控论坛",
+        "AutoCAD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "上海",
+    "en": "Shanghai",
+    "zh-TW": "上海",
+    "ja": "上海",
+    "ko": "상하이",
+    "ru": "Шанхай"
+  },
+  "categoryId": "96910000029",
+  "categoryCode": "shanghai",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000083",
+      "title": "上海",
+      "code": "shanghai;sh",
+      "url": "https://www.google.com/search?q=上海",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000029",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 59
+    }
+  ]
+}

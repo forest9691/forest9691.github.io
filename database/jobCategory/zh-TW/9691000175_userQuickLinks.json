@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 寵物服務（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000175-zh-TW-1",
+      "groupId": "9695205403094",
+      "groupCode": "life-services",
+      "groupName": "生活服務",
+      "sort": 1,
+      "jobCode": "9691000175",
+      "icon": "ShopOutlined",
+      "items": [
+        "美团",
+        "大众点评",
+        "58同城"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000175-zh-TW-2",
+      "groupId": "9695896874909",
+      "groupCode": "communication",
+      "groupName": "溝通協作",
+      "sort": 2,
+      "jobCode": "9691000175",
+      "icon": "MessageOutlined",
+      "items": [
+        "微信",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

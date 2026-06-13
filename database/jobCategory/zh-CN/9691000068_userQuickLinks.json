@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 市场调研（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000068-zh-CN-1",
+      "groupId": "9695987666330",
+      "groupCode": "social-media",
+      "groupName": "社交媒体",
+      "sort": 1,
+      "jobCode": "9691000068",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "巨量引擎",
+        "腾讯广告",
+        "小红书"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000068-zh-CN-2",
+      "groupId": "9695383106249",
+      "groupCode": "content-creation",
+      "groupName": "内容创作",
+      "sort": 2,
+      "jobCode": "9691000068",
+      "icon": "EditOutlined",
+      "items": [
+        "Canva",
+        "剪映",
+        "WPS Office"
+      ]
+    }
+  ]
+}

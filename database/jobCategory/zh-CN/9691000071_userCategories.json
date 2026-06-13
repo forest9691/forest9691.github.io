@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 公关媒介",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-prmedia-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "prmedia",
+      "categoryName": "媒体资源",
+      "sort": 2,
+      "parentId": "0",
+      "description": "媒体资源相关资源",
+      "icon": "icon-globe",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-prmonitor-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "prmonitor",
+      "categoryName": "舆情监测",
+      "sort": 3,
+      "parentId": "0",
+      "description": "舆情监测相关资源",
+      "icon": "icon-activity",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-prcontent-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "prcontent",
+      "categoryName": "内容发布",
+      "sort": 4,
+      "parentId": "0",
+      "description": "内容发布相关资源",
+      "icon": "icon-edit",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-prtool-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "prtool",
+      "categoryName": "公关工具",
+      "sort": 5,
+      "parentId": "0",
+      "description": "公关工具相关资源",
+      "icon": "icon-tool",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-prinfo-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "prinfo",
+      "categoryName": "公关资讯",
+      "sort": 6,
+      "parentId": "0",
+      "description": "公关资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

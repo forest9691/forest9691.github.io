@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 정부 업무（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000073-ko-1",
+      "groupId": "9695728043968",
+      "groupCode": "social-media",
+      "groupName": "소셜 미디어",
+      "sort": 1,
+      "jobCode": "9691000073",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "巨量引擎",
+        "腾讯广告",
+        "小红书"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000073-ko-2",
+      "groupId": "9695229028847",
+      "groupCode": "content-creation",
+      "groupName": "콘텐츠 제작",
+      "sort": 2,
+      "jobCode": "9691000073",
+      "icon": "EditOutlined",
+      "items": [
+        "Canva",
+        "剪映",
+        "WPS Office"
+      ]
+    }
+  ]
+}

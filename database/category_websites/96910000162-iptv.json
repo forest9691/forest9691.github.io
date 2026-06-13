@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "网络电视",
+    "en": "IPTV",
+    "zh-TW": "網路電視",
+    "ja": "インターネットTV",
+    "ko": "인터넷 TV",
+    "ru": "Интернет ТВ"
+  },
+  "categoryId": "96910000162",
+  "categoryCode": "iptv",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000078",
+      "title": "网络电视",
+      "code": "wangluodianshi;iptv",
+      "url": "https://www.google.com/search?q=网络电视",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000076",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 54
+    }
+  ]
+}

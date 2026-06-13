@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 才能・特技トレーニング（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000147-ja-1",
+      "groupId": "9695210133641",
+      "groupCode": "edtech",
+      "groupName": "EdTechツール",
+      "sort": 1,
+      "jobCode": "9691000147",
+      "icon": "LaptopOutlined",
+      "items": [
+        "中国大学MOOC",
+        "网易公开课",
+        "智慧树"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000147-ja-2",
+      "groupId": "9695586359620",
+      "groupCode": "office-software",
+      "groupName": "オフィスソフト",
+      "sort": 2,
+      "jobCode": "9691000147",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "钉钉",
+        "微信"
+      ]
+    }
+  ]
+}

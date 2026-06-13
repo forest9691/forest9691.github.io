@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 取材編集・執筆・出版（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000157-ja-1",
+      "groupId": "9695211142141",
+      "groupCode": "media-tools",
+      "groupName": "メディアツール",
+      "sort": 1,
+      "jobCode": "9691000157",
+      "icon": "PlayCircleOutlined",
+      "items": [
+        "剪映",
+        "Premiere Pro",
+        "DaVinci"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000157-ja-2",
+      "groupId": "9695475138969",
+      "groupCode": "social-media",
+      "groupName": "ソーシャルメディア",
+      "sort": 2,
+      "jobCode": "9691000157",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "抖音",
+        "B站",
+        "快手"
+      ]
+    }
+  ]
+}

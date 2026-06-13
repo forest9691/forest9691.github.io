@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 工業デザイン（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000048-ja-1",
+      "groupId": "9695477941920",
+      "groupCode": "design-tools",
+      "groupName": "デザインツール",
+      "sort": 1,
+      "jobCode": "9691000048",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000048-ja-2",
+      "groupId": "9695628306134",
+      "groupCode": "inspiration",
+      "groupName": "インスピレーション",
+      "sort": 2,
+      "jobCode": "9691000048",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - IT Training（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000150-en-1",
+      "groupId": "9695283597357",
+      "groupCode": "learning-platforms",
+      "groupName": "Learning Platforms",
+      "sort": 1,
+      "jobCode": "9691000150",
+      "icon": "ReadOutlined",
+      "items": [
+        "Coursera",
+        "Udemy",
+        "Pluralsight"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000150-en-2",
+      "groupId": "9695582392087",
+      "groupCode": "teaching-tools",
+      "groupName": "Teaching Tools",
+      "sort": 2,
+      "jobCode": "9691000150",
+      "icon": "DesktopOutlined",
+      "items": [
+        "Notion",
+        "Canva",
+        "Miro"
+      ]
+    }
+  ]
+}

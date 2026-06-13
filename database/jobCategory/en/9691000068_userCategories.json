@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-02T00:00:00.000Z",
+  "description": "Job Category Table - My Workspace & Developer",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-workspace-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "My Workspace",
+      "sort": 1,
+      "parentId": "0",
+      "description": "User-defined collection of commonly used tools",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-programmer-001",
+      "categoryId": "9693000002",
+      "categoryCode": "programmer",
+      "categoryName": "Developer",
+      "sort": 2,
+      "parentId": "0",
+      "description": "Commonly used tools and websites for developers",
+      "icon": "icon-code",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

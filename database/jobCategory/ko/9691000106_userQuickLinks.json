@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 창고 관리（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000106-ko-1",
+      "groupId": "9695862992002",
+      "groupCode": "logistics",
+      "groupName": "물류 플랫폼",
+      "sort": 1,
+      "jobCode": "9691000106",
+      "icon": "CarOutlined",
+      "items": [
+        "货拉拉",
+        "运满满",
+        "京东物流"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000106-ko-2",
+      "groupId": "9695535715013",
+      "groupCode": "communication",
+      "groupName": "커뮤니케이션",
+      "sort": 2,
+      "jobCode": "9691000106",
+      "icon": "MessageOutlined",
+      "items": [
+        "微信",
+        "钉钉",
+        "高德地图"
+      ]
+    }
+  ]
+}

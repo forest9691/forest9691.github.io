@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "儿童",
+    "en": "Kids",
+    "zh-TW": "兒童",
+    "ja": "子供",
+    "ko": "어린이",
+    "ru": "Дети"
+  },
+  "categoryId": "96910000204",
+  "categoryCode": "kids",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000060",
+      "title": "儿童",
+      "code": "ertong;kids",
+      "url": "https://www.google.com/search?q=儿童",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 36
+    }
+  ]
+}

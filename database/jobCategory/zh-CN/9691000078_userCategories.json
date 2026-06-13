@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 项目管理",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-pmtool2-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "pmtool2",
+      "categoryName": "项目管理",
+      "sort": 2,
+      "parentId": "0",
+      "description": "项目管理相关资源",
+      "icon": "icon-clipboard",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-pmtrack-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "pmtrack",
+      "categoryName": "进度追踪",
+      "sort": 3,
+      "parentId": "0",
+      "description": "进度追踪相关资源",
+      "icon": "icon-activity",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-pmrisk-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "pmrisk",
+      "categoryName": "风险管控",
+      "sort": 4,
+      "parentId": "0",
+      "description": "风险管控相关资源",
+      "icon": "icon-shield",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-pmreport-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "pmreport",
+      "categoryName": "项目报告",
+      "sort": 5,
+      "parentId": "0",
+      "description": "项目报告相关资源",
+      "icon": "icon-chart",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-pmlearn2-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "pmlearn2",
+      "categoryName": "PM认证",
+      "sort": 6,
+      "parentId": "0",
+      "description": "PM认证相关资源",
+      "icon": "icon-star",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

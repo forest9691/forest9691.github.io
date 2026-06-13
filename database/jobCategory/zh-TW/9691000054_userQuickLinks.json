@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 遊戲開發/測試（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000054-zh-TW-1",
+      "groupId": "9695816686831",
+      "groupCode": "game-engines",
+      "groupName": "遊戲引擎",
+      "sort": 1,
+      "jobCode": "9691000054",
+      "icon": "ThunderboltOutlined",
+      "items": [
+        "Unity",
+        "Unreal Engine",
+        "Godot"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000054-zh-TW-2",
+      "groupId": "9695815504084",
+      "groupCode": "dev-collaboration",
+      "groupName": "開發協作",
+      "sort": 2,
+      "jobCode": "9691000054",
+      "icon": "ClusterOutlined",
+      "items": [
+        "GitHub",
+        "Blender",
+        "VS Code"
+      ]
+    }
+  ]
+}

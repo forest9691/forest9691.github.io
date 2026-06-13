@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 웹/사이트 운영（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000059-ko-1",
+      "groupId": "9695778502007",
+      "groupCode": "seo-tools",
+      "groupName": "SEO 도구",
+      "sort": 1,
+      "jobCode": "9691000059",
+      "icon": "SearchOutlined",
+      "items": [
+        "Google Search Console",
+        "Ahrefs",
+        "SEMrush"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000059-ko-2",
+      "groupId": "9695532710644",
+      "groupCode": "site-analytics",
+      "groupName": "사이트 분석",
+      "sort": 2,
+      "jobCode": "9691000059",
+      "icon": "DashboardOutlined",
+      "items": [
+        "Google Analytics",
+        "Hotjar",
+        "Cloudflare"
+      ]
+    }
+  ]
+}

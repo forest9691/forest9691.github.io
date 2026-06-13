@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "彩票",
+    "en": "Lottery",
+    "zh-TW": "彩票",
+    "ja": "宝くじ",
+    "ko": "복권",
+    "ru": "Лотерея"
+  },
+  "categoryId": "96910000126",
+  "categoryCode": "lottery",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000045",
+      "title": "彩票",
+      "code": "caipiao;lottery",
+      "url": "https://www.google.com/search?q=彩票",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 21
+    }
+  ]
+}

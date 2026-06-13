@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 工程安全/质检（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000089-zh-CN-1",
+      "groupId": "9695211792136",
+      "groupCode": "construction",
+      "groupName": "建筑工具",
+      "sort": 1,
+      "jobCode": "9691000089",
+      "icon": "HomeOutlined",
+      "items": [
+        "AutoCAD",
+        "天正",
+        "广联达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000089-zh-CN-2",
+      "groupId": "9695827174819",
+      "groupCode": "industry-tools",
+      "groupName": "行业工具",
+      "sort": 2,
+      "jobCode": "9691000089",
+      "icon": "ToolOutlined",
+      "items": [
+        "贝壳找房",
+        "安居客",
+        "链家"
+      ]
+    }
+  ]
+}

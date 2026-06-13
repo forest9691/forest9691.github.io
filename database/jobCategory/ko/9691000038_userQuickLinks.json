@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 통신（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000038-ko-1",
+      "groupId": "9695810463172",
+      "groupCode": "electronics",
+      "groupName": "전자 공학",
+      "sort": 1,
+      "jobCode": "9691000038",
+      "icon": "ThunderboltOutlined",
+      "items": [
+        "Cadence",
+        "Altium Designer",
+        "立创EDA"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000038-ko-2",
+      "groupId": "9695013611455",
+      "groupCode": "industry-tools",
+      "groupName": "업계 도구",
+      "sort": 2,
+      "jobCode": "9691000038",
+      "icon": "ToolOutlined",
+      "items": [
+        "CSDN",
+        "电子发烧友",
+        "21ic"
+      ]
+    }
+  ]
+}

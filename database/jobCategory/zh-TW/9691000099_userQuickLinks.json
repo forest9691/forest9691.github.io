@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 進出口貿易（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000099-zh-TW-1",
+      "groupId": "9695125576411",
+      "groupCode": "supply-chain",
+      "groupName": "供應鏈管理",
+      "sort": 1,
+      "jobCode": "9691000099",
+      "icon": "NodeIndexOutlined",
+      "items": [
+        "阿里巴巴国际站",
+        "中国制造网",
+        "环球资源"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000099-zh-TW-2",
+      "groupId": "9695257736798",
+      "groupCode": "communication",
+      "groupName": "溝通協作",
+      "sort": 2,
+      "jobCode": "9691000099",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

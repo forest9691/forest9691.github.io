@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Языковое обучение（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000148-ru-1",
+      "groupId": "9695952943976",
+      "groupCode": "edtech",
+      "groupName": "Инструменты обучения",
+      "sort": 1,
+      "jobCode": "9691000148",
+      "icon": "LaptopOutlined",
+      "items": [
+        "中国大学MOOC",
+        "网易公开课",
+        "智慧树"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000148-ru-2",
+      "groupId": "9695792185669",
+      "groupCode": "office-software",
+      "groupName": "Офисное ПО",
+      "sort": 2,
+      "jobCode": "9691000148",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "钉钉",
+        "微信"
+      ]
+    }
+  ]
+}

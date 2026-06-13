@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 商务拓展",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-bizopp-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "bizopp",
+      "categoryName": "商业机会",
+      "sort": 2,
+      "parentId": "0",
+      "description": "商业机会相关资源",
+      "icon": "icon-trending-up",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-partner-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "partner",
+      "categoryName": "合作伙伴",
+      "sort": 3,
+      "parentId": "0",
+      "description": "合作伙伴相关资源",
+      "icon": "icon-globe",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-bizdata-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "bizdata",
+      "categoryName": "行业数据",
+      "sort": 4,
+      "parentId": "0",
+      "description": "行业数据相关资源",
+      "icon": "icon-chart",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-bizinfo-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "bizinfo",
+      "categoryName": "商业资讯",
+      "sort": 5,
+      "parentId": "0",
+      "description": "商业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-biztool-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "biztool",
+      "categoryName": "商务工具",
+      "sort": 6,
+      "parentId": "0",
+      "description": "商务工具相关资源",
+      "icon": "icon-tool",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

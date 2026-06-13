@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 문서 관리（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000019-ko-1",
+      "groupId": "9695822989773",
+      "groupCode": "hr-platforms",
+      "groupName": "HR 플랫폼",
+      "sort": 1,
+      "jobCode": "9691000019",
+      "icon": "TeamOutlined",
+      "items": [
+        "Boss直聘",
+        "猎聘",
+        "智联招聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000019-ko-2",
+      "groupId": "9695686217000",
+      "groupCode": "office-software",
+      "groupName": "오피스 소프트웨어",
+      "sort": 2,
+      "jobCode": "9691000019",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

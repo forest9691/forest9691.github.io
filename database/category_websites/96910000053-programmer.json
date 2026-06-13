@@ -1,0 +1,70 @@
+{
+  "categoryName": {
+    "zh-CN": "编程",
+    "en": "Programming",
+    "zh-TW": "程式設計",
+    "ja": "プログラミング",
+    "ko": "프로그래밍",
+    "ru": "Программирование"
+  },
+  "categoryId": "96910000053",
+  "categoryCode": "programmer",
+  "data": [
+    {
+      "id": "30100000000000000000000000000018",
+      "title": "GitHub",
+      "code": "github;gh",
+      "url": "https://github.com",
+      "visitCount": 0,
+      "description": "全球最大的代码托管平台",
+      "icon": null,
+      "categoryId": "96910000053",
+      "highlight": true,
+      "bold": true,
+      "color": "#10b981",
+      "sort": 1
+    },
+    {
+      "id": "30100000000000000000000000000019",
+      "title": "Stack Overflow",
+      "code": "stackoverflow;so",
+      "url": "https://stackoverflow.com",
+      "visitCount": 0,
+      "description": "全球最大的开发者问答社区",
+      "icon": null,
+      "categoryId": "96910000053",
+      "highlight": true,
+      "bold": true,
+      "color": "#f48024",
+      "sort": 2
+    },
+    {
+      "id": "30100000000000000000000000000020",
+      "title": "Gitee",
+      "code": "gitee;mayun",
+      "url": "https://gitee.com",
+      "visitCount": 0,
+      "description": "国内领先的代码托管平台",
+      "icon": null,
+      "categoryId": "96910000053",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 3
+    },
+    {
+      "id": "3010000000000000000000000000000075",
+      "title": "编程",
+      "code": "biancheng;programming",
+      "url": "https://www.google.com/search?q=编程",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000076",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 51
+    }
+  ]
+}

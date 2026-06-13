@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 外贸销售",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-b2b-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "b2b",
+      "categoryName": "B2B平台",
+      "sort": 2,
+      "parentId": "0",
+      "description": "B2B平台相关资源",
+      "icon": "icon-globe",
+      "color": "#2563eb",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-customs-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "customs",
+      "categoryName": "通关物流",
+      "sort": 3,
+      "parentId": "0",
+      "description": "通关物流相关资源",
+      "icon": "icon-truck",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-tradeinfo-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "tradeinfo",
+      "categoryName": "外贸资讯",
+      "sort": 4,
+      "parentId": "0",
+      "description": "外贸资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-payment-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "payment",
+      "categoryName": "跨境支付",
+      "sort": 5,
+      "parentId": "0",
+      "description": "跨境支付相关资源",
+      "icon": "icon-credit-card",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-social-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "social",
+      "categoryName": "社媒营销",
+      "sort": 6,
+      "parentId": "0",
+      "description": "社媒营销相关资源",
+      "icon": "icon-share",
+      "color": "#ec4899",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

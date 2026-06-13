@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 임상 연구/시험（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000135-ko-1",
+      "groupId": "9695319852290",
+      "groupCode": "healthcare",
+      "groupName": "의료 건강",
+      "sort": 1,
+      "jobCode": "9691000135",
+      "icon": "HeartOutlined",
+      "items": [
+        "丁香园",
+        "医脉通",
+        "梅斯医学"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000135-ko-2",
+      "groupId": "9695082102863",
+      "groupCode": "professional-platforms",
+      "groupName": "전문 플랫폼",
+      "sort": 2,
+      "jobCode": "9691000135",
+      "icon": "GlobalOutlined",
+      "items": [
+        "PubMed",
+        "CNKI",
+        "国家卫健委"
+      ]
+    }
+  ]
+}

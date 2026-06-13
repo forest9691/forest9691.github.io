@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 工业设计",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-inddesigntool-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "inddesigntool",
+      "categoryName": "设计工具",
+      "sort": 2,
+      "parentId": "0",
+      "description": "设计工具相关资源",
+      "icon": "icon-tool",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-indprototype-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "indprototype",
+      "categoryName": "原型制作",
+      "sort": 3,
+      "parentId": "0",
+      "description": "原型制作相关资源",
+      "icon": "icon-box",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-indinfo-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "indinfo",
+      "categoryName": "行业资讯",
+      "sort": 4,
+      "parentId": "0",
+      "description": "行业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-indmaterial-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "indmaterial",
+      "categoryName": "材料工艺",
+      "sort": 5,
+      "parentId": "0",
+      "description": "材料工艺相关资源",
+      "icon": "icon-package",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-indcomm-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "indcomm",
+      "categoryName": "设计社区",
+      "sort": 6,
+      "parentId": "0",
+      "description": "设计社区相关资源",
+      "icon": "icon-message",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

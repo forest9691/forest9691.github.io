@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 采购",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-purchaseplat-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "purchaseplat",
+      "categoryName": "采购平台",
+      "sort": 2,
+      "parentId": "0",
+      "description": "采购平台相关资源",
+      "icon": "icon-shopping-cart",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-supplier-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "supplier",
+      "categoryName": "供应商管理",
+      "sort": 3,
+      "parentId": "0",
+      "description": "供应商管理相关资源",
+      "icon": "icon-users",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-sourcing-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "sourcing",
+      "categoryName": "寻源比价",
+      "sort": 4,
+      "parentId": "0",
+      "description": "寻源比价相关资源",
+      "icon": "icon-search",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

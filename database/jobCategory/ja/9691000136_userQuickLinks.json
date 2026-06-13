@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 医薬品マーケティング・営業（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000136-ja-1",
+      "groupId": "9695448935009",
+      "groupCode": "healthcare",
+      "groupName": "医療・健康",
+      "sort": 1,
+      "jobCode": "9691000136",
+      "icon": "HeartOutlined",
+      "items": [
+        "丁香园",
+        "医脉通",
+        "梅斯医学"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000136-ja-2",
+      "groupId": "9695015096110",
+      "groupCode": "professional-platforms",
+      "groupName": "専門プラットフォーム",
+      "sort": 2,
+      "jobCode": "9691000136",
+      "icon": "GlobalOutlined",
+      "items": [
+        "PubMed",
+        "CNKI",
+        "国家卫健委"
+      ]
+    }
+  ]
+}

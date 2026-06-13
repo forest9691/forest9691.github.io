@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 房地產規劃開發（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000082-zh-TW-1",
+      "groupId": "9695455735215",
+      "groupCode": "construction",
+      "groupName": "建築工具",
+      "sort": 1,
+      "jobCode": "9691000082",
+      "icon": "HomeOutlined",
+      "items": [
+        "AutoCAD",
+        "天正",
+        "广联达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000082-zh-TW-2",
+      "groupId": "9695105946762",
+      "groupCode": "industry-tools",
+      "groupName": "行業工具",
+      "sort": 2,
+      "jobCode": "9691000082",
+      "icon": "ToolOutlined",
+      "items": [
+        "贝壳找房",
+        "安居客",
+        "链家"
+      ]
+    }
+  ]
+}

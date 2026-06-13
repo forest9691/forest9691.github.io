@@ -1,0 +1,56 @@
+{
+  "categoryName": {
+    "zh-CN": "旅游",
+    "en": "Travel",
+    "zh-TW": "旅遊",
+    "ja": "旅行",
+    "ko": "여행",
+    "ru": "Путешествия"
+  },
+  "categoryId": "96910000112",
+  "categoryCode": "travel",
+  "data": [
+    {
+      "id": "30100000000000000000000000000016",
+      "title": "携程旅行",
+      "code": "ctrip;xiecheng",
+      "url": "https://www.ctrip.com",
+      "visitCount": 0,
+      "description": "携程旅行网",
+      "icon": null,
+      "categoryId": "96910000112",
+      "highlight": true,
+      "bold": false,
+      "color": null,
+      "sort": 1
+    },
+    {
+      "id": "30100000000000000000000000000017",
+      "title": "飞猪旅行",
+      "code": "fliggy;feizhu",
+      "url": "https://www.fliggy.com",
+      "visitCount": 0,
+      "description": "飞猪旅行",
+      "icon": null,
+      "categoryId": "96910000112",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 2
+    },
+    {
+      "id": "3010000000000000000000000000000062",
+      "title": "旅游",
+      "code": "lvyou;travel",
+      "url": "https://www.google.com/search?q=旅游",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 38
+    }
+  ]
+}

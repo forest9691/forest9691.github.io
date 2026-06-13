@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 신탁/보증/경매/전당（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000096-ko-1",
+      "groupId": "9695891511154",
+      "groupCode": "finance-platforms",
+      "groupName": "금융 플랫폼",
+      "sort": 1,
+      "jobCode": "9691000096",
+      "icon": "DollarOutlined",
+      "items": [
+        "东方财富",
+        "同花顺",
+        "雪球"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000096-ko-2",
+      "groupId": "9695664463842",
+      "groupCode": "market-insight",
+      "groupName": "시장 인사이트",
+      "sort": 2,
+      "jobCode": "9691000096",
+      "icon": "FundOutlined",
+      "items": [
+        "Wind",
+        "彭博",
+        "Choice数据"
+      ]
+    }
+  ]
+}

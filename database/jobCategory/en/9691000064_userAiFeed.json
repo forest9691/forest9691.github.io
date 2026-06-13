@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 订阅简报主题 - Data Analysis（en）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-9691000064-en",
+      "topicId": "96949694000243",
+      "topicCode": "general",
+      "topicName": "General",
+      "sort": 1,
+      "jobCode": "9691000064",
+      "description": "Industry trends & updates",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini AI Dev & API Key Platform",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "Global LLM API Aggregation & Routing Platform",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "Open-source Model Hub & Datasets Community",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "摄影",
+    "en": "Photography",
+    "zh-TW": "攝影",
+    "ja": "写真",
+    "ko": "사진",
+    "ru": "Фотография"
+  },
+  "categoryId": "96910000005",
+  "categoryCode": "photography",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000101",
+      "title": "摄影",
+      "code": "sheying;photography",
+      "url": "https://www.google.com/search?q=摄影",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000110",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 77
+    }
+  ]
+}

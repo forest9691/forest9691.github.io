@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 게임 기획/제작（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000043-ko-1",
+      "groupId": "9695858251397",
+      "groupCode": "design-tools",
+      "groupName": "디자인 도구",
+      "sort": 1,
+      "jobCode": "9691000043",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Axure",
+        "墨刀"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000043-ko-2",
+      "groupId": "9695641822381",
+      "groupCode": "analytics",
+      "groupName": "데이터 분석",
+      "sort": 2,
+      "jobCode": "9691000043",
+      "icon": "BarChartOutlined",
+      "items": [
+        "Google Analytics",
+        "神策数据",
+        "GrowingIO"
+      ]
+    }
+  ]
+}

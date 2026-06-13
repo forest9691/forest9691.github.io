@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 遊戲推廣/營運（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000055-zh-TW-1",
+      "groupId": "9695310538930",
+      "groupCode": "game-dev",
+      "groupName": "遊戲開發",
+      "sort": 1,
+      "jobCode": "9691000055",
+      "icon": "RocketOutlined",
+      "items": [
+        "Unity",
+        "Unreal Engine",
+        "Cocos"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000055-zh-TW-2",
+      "groupId": "9695956866084",
+      "groupCode": "industry-tools",
+      "groupName": "行業工具",
+      "sort": 2,
+      "jobCode": "9691000055",
+      "icon": "ToolOutlined",
+      "items": [
+        "TapTap",
+        "Steamworks",
+        "七麦数据"
+      ]
+    }
+  ]
+}

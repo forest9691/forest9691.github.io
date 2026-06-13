@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 항공기/선박/철도교통（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000123-ko-1",
+      "groupId": "9695549496104",
+      "groupCode": "manufacturing",
+      "groupName": "제조 리소스",
+      "sort": 1,
+      "jobCode": "9691000123",
+      "icon": "SettingOutlined",
+      "items": [
+        "SolidWorks",
+        "AutoCAD",
+        "西门子工业"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000123-ko-2",
+      "groupId": "9695145842064",
+      "groupCode": "professional-platforms",
+      "groupName": "전문 플랫폼",
+      "sort": 2,
+      "jobCode": "9691000123",
+      "icon": "GlobalOutlined",
+      "items": [
+        "OFweek",
+        "工控网",
+        "CSDN"
+      ]
+    }
+  ]
+}

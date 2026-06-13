@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 建筑/规划设计（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000084-zh-CN-1",
+      "groupId": "9695592101613",
+      "groupCode": "construction",
+      "groupName": "建筑工具",
+      "sort": 1,
+      "jobCode": "9691000084",
+      "icon": "HomeOutlined",
+      "items": [
+        "AutoCAD",
+        "天正",
+        "广联达"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000084-zh-CN-2",
+      "groupId": "9695084878408",
+      "groupCode": "industry-tools",
+      "groupName": "行业工具",
+      "sort": 2,
+      "jobCode": "9691000084",
+      "icon": "ToolOutlined",
+      "items": [
+        "贝壳找房",
+        "安居客",
+        "链家"
+      ]
+    }
+  ]
+}

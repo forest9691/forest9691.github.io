@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "福建",
+    "en": "Fujian",
+    "zh-TW": "福建",
+    "ja": "福建",
+    "ko": "푸젠",
+    "ru": "Фуцзянь"
+  },
+  "categoryId": "20416",
+  "categoryCode": "fujian",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000097",
+      "title": "福建",
+      "code": "fujian;fj",
+      "url": "https://www.google.com/search?q=福建",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20416",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 73
+    }
+  ]
+}

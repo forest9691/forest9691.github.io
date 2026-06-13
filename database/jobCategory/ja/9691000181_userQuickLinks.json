@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - デザート・ドリンク（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000181-ja-1",
+      "groupId": "9695086958512",
+      "groupCode": "food-beverage",
+      "groupName": "飲食管理",
+      "sort": 1,
+      "jobCode": "9691000181",
+      "icon": "CoffeeOutlined",
+      "items": [
+        "美团餐饮",
+        "饿了么商家版",
+        "客如云"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000181-ja-2",
+      "groupId": "9695588695202",
+      "groupCode": "social-media",
+      "groupName": "ソーシャルメディア",
+      "sort": 2,
+      "jobCode": "9691000181",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "小红书",
+        "抖音",
+        "微信"
+      ]
+    }
+  ]
+}

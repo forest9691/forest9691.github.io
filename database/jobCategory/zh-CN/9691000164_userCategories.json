@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 法律服务",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-lawdb-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "lawdb",
+      "categoryName": "法律数据库",
+      "sort": 2,
+      "parentId": "0",
+      "description": "法律数据库相关资源",
+      "icon": "icon-database",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-lawcase2-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "lawcase2",
+      "categoryName": "案例检索",
+      "sort": 3,
+      "parentId": "0",
+      "description": "案例检索相关资源",
+      "icon": "icon-search",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-lawcontract2-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "lawcontract2",
+      "categoryName": "合同管理",
+      "sort": 4,
+      "parentId": "0",
+      "description": "合同管理相关资源",
+      "icon": "icon-clipboard",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

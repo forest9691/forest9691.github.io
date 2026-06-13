@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 电气/仪器/自动化（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000037-zh-CN-1",
+      "groupId": "9695103866179",
+      "groupCode": "electronics",
+      "groupName": "电子工程",
+      "sort": 1,
+      "jobCode": "9691000037",
+      "icon": "ThunderboltOutlined",
+      "items": [
+        "Cadence",
+        "Altium Designer",
+        "立创EDA"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000037-zh-CN-2",
+      "groupId": "9695376661984",
+      "groupCode": "industry-tools",
+      "groupName": "行业工具",
+      "sort": 2,
+      "jobCode": "9691000037",
+      "icon": "ToolOutlined",
+      "items": [
+        "CSDN",
+        "电子发烧友",
+        "21ic"
+      ]
+    }
+  ]
+}

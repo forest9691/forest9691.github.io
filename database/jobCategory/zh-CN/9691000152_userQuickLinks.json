@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 教务管理（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000152-zh-CN-1",
+      "groupId": "9695426045743",
+      "groupCode": "edtech",
+      "groupName": "在线教育",
+      "sort": 1,
+      "jobCode": "9691000152",
+      "icon": "LaptopOutlined",
+      "items": [
+        "中国大学MOOC",
+        "网易公开课",
+        "智慧树"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000152-zh-CN-2",
+      "groupId": "9695265189726",
+      "groupCode": "office-software",
+      "groupName": "办公软件",
+      "sort": 2,
+      "jobCode": "9691000152",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "钉钉",
+        "微信"
+      ]
+    }
+  ]
+}

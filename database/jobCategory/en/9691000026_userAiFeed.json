@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI Agent Feed Topics - Frontend Development (en)",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-001",
+      "topicId": "9694000001",
+      "topicCode": "react",
+      "topicName": "React Frontiers",
+      "sort": 1,
+      "jobCode": "9691000026",
+      "description": "Latest React framework updates, ecosystem tools and best practices",
+      "icon": "icon-react",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-002",
+      "topicId": "9694000002",
+      "topicCode": "css-engineering",
+      "topicName": "CSS Engineering",
+      "sort": 2,
+      "jobCode": "9691000026",
+      "description": "New CSS features, framework evolution and styling trends",
+      "icon": "icon-palette",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-003",
+      "topicId": "9694000003",
+      "topicCode": "web-standards",
+      "topicName": "Web Standards",
+      "sort": 3,
+      "jobCode": "9691000026",
+      "description": "W3C specifications, browser API updates and web platform evolution",
+      "icon": "icon-globe",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-004",
+      "topicId": "9694000004",
+      "topicCode": "ai-frontier",
+      "topicName": "AI Frontier",
+      "sort": 4,
+      "jobCode": "9691000026",
+      "description": "LLMs, AI Agents, AIGC breakthroughs and applications",
+      "icon": "icon-cpu",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini AI Development & API Key Platform",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "Global LLM API Aggregation & Routing Platform",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "Open-Source Model Weights & Datasets Community",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    },
+    {
+      "title": "High-Performance LLM Inference & Serving Engine",
+      "url": "https://github.com/vllm-project/vllm",
+      "icon": "github"
+    },
+    {
+      "title": "Open-Source LLM App Development & No-Code Workflow Platform",
+      "url": "https://dify.ai",
+      "icon": "dify"
+    },
+    {
+      "title": "LLM Application Development & Component Orchestration Framework",
+      "url": "https://www.langchain.com",
+      "icon": "langchain"
+    }
+  ]
+}

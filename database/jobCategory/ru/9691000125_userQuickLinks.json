@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - Управление качеством производства（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000125-ru-1",
+      "groupId": "9695269632426",
+      "groupCode": "manufacturing",
+      "groupName": "Производство",
+      "sort": 1,
+      "jobCode": "9691000125",
+      "icon": "SettingOutlined",
+      "items": [
+        "SolidWorks",
+        "AutoCAD",
+        "西门子工业"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000125-ru-2",
+      "groupId": "9695011828558",
+      "groupCode": "professional-platforms",
+      "groupName": "Профессиональные платформы",
+      "sort": 2,
+      "jobCode": "9691000125",
+      "icon": "GlobalOutlined",
+      "items": [
+        "OFweek",
+        "工控网",
+        "CSDN"
+      ]
+    }
+  ]
+}

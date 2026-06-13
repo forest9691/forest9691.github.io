@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - プロジェクト管理（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000078-ja-1",
+      "groupId": "9695419557006",
+      "groupCode": "project-management",
+      "groupName": "プロジェクト管理",
+      "sort": 1,
+      "jobCode": "9691000078",
+      "icon": "ProjectOutlined",
+      "items": [
+        "Jira",
+        "Trello",
+        "Asana"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000078-ja-2",
+      "groupId": "9695771253343",
+      "groupCode": "communication",
+      "groupName": "コミュニケーション",
+      "sort": 2,
+      "jobCode": "9691000078",
+      "icon": "MessageOutlined",
+      "items": [
+        "Slack",
+        "飞书",
+        "企业微信"
+      ]
+    }
+  ]
+}

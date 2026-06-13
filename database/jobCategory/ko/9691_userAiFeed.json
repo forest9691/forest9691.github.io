@@ -1,0 +1,88 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 구독 브리핑 토픽 - 기본값（ko）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-101",
+      "topicId": "9694000101",
+      "topicCode": "cross-border-ecommerce",
+      "topicName": "국경 간 전자상거래",
+      "sort": 1,
+      "jobCode": "9691",
+      "description": "국경 간 전자상거래 플랫폼 동향, 물류 및 결제 트렌드",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-102",
+      "topicId": "9694000102",
+      "topicCode": "ai-frontier",
+      "topicName": "AI 최전선",
+      "sort": 2,
+      "jobCode": "9691",
+      "description": "대규모 언어 모델, AI 에이전트, AIGC 최신 동향과 응용",
+      "icon": "icon-cpu",
+      "isDefault": true,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-103",
+      "topicId": "9694000103",
+      "topicCode": "saas-trends",
+      "topicName": "SaaS 트렌드",
+      "sort": 3,
+      "jobCode": "9691",
+      "description": "SaaS 비즈니스 모델, PLG 성장과 기업 서비스 투자",
+      "icon": "icon-cloud",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ai-feed-104",
+      "topicId": "9694000104",
+      "topicCode": "digital-nomad",
+      "topicName": "디지털 노마드",
+      "sort": 4,
+      "jobCode": "9691",
+      "description": "원격 근무, 글로벌 비자, 프리랜서와 노마드 라이프",
+      "icon": "icon-map-pin",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini 대규모 모델 개발 및 API 키 플랫폼",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "글로벌 주요 LLM API 집계 라우팅 플랫폼",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "오픈소스 모델 가중치 및 데이터셋 커뮤니티",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    },
+    {
+      "title": "초고속 대규모 언어 모델 추론 및 서비스 엔진",
+      "url": "https://github.com/vllm-project/vllm",
+      "icon": "github"
+    },
+    {
+      "title": "오픈소스 LLM 앱 개발 및 노코드 워크플로우 플랫폼",
+      "url": "https://dify.ai",
+      "icon": "dify"
+    },
+    {
+      "title": "대규모 언어 모델 애플리케이션 개발 및 컴포넌트 오케스트레이션 프레임워크",
+      "url": "https://www.langchain.com",
+      "icon": "langchain"
+    }
+  ]
+}

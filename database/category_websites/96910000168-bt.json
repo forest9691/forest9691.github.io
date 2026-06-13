@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "BT",
+    "en": "BT",
+    "zh-TW": "BT",
+    "ja": "BT",
+    "ko": "BT",
+    "ru": "BT"
+  },
+  "categoryId": "96910000168",
+  "categoryCode": "bt",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000079",
+      "title": "BT",
+      "code": "bt",
+      "url": "https://www.google.com/search?q=BT",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000076",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 55
+    }
+  ]
+}

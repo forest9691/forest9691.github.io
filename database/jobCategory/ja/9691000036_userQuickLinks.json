@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 電子・回路（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000036-ja-1",
+      "groupId": "9695249785538",
+      "groupCode": "electronics",
+      "groupName": "電子工学",
+      "sort": 1,
+      "jobCode": "9691000036",
+      "icon": "ThunderboltOutlined",
+      "items": [
+        "Cadence",
+        "Altium Designer",
+        "立创EDA"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000036-ja-2",
+      "groupId": "9695887196161",
+      "groupCode": "industry-tools",
+      "groupName": "業界ツール",
+      "sort": 2,
+      "jobCode": "9691000036",
+      "icon": "ToolOutlined",
+      "items": [
+        "CSDN",
+        "电子发烧友",
+        "21ic"
+      ]
+    }
+  ]
+}

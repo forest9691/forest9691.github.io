@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 其他机械设计/制造（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000118-zh-CN-1",
+      "groupId": "9695007854734",
+      "groupCode": "manufacturing",
+      "groupName": "制造资源",
+      "sort": 1,
+      "jobCode": "9691000118",
+      "icon": "SettingOutlined",
+      "items": [
+        "SolidWorks",
+        "AutoCAD",
+        "西门子工业"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000118-zh-CN-2",
+      "groupId": "9695888017642",
+      "groupCode": "professional-platforms",
+      "groupName": "专业平台",
+      "sort": 2,
+      "jobCode": "9691000118",
+      "icon": "GlobalOutlined",
+      "items": [
+        "OFweek",
+        "工控网",
+        "CSDN"
+      ]
+    }
+  ]
+}

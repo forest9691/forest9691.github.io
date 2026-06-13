@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Automotive Design/Manufacturing（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000109-en-1",
+      "groupId": "9695384827984",
+      "groupCode": "auto-platforms",
+      "groupName": "Auto Platforms",
+      "sort": 1,
+      "jobCode": "9691000109",
+      "icon": "CarOutlined",
+      "items": [
+        "汽车之家",
+        "懂车帝",
+        "易车"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000109-en-2",
+      "groupId": "9695741043130",
+      "groupCode": "industry-tools",
+      "groupName": "Industry Tools",
+      "sort": 2,
+      "jobCode": "9691000109",
+      "icon": "ToolOutlined",
+      "items": [
+        "CATIA",
+        "SolidWorks",
+        "AutoCAD"
+      ]
+    }
+  ]
+}

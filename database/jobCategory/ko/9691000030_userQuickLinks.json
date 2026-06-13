@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - IT 기술 관리（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000030-ko-1",
+      "groupId": "9695625117608",
+      "groupCode": "dev-tools",
+      "groupName": "개발 도구",
+      "sort": 1,
+      "jobCode": "9691000030",
+      "icon": "CodeOutlined",
+      "items": [
+        "GitHub",
+        "VS Code",
+        "Docker"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000030-ko-2",
+      "groupId": "9695966657677",
+      "groupCode": "cloud-platforms",
+      "groupName": "클라우드 플랫폼",
+      "sort": 2,
+      "jobCode": "9691000030",
+      "icon": "CloudOutlined",
+      "items": [
+        "AWS",
+        "阿里云",
+        "腾讯云"
+      ]
+    }
+  ]
+}

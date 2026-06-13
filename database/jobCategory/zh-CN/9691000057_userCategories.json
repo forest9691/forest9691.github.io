@@ -1,0 +1,86 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 电商运营",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ecplat-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "ecplat",
+      "categoryName": "电商平台",
+      "sort": 2,
+      "parentId": "0",
+      "description": "电商平台相关资源",
+      "icon": "icon-shopping-cart",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ecdata-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "ecdata",
+      "categoryName": "数据分析",
+      "sort": 3,
+      "parentId": "0",
+      "description": "数据分析相关资源",
+      "icon": "icon-chart",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ecmarket-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "ecmarket",
+      "categoryName": "营销推广",
+      "sort": 4,
+      "parentId": "0",
+      "description": "营销推广相关资源",
+      "icon": "icon-target",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ectool-cat",
+      "categoryId": "9693000005",
+      "categoryCode": "ectool",
+      "categoryName": "运营工具",
+      "sort": 5,
+      "parentId": "0",
+      "description": "运营工具相关资源",
+      "icon": "icon-tool",
+      "color": "#10b981",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-ecexp-cat",
+      "categoryId": "9693000006",
+      "categoryCode": "ecexp",
+      "categoryName": "仓储物流",
+      "sort": 6,
+      "parentId": "0",
+      "description": "仓储物流相关资源",
+      "icon": "icon-truck",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

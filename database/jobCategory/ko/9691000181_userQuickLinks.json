@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 디저트/음료（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000181-ko-1",
+      "groupId": "9695086958512",
+      "groupCode": "food-beverage",
+      "groupName": "식음료 관리",
+      "sort": 1,
+      "jobCode": "9691000181",
+      "icon": "CoffeeOutlined",
+      "items": [
+        "美团餐饮",
+        "饿了么商家版",
+        "客如云"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000181-ko-2",
+      "groupId": "9695588695202",
+      "groupCode": "social-media",
+      "groupName": "소셜 미디어",
+      "sort": 2,
+      "jobCode": "9691000181",
+      "icon": "ShareAltOutlined",
+      "items": [
+        "小红书",
+        "抖音",
+        "微信"
+      ]
+    }
+  ]
+}

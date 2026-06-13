@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 农业/林业",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-agriculture-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "agriculture",
+      "categoryName": "农业资讯",
+      "sort": 2,
+      "parentId": "0",
+      "description": "农业资讯相关资源",
+      "icon": "icon-book-open",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-forestry-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "forestry",
+      "categoryName": "林业资源",
+      "sort": 3,
+      "parentId": "0",
+      "description": "林业资源相关资源",
+      "icon": "icon-map",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

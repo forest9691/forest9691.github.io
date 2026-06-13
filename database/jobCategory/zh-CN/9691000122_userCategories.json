@@ -1,0 +1,47 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 印刷包装",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-print-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "print",
+      "categoryName": "印刷行业",
+      "sort": 2,
+      "parentId": "0",
+      "description": "印刷行业相关资源",
+      "icon": "icon-tool",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-package-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "package",
+      "categoryName": "包装设计",
+      "sort": 3,
+      "parentId": "0",
+      "description": "包装设计相关资源",
+      "icon": "icon-box",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

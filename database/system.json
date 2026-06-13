@@ -42,7 +42,7 @@
           "primaryLight": "#38bdf8",
           "primaryDark": "#0284c7",
           "borderColor": "#bae6fd",
-          "backgroundColor": "#f0f9ff",
+          "backgroundColor": "#fff",
           "titleColor": "#0f172a",
           "titleBackgroundColor": "#f0f9ff",
           "successColor": "#22c55e",
@@ -186,6 +186,7 @@
           "base": 14,
           "lg": 16,
           "xl": 18,
+          "key": "small",
           "label": "小"
         },
         {
@@ -193,6 +194,7 @@
           "base": 16,
           "lg": 18,
           "xl": 20,
+          "key": "medium",
           "label": "中"
         },
         {
@@ -200,6 +202,7 @@
           "base": 18,
           "lg": 20,
           "xl": 22,
+          "key": "large",
           "label": "大"
         }
       ]

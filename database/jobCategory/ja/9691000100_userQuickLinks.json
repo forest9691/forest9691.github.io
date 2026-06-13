@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 入札（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000100-ja-1",
+      "groupId": "9695187038170",
+      "groupCode": "supply-chain",
+      "groupName": "サプライチェーン",
+      "sort": 1,
+      "jobCode": "9691000100",
+      "icon": "NodeIndexOutlined",
+      "items": [
+        "阿里巴巴国际站",
+        "中国制造网",
+        "环球资源"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000100-ja-2",
+      "groupId": "9695080338751",
+      "groupCode": "communication",
+      "groupName": "コミュニケーション",
+      "sort": 2,
+      "jobCode": "9691000100",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

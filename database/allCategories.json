@@ -6,7 +6,7 @@
   "data": [
     {
       "id": "uuid-cat-006",
-      "categoryId": "20006",
+      "categoryId": "96910000001",
       "categoryCode": "career",
       "categoryName": {
         "zh-CN": "职场提升",
@@ -25,7 +25,7 @@
     },
     {
       "id": "uuid-cat-101",
-      "categoryId": "20101",
+      "categoryId": "96910000002",
       "categoryCode": "music",
       "categoryName": {
         "zh-CN": "音乐",
@@ -36,7 +36,7 @@
         "ru": "Музыка"
       },
       "sort": 1,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "音乐平台与音频资源",
       "icon": "icon-music",
       "color": "#ec4899",
@@ -44,7 +44,7 @@
     },
     {
       "id": "uuid-cat-107",
-      "categoryId": "20107",
+      "categoryId": "96910000003",
       "categoryCode": "software",
       "categoryName": {
         "zh-CN": "软件",
@@ -55,7 +55,7 @@
         "ru": "ПО"
       },
       "sort": 1,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "软件下载与资源",
       "icon": "icon-software",
       "color": "#3b82f6",
@@ -63,7 +63,7 @@
     },
     {
       "id": "uuid-cat-401",
-      "categoryId": "20401",
+      "categoryId": "96910000004",
       "categoryCode": "beijing",
       "categoryName": {
         "zh-CN": "北京",
@@ -74,7 +74,7 @@
         "ru": "Пекин"
       },
       "sort": 1,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "北京地方网站",
       "icon": "icon-beijing",
       "color": "#f59e0b",
@@ -82,7 +82,7 @@
     },
     {
       "id": "uuid-cat-158",
-      "categoryId": "20158",
+      "categoryId": "96910000005",
       "categoryCode": "photography",
       "categoryName": {
         "zh-CN": "摄影",
@@ -93,7 +93,7 @@
         "ru": "Фотография"
       },
       "sort": 1,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "摄影作品与技巧",
       "icon": "icon-photography",
       "color": "#3b82f6",
@@ -101,7 +101,7 @@
     },
     {
       "id": "uuid-cat-170",
-      "categoryId": "20170",
+      "categoryId": "96910000006",
       "categoryCode": "recruitment",
       "categoryName": {
         "zh-CN": "招聘",
@@ -112,7 +112,7 @@
         "ru": "Рекрутинг"
       },
       "sort": 1,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "招聘信息与平台",
       "icon": "icon-recruitment",
       "color": "#3b82f6",
@@ -120,7 +120,7 @@
     },
     {
       "id": "uuid-cat-30101",
-      "categoryId": "30101",
+      "categoryId": "96910000007",
       "categoryCode": "online-music",
       "categoryName": {
         "zh-CN": "在线音乐",
@@ -131,7 +131,7 @@
         "ru": "Онлайн музыка"
       },
       "sort": 1,
-      "parentId": "20101",
+      "parentId": "96910000002",
       "description": "在线音乐播放平台",
       "icon": "icon-online-music",
       "color": "#ec4899",
@@ -139,7 +139,7 @@
     },
     {
       "id": "uuid-cat-30201",
-      "categoryId": "30201",
+      "categoryId": "96910000008",
       "categoryCode": "video-platform",
       "categoryName": {
         "zh-CN": "视频平台",
@@ -150,7 +150,7 @@
         "ru": "Видео платформа"
       },
       "sort": 1,
-      "parentId": "20102",
+      "parentId": "96910000027",
       "description": "在线视频平台",
       "icon": "icon-video-platform",
       "color": "#22c55e",
@@ -158,7 +158,7 @@
     },
     {
       "id": "uuid-cat-30301",
-      "categoryId": "30301",
+      "categoryId": "96910000009",
       "categoryCode": "game-platform",
       "categoryName": {
         "zh-CN": "游戏平台",
@@ -169,7 +169,7 @@
         "ru": "Игровая платформа"
       },
       "sort": 1,
-      "parentId": "20103",
+      "parentId": "96910000052",
       "description": "游戏娱乐平台",
       "icon": "icon-game-platform",
       "color": "#8b5cf6",
@@ -177,7 +177,7 @@
     },
     {
       "id": "uuid-cat-31101",
-      "categoryId": "31101",
+      "categoryId": "96910000010",
       "categoryCode": "online-movie",
       "categoryName": {
         "zh-CN": "在线电影",
@@ -188,7 +188,7 @@
         "ru": "Онлайн фильмы"
       },
       "sort": 1,
-      "parentId": "20111",
+      "parentId": "96910000077",
       "description": "在线电影观看",
       "icon": "icon-online-movie",
       "color": "#ec4899",
@@ -196,7 +196,7 @@
     },
     {
       "id": "uuid-cat-31201",
-      "categoryId": "31201",
+      "categoryId": "96910000011",
       "categoryCode": "original-novel",
       "categoryName": {
         "zh-CN": "原创文学",
@@ -207,7 +207,7 @@
         "ru": "Оригинальная литература"
       },
       "sort": 1,
-      "parentId": "20112",
+      "parentId": "96910000103",
       "description": "原创小说平台",
       "icon": "icon-original-novel",
       "color": "#f59e0b",
@@ -215,7 +215,7 @@
     },
     {
       "id": "uuid-cat-31301",
-      "categoryId": "31301",
+      "categoryId": "96910000012",
       "categoryCode": "military-news",
       "categoryName": {
         "zh-CN": "军事资讯",
@@ -226,7 +226,7 @@
         "ru": "Военные новости"
       },
       "sort": 1,
-      "parentId": "20113",
+      "parentId": "96910000111",
       "description": "军事新闻资讯",
       "icon": "icon-military-news",
       "color": "#ef4444",
@@ -234,7 +234,7 @@
     },
     {
       "id": "uuid-cat-31401",
-      "categoryId": "31401",
+      "categoryId": "96910000013",
       "categoryCode": "image-search",
       "categoryName": {
         "zh-CN": "图片搜索",
@@ -245,7 +245,7 @@
         "ru": "Поиск изображений"
       },
       "sort": 1,
-      "parentId": "20114",
+      "parentId": "96910000118",
       "description": "图片搜索引擎",
       "icon": "icon-image-search",
       "color": "#8b5cf6",
@@ -253,7 +253,7 @@
     },
     {
       "id": "uuid-cat-31501",
-      "categoryId": "31501",
+      "categoryId": "96910000014",
       "categoryCode": "online-anime",
       "categoryName": {
         "zh-CN": "在线动漫",
@@ -264,7 +264,7 @@
         "ru": "Онлайн аниме"
       },
       "sort": 1,
-      "parentId": "20115",
+      "parentId": "96910000125",
       "description": "在线动漫观看",
       "icon": "icon-online-anime",
       "color": "#ec4899",
@@ -272,7 +272,7 @@
     },
     {
       "id": "uuid-cat-31601",
-      "categoryId": "31601",
+      "categoryId": "96910000015",
       "categoryCode": "sports-news",
       "categoryName": {
         "zh-CN": "综合体育",
@@ -283,7 +283,7 @@
         "ru": "Спортивные новости"
       },
       "sort": 1,
-      "parentId": "20116",
+      "parentId": "96910000132",
       "description": "综合体育资讯",
       "icon": "icon-sports-news",
       "color": "#f59e0b",
@@ -291,7 +291,7 @@
     },
     {
       "id": "uuid-cat-31701",
-      "categoryId": "31701",
+      "categoryId": "96910000016",
       "categoryCode": "football-live",
       "categoryName": {
         "zh-CN": "足球直播",
@@ -302,7 +302,7 @@
         "ru": "Футбол трансляции"
       },
       "sort": 1,
-      "parentId": "20117",
+      "parentId": "96910000139",
       "description": "足球赛事直播",
       "icon": "icon-football-live",
       "color": "#22c55e",
@@ -310,7 +310,7 @@
     },
     {
       "id": "uuid-cat-31801",
-      "categoryId": "31801",
+      "categoryId": "96910000017",
       "categoryCode": "nba-live",
       "categoryName": {
         "zh-CN": "NBA直播",
@@ -321,7 +321,7 @@
         "ru": "NBA трансляции"
       },
       "sort": 1,
-      "parentId": "20118",
+      "parentId": "96910000146",
       "description": "NBA赛事直播",
       "icon": "icon-nba-live",
       "color": "#f97316",
@@ -329,7 +329,7 @@
     },
     {
       "id": "uuid-cat-31901",
-      "categoryId": "31901",
+      "categoryId": "96910000018",
       "categoryCode": "social-platform",
       "categoryName": {
         "zh-CN": "社交平台",
@@ -340,7 +340,7 @@
         "ru": "Социальная платформа"
       },
       "sort": 1,
-      "parentId": "20119",
+      "parentId": "96910000153",
       "description": "社交网络平台",
       "icon": "icon-social-platform",
       "color": "#ec4899",
@@ -348,7 +348,7 @@
     },
     {
       "id": "uuid-cat-32001",
-      "categoryId": "32001",
+      "categoryId": "96910000019",
       "categoryCode": "entertainment-news",
       "categoryName": {
         "zh-CN": "明星资讯",
@@ -359,7 +359,7 @@
         "ru": "Новости шоу-бизнеса"
       },
       "sort": 1,
-      "parentId": "20120",
+      "parentId": "96910000160",
       "description": "明星娱乐资讯",
       "icon": "icon-entertainment-news",
       "color": "#ec4899",
@@ -367,7 +367,7 @@
     },
     {
       "id": "uuid-cat-32101",
-      "categoryId": "32101",
+      "categoryId": "96910000020",
       "categoryCode": "general-forum",
       "categoryName": {
         "zh-CN": "综合论坛",
@@ -378,7 +378,7 @@
         "ru": "Общий форум"
       },
       "sort": 1,
-      "parentId": "20121",
+      "parentId": "96910000166",
       "description": "综合社区论坛",
       "icon": "icon-general-forum",
       "color": "#3b82f6",
@@ -386,7 +386,7 @@
     },
     {
       "id": "uuid-cat-32201",
-      "categoryId": "32201",
+      "categoryId": "96910000021",
       "categoryCode": "joke-collection",
       "categoryName": {
         "zh-CN": "笑话大全",
@@ -397,7 +397,7 @@
         "ru": "Сборник шуток"
       },
       "sort": 1,
-      "parentId": "20122",
+      "parentId": "96910000172",
       "description": "笑话段子大全",
       "icon": "icon-joke-collection",
       "color": "#f59e0b",
@@ -405,7 +405,7 @@
     },
     {
       "id": "uuid-cat-32301",
-      "categoryId": "32301",
+      "categoryId": "96910000022",
       "categoryCode": "horoscope-fortune",
       "categoryName": {
         "zh-CN": "星座运势",
@@ -416,7 +416,7 @@
         "ru": "Гороскоп"
       },
       "sort": 1,
-      "parentId": "20123",
+      "parentId": "96910000178",
       "description": "星座运势查询",
       "icon": "icon-horoscope-fortune",
       "color": "#8b5cf6",
@@ -424,7 +424,7 @@
     },
     {
       "id": "uuid-cat-32401",
-      "categoryId": "32401",
+      "categoryId": "96910000023",
       "categoryCode": "popular-mmo",
       "categoryName": {
         "zh-CN": "热门网游",
@@ -435,7 +435,7 @@
         "ru": "Популярные MMO"
       },
       "sort": 1,
-      "parentId": "20124",
+      "parentId": "96910000184",
       "description": "热门网络游戏",
       "icon": "icon-popular-mmo",
       "color": "#f97316",
@@ -443,7 +443,7 @@
     },
     {
       "id": "uuid-cat-32501",
-      "categoryId": "32501",
+      "categoryId": "96910000024",
       "categoryCode": "personalization",
       "categoryName": {
         "zh-CN": "个性装扮",
@@ -454,7 +454,7 @@
         "ru": "Персонализация"
       },
       "sort": 1,
-      "parentId": "20125",
+      "parentId": "96910000189",
       "description": "个性装扮资源",
       "icon": "icon-personalization",
       "color": "#ec4899",
@@ -462,7 +462,7 @@
     },
     {
       "id": "uuid-cat-37001",
-      "categoryId": "37001",
+      "categoryId": "96910000025",
       "categoryCode": "recruit-platform",
       "categoryName": {
         "zh-CN": "招聘平台",
@@ -473,7 +473,7 @@
         "ru": "Платформа"
       },
       "sort": 1,
-      "parentId": "20170",
+      "parentId": "96910000006",
       "description": "招聘平台",
       "icon": "icon-recruit-platform",
       "color": "#3b82f6",
@@ -481,7 +481,7 @@
     },
     {
       "id": "uuid-cat-001",
-      "categoryId": "20001",
+      "categoryId": "96910000026",
       "categoryCode": "entertainment",
       "categoryName": {
         "zh-CN": "娱乐休闲",
@@ -500,7 +500,7 @@
     },
     {
       "id": "uuid-cat-102",
-      "categoryId": "20102",
+      "categoryId": "96910000027",
       "categoryCode": "video",
       "categoryName": {
         "zh-CN": "视频",
@@ -511,7 +511,7 @@
         "ru": "Видео"
       },
       "sort": 2,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "视频平台与影视资源",
       "icon": "icon-video",
       "color": "#22c55e",
@@ -519,7 +519,7 @@
     },
     {
       "id": "uuid-cat-108",
-      "categoryId": "20108",
+      "categoryId": "96910000028",
       "categoryCode": "email",
       "categoryName": {
         "zh-CN": "邮箱",
@@ -530,7 +530,7 @@
         "ru": "Почта"
       },
       "sort": 2,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "电子邮箱与邮件服务",
       "icon": "icon-email",
       "color": "#8b5cf6",
@@ -538,7 +538,7 @@
     },
     {
       "id": "uuid-cat-402",
-      "categoryId": "20402",
+      "categoryId": "96910000029",
       "categoryCode": "shanghai",
       "categoryName": {
         "zh-CN": "上海",
@@ -549,7 +549,7 @@
         "ru": "Шанхай"
       },
       "sort": 2,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "上海地方网站",
       "icon": "icon-shanghai",
       "color": "#f59e0b",
@@ -557,7 +557,7 @@
     },
     {
       "id": "uuid-cat-159",
-      "categoryId": "20159",
+      "categoryId": "96910000030",
       "categoryCode": "english",
       "categoryName": {
         "zh-CN": "英语",
@@ -568,7 +568,7 @@
         "ru": "Английский"
       },
       "sort": 2,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "英语学习与资源",
       "icon": "icon-english",
       "color": "#22c55e",
@@ -576,7 +576,7 @@
     },
     {
       "id": "uuid-cat-171",
-      "categoryId": "20171",
+      "categoryId": "96910000031",
       "categoryCode": "parttime",
       "categoryName": {
         "zh-CN": "兼职",
@@ -587,7 +587,7 @@
         "ru": "Подработка"
       },
       "sort": 2,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "兼职工作与机会",
       "icon": "icon-parttime",
       "color": "#f59e0b",
@@ -595,7 +595,7 @@
     },
     {
       "id": "uuid-cat-30102",
-      "categoryId": "30102",
+      "categoryId": "96910000032",
       "categoryCode": "music-download",
       "categoryName": {
         "zh-CN": "音乐下载",
@@ -606,7 +606,7 @@
         "ru": "Скачать музыку"
       },
       "sort": 2,
-      "parentId": "20101",
+      "parentId": "96910000002",
       "description": "音乐下载资源",
       "icon": "icon-music-download",
       "color": "#22c55e",
@@ -614,7 +614,7 @@
     },
     {
       "id": "uuid-cat-30202",
-      "categoryId": "30202",
+      "categoryId": "96910000033",
       "categoryCode": "short-video",
       "categoryName": {
         "zh-CN": "短视频",
@@ -625,7 +625,7 @@
         "ru": "Короткое видео"
       },
       "sort": 2,
-      "parentId": "20102",
+      "parentId": "96910000027",
       "description": "短视频平台",
       "icon": "icon-short-video",
       "color": "#f59e0b",
@@ -633,7 +633,7 @@
     },
     {
       "id": "uuid-cat-30302",
-      "categoryId": "30302",
+      "categoryId": "96910000034",
       "categoryCode": "mobile-game",
       "categoryName": {
         "zh-CN": "手游下载",
@@ -644,7 +644,7 @@
         "ru": "Мобильные игры"
       },
       "sort": 2,
-      "parentId": "20103",
+      "parentId": "96910000052",
       "description": "手机游戏下载",
       "icon": "icon-mobile-game",
       "color": "#06b6d4",
@@ -652,7 +652,7 @@
     },
     {
       "id": "uuid-cat-31102",
-      "categoryId": "31102",
+      "categoryId": "96910000035",
       "categoryCode": "movie-download",
       "categoryName": {
         "zh-CN": "电影下载",
@@ -663,7 +663,7 @@
         "ru": "Скачать фильмы"
       },
       "sort": 2,
-      "parentId": "20111",
+      "parentId": "96910000077",
       "description": "电影下载资源",
       "icon": "icon-movie-download",
       "color": "#22c55e",
@@ -671,7 +671,7 @@
     },
     {
       "id": "uuid-cat-31202",
-      "categoryId": "31202",
+      "categoryId": "96910000036",
       "categoryCode": "free-reading",
       "categoryName": {
         "zh-CN": "免费阅读",
@@ -682,7 +682,7 @@
         "ru": "Бесплатное чтение"
       },
       "sort": 2,
-      "parentId": "20112",
+      "parentId": "96910000103",
       "description": "免费小说阅读",
       "icon": "icon-free-reading",
       "color": "#22c55e",
@@ -690,7 +690,7 @@
     },
     {
       "id": "uuid-cat-31302",
-      "categoryId": "31302",
+      "categoryId": "96910000037",
       "categoryCode": "military-forum",
       "categoryName": {
         "zh-CN": "军事论坛",
@@ -701,7 +701,7 @@
         "ru": "Военный форум"
       },
       "sort": 2,
-      "parentId": "20113",
+      "parentId": "96910000111",
       "description": "军事爱好者论坛",
       "icon": "icon-military-forum",
       "color": "#f59e0b",
@@ -709,7 +709,7 @@
     },
     {
       "id": "uuid-cat-31402",
-      "categoryId": "31402",
+      "categoryId": "96910000038",
       "categoryCode": "wallpaper",
       "categoryName": {
         "zh-CN": "壁纸美图",
@@ -720,7 +720,7 @@
         "ru": "Обои"
       },
       "sort": 2,
-      "parentId": "20114",
+      "parentId": "96910000118",
       "description": "高清壁纸资源",
       "icon": "icon-wallpaper",
       "color": "#ec4899",
@@ -728,7 +728,7 @@
     },
     {
       "id": "uuid-cat-31502",
-      "categoryId": "31502",
+      "categoryId": "96910000039",
       "categoryCode": "anime-community",
       "categoryName": {
         "zh-CN": "动漫社区",
@@ -739,7 +739,7 @@
         "ru": "Аниме сообщество"
       },
       "sort": 2,
-      "parentId": "20115",
+      "parentId": "96910000125",
       "description": "二次元社区",
       "icon": "icon-anime-community",
       "color": "#8b5cf6",
@@ -747,7 +747,7 @@
     },
     {
       "id": "uuid-cat-31602",
-      "categoryId": "31602",
+      "categoryId": "96910000040",
       "categoryCode": "sports-live",
       "categoryName": {
         "zh-CN": "直播赛事",
@@ -758,7 +758,7 @@
         "ru": "Спортивные трансляции"
       },
       "sort": 2,
-      "parentId": "20116",
+      "parentId": "96910000132",
       "description": "体育赛事直播",
       "icon": "icon-sports-live",
       "color": "#ef4444",
@@ -766,7 +766,7 @@
     },
     {
       "id": "uuid-cat-31702",
-      "categoryId": "31702",
+      "categoryId": "96910000041",
       "categoryCode": "premier-league",
       "categoryName": {
         "zh-CN": "英超联赛",
@@ -777,7 +777,7 @@
         "ru": "Премьер-лига"
       },
       "sort": 2,
-      "parentId": "20117",
+      "parentId": "96910000139",
       "description": "英格兰足球超级联赛",
       "icon": "icon-premier-league",
       "color": "#3b82f6",
@@ -785,7 +785,7 @@
     },
     {
       "id": "uuid-cat-31802",
-      "categoryId": "31802",
+      "categoryId": "96910000042",
       "categoryCode": "nba-teams",
       "categoryName": {
         "zh-CN": "NBA球队",
@@ -796,7 +796,7 @@
         "ru": "NBA команды"
       },
       "sort": 2,
-      "parentId": "20118",
+      "parentId": "96910000146",
       "description": "NBA球队官网",
       "icon": "icon-nba-teams",
       "color": "#3b82f6",
@@ -804,7 +804,7 @@
     },
     {
       "id": "uuid-cat-31902",
-      "categoryId": "31902",
+      "categoryId": "96910000043",
       "categoryCode": "dating",
       "categoryName": {
         "zh-CN": "婚恋交友",
@@ -815,7 +815,7 @@
         "ru": "Знакомства"
       },
       "sort": 2,
-      "parentId": "20119",
+      "parentId": "96910000153",
       "description": "婚恋交友平台",
       "icon": "icon-dating",
       "color": "#f59e0b",
@@ -823,7 +823,7 @@
     },
     {
       "id": "uuid-cat-32002",
-      "categoryId": "32002",
+      "categoryId": "96910000044",
       "categoryCode": "fan-community",
       "categoryName": {
         "zh-CN": "粉丝社区",
@@ -834,7 +834,7 @@
         "ru": "Фан-сообщество"
       },
       "sort": 2,
-      "parentId": "20120",
+      "parentId": "96910000160",
       "description": "粉丝互动社区",
       "icon": "icon-fan-community",
       "color": "#f59e0b",
@@ -842,7 +842,7 @@
     },
     {
       "id": "uuid-cat-32102",
-      "categoryId": "32102",
+      "categoryId": "96910000045",
       "categoryCode": "tech-forum",
       "categoryName": {
         "zh-CN": "专业论坛",
@@ -853,7 +853,7 @@
         "ru": "Технический форум"
       },
       "sort": 2,
-      "parentId": "20121",
+      "parentId": "96910000166",
       "description": "专业技术论坛",
       "icon": "icon-tech-forum",
       "color": "#22c55e",
@@ -861,7 +861,7 @@
     },
     {
       "id": "uuid-cat-32202",
-      "categoryId": "32202",
+      "categoryId": "96910000046",
       "categoryCode": "funny-community",
       "categoryName": {
         "zh-CN": "搞笑社区",
@@ -872,7 +872,7 @@
         "ru": "Смешное сообщество"
       },
       "sort": 2,
-      "parentId": "20122",
+      "parentId": "96910000172",
       "description": "搞笑视频社区",
       "icon": "icon-funny-community",
       "color": "#f97316",
@@ -880,7 +880,7 @@
     },
     {
       "id": "uuid-cat-32302",
-      "categoryId": "32302",
+      "categoryId": "96910000047",
       "categoryCode": "love-match",
       "categoryName": {
         "zh-CN": "星座配对",
@@ -891,7 +891,7 @@
         "ru": "Совместимость"
       },
       "sort": 2,
-      "parentId": "20123",
+      "parentId": "96910000178",
       "description": "星座爱情配对",
       "icon": "icon-love-match",
       "color": "#ec4899",
@@ -899,7 +899,7 @@
     },
     {
       "id": "uuid-cat-32402",
-      "categoryId": "32402",
+      "categoryId": "96910000048",
       "categoryCode": "game-platforms",
       "categoryName": {
         "zh-CN": "网游平台",
@@ -910,7 +910,7 @@
         "ru": "Игровые платформы"
       },
       "sort": 2,
-      "parentId": "20124",
+      "parentId": "96910000184",
       "description": "网游游戏平台",
       "icon": "icon-game-platforms",
       "color": "#3b82f6",
@@ -918,7 +918,7 @@
     },
     {
       "id": "uuid-cat-32502",
-      "categoryId": "32502",
+      "categoryId": "96910000049",
       "categoryCode": "non-mainstream-images",
       "categoryName": {
         "zh-CN": "非主流图片",
@@ -929,7 +929,7 @@
         "ru": "Нонконформистские изображения"
       },
       "sort": 2,
-      "parentId": "20125",
+      "parentId": "96910000189",
       "description": "非主流图片资源",
       "icon": "icon-non-mainstream-images",
       "color": "#8b5cf6",
@@ -937,7 +937,7 @@
     },
     {
       "id": "uuid-cat-37002",
-      "categoryId": "37002",
+      "categoryId": "96910000050",
       "categoryCode": "campus-recruit",
       "categoryName": {
         "zh-CN": "校园招聘",
@@ -948,7 +948,7 @@
         "ru": "Кампус"
       },
       "sort": 2,
-      "parentId": "20170",
+      "parentId": "96910000006",
       "description": "校园招聘",
       "icon": "icon-campus-recruit",
       "color": "#22c55e",
@@ -956,7 +956,7 @@
     },
     {
       "id": "uuid-cat-002",
-      "categoryId": "20002",
+      "categoryId": "96910000051",
       "categoryCode": "lifestyle",
       "categoryName": {
         "zh-CN": "生活服务",
@@ -975,7 +975,7 @@
     },
     {
       "id": "uuid-cat-103",
-      "categoryId": "20103",
+      "categoryId": "96910000052",
       "categoryCode": "games",
       "categoryName": {
         "zh-CN": "游戏",
@@ -986,7 +986,7 @@
         "ru": "Игры"
       },
       "sort": 3,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "游戏娱乐与电玩资讯",
       "icon": "icon-games",
       "color": "#8b5cf6",
@@ -994,7 +994,7 @@
     },
     {
       "id": "uuid-cat-109",
-      "categoryId": "20109",
+      "categoryId": "96910000053",
       "categoryCode": "programmer",
       "categoryName": {
         "zh-CN": "编程",
@@ -1005,7 +1005,7 @@
         "ru": "Программирование"
       },
       "sort": 3,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "编程开发资源",
       "icon": "icon-code",
       "color": "#22c55e",
@@ -1013,7 +1013,7 @@
     },
     {
       "id": "uuid-cat-403",
-      "categoryId": "20403",
+      "categoryId": "96910000054",
       "categoryCode": "guangdong",
       "categoryName": {
         "zh-CN": "广东",
@@ -1024,7 +1024,7 @@
         "ru": "Гуандун"
       },
       "sort": 3,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "广东地方网站",
       "icon": "icon-guangdong",
       "color": "#f59e0b",
@@ -1032,7 +1032,7 @@
     },
     {
       "id": "uuid-cat-160",
-      "categoryId": "20160",
+      "categoryId": "96910000055",
       "categoryCode": "exam",
       "categoryName": {
         "zh-CN": "考试",
@@ -1043,7 +1043,7 @@
         "ru": "Экзамен"
       },
       "sort": 3,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "考试资讯与备考",
       "icon": "icon-exam",
       "color": "#f59e0b",
@@ -1051,7 +1051,7 @@
     },
     {
       "id": "uuid-cat-172",
-      "categoryId": "20172",
+      "categoryId": "96910000056",
       "categoryCode": "referral",
       "categoryName": {
         "zh-CN": "内推",
@@ -1062,7 +1062,7 @@
         "ru": "Реферал"
       },
       "sort": 3,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "内推机会与渠道",
       "icon": "icon-referral",
       "color": "#22c55e",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "uuid-cat-30103",
-      "categoryId": "30103",
+      "categoryId": "96910000057",
       "categoryCode": "music-radio",
       "categoryName": {
         "zh-CN": "音乐电台",
@@ -1081,7 +1081,7 @@
         "ru": "Музыкальное радио"
       },
       "sort": 3,
-      "parentId": "20101",
+      "parentId": "96910000002",
       "description": "网络音乐电台",
       "icon": "icon-music-radio",
       "color": "#8b5cf6",
@@ -1089,7 +1089,7 @@
     },
     {
       "id": "uuid-cat-30203",
-      "categoryId": "30203",
+      "categoryId": "96910000058",
       "categoryCode": "live-streaming",
       "categoryName": {
         "zh-CN": "直播视频",
@@ -1100,7 +1100,7 @@
         "ru": "Прямая трансляция"
       },
       "sort": 3,
-      "parentId": "20102",
+      "parentId": "96910000027",
       "description": "网络直播视频",
       "icon": "icon-live-streaming",
       "color": "#ef4444",
@@ -1108,7 +1108,7 @@
     },
     {
       "id": "uuid-cat-30303",
-      "categoryId": "30303",
+      "categoryId": "96910000059",
       "categoryCode": "game-news",
       "categoryName": {
         "zh-CN": "游戏资讯",
@@ -1119,7 +1119,7 @@
         "ru": "Игровые новости"
       },
       "sort": 3,
-      "parentId": "20103",
+      "parentId": "96910000052",
       "description": "游戏新闻资讯",
       "icon": "icon-game-news",
       "color": "#f97316",
@@ -1127,7 +1127,7 @@
     },
     {
       "id": "uuid-cat-31103",
-      "categoryId": "31103",
+      "categoryId": "96910000060",
       "categoryCode": "movie-review",
       "categoryName": {
         "zh-CN": "影评社区",
@@ -1138,7 +1138,7 @@
         "ru": "Обзоры фильмов"
       },
       "sort": 3,
-      "parentId": "20111",
+      "parentId": "96910000077",
       "description": "电影评论社区",
       "icon": "icon-movie-review",
       "color": "#f59e0b",
@@ -1146,7 +1146,7 @@
     },
     {
       "id": "uuid-cat-31203",
-      "categoryId": "31203",
+      "categoryId": "96910000061",
       "categoryCode": "audio-novel",
       "categoryName": {
         "zh-CN": "有声小说",
@@ -1157,7 +1157,7 @@
         "ru": "Аудиокниги"
       },
       "sort": 3,
-      "parentId": "20112",
+      "parentId": "96910000103",
       "description": "有声小说收听",
       "icon": "icon-audio-novel",
       "color": "#8b5cf6",
@@ -1165,7 +1165,7 @@
     },
     {
       "id": "uuid-cat-31303",
-      "categoryId": "31303",
+      "categoryId": "96910000062",
       "categoryCode": "military-video",
       "categoryName": {
         "zh-CN": "军事视频",
@@ -1176,7 +1176,7 @@
         "ru": "Военное видео"
       },
       "sort": 3,
-      "parentId": "20113",
+      "parentId": "96910000111",
       "description": "军事纪录片视频",
       "icon": "icon-military-video",
       "color": "#22c55e",
@@ -1184,7 +1184,7 @@
     },
     {
       "id": "uuid-cat-31403",
-      "categoryId": "31403",
+      "categoryId": "96910000063",
       "categoryCode": "image-material",
       "categoryName": {
         "zh-CN": "图片素材",
@@ -1195,7 +1195,7 @@
         "ru": "Изображения"
       },
       "sort": 3,
-      "parentId": "20114",
+      "parentId": "96910000118",
       "description": "图片素材资源",
       "icon": "icon-image-material",
       "color": "#f59e0b",
@@ -1203,7 +1203,7 @@
     },
     {
       "id": "uuid-cat-31503",
-      "categoryId": "31503",
+      "categoryId": "96910000064",
       "categoryCode": "manga",
       "categoryName": {
         "zh-CN": "漫画阅读",
@@ -1214,7 +1214,7 @@
         "ru": "Манга"
       },
       "sort": 3,
-      "parentId": "20115",
+      "parentId": "96910000125",
       "description": "漫画阅读平台",
       "icon": "icon-manga",
       "color": "#f59e0b",
@@ -1222,7 +1222,7 @@
     },
     {
       "id": "uuid-cat-31603",
-      "categoryId": "31603",
+      "categoryId": "96910000065",
       "categoryCode": "sports-community",
       "categoryName": {
         "zh-CN": "体育社区",
@@ -1233,7 +1233,7 @@
         "ru": "Спортивное сообщество"
       },
       "sort": 3,
-      "parentId": "20116",
+      "parentId": "96910000132",
       "description": "体育爱好者社区",
       "icon": "icon-sports-community",
       "color": "#22c55e",
@@ -1241,7 +1241,7 @@
     },
     {
       "id": "uuid-cat-31703",
-      "categoryId": "31703",
+      "categoryId": "96910000066",
       "categoryCode": "csl",
       "categoryName": {
         "zh-CN": "中超国足",
@@ -1252,7 +1252,7 @@
         "ru": "Китайский футбол"
       },
       "sort": 3,
-      "parentId": "20117",
+      "parentId": "96910000139",
       "description": "中国足球超级联赛",
       "icon": "icon-csl",
       "color": "#ef4444",
@@ -1260,7 +1260,7 @@
     },
     {
       "id": "uuid-cat-31803",
-      "categoryId": "31803",
+      "categoryId": "96910000067",
       "categoryCode": "nba-news",
       "categoryName": {
         "zh-CN": "NBA资讯",
@@ -1271,7 +1271,7 @@
         "ru": "NBA новости"
       },
       "sort": 3,
-      "parentId": "20118",
+      "parentId": "96910000146",
       "description": "NBA新闻资讯",
       "icon": "icon-nba-news",
       "color": "#22c55e",
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "uuid-cat-31903",
-      "categoryId": "31903",
+      "categoryId": "96910000068",
       "categoryCode": "interest-social",
       "categoryName": {
         "zh-CN": "兴趣交友",
@@ -1290,7 +1290,7 @@
         "ru": "Интересы социальные"
       },
       "sort": 3,
-      "parentId": "20119",
+      "parentId": "96910000153",
       "description": "兴趣社交平台",
       "icon": "icon-interest-social",
       "color": "#22c55e",
@@ -1298,7 +1298,7 @@
     },
     {
       "id": "uuid-cat-32003",
-      "categoryId": "32003",
+      "categoryId": "96910000069",
       "categoryCode": "star-fashion",
       "categoryName": {
         "zh-CN": "明星同款",
@@ -1309,7 +1309,7 @@
         "ru": "Мода звезд"
       },
       "sort": 3,
-      "parentId": "20120",
+      "parentId": "96910000160",
       "description": "明星同款穿搭",
       "icon": "icon-star-fashion",
       "color": "#8b5cf6",
@@ -1317,7 +1317,7 @@
     },
     {
       "id": "uuid-cat-32103",
-      "categoryId": "32103",
+      "categoryId": "96910000070",
       "categoryCode": "campus-forum",
       "categoryName": {
         "zh-CN": "校园论坛",
@@ -1328,7 +1328,7 @@
         "ru": "Университетский форум"
       },
       "sort": 3,
-      "parentId": "20121",
+      "parentId": "96910000166",
       "description": "校园高校论坛",
       "icon": "icon-campus-forum",
       "color": "#f59e0b",
@@ -1336,7 +1336,7 @@
     },
     {
       "id": "uuid-cat-32203",
-      "categoryId": "32203",
+      "categoryId": "96910000071",
       "categoryCode": "funny-images",
       "categoryName": {
         "zh-CN": "爆笑图片",
@@ -1347,7 +1347,7 @@
         "ru": "Смешные картинки"
       },
       "sort": 3,
-      "parentId": "20122",
+      "parentId": "96910000172",
       "description": "搞笑图片表情",
       "icon": "icon-funny-images",
       "color": "#22c55e",
@@ -1355,7 +1355,7 @@
     },
     {
       "id": "uuid-cat-32303",
-      "categoryId": "32303",
+      "categoryId": "96910000072",
       "categoryCode": "tarot",
       "categoryName": {
         "zh-CN": "占星塔罗",
@@ -1366,7 +1366,7 @@
         "ru": "Таро"
       },
       "sort": 3,
-      "parentId": "20123",
+      "parentId": "96910000178",
       "description": "塔罗占卜占星",
       "icon": "icon-tarot",
       "color": "#f59e0b",
@@ -1374,7 +1374,7 @@
     },
     {
       "id": "uuid-cat-32403",
-      "categoryId": "32403",
+      "categoryId": "96910000073",
       "categoryCode": "game-recharge",
       "categoryName": {
         "zh-CN": "游戏充值",
@@ -1385,7 +1385,7 @@
         "ru": "Пополнение игр"
       },
       "sort": 3,
-      "parentId": "20124",
+      "parentId": "96910000184",
       "description": "游戏充值交易",
       "icon": "icon-game-recharge",
       "color": "#22c55e",
@@ -1393,7 +1393,7 @@
     },
     {
       "id": "uuid-cat-32503",
-      "categoryId": "32503",
+      "categoryId": "96910000074",
       "categoryCode": "mars-text",
       "categoryName": {
         "zh-CN": "火星文",
@@ -1404,7 +1404,7 @@
         "ru": "Марсианский текст"
       },
       "sort": 3,
-      "parentId": "20125",
+      "parentId": "96910000189",
       "description": "火星文非主流",
       "icon": "icon-mars-text",
       "color": "#f59e0b",
@@ -1412,7 +1412,7 @@
     },
     {
       "id": "uuid-cat-37003",
-      "categoryId": "37003",
+      "categoryId": "96910000075",
       "categoryCode": "headhunting",
       "categoryName": {
         "zh-CN": "猎头服务",
@@ -1423,7 +1423,7 @@
         "ru": "Хедхантинг"
       },
       "sort": 3,
-      "parentId": "20170",
+      "parentId": "96910000006",
       "description": "猎头服务",
       "icon": "icon-headhunting",
       "color": "#f59e0b",
@@ -1431,7 +1431,7 @@
     },
     {
       "id": "uuid-cat-003",
-      "categoryId": "20003",
+      "categoryId": "96910000076",
       "categoryCode": "tech-computer",
       "categoryName": {
         "zh-CN": "电脑网络",
@@ -1450,7 +1450,7 @@
     },
     {
       "id": "uuid-cat-111",
-      "categoryId": "20111",
+      "categoryId": "96910000077",
       "categoryCode": "movie",
       "categoryName": {
         "zh-CN": "电影",
@@ -1461,7 +1461,7 @@
         "ru": "Кино"
       },
       "sort": 4,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "电影资源与影评",
       "icon": "icon-movie",
       "color": "#ec4899",
@@ -1469,7 +1469,7 @@
     },
     {
       "id": "uuid-cat-104",
-      "categoryId": "20104",
+      "categoryId": "96910000078",
       "categoryCode": "news",
       "categoryName": {
         "zh-CN": "新闻",
@@ -1480,7 +1480,7 @@
         "ru": "Новости"
       },
       "sort": 4,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "新闻资讯与媒体平台",
       "icon": "icon-news",
       "color": "#3b82f6",
@@ -1488,7 +1488,7 @@
     },
     {
       "id": "uuid-cat-110",
-      "categoryId": "20110",
+      "categoryId": "96910000079",
       "categoryCode": "tech",
       "categoryName": {
         "zh-CN": "科技",
@@ -1499,7 +1499,7 @@
         "ru": "Технологии"
       },
       "sort": 4,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "科技资讯与数码产品",
       "icon": "icon-tech",
       "color": "#0ea5e9",
@@ -1507,7 +1507,7 @@
     },
     {
       "id": "uuid-cat-404",
-      "categoryId": "20404",
+      "categoryId": "96910000080",
       "categoryCode": "hubei",
       "categoryName": {
         "zh-CN": "湖北",
@@ -1518,7 +1518,7 @@
         "ru": "Хубэй"
       },
       "sort": 4,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "湖北地方网站",
       "icon": "icon-hubei",
       "color": "#f59e0b",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "uuid-cat-161",
-      "categoryId": "20161",
+      "categoryId": "96910000081",
       "categoryCode": "teaching",
       "categoryName": {
         "zh-CN": "教学",
@@ -1537,7 +1537,7 @@
         "ru": "Обучение"
       },
       "sort": 4,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "教学资源与方法",
       "icon": "icon-teaching",
       "color": "#8b5cf6",
@@ -1545,7 +1545,7 @@
     },
     {
       "id": "uuid-cat-173",
-      "categoryId": "20173",
+      "categoryId": "96910000082",
       "categoryCode": "resume",
       "categoryName": {
         "zh-CN": "简历",
@@ -1556,7 +1556,7 @@
         "ru": "Резюме"
       },
       "sort": 4,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "简历制作与优化",
       "icon": "icon-resume",
       "color": "#8b5cf6",
@@ -1564,7 +1564,7 @@
     },
     {
       "id": "uuid-cat-30104",
-      "categoryId": "30104",
+      "categoryId": "96910000083",
       "categoryCode": "music-community",
       "categoryName": {
         "zh-CN": "音乐社区",
@@ -1575,7 +1575,7 @@
         "ru": "Музыкальное сообщество"
       },
       "sort": 4,
-      "parentId": "20101",
+      "parentId": "96910000002",
       "description": "音乐社交平台",
       "icon": "icon-music-community",
       "color": "#3b82f6",
@@ -1583,7 +1583,7 @@
     },
     {
       "id": "uuid-cat-30204",
-      "categoryId": "30204",
+      "categoryId": "96910000084",
       "categoryCode": "video-download",
       "categoryName": {
         "zh-CN": "视频下载",
@@ -1594,7 +1594,7 @@
         "ru": "Скачать видео"
       },
       "sort": 4,
-      "parentId": "20102",
+      "parentId": "96910000027",
       "description": "视频下载工具",
       "icon": "icon-video-download",
       "color": "#8b5cf6",
@@ -1602,7 +1602,7 @@
     },
     {
       "id": "uuid-cat-30304",
-      "categoryId": "30304",
+      "categoryId": "96910000085",
       "categoryCode": "mini-game",
       "categoryName": {
         "zh-CN": "小游戏",
@@ -1613,7 +1613,7 @@
         "ru": "Мини-игры"
       },
       "sort": 4,
-      "parentId": "20103",
+      "parentId": "96910000052",
       "description": "在线小游戏",
       "icon": "icon-mini-game",
       "color": "#ec4899",
@@ -1621,7 +1621,7 @@
     },
     {
       "id": "uuid-cat-31104",
-      "categoryId": "31104",
+      "categoryId": "96910000086",
       "categoryCode": "classic-movie",
       "categoryName": {
         "zh-CN": "经典电影",
@@ -1632,7 +1632,7 @@
         "ru": "Классические фильмы"
       },
       "sort": 4,
-      "parentId": "20111",
+      "parentId": "96910000077",
       "description": "经典电影推荐",
       "icon": "icon-classic-movie",
       "color": "#8b5cf6",
@@ -1640,7 +1640,7 @@
     },
     {
       "id": "uuid-cat-31204",
-      "categoryId": "31204",
+      "categoryId": "96910000087",
       "categoryCode": "classic-literature",
       "categoryName": {
         "zh-CN": "经典文学",
@@ -1651,7 +1651,7 @@
         "ru": "Классическая литература"
       },
       "sort": 4,
-      "parentId": "20112",
+      "parentId": "96910000103",
       "description": "经典文学作品",
       "icon": "icon-classic-literature",
       "color": "#3b82f6",
@@ -1659,7 +1659,7 @@
     },
     {
       "id": "uuid-cat-31304",
-      "categoryId": "31304",
+      "categoryId": "96910000088",
       "categoryCode": "military-equipment",
       "categoryName": {
         "zh-CN": "军事装备",
@@ -1670,7 +1670,7 @@
         "ru": "Военная техника"
       },
       "sort": 4,
-      "parentId": "20113",
+      "parentId": "96910000111",
       "description": "军事武器装备",
       "icon": "icon-military-equipment",
       "color": "#3b82f6",
@@ -1678,7 +1678,7 @@
     },
     {
       "id": "uuid-cat-31404",
-      "categoryId": "31404",
+      "categoryId": "96910000089",
       "categoryCode": "design-inspiration",
       "categoryName": {
         "zh-CN": "设计灵感",
@@ -1689,7 +1689,7 @@
         "ru": "Вдохновение дизайна"
       },
       "sort": 4,
-      "parentId": "20114",
+      "parentId": "96910000118",
       "description": "设计灵感社区",
       "icon": "icon-design-inspiration",
       "color": "#3b82f6",
@@ -1697,7 +1697,7 @@
     },
     {
       "id": "uuid-cat-31504",
-      "categoryId": "31504",
+      "categoryId": "96910000090",
       "categoryCode": "anime-news",
       "categoryName": {
         "zh-CN": "动漫资讯",
@@ -1708,7 +1708,7 @@
         "ru": "Аниме новости"
       },
       "sort": 4,
-      "parentId": "20115",
+      "parentId": "96910000125",
       "description": "动漫新闻资讯",
       "icon": "icon-anime-news",
       "color": "#22c55e",
@@ -1716,7 +1716,7 @@
     },
     {
       "id": "uuid-cat-31604",
-      "categoryId": "31604",
+      "categoryId": "96910000091",
       "categoryCode": "fitness",
       "categoryName": {
         "zh-CN": "健身运动",
@@ -1727,7 +1727,7 @@
         "ru": "Фитнес"
       },
       "sort": 4,
-      "parentId": "20116",
+      "parentId": "96910000132",
       "description": "健身运动平台",
       "icon": "icon-fitness",
       "color": "#3b82f6",
@@ -1735,7 +1735,7 @@
     },
     {
       "id": "uuid-cat-31704",
-      "categoryId": "31704",
+      "categoryId": "96910000092",
       "categoryCode": "champions-league",
       "categoryName": {
         "zh-CN": "欧冠世足",
@@ -1746,7 +1746,7 @@
         "ru": "Лига чемпионов"
       },
       "sort": 4,
-      "parentId": "20117",
+      "parentId": "96910000139",
       "description": "欧洲冠军联赛",
       "icon": "icon-champions-league",
       "color": "#f59e0b",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "uuid-cat-31804",
-      "categoryId": "31804",
+      "categoryId": "96910000093",
       "categoryCode": "nba-stats",
       "categoryName": {
         "zh-CN": "NBA数据",
@@ -1765,7 +1765,7 @@
         "ru": "NBA статистика"
       },
       "sort": 4,
-      "parentId": "20118",
+      "parentId": "96910000146",
       "description": "NBA数据统计",
       "icon": "icon-nba-stats",
       "color": "#8b5cf6",
@@ -1773,7 +1773,7 @@
     },
     {
       "id": "uuid-cat-31904",
-      "categoryId": "31904",
+      "categoryId": "96910000094",
       "categoryCode": "career-social",
       "categoryName": {
         "zh-CN": "职场社交",
@@ -1784,7 +1784,7 @@
         "ru": "Карьера социальная"
       },
       "sort": 4,
-      "parentId": "20119",
+      "parentId": "96910000153",
       "description": "职场社交平台",
       "icon": "icon-career-social",
       "color": "#3b82f6",
@@ -1792,7 +1792,7 @@
     },
     {
       "id": "uuid-cat-32004",
-      "categoryId": "32004",
+      "categoryId": "96910000095",
       "categoryCode": "star-ranking",
       "categoryName": {
         "zh-CN": "明星榜单",
@@ -1803,7 +1803,7 @@
         "ru": "Рейтинг звезд"
       },
       "sort": 4,
-      "parentId": "20120",
+      "parentId": "96910000160",
       "description": "明星榜单数据",
       "icon": "icon-star-ranking",
       "color": "#22c55e",
@@ -1811,7 +1811,7 @@
     },
     {
       "id": "uuid-cat-32104",
-      "categoryId": "32104",
+      "categoryId": "96910000096",
       "categoryCode": "hobby-forum",
       "categoryName": {
         "zh-CN": "兴趣论坛",
@@ -1822,7 +1822,7 @@
         "ru": "Хобби форум"
       },
       "sort": 4,
-      "parentId": "20121",
+      "parentId": "96910000166",
       "description": "兴趣爱好论坛",
       "icon": "icon-hobby-forum",
       "color": "#8b5cf6",
@@ -1830,7 +1830,7 @@
     },
     {
       "id": "uuid-cat-32204",
-      "categoryId": "32204",
+      "categoryId": "96910000097",
       "categoryCode": "cold-joke",
       "categoryName": {
         "zh-CN": "冷笑话",
@@ -1841,7 +1841,7 @@
         "ru": "Холодные шутки"
       },
       "sort": 4,
-      "parentId": "20122",
+      "parentId": "96910000172",
       "description": "冷笑话智力题",
       "icon": "icon-cold-joke",
       "color": "#3b82f6",
@@ -1849,7 +1849,7 @@
     },
     {
       "id": "uuid-cat-32304",
-      "categoryId": "32304",
+      "categoryId": "96910000098",
       "categoryCode": "zodiac",
       "categoryName": {
         "zh-CN": "生肖命理",
@@ -1860,7 +1860,7 @@
         "ru": "Зодиак"
       },
       "sort": 4,
-      "parentId": "20123",
+      "parentId": "96910000178",
       "description": "生肖命理预测",
       "icon": "icon-zodiac",
       "color": "#22c55e",
@@ -1868,7 +1868,7 @@
     },
     {
       "id": "uuid-cat-32404",
-      "categoryId": "32404",
+      "categoryId": "96910000099",
       "categoryCode": "game-tools",
       "categoryName": {
         "zh-CN": "游戏辅助",
@@ -1879,7 +1879,7 @@
         "ru": "Игровые инструменты"
       },
       "sort": 4,
-      "parentId": "20124",
+      "parentId": "96910000184",
       "description": "游戏辅助工具",
       "icon": "icon-game-tools",
       "color": "#8b5cf6",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": "uuid-cat-32504",
-      "categoryId": "32504",
+      "categoryId": "96910000100",
       "categoryCode": "emo-literature",
       "categoryName": {
         "zh-CN": "伤感文学",
@@ -1898,7 +1898,7 @@
         "ru": "Эмо литература"
       },
       "sort": 4,
-      "parentId": "20125",
+      "parentId": "96910000189",
       "description": "伤感文学日志",
       "icon": "icon-emo-literature",
       "color": "#3b82f6",
@@ -1906,7 +1906,7 @@
     },
     {
       "id": "uuid-cat-37101",
-      "categoryId": "37101",
+      "categoryId": "96910000101",
       "categoryCode": "online-parttime",
       "categoryName": {
         "zh-CN": "在线兼职",
@@ -1917,7 +1917,7 @@
         "ru": "Онлайн"
       },
       "sort": 4,
-      "parentId": "20171",
+      "parentId": "96910000031",
       "description": "在线兼职",
       "icon": "icon-online-parttime",
       "color": "#f59e0b",
@@ -1925,7 +1925,7 @@
     },
     {
       "id": "uuid-cat-004",
-      "categoryId": "20004",
+      "categoryId": "96910000102",
       "categoryCode": "local-sites",
       "categoryName": {
         "zh-CN": "地方网站",
@@ -1944,7 +1944,7 @@
     },
     {
       "id": "uuid-cat-112",
-      "categoryId": "20112",
+      "categoryId": "96910000103",
       "categoryCode": "novel",
       "categoryName": {
         "zh-CN": "小说",
@@ -1955,7 +1955,7 @@
         "ru": "Роман"
       },
       "sort": 5,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "小说阅读与文学",
       "icon": "icon-novel",
       "color": "#f59e0b",
@@ -1963,7 +1963,7 @@
     },
     {
       "id": "uuid-cat-105",
-      "categoryId": "20105",
+      "categoryId": "96910000104",
       "categoryCode": "shopping",
       "categoryName": {
         "zh-CN": "购物",
@@ -1974,7 +1974,7 @@
         "ru": "Покупки"
       },
       "sort": 5,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "电商购物与比价平台",
       "icon": "icon-shopping",
       "color": "#f59e0b",
@@ -1982,7 +1982,7 @@
     },
     {
       "id": "uuid-cat-146",
-      "categoryId": "20146",
+      "categoryId": "96910000105",
       "categoryCode": "blog",
       "categoryName": {
         "zh-CN": "博客",
@@ -1993,7 +1993,7 @@
         "ru": "Блог"
       },
       "sort": 5,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "博客平台与空间",
       "icon": "icon-blog",
       "color": "#f97316",
@@ -2001,7 +2001,7 @@
     },
     {
       "id": "uuid-cat-405",
-      "categoryId": "20405",
+      "categoryId": "96910000106",
       "categoryCode": "shandong",
       "categoryName": {
         "zh-CN": "山东",
@@ -2012,7 +2012,7 @@
         "ru": "Шаньдун"
       },
       "sort": 5,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "山东地方网站",
       "icon": "icon-shandong",
       "color": "#f59e0b",
@@ -2020,7 +2020,7 @@
     },
     {
       "id": "uuid-cat-162",
-      "categoryId": "20162",
+      "categoryId": "96910000107",
       "categoryCode": "chess",
       "categoryName": {
         "zh-CN": "琴棋",
@@ -2031,7 +2031,7 @@
         "ru": "Шахматы и музыка"
       },
       "sort": 5,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "琴棋书画艺术",
       "icon": "icon-chess",
       "color": "#f97316",
@@ -2039,7 +2039,7 @@
     },
     {
       "id": "uuid-cat-174",
-      "categoryId": "20174",
+      "categoryId": "96910000108",
       "categoryCode": "software-exam",
       "categoryName": {
         "zh-CN": "软考",
@@ -2050,7 +2050,7 @@
         "ru": "Экзамен ПО"
       },
       "sort": 5,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "软件考试与认证",
       "icon": "icon-software-exam",
       "color": "#3b82f6",
@@ -2058,7 +2058,7 @@
     },
     {
       "id": "uuid-cat-37102",
-      "categoryId": "37102",
+      "categoryId": "96910000109",
       "categoryCode": "offline-parttime",
       "categoryName": {
         "zh-CN": "线下兼职",
@@ -2069,7 +2069,7 @@
         "ru": "Офлайн"
       },
       "sort": 5,
-      "parentId": "20171",
+      "parentId": "96910000031",
       "description": "线下兼职",
       "icon": "icon-offline-parttime",
       "color": "#f97316",
@@ -2077,7 +2077,7 @@
     },
     {
       "id": "uuid-cat-005",
-      "categoryId": "20005",
+      "categoryId": "96910000110",
       "categoryCode": "others",
       "categoryName": {
         "zh-CN": "其他",
@@ -2096,7 +2096,7 @@
     },
     {
       "id": "uuid-cat-113",
-      "categoryId": "20113",
+      "categoryId": "96910000111",
       "categoryCode": "military",
       "categoryName": {
         "zh-CN": "军事",
@@ -2107,7 +2107,7 @@
         "ru": "Военное"
       },
       "sort": 6,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "军事资讯与国防",
       "icon": "icon-military",
       "color": "#ef4444",
@@ -2115,7 +2115,7 @@
     },
     {
       "id": "uuid-cat-106",
-      "categoryId": "20106",
+      "categoryId": "96910000112",
       "categoryCode": "travel",
       "categoryName": {
         "zh-CN": "旅游",
@@ -2126,7 +2126,7 @@
         "ru": "Путешествия"
       },
       "sort": 6,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "旅游攻略与出行服务",
       "icon": "icon-travel",
       "color": "#10b981",
@@ -2134,7 +2134,7 @@
     },
     {
       "id": "uuid-cat-147",
-      "categoryId": "20147",
+      "categoryId": "96910000113",
       "categoryCode": "antivirus",
       "categoryName": {
         "zh-CN": "杀毒",
@@ -2145,7 +2145,7 @@
         "ru": "Антивирус"
       },
       "sort": 6,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "杀毒软件与安全",
       "icon": "icon-antivirus",
       "color": "#22c55e",
@@ -2153,7 +2153,7 @@
     },
     {
       "id": "uuid-cat-406",
-      "categoryId": "20406",
+      "categoryId": "96910000114",
       "categoryCode": "guangxi",
       "categoryName": {
         "zh-CN": "广西",
@@ -2164,7 +2164,7 @@
         "ru": "Гуанси"
       },
       "sort": 6,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "广西地方网站",
       "icon": "icon-guangxi",
       "color": "#f59e0b",
@@ -2172,7 +2172,7 @@
     },
     {
       "id": "uuid-cat-163",
-      "categoryId": "20163",
+      "categoryId": "96910000115",
       "categoryCode": "folk-art",
       "categoryName": {
         "zh-CN": "曲艺",
@@ -2183,7 +2183,7 @@
         "ru": "Народное искусство"
       },
       "sort": 6,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "曲艺与民间艺术",
       "icon": "icon-folk-art",
       "color": "#ec4899",
@@ -2191,7 +2191,7 @@
     },
     {
       "id": "uuid-cat-175",
-      "categoryId": "20175",
+      "categoryId": "96910000116",
       "categoryCode": "postgraduate",
       "categoryName": {
         "zh-CN": "考研",
@@ -2202,7 +2202,7 @@
         "ru": "Аспирантура"
       },
       "sort": 6,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "考研备考与资讯",
       "icon": "icon-postgraduate",
       "color": "#ef4444",
@@ -2210,7 +2210,7 @@
     },
     {
       "id": "uuid-cat-37103",
-      "categoryId": "37103",
+      "categoryId": "96910000117",
       "categoryCode": "freelance",
       "categoryName": {
         "zh-CN": "自由职业",
@@ -2221,7 +2221,7 @@
         "ru": "Фриланс"
       },
       "sort": 6,
-      "parentId": "20171",
+      "parentId": "96910000031",
       "description": "自由职业",
       "icon": "icon-freelance",
       "color": "#8b5cf6",
@@ -2229,7 +2229,7 @@
     },
     {
       "id": "uuid-cat-114",
-      "categoryId": "20114",
+      "categoryId": "96910000118",
       "categoryCode": "image",
       "categoryName": {
         "zh-CN": "图片",
@@ -2240,7 +2240,7 @@
         "ru": "Изображение"
       },
       "sort": 7,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "图片资源与壁纸",
       "icon": "icon-image",
       "color": "#8b5cf6",
@@ -2248,7 +2248,7 @@
     },
     {
       "id": "uuid-cat-126",
-      "categoryId": "20126",
+      "categoryId": "96910000119",
       "categoryCode": "weather",
       "categoryName": {
         "zh-CN": "天气",
@@ -2259,7 +2259,7 @@
         "ru": "Погода"
       },
       "sort": 7,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "天气预报与气象",
       "icon": "icon-weather",
       "color": "#3b82f6",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "uuid-cat-148",
-      "categoryId": "20148",
+      "categoryId": "96910000120",
       "categoryCode": "hardware",
       "categoryName": {
         "zh-CN": "硬件",
@@ -2278,7 +2278,7 @@
         "ru": "Оборудование"
       },
       "sort": 7,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "电脑硬件资讯",
       "icon": "icon-hardware",
       "color": "#3b82f6",
@@ -2286,7 +2286,7 @@
     },
     {
       "id": "uuid-cat-407",
-      "categoryId": "20407",
+      "categoryId": "96910000121",
       "categoryCode": "hunan",
       "categoryName": {
         "zh-CN": "湖南",
@@ -2297,7 +2297,7 @@
         "ru": "Хунань"
       },
       "sort": 7,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "湖南地方网站",
       "icon": "icon-hunan",
       "color": "#f59e0b",
@@ -2305,7 +2305,7 @@
     },
     {
       "id": "uuid-cat-164",
-      "categoryId": "20164",
+      "categoryId": "96910000122",
       "categoryCode": "pet",
       "categoryName": {
         "zh-CN": "宠物",
@@ -2316,7 +2316,7 @@
         "ru": "Питомцы"
       },
       "sort": 7,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "宠物养护与资讯",
       "icon": "icon-pet",
       "color": "#f59e0b",
@@ -2324,7 +2324,7 @@
     },
     {
       "id": "uuid-cat-176",
-      "categoryId": "20176",
+      "categoryId": "96910000123",
       "categoryCode": "civil-service",
       "categoryName": {
         "zh-CN": "公考",
@@ -2335,7 +2335,7 @@
         "ru": "Государственная служба"
       },
       "sort": 7,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "公务员考试",
       "icon": "icon-civil-service",
       "color": "#f59e0b",
@@ -2343,7 +2343,7 @@
     },
     {
       "id": "uuid-cat-37201",
-      "categoryId": "37201",
+      "categoryId": "96910000124",
       "categoryCode": "tech-referral",
       "categoryName": {
         "zh-CN": "技术内推",
@@ -2354,7 +2354,7 @@
         "ru": "Техно"
       },
       "sort": 7,
-      "parentId": "20172",
+      "parentId": "96910000056",
       "description": "技术内推",
       "icon": "icon-tech-referral",
       "color": "#22c55e",
@@ -2362,7 +2362,7 @@
     },
     {
       "id": "uuid-cat-115",
-      "categoryId": "20115",
+      "categoryId": "96910000125",
       "categoryCode": "anime",
       "categoryName": {
         "zh-CN": "动漫",
@@ -2373,7 +2373,7 @@
         "ru": "Аниме"
       },
       "sort": 8,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "动漫资源与二次元",
       "icon": "icon-anime",
       "color": "#ec4899",
@@ -2381,7 +2381,7 @@
     },
     {
       "id": "uuid-cat-127",
-      "categoryId": "20127",
+      "categoryId": "96910000126",
       "categoryCode": "lottery",
       "categoryName": {
         "zh-CN": "彩票",
@@ -2392,7 +2392,7 @@
         "ru": "Лотерея"
       },
       "sort": 8,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "彩票开奖与资讯",
       "icon": "icon-lottery",
       "color": "#f59e0b",
@@ -2400,7 +2400,7 @@
     },
     {
       "id": "uuid-cat-149",
-      "categoryId": "20149",
+      "categoryId": "96910000127",
       "categoryCode": "wallpaper",
       "categoryName": {
         "zh-CN": "壁纸",
@@ -2411,7 +2411,7 @@
         "ru": "Обои"
       },
       "sort": 8,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "桌面壁纸资源",
       "icon": "icon-wallpaper",
       "color": "#8b5cf6",
@@ -2419,7 +2419,7 @@
     },
     {
       "id": "uuid-cat-408",
-      "categoryId": "20408",
+      "categoryId": "96910000128",
       "categoryCode": "sichuan",
       "categoryName": {
         "zh-CN": "四川",
@@ -2430,7 +2430,7 @@
         "ru": "Сычуань"
       },
       "sort": 8,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "四川地方网站",
       "icon": "icon-sichuan",
       "color": "#f59e0b",
@@ -2438,7 +2438,7 @@
     },
     {
       "id": "uuid-cat-165",
-      "categoryId": "20165",
+      "categoryId": "96910000129",
       "categoryCode": "law",
       "categoryName": {
         "zh-CN": "法律",
@@ -2449,7 +2449,7 @@
         "ru": "Право"
       },
       "sort": 8,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "法律资讯与服务",
       "icon": "icon-law",
       "color": "#3b82f6",
@@ -2457,7 +2457,7 @@
     },
     {
       "id": "uuid-cat-177",
-      "categoryId": "20177",
+      "categoryId": "96910000130",
       "categoryCode": "certificate",
       "categoryName": {
         "zh-CN": "考证",
@@ -2468,7 +2468,7 @@
         "ru": "Сертификат"
       },
       "sort": 8,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "职业资格认证",
       "icon": "icon-certificate",
       "color": "#22c55e",
@@ -2476,7 +2476,7 @@
     },
     {
       "id": "uuid-cat-37202",
-      "categoryId": "37202",
+      "categoryId": "96910000131",
       "categoryCode": "product-referral",
       "categoryName": {
         "zh-CN": "产品内推",
@@ -2487,7 +2487,7 @@
         "ru": "Продукт"
       },
       "sort": 8,
-      "parentId": "20172",
+      "parentId": "96910000056",
       "description": "产品内推",
       "icon": "icon-product-referral",
       "color": "#3b82f6",
@@ -2495,7 +2495,7 @@
     },
     {
       "id": "uuid-cat-116",
-      "categoryId": "20116",
+      "categoryId": "96910000132",
       "categoryCode": "sports",
       "categoryName": {
         "zh-CN": "体育",
@@ -2506,7 +2506,7 @@
         "ru": "Спорт"
       },
       "sort": 9,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "体育赛事与资讯",
       "icon": "icon-sports",
       "color": "#f59e0b",
@@ -2514,7 +2514,7 @@
     },
     {
       "id": "uuid-cat-128",
-      "categoryId": "20128",
+      "categoryId": "96910000133",
       "categoryCode": "query",
       "categoryName": {
         "zh-CN": "查询",
@@ -2525,7 +2525,7 @@
         "ru": "Запрос"
       },
       "sort": 9,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "信息查询服务",
       "icon": "icon-query",
       "color": "#64748b",
@@ -2533,7 +2533,7 @@
     },
     {
       "id": "uuid-cat-150",
-      "categoryId": "20150",
+      "categoryId": "96910000134",
       "categoryCode": "chat",
       "categoryName": {
         "zh-CN": "聊天",
@@ -2544,7 +2544,7 @@
         "ru": "Чат"
       },
       "sort": 9,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "即时通讯与聊天",
       "icon": "icon-chat",
       "color": "#ec4899",
@@ -2552,7 +2552,7 @@
     },
     {
       "id": "uuid-cat-409",
-      "categoryId": "20409",
+      "categoryId": "96910000135",
       "categoryCode": "jiangsu",
       "categoryName": {
         "zh-CN": "江苏",
@@ -2563,7 +2563,7 @@
         "ru": "Цзянсу"
       },
       "sort": 9,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "江苏地方网站",
       "icon": "icon-jiangsu",
       "color": "#f59e0b",
@@ -2571,7 +2571,7 @@
     },
     {
       "id": "uuid-cat-166",
-      "categoryId": "20166",
+      "categoryId": "96910000136",
       "categoryCode": "paper",
       "categoryName": {
         "zh-CN": "论文",
@@ -2582,7 +2582,7 @@
         "ru": "Статья"
       },
       "sort": 9,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "论文写作与查重",
       "icon": "icon-paper",
       "color": "#8b5cf6",
@@ -2590,7 +2590,7 @@
     },
     {
       "id": "uuid-cat-178",
-      "categoryId": "20178",
+      "categoryId": "96910000137",
       "categoryCode": "career-english",
       "categoryName": {
         "zh-CN": "职场英语",
@@ -2601,7 +2601,7 @@
         "ru": "Деловой английский"
       },
       "sort": 9,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "职场英语学习",
       "icon": "icon-career-english",
       "color": "#3b82f6",
@@ -2609,7 +2609,7 @@
     },
     {
       "id": "uuid-cat-37203",
-      "categoryId": "37203",
+      "categoryId": "96910000138",
       "categoryCode": "mgmt-referral",
       "categoryName": {
         "zh-CN": "管理内推",
@@ -2620,7 +2620,7 @@
         "ru": "Менеджмент"
       },
       "sort": 9,
-      "parentId": "20172",
+      "parentId": "96910000056",
       "description": "管理内推",
       "icon": "icon-mgmt-referral",
       "color": "#f59e0b",
@@ -2628,7 +2628,7 @@
     },
     {
       "id": "uuid-cat-117",
-      "categoryId": "20117",
+      "categoryId": "96910000139",
       "categoryCode": "football",
       "categoryName": {
         "zh-CN": "足球",
@@ -2639,7 +2639,7 @@
         "ru": "Футбол"
       },
       "sort": 10,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "足球赛事与资讯",
       "icon": "icon-football",
       "color": "#22c55e",
@@ -2647,7 +2647,7 @@
     },
     {
       "id": "uuid-cat-129",
-      "categoryId": "20129",
+      "categoryId": "96910000140",
       "categoryCode": "mobile",
       "categoryName": {
         "zh-CN": "手机",
@@ -2658,7 +2658,7 @@
         "ru": "Мобильный"
       },
       "sort": 10,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "手机资讯与应用",
       "icon": "icon-mobile",
       "color": "#06b6d4",
@@ -2666,7 +2666,7 @@
     },
     {
       "id": "uuid-cat-151",
-      "categoryId": "20151",
+      "categoryId": "96910000141",
       "categoryCode": "webpage",
       "categoryName": {
         "zh-CN": "网页",
@@ -2677,7 +2677,7 @@
         "ru": "Веб-страница"
       },
       "sort": 10,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "网页制作与工具",
       "icon": "icon-webpage",
       "color": "#3b82f6",
@@ -2685,7 +2685,7 @@
     },
     {
       "id": "uuid-cat-410",
-      "categoryId": "20410",
+      "categoryId": "96910000142",
       "categoryCode": "henan",
       "categoryName": {
         "zh-CN": "河南",
@@ -2696,7 +2696,7 @@
         "ru": "Хэнань"
       },
       "sort": 10,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "河南地方网站",
       "icon": "icon-henan",
       "color": "#f59e0b",
@@ -2704,7 +2704,7 @@
     },
     {
       "id": "uuid-cat-167",
-      "categoryId": "20167",
+      "categoryId": "96910000143",
       "categoryCode": "government",
       "categoryName": {
         "zh-CN": "政府",
@@ -2715,7 +2715,7 @@
         "ru": "Правительство"
       },
       "sort": 10,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "政府网站与服务",
       "icon": "icon-government",
       "color": "#ef4444",
@@ -2723,7 +2723,7 @@
     },
     {
       "id": "uuid-cat-179",
-      "categoryId": "20179",
+      "categoryId": "96910000144",
       "categoryCode": "translation",
       "categoryName": {
         "zh-CN": "翻译",
@@ -2734,7 +2734,7 @@
         "ru": "Перевод"
       },
       "sort": 10,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "翻译服务与工具",
       "icon": "icon-translation",
       "color": "#8b5cf6",
@@ -2742,7 +2742,7 @@
     },
     {
       "id": "uuid-cat-37301",
-      "categoryId": "37301",
+      "categoryId": "96910000145",
       "categoryCode": "resume-template",
       "categoryName": {
         "zh-CN": "简历模板",
@@ -2753,7 +2753,7 @@
         "ru": "Шаблон"
       },
       "sort": 10,
-      "parentId": "20173",
+      "parentId": "96910000082",
       "description": "简历模板",
       "icon": "icon-resume-template",
       "color": "#8b5cf6",
@@ -2761,7 +2761,7 @@
     },
     {
       "id": "uuid-cat-118",
-      "categoryId": "20118",
+      "categoryId": "96910000146",
       "categoryCode": "nba",
       "categoryName": {
         "zh-CN": "NBA",
@@ -2772,7 +2772,7 @@
         "ru": "NBA"
       },
       "sort": 11,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "NBA篮球赛事",
       "icon": "icon-nba",
       "color": "#f97316",
@@ -2780,7 +2780,7 @@
     },
     {
       "id": "uuid-cat-130",
-      "categoryId": "20130",
+      "categoryId": "96910000147",
       "categoryCode": "stock",
       "categoryName": {
         "zh-CN": "股票",
@@ -2791,7 +2791,7 @@
         "ru": "Акции"
       },
       "sort": 11,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "股票行情与资讯",
       "icon": "icon-stock",
       "color": "#ef4444",
@@ -2799,7 +2799,7 @@
     },
     {
       "id": "uuid-cat-152",
-      "categoryId": "20152",
+      "categoryId": "96910000148",
       "categoryCode": "search",
       "categoryName": {
         "zh-CN": "搜索",
@@ -2810,7 +2810,7 @@
         "ru": "Поиск"
       },
       "sort": 11,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "搜索引擎与工具",
       "icon": "icon-search",
       "color": "#22c55e",
@@ -2818,7 +2818,7 @@
     },
     {
       "id": "uuid-cat-411",
-      "categoryId": "20411",
+      "categoryId": "96910000149",
       "categoryCode": "hebei",
       "categoryName": {
         "zh-CN": "河北",
@@ -2829,7 +2829,7 @@
         "ru": "Хэбэй"
       },
       "sort": 11,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "河北地方网站",
       "icon": "icon-hebei",
       "color": "#f59e0b",
@@ -2837,7 +2837,7 @@
     },
     {
       "id": "uuid-cat-168",
-      "categoryId": "20168",
+      "categoryId": "96910000150",
       "categoryCode": "campus",
       "categoryName": {
         "zh-CN": "校园",
@@ -2848,7 +2848,7 @@
         "ru": "Кампус"
       },
       "sort": 11,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "校园生活与服务",
       "icon": "icon-campus",
       "color": "#22c55e",
@@ -2856,7 +2856,7 @@
     },
     {
       "id": "uuid-cat-180",
-      "categoryId": "20180",
+      "categoryId": "96910000151",
       "categoryCode": "industry",
       "categoryName": {
         "zh-CN": "行业",
@@ -2867,7 +2867,7 @@
         "ru": "Индустрия"
       },
       "sort": 11,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "行业资讯与分析",
       "icon": "icon-industry",
       "color": "#06b6d4",
@@ -2875,7 +2875,7 @@
     },
     {
       "id": "uuid-cat-37302",
-      "categoryId": "37302",
+      "categoryId": "96910000152",
       "categoryCode": "resume-optimize",
       "categoryName": {
         "zh-CN": "简历优化",
@@ -2886,7 +2886,7 @@
         "ru": "Оптимизация"
       },
       "sort": 11,
-      "parentId": "20173",
+      "parentId": "96910000082",
       "description": "简历优化",
       "icon": "icon-resume-optimize",
       "color": "#3b82f6",
@@ -2894,7 +2894,7 @@
     },
     {
       "id": "uuid-cat-119",
-      "categoryId": "20119",
+      "categoryId": "96910000153",
       "categoryCode": "social",
       "categoryName": {
         "zh-CN": "交际",
@@ -2905,7 +2905,7 @@
         "ru": "Социальное"
       },
       "sort": 12,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "社交与交友平台",
       "icon": "icon-social",
       "color": "#ec4899",
@@ -2913,7 +2913,7 @@
     },
     {
       "id": "uuid-cat-131",
-      "categoryId": "20131",
+      "categoryId": "96910000154",
       "categoryCode": "fund",
       "categoryName": {
         "zh-CN": "基金",
@@ -2924,7 +2924,7 @@
         "ru": "Фонд"
       },
       "sort": 12,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "基金投资与理财",
       "icon": "icon-fund",
       "color": "#22c55e",
@@ -2932,7 +2932,7 @@
     },
     {
       "id": "uuid-cat-153",
-      "categoryId": "20153",
+      "categoryId": "96910000155",
       "categoryCode": "mp4",
       "categoryName": {
         "zh-CN": "MP4",
@@ -2943,7 +2943,7 @@
         "ru": "MP4"
       },
       "sort": 12,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "MP4视频资源",
       "icon": "icon-mp4",
       "color": "#f59e0b",
@@ -2951,7 +2951,7 @@
     },
     {
       "id": "uuid-cat-412",
-      "categoryId": "20412",
+      "categoryId": "96910000156",
       "categoryCode": "shanxi",
       "categoryName": {
         "zh-CN": "山西",
@@ -2962,7 +2962,7 @@
         "ru": "Шаньси"
       },
       "sort": 12,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "山西地方网站",
       "icon": "icon-shanxi",
       "color": "#f59e0b",
@@ -2970,7 +2970,7 @@
     },
     {
       "id": "uuid-cat-169",
-      "categoryId": "20169",
+      "categoryId": "96910000157",
       "categoryCode": "business",
       "categoryName": {
         "zh-CN": "招商",
@@ -2981,7 +2981,7 @@
         "ru": "Бизнес"
       },
       "sort": 12,
-      "parentId": "20005",
+      "parentId": "96910000110",
       "description": "招商加盟与商业",
       "icon": "icon-business",
       "color": "#f59e0b",
@@ -2989,7 +2989,7 @@
     },
     {
       "id": "uuid-cat-181",
-      "categoryId": "20181",
+      "categoryId": "96910000158",
       "categoryCode": "labor",
       "categoryName": {
         "zh-CN": "劳动",
@@ -3000,7 +3000,7 @@
         "ru": "Труд"
       },
       "sort": 12,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "劳动权益与法规",
       "icon": "icon-labor",
       "color": "#f97316",
@@ -3008,7 +3008,7 @@
     },
     {
       "id": "uuid-cat-37303",
-      "categoryId": "37303",
+      "categoryId": "96910000159",
       "categoryCode": "interview-skills",
       "categoryName": {
         "zh-CN": "面试技巧",
@@ -3019,7 +3019,7 @@
         "ru": "Собеседование"
       },
       "sort": 12,
-      "parentId": "20173",
+      "parentId": "96910000082",
       "description": "面试技巧",
       "icon": "icon-interview-skills",
       "color": "#22c55e",
@@ -3027,7 +3027,7 @@
     },
     {
       "id": "uuid-cat-120",
-      "categoryId": "20120",
+      "categoryId": "96910000160",
       "categoryCode": "celebrity",
       "categoryName": {
         "zh-CN": "明星",
@@ -3038,7 +3038,7 @@
         "ru": "Знаменитости"
       },
       "sort": 13,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "明星资讯与娱乐八卦",
       "icon": "icon-celebrity",
       "color": "#f59e0b",
@@ -3046,7 +3046,7 @@
     },
     {
       "id": "uuid-cat-132",
-      "categoryId": "20132",
+      "categoryId": "96910000161",
       "categoryCode": "bank",
       "categoryName": {
         "zh-CN": "银行",
@@ -3057,7 +3057,7 @@
         "ru": "Банк"
       },
       "sort": 13,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "银行服务与理财",
       "icon": "icon-bank",
       "color": "#3b82f6",
@@ -3065,7 +3065,7 @@
     },
     {
       "id": "uuid-cat-154",
-      "categoryId": "20154",
+      "categoryId": "96910000162",
       "categoryCode": "iptv",
       "categoryName": {
         "zh-CN": "网络电视",
@@ -3076,7 +3076,7 @@
         "ru": "Интернет ТВ"
       },
       "sort": 13,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "网络电视与直播",
       "icon": "icon-iptv",
       "color": "#06b6d4",
@@ -3084,7 +3084,7 @@
     },
     {
       "id": "uuid-cat-413",
-      "categoryId": "20413",
+      "categoryId": "96910000163",
       "categoryCode": "zhejiang",
       "categoryName": {
         "zh-CN": "浙江",
@@ -3095,7 +3095,7 @@
         "ru": "Чжэцзян"
       },
       "sort": 13,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "浙江地方网站",
       "icon": "icon-zhejiang",
       "color": "#f59e0b",
@@ -3103,7 +3103,7 @@
     },
     {
       "id": "uuid-cat-182",
-      "categoryId": "20182",
+      "categoryId": "96910000164",
       "categoryCode": "efficiency",
       "categoryName": {
         "zh-CN": "效率",
@@ -3114,7 +3114,7 @@
         "ru": "Эффективность"
       },
       "sort": 13,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "效率工具与方法",
       "icon": "icon-efficiency",
       "color": "#22c55e",
@@ -3122,7 +3122,7 @@
     },
     {
       "id": "uuid-cat-37401",
-      "categoryId": "37401",
+      "categoryId": "96910000165",
       "categoryCode": "exam-info",
       "categoryName": {
         "zh-CN": "考试资讯",
@@ -3133,7 +3133,7 @@
         "ru": "Экзамен"
       },
       "sort": 13,
-      "parentId": "20174",
+      "parentId": "96910000108",
       "description": "考试资讯",
       "icon": "icon-exam-info",
       "color": "#3b82f6",
@@ -3141,7 +3141,7 @@
     },
     {
       "id": "uuid-cat-121",
-      "categoryId": "20121",
+      "categoryId": "96910000166",
       "categoryCode": "forum",
       "categoryName": {
         "zh-CN": "论坛",
@@ -3152,7 +3152,7 @@
         "ru": "Форум"
       },
       "sort": 14,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "论坛与社区",
       "icon": "icon-forum",
       "color": "#3b82f6",
@@ -3160,7 +3160,7 @@
     },
     {
       "id": "uuid-cat-133",
-      "categoryId": "20133",
+      "categoryId": "96910000167",
       "categoryCode": "telecom",
       "categoryName": {
         "zh-CN": "移动",
@@ -3171,7 +3171,7 @@
         "ru": "Связь"
       },
       "sort": 14,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "电信运营商服务",
       "icon": "icon-telecom",
       "color": "#8b5cf6",
@@ -3179,7 +3179,7 @@
     },
     {
       "id": "uuid-cat-155",
-      "categoryId": "20155",
+      "categoryId": "96910000168",
       "categoryCode": "bt",
       "categoryName": {
         "zh-CN": "BT",
@@ -3190,7 +3190,7 @@
         "ru": "BT"
       },
       "sort": 14,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "BT下载资源",
       "icon": "icon-bt",
       "color": "#64748b",
@@ -3198,7 +3198,7 @@
     },
     {
       "id": "uuid-cat-414",
-      "categoryId": "20414",
+      "categoryId": "96910000169",
       "categoryCode": "liaoning",
       "categoryName": {
         "zh-CN": "辽宁",
@@ -3209,7 +3209,7 @@
         "ru": "Ляонин"
       },
       "sort": 14,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "辽宁地方网站",
       "icon": "icon-liaoning",
       "color": "#f59e0b",
@@ -3217,7 +3217,7 @@
     },
     {
       "id": "uuid-cat-183",
-      "categoryId": "20183",
+      "categoryId": "96910000170",
       "categoryCode": "collaboration",
       "categoryName": {
         "zh-CN": "协作",
@@ -3228,7 +3228,7 @@
         "ru": "Сотрудничество"
       },
       "sort": 14,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "团队协作工具",
       "icon": "icon-collaboration",
       "color": "#3b82f6",
@@ -3236,7 +3236,7 @@
     },
     {
       "id": "uuid-cat-37402",
-      "categoryId": "37402",
+      "categoryId": "96910000171",
       "categoryCode": "exam-material",
       "categoryName": {
         "zh-CN": "备考资料",
@@ -3247,7 +3247,7 @@
         "ru": "Материалы"
       },
       "sort": 14,
-      "parentId": "20174",
+      "parentId": "96910000108",
       "description": "备考资料",
       "icon": "icon-exam-material",
       "color": "#f59e0b",
@@ -3255,7 +3255,7 @@
     },
     {
       "id": "uuid-cat-122",
-      "categoryId": "20122",
+      "categoryId": "96910000172",
       "categoryCode": "joke",
       "categoryName": {
         "zh-CN": "笑话",
@@ -3266,7 +3266,7 @@
         "ru": "Шутки"
       },
       "sort": 15,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "笑话与幽默",
       "icon": "icon-joke",
       "color": "#f59e0b",
@@ -3274,7 +3274,7 @@
     },
     {
       "id": "uuid-cat-134",
-      "categoryId": "20134",
+      "categoryId": "96910000173",
       "categoryCode": "house",
       "categoryName": {
         "zh-CN": "房产",
@@ -3285,7 +3285,7 @@
         "ru": "Недвижимость"
       },
       "sort": 15,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "房产信息与置业",
       "icon": "icon-house",
       "color": "#f97316",
@@ -3293,7 +3293,7 @@
     },
     {
       "id": "uuid-cat-156",
-      "categoryId": "20156",
+      "categoryId": "96910000174",
       "categoryCode": "flash",
       "categoryName": {
         "zh-CN": "Flash",
@@ -3304,7 +3304,7 @@
         "ru": "Flash"
       },
       "sort": 15,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "Flash动画与游戏",
       "icon": "icon-flash",
       "color": "#f97316",
@@ -3312,7 +3312,7 @@
     },
     {
       "id": "uuid-cat-415",
-      "categoryId": "20415",
+      "categoryId": "96910000175",
       "categoryCode": "anhui",
       "categoryName": {
         "zh-CN": "安徽",
@@ -3323,7 +3323,7 @@
         "ru": "Аньхой"
       },
       "sort": 15,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "安徽地方网站",
       "icon": "icon-anhui",
       "color": "#f59e0b",
@@ -3331,7 +3331,7 @@
     },
     {
       "id": "uuid-cat-184",
-      "categoryId": "20184",
+      "categoryId": "96910000176",
       "categoryCode": "cloud",
       "categoryName": {
         "zh-CN": "网盘",
@@ -3342,7 +3342,7 @@
         "ru": "Облако"
       },
       "sort": 15,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "网盘与云存储",
       "icon": "icon-cloud",
       "color": "#8b5cf6",
@@ -3350,7 +3350,7 @@
     },
     {
       "id": "uuid-cat-37403",
-      "categoryId": "37403",
+      "categoryId": "96910000177",
       "categoryCode": "exam-training",
       "categoryName": {
         "zh-CN": "培训课程",
@@ -3361,7 +3361,7 @@
         "ru": "Курсы"
       },
       "sort": 15,
-      "parentId": "20174",
+      "parentId": "96910000108",
       "description": "培训课程",
       "icon": "icon-exam-training",
       "color": "#22c55e",
@@ -3369,7 +3369,7 @@
     },
     {
       "id": "uuid-cat-123",
-      "categoryId": "20123",
+      "categoryId": "96910000178",
       "categoryCode": "horoscope",
       "categoryName": {
         "zh-CN": "星座",
@@ -3380,7 +3380,7 @@
         "ru": "Гороскоп"
       },
       "sort": 16,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "星座运势与占星",
       "icon": "icon-horoscope",
       "color": "#8b5cf6",
@@ -3388,7 +3388,7 @@
     },
     {
       "id": "uuid-cat-135",
-      "categoryId": "20135",
+      "categoryId": "96910000179",
       "categoryCode": "recipe",
       "categoryName": {
         "zh-CN": "菜谱",
@@ -3399,7 +3399,7 @@
         "ru": "Рецепты"
       },
       "sort": 16,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "菜谱与美食",
       "icon": "icon-recipe",
       "color": "#f59e0b",
@@ -3407,7 +3407,7 @@
     },
     {
       "id": "uuid-cat-157",
-      "categoryId": "20157",
+      "categoryId": "96910000180",
       "categoryCode": "wap",
       "categoryName": {
         "zh-CN": "WAP",
@@ -3418,7 +3418,7 @@
         "ru": "WAP"
       },
       "sort": 16,
-      "parentId": "20003",
+      "parentId": "96910000076",
       "description": "WAP移动网站",
       "icon": "icon-wap",
       "color": "#8b5cf6",
@@ -3426,7 +3426,7 @@
     },
     {
       "id": "uuid-cat-416",
-      "categoryId": "20416",
+      "categoryId": "96910000181",
       "categoryCode": "fujian",
       "categoryName": {
         "zh-CN": "福建",
@@ -3437,7 +3437,7 @@
         "ru": "Фуцзянь"
       },
       "sort": 16,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "福建地方网站",
       "icon": "icon-fujian",
       "color": "#f59e0b",
@@ -3445,7 +3445,7 @@
     },
     {
       "id": "uuid-cat-185",
-      "categoryId": "20185",
+      "categoryId": "96910000182",
       "categoryCode": "material",
       "categoryName": {
         "zh-CN": "素材",
@@ -3456,7 +3456,7 @@
         "ru": "Материалы"
       },
       "sort": 16,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "设计素材资源",
       "icon": "icon-material",
       "color": "#f59e0b",
@@ -3464,7 +3464,7 @@
     },
     {
       "id": "uuid-cat-37501",
-      "categoryId": "37501",
+      "categoryId": "96910000183",
       "categoryCode": "postgrade-info",
       "categoryName": {
         "zh-CN": "考研资讯",
@@ -3475,7 +3475,7 @@
         "ru": "Аспирантура"
       },
       "sort": 16,
-      "parentId": "20175",
+      "parentId": "96910000116",
       "description": "考研资讯",
       "icon": "icon-postgrade-info",
       "color": "#ef4444",
@@ -3483,7 +3483,7 @@
     },
     {
       "id": "uuid-cat-124",
-      "categoryId": "20124",
+      "categoryId": "96910000184",
       "categoryCode": "online-games",
       "categoryName": {
         "zh-CN": "网游",
@@ -3494,7 +3494,7 @@
         "ru": "Онлайн игры"
       },
       "sort": 17,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "网络游戏",
       "icon": "icon-online-games",
       "color": "#3b82f6",
@@ -3502,7 +3502,7 @@
     },
     {
       "id": "uuid-cat-136",
-      "categoryId": "20136",
+      "categoryId": "96910000185",
       "categoryCode": "auto",
       "categoryName": {
         "zh-CN": "汽车",
@@ -3513,7 +3513,7 @@
         "ru": "Авто"
       },
       "sort": 17,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "汽车资讯与服务",
       "icon": "icon-auto",
       "color": "#06b6d4",
@@ -3521,7 +3521,7 @@
     },
     {
       "id": "uuid-cat-417",
-      "categoryId": "20417",
+      "categoryId": "96910000186",
       "categoryCode": "shanxi2",
       "categoryName": {
         "zh-CN": "陕西",
@@ -3532,7 +3532,7 @@
         "ru": "Шэньси"
       },
       "sort": 17,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "陕西地方网站",
       "icon": "icon-shaanxi",
       "color": "#f59e0b",
@@ -3540,7 +3540,7 @@
     },
     {
       "id": "uuid-cat-186",
-      "categoryId": "20186",
+      "categoryId": "96910000187",
       "categoryCode": "remote",
       "categoryName": {
         "zh-CN": "远程",
@@ -3551,7 +3551,7 @@
         "ru": "Удаленная работа"
       },
       "sort": 17,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "远程工作与办公",
       "icon": "icon-remote",
       "color": "#06b6d4",
@@ -3559,7 +3559,7 @@
     },
     {
       "id": "uuid-cat-37502",
-      "categoryId": "37502",
+      "categoryId": "96910000188",
       "categoryCode": "postgrade-material",
       "categoryName": {
         "zh-CN": "备考资料",
@@ -3570,7 +3570,7 @@
         "ru": "Материалы"
       },
       "sort": 17,
-      "parentId": "20175",
+      "parentId": "96910000116",
       "description": "备考资料",
       "icon": "icon-postgrade-material",
       "color": "#f59e0b",
@@ -3578,7 +3578,7 @@
     },
     {
       "id": "uuid-cat-125",
-      "categoryId": "20125",
+      "categoryId": "96910000189",
       "categoryCode": "non-mainstream",
       "categoryName": {
         "zh-CN": "非主流",
@@ -3589,7 +3589,7 @@
         "ru": "Нонконформизм"
       },
       "sort": 18,
-      "parentId": "20001",
+      "parentId": "96910000026",
       "description": "非主流文化",
       "icon": "icon-non-mainstream",
       "color": "#ec4899",
@@ -3597,7 +3597,7 @@
     },
     {
       "id": "uuid-cat-137",
-      "categoryId": "20137",
+      "categoryId": "96910000190",
       "categoryCode": "map",
       "categoryName": {
         "zh-CN": "地图",
@@ -3608,7 +3608,7 @@
         "ru": "Карта"
       },
       "sort": 18,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "地图与导航",
       "icon": "icon-map",
       "color": "#22c55e",
@@ -3616,7 +3616,7 @@
     },
     {
       "id": "uuid-cat-418",
-      "categoryId": "20418",
+      "categoryId": "96910000191",
       "categoryCode": "heilongjiang",
       "categoryName": {
         "zh-CN": "黑龙江",
@@ -3627,7 +3627,7 @@
         "ru": "Хэйлунцзян"
       },
       "sort": 18,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "黑龙江地方网站",
       "icon": "icon-heilongjiang",
       "color": "#f59e0b",
@@ -3635,7 +3635,7 @@
     },
     {
       "id": "uuid-cat-187",
-      "categoryId": "20187",
+      "categoryId": "96910000192",
       "categoryCode": "overseas",
       "categoryName": {
         "zh-CN": "出海",
@@ -3646,7 +3646,7 @@
         "ru": "Зарубежный"
       },
       "sort": 18,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "出海业务与跨境",
       "icon": "icon-overseas",
       "color": "#22c55e",
@@ -3654,7 +3654,7 @@
     },
     {
       "id": "uuid-cat-37503",
-      "categoryId": "37503",
+      "categoryId": "96910000193",
       "categoryCode": "postgrade-training",
       "categoryName": {
         "zh-CN": "辅导课程",
@@ -3665,7 +3665,7 @@
         "ru": "Курсы"
       },
       "sort": 18,
-      "parentId": "20175",
+      "parentId": "96910000116",
       "description": "辅导课程",
       "icon": "icon-postgrade-training",
       "color": "#3b82f6",
@@ -3673,7 +3673,7 @@
     },
     {
       "id": "uuid-cat-138",
-      "categoryId": "20138",
+      "categoryId": "96910000194",
       "categoryCode": "health",
       "categoryName": {
         "zh-CN": "健康",
@@ -3684,7 +3684,7 @@
         "ru": "Здоровье"
       },
       "sort": 19,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "健康资讯与医疗",
       "icon": "icon-health",
       "color": "#22c55e",
@@ -3692,7 +3692,7 @@
     },
     {
       "id": "uuid-cat-419",
-      "categoryId": "20419",
+      "categoryId": "96910000195",
       "categoryCode": "more-regions",
       "categoryName": {
         "zh-CN": "更多地区",
@@ -3703,7 +3703,7 @@
         "ru": "Другие регионы"
       },
       "sort": 19,
-      "parentId": "20004",
+      "parentId": "96910000102",
       "description": "更多地区网站",
       "icon": "icon-more",
       "color": "#f59e0b",
@@ -3711,7 +3711,7 @@
     },
     {
       "id": "uuid-cat-188",
-      "categoryId": "20188",
+      "categoryId": "96910000196",
       "categoryCode": "side-job",
       "categoryName": {
         "zh-CN": "副业",
@@ -3722,7 +3722,7 @@
         "ru": "Подработка"
       },
       "sort": 19,
-      "parentId": "20006",
+      "parentId": "96910000001",
       "description": "副业赚钱与兼职",
       "icon": "icon-side-job",
       "color": "#f97316",
@@ -3730,7 +3730,7 @@
     },
     {
       "id": "uuid-cat-37601",
-      "categoryId": "37601",
+      "categoryId": "96910000197",
       "categoryCode": "civil-info",
       "categoryName": {
         "zh-CN": "公考资讯",
@@ -3741,7 +3741,7 @@
         "ru": "Госслужба"
       },
       "sort": 19,
-      "parentId": "20176",
+      "parentId": "96910000123",
       "description": "公考资讯",
       "icon": "icon-civil-info",
       "color": "#f59e0b",
@@ -3749,7 +3749,7 @@
     },
     {
       "id": "uuid-cat-139",
-      "categoryId": "20139",
+      "categoryId": "96910000198",
       "categoryCode": "men-women",
       "categoryName": {
         "zh-CN": "男女",
@@ -3760,7 +3760,7 @@
         "ru": "Мужчины и женщины"
       },
       "sort": 20,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "男女话题与情感",
       "icon": "icon-men-women",
       "color": "#ec4899",
@@ -3768,7 +3768,7 @@
     },
     {
       "id": "uuid-cat-37602",
-      "categoryId": "37602",
+      "categoryId": "96910000199",
       "categoryCode": "civil-material",
       "categoryName": {
         "zh-CN": "备考资料",
@@ -3779,7 +3779,7 @@
         "ru": "Материалы"
       },
       "sort": 20,
-      "parentId": "20176",
+      "parentId": "96910000123",
       "description": "备考资料",
       "icon": "icon-civil-material",
       "color": "#3b82f6",
@@ -3787,7 +3787,7 @@
     },
     {
       "id": "uuid-cat-140",
-      "categoryId": "20140",
+      "categoryId": "96910000200",
       "categoryCode": "female",
       "categoryName": {
         "zh-CN": "女性",
@@ -3798,7 +3798,7 @@
         "ru": "Женщины"
       },
       "sort": 21,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "女性时尚与生活",
       "icon": "icon-female",
       "color": "#ec4899",
@@ -3806,7 +3806,7 @@
     },
     {
       "id": "uuid-cat-37603",
-      "categoryId": "37603",
+      "categoryId": "96910000201",
       "categoryCode": "civil-training",
       "categoryName": {
         "zh-CN": "培训课程",
@@ -3817,7 +3817,7 @@
         "ru": "Курсы"
       },
       "sort": 21,
-      "parentId": "20176",
+      "parentId": "96910000123",
       "description": "培训课程",
       "icon": "icon-civil-training",
       "color": "#22c55e",
@@ -3825,7 +3825,7 @@
     },
     {
       "id": "uuid-cat-141",
-      "categoryId": "20141",
+      "categoryId": "96910000202",
       "categoryCode": "fashion",
       "categoryName": {
         "zh-CN": "时尚",
@@ -3836,7 +3836,7 @@
         "ru": "Мода"
       },
       "sort": 22,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "时尚潮流与穿搭",
       "icon": "icon-fashion",
       "color": "#8b5cf6",
@@ -3844,7 +3844,7 @@
     },
     {
       "id": "uuid-cat-37701",
-      "categoryId": "37701",
+      "categoryId": "96910000203",
       "categoryCode": "cert-info",
       "categoryName": {
         "zh-CN": "考证资讯",
@@ -3855,7 +3855,7 @@
         "ru": "Сертификат"
       },
       "sort": 22,
-      "parentId": "20177",
+      "parentId": "96910000130",
       "description": "考证资讯",
       "icon": "icon-cert-info",
       "color": "#22c55e",
@@ -3863,7 +3863,7 @@
     },
     {
       "id": "uuid-cat-142",
-      "categoryId": "20142",
+      "categoryId": "96910000204",
       "categoryCode": "kids",
       "categoryName": {
         "zh-CN": "儿童",
@@ -3874,7 +3874,7 @@
         "ru": "Дети"
       },
       "sort": 23,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "儿童教育与成长",
       "icon": "icon-kids",
       "color": "#f59e0b",
@@ -3882,7 +3882,7 @@
     },
     {
       "id": "uuid-cat-37702",
-      "categoryId": "37702",
+      "categoryId": "96910000205",
       "categoryCode": "cert-material",
       "categoryName": {
         "zh-CN": "备考资料",
@@ -3893,7 +3893,7 @@
         "ru": "Материалы"
       },
       "sort": 23,
-      "parentId": "20177",
+      "parentId": "96910000130",
       "description": "备考资料",
       "icon": "icon-cert-material",
       "color": "#f59e0b",
@@ -3901,7 +3901,7 @@
     },
     {
       "id": "uuid-cat-143",
-      "categoryId": "20143",
+      "categoryId": "96910000206",
       "categoryCode": "tv",
       "categoryName": {
         "zh-CN": "电视",
@@ -3912,7 +3912,7 @@
         "ru": "ТВ"
       },
       "sort": 24,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "电视节目与直播",
       "icon": "icon-tv",
       "color": "#3b82f6",
@@ -3920,7 +3920,7 @@
     },
     {
       "id": "uuid-cat-37703",
-      "categoryId": "37703",
+      "categoryId": "96910000207",
       "categoryCode": "professional-cert",
       "categoryName": {
         "zh-CN": "职业认证",
@@ -3931,7 +3931,7 @@
         "ru": "Проф. сертификат"
       },
       "sort": 24,
-      "parentId": "20177",
+      "parentId": "96910000130",
       "description": "职业认证",
       "icon": "icon-professional-cert",
       "color": "#3b82f6",
@@ -3939,7 +3939,7 @@
     },
     {
       "id": "uuid-cat-144",
-      "categoryId": "20144",
+      "categoryId": "96910000208",
       "categoryCode": "university",
       "categoryName": {
         "zh-CN": "大学",
@@ -3950,7 +3950,7 @@
         "ru": "Университет"
       },
       "sort": 25,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "高校信息与教育",
       "icon": "icon-university",
       "color": "#8b5cf6",
@@ -3958,7 +3958,7 @@
     },
     {
       "id": "uuid-cat-37801",
-      "categoryId": "37801",
+      "categoryId": "96910000209",
       "categoryCode": "business-english",
       "categoryName": {
         "zh-CN": "商务英语",
@@ -3969,7 +3969,7 @@
         "ru": "Деловой англ."
       },
       "sort": 25,
-      "parentId": "20178",
+      "parentId": "96910000137",
       "description": "商务英语",
       "icon": "icon-business-english",
       "color": "#3b82f6",
@@ -3977,7 +3977,7 @@
     },
     {
       "id": "uuid-cat-145",
-      "categoryId": "20145",
+      "categoryId": "96910000210",
       "categoryCode": "talent",
       "categoryName": {
         "zh-CN": "人才",
@@ -3988,7 +3988,7 @@
         "ru": "Таланты"
       },
       "sort": 26,
-      "parentId": "20002",
+      "parentId": "96910000051",
       "description": "人才招聘与求职",
       "icon": "icon-talent",
       "color": "#22c55e",
@@ -3996,7 +3996,7 @@
     },
     {
       "id": "uuid-cat-37802",
-      "categoryId": "37802",
+      "categoryId": "96910000211",
       "categoryCode": "english-test",
       "categoryName": {
         "zh-CN": "英语考试",
@@ -4007,7 +4007,7 @@
         "ru": "Англ. экзамен"
       },
       "sort": 26,
-      "parentId": "20178",
+      "parentId": "96910000137",
       "description": "英语考试",
       "icon": "icon-english-test",
       "color": "#ef4444",
@@ -4015,7 +4015,7 @@
     },
     {
       "id": "uuid-cat-37803",
-      "categoryId": "37803",
+      "categoryId": "96910000212",
       "categoryCode": "oral-english",
       "categoryName": {
         "zh-CN": "英语口语",
@@ -4026,7 +4026,7 @@
         "ru": "Англ. разговор"
       },
       "sort": 27,
-      "parentId": "20178",
+      "parentId": "96910000137",
       "description": "英语口语",
       "icon": "icon-oral-english",
       "color": "#22c55e",
@@ -4034,7 +4034,7 @@
     },
     {
       "id": "uuid-cat-37901",
-      "categoryId": "37901",
+      "categoryId": "96910000213",
       "categoryCode": "trans-tools",
       "categoryName": {
         "zh-CN": "翻译工具",
@@ -4045,7 +4045,7 @@
         "ru": "Инструменты"
       },
       "sort": 28,
-      "parentId": "20179",
+      "parentId": "96910000144",
       "description": "翻译工具",
       "icon": "icon-trans-tools",
       "color": "#8b5cf6",
@@ -4053,7 +4053,7 @@
     },
     {
       "id": "uuid-cat-37902",
-      "categoryId": "37902",
+      "categoryId": "96910000214",
       "categoryCode": "trans-platform",
       "categoryName": {
         "zh-CN": "翻译平台",
@@ -4064,7 +4064,7 @@
         "ru": "Платформа"
       },
       "sort": 29,
-      "parentId": "20179",
+      "parentId": "96910000144",
       "description": "翻译平台",
       "icon": "icon-trans-platform",
       "color": "#3b82f6",
@@ -4072,7 +4072,7 @@
     },
     {
       "id": "uuid-cat-37903",
-      "categoryId": "37903",
+      "categoryId": "96910000215",
       "categoryCode": "trans-service",
       "categoryName": {
         "zh-CN": "翻译服务",
@@ -4083,7 +4083,7 @@
         "ru": "Услуги"
       },
       "sort": 30,
-      "parentId": "20179",
+      "parentId": "96910000144",
       "description": "翻译服务",
       "icon": "icon-trans-service",
       "color": "#22c55e",
@@ -4091,7 +4091,7 @@
     },
     {
       "id": "uuid-cat-38001",
-      "categoryId": "38001",
+      "categoryId": "96910000216",
       "categoryCode": "industry-news",
       "categoryName": {
         "zh-CN": "行业资讯",
@@ -4102,7 +4102,7 @@
         "ru": "Новости"
       },
       "sort": 31,
-      "parentId": "20180",
+      "parentId": "96910000151",
       "description": "行业资讯",
       "icon": "icon-industry-news",
       "color": "#06b6d4",
@@ -4110,7 +4110,7 @@
     },
     {
       "id": "uuid-cat-38002",
-      "categoryId": "38002",
+      "categoryId": "96910000217",
       "categoryCode": "industry-analysis",
       "categoryName": {
         "zh-CN": "行业分析",
@@ -4121,7 +4121,7 @@
         "ru": "Анализ"
       },
       "sort": 32,
-      "parentId": "20180",
+      "parentId": "96910000151",
       "description": "行业分析",
       "icon": "icon-industry-analysis",
       "color": "#8b5cf6",
@@ -4129,7 +4129,7 @@
     },
     {
       "id": "uuid-cat-38003",
-      "categoryId": "38003",
+      "categoryId": "96910000218",
       "categoryCode": "industry-report",
       "categoryName": {
         "zh-CN": "行业报告",
@@ -4140,7 +4140,7 @@
         "ru": "Отчет"
       },
       "sort": 33,
-      "parentId": "20180",
+      "parentId": "96910000151",
       "description": "行业报告",
       "icon": "icon-industry-report",
       "color": "#f59e0b",
@@ -4148,7 +4148,7 @@
     },
     {
       "id": "uuid-cat-38101",
-      "categoryId": "38101",
+      "categoryId": "96910000219",
       "categoryCode": "labor-law",
       "categoryName": {
         "zh-CN": "劳动法规",
@@ -4159,7 +4159,7 @@
         "ru": "Законы"
       },
       "sort": 34,
-      "parentId": "20181",
+      "parentId": "96910000158",
       "description": "劳动法规",
       "icon": "icon-labor-law",
       "color": "#f97316",
@@ -4167,7 +4167,7 @@
     },
     {
       "id": "uuid-cat-38102",
-      "categoryId": "38102",
+      "categoryId": "96910000220",
       "categoryCode": "labor-rights",
       "categoryName": {
         "zh-CN": "劳动权益",
@@ -4178,7 +4178,7 @@
         "ru": "Права"
       },
       "sort": 35,
-      "parentId": "20181",
+      "parentId": "96910000158",
       "description": "劳动权益",
       "icon": "icon-labor-rights",
       "color": "#ef4444",
@@ -4186,7 +4186,7 @@
     },
     {
       "id": "uuid-cat-38103",
-      "categoryId": "38103",
+      "categoryId": "96910000221",
       "categoryCode": "social-security",
       "categoryName": {
         "zh-CN": "社会保障",
@@ -4197,7 +4197,7 @@
         "ru": "Соц. обеспечение"
       },
       "sort": 36,
-      "parentId": "20181",
+      "parentId": "96910000158",
       "description": "社会保障",
       "icon": "icon-social-security",
       "color": "#3b82f6",
@@ -4205,7 +4205,7 @@
     },
     {
       "id": "uuid-cat-38201",
-      "categoryId": "38201",
+      "categoryId": "96910000222",
       "categoryCode": "time-mgmt",
       "categoryName": {
         "zh-CN": "时间管理",
@@ -4216,7 +4216,7 @@
         "ru": "Тайм-менеджмент"
       },
       "sort": 37,
-      "parentId": "20182",
+      "parentId": "96910000164",
       "description": "时间管理",
       "icon": "icon-time-mgmt",
       "color": "#22c55e",
@@ -4224,7 +4224,7 @@
     },
     {
       "id": "uuid-cat-38202",
-      "categoryId": "38202",
+      "categoryId": "96910000223",
       "categoryCode": "productivity-tools",
       "categoryName": {
         "zh-CN": "效率工具",
@@ -4235,7 +4235,7 @@
         "ru": "Инструменты"
       },
       "sort": 38,
-      "parentId": "20182",
+      "parentId": "96910000164",
       "description": "效率工具",
       "icon": "icon-productivity-tools",
       "color": "#3b82f6",
@@ -4243,7 +4243,7 @@
     },
     {
       "id": "uuid-cat-38203",
-      "categoryId": "38203",
+      "categoryId": "96910000224",
       "categoryCode": "note-taking",
       "categoryName": {
         "zh-CN": "笔记工具",
@@ -4254,7 +4254,7 @@
         "ru": "Заметки"
       },
       "sort": 39,
-      "parentId": "20182",
+      "parentId": "96910000164",
       "description": "笔记工具",
       "icon": "icon-note-taking",
       "color": "#f59e0b",
@@ -4262,7 +4262,7 @@
     },
     {
       "id": "uuid-cat-38301",
-      "categoryId": "38301",
+      "categoryId": "96910000225",
       "categoryCode": "team-collab",
       "categoryName": {
         "zh-CN": "团队协作",
@@ -4273,7 +4273,7 @@
         "ru": "Команда"
       },
       "sort": 40,
-      "parentId": "20183",
+      "parentId": "96910000170",
       "description": "团队协作",
       "icon": "icon-team-collab",
       "color": "#3b82f6",
@@ -4281,7 +4281,7 @@
     },
     {
       "id": "uuid-cat-38302",
-      "categoryId": "38302",
+      "categoryId": "96910000226",
       "categoryCode": "project-mgmt",
       "categoryName": {
         "zh-CN": "项目管理",
@@ -4292,7 +4292,7 @@
         "ru": "Проекты"
       },
       "sort": 41,
-      "parentId": "20183",
+      "parentId": "96910000170",
       "description": "项目管理",
       "icon": "icon-project-mgmt",
       "color": "#f59e0b",
@@ -4300,7 +4300,7 @@
     },
     {
       "id": "uuid-cat-38303",
-      "categoryId": "38303",
+      "categoryId": "96910000227",
       "categoryCode": "doc-collab",
       "categoryName": {
         "zh-CN": "文档协作",
@@ -4311,7 +4311,7 @@
         "ru": "Документы"
       },
       "sort": 42,
-      "parentId": "20183",
+      "parentId": "96910000170",
       "description": "文档协作",
       "icon": "icon-doc-collab",
       "color": "#22c55e",
@@ -4319,7 +4319,7 @@
     },
     {
       "id": "uuid-cat-38401",
-      "categoryId": "38401",
+      "categoryId": "96910000228",
       "categoryCode": "cloud-drive",
       "categoryName": {
         "zh-CN": "云盘存储",
@@ -4330,7 +4330,7 @@
         "ru": "Облако"
       },
       "sort": 43,
-      "parentId": "20184",
+      "parentId": "96910000176",
       "description": "云盘存储",
       "icon": "icon-cloud-drive",
       "color": "#8b5cf6",
@@ -4338,7 +4338,7 @@
     },
     {
       "id": "uuid-cat-38402",
-      "categoryId": "38402",
+      "categoryId": "96910000229",
       "categoryCode": "cloud-backup",
       "categoryName": {
         "zh-CN": "云端备份",
@@ -4349,7 +4349,7 @@
         "ru": "Бэкап"
       },
       "sort": 44,
-      "parentId": "20184",
+      "parentId": "96910000176",
       "description": "云端备份",
       "icon": "icon-cloud-backup",
       "color": "#3b82f6",
@@ -4357,7 +4357,7 @@
     },
     {
       "id": "uuid-cat-38403",
-      "categoryId": "38403",
+      "categoryId": "96910000230",
       "categoryCode": "file-transfer",
       "categoryName": {
         "zh-CN": "文件传输",
@@ -4368,7 +4368,7 @@
         "ru": "Передача"
       },
       "sort": 45,
-      "parentId": "20184",
+      "parentId": "96910000176",
       "description": "文件传输",
       "icon": "icon-file-transfer",
       "color": "#22c55e",
@@ -4376,7 +4376,7 @@
     },
     {
       "id": "uuid-cat-38501",
-      "categoryId": "38501",
+      "categoryId": "96910000231",
       "categoryCode": "ui-design",
       "categoryName": {
         "zh-CN": "UI设计",
@@ -4387,7 +4387,7 @@
         "ru": "UI дизайн"
       },
       "sort": 46,
-      "parentId": "20185",
+      "parentId": "96910000182",
       "description": "UI设计",
       "icon": "icon-ui-design",
       "color": "#f59e0b",
@@ -4395,7 +4395,7 @@
     },
     {
       "id": "uuid-cat-38502",
-      "categoryId": "38502",
+      "categoryId": "96910000232",
       "categoryCode": "video-material",
       "categoryName": {
         "zh-CN": "视频素材",
@@ -4406,7 +4406,7 @@
         "ru": "Видео"
       },
       "sort": 47,
-      "parentId": "20185",
+      "parentId": "96910000182",
       "description": "视频素材",
       "icon": "icon-video-material",
       "color": "#ec4899",
@@ -4414,7 +4414,7 @@
     },
     {
       "id": "uuid-cat-38503",
-      "categoryId": "38503",
+      "categoryId": "96910000233",
       "categoryCode": "font-icon",
       "categoryName": {
         "zh-CN": "字体图标",
@@ -4425,7 +4425,7 @@
         "ru": "Шрифты"
       },
       "sort": 48,
-      "parentId": "20185",
+      "parentId": "96910000182",
       "description": "字体图标",
       "icon": "icon-font-icon",
       "color": "#3b82f6",
@@ -4433,7 +4433,7 @@
     },
     {
       "id": "uuid-cat-38601",
-      "categoryId": "38601",
+      "categoryId": "96910000234",
       "categoryCode": "remote-recruit",
       "categoryName": {
         "zh-CN": "远程招聘",
@@ -4444,7 +4444,7 @@
         "ru": "Удаленка"
       },
       "sort": 49,
-      "parentId": "20186",
+      "parentId": "96910000187",
       "description": "远程招聘",
       "icon": "icon-remote-recruit",
       "color": "#06b6d4",
@@ -4452,7 +4452,7 @@
     },
     {
       "id": "uuid-cat-38602",
-      "categoryId": "38602",
+      "categoryId": "96910000235",
       "categoryCode": "remote-tools",
       "categoryName": {
         "zh-CN": "远程工具",
@@ -4463,7 +4463,7 @@
         "ru": "Инструменты"
       },
       "sort": 50,
-      "parentId": "20186",
+      "parentId": "96910000187",
       "description": "远程工具",
       "icon": "icon-remote-tools",
       "color": "#22c55e",
@@ -4471,7 +4471,7 @@
     },
     {
       "id": "uuid-cat-38603",
-      "categoryId": "38603",
+      "categoryId": "96910000236",
       "categoryCode": "coworking",
       "categoryName": {
         "zh-CN": "共享办公",
@@ -4482,7 +4482,7 @@
         "ru": "Коворкинг"
       },
       "sort": 51,
-      "parentId": "20186",
+      "parentId": "96910000187",
       "description": "共享办公",
       "icon": "icon-coworking",
       "color": "#f59e0b",
@@ -4490,7 +4490,7 @@
     },
     {
       "id": "uuid-cat-38701",
-      "categoryId": "38701",
+      "categoryId": "96910000237",
       "categoryCode": "cross-border",
       "categoryName": {
         "zh-CN": "跨境电商",
@@ -4501,7 +4501,7 @@
         "ru": "E-commerce"
       },
       "sort": 52,
-      "parentId": "20187",
+      "parentId": "96910000192",
       "description": "跨境电商",
       "icon": "icon-cross-border",
       "color": "#22c55e",
@@ -4509,7 +4509,7 @@
     },
     {
       "id": "uuid-cat-38702",
-      "categoryId": "38702",
+      "categoryId": "96910000238",
       "categoryCode": "overseas-market",
       "categoryName": {
         "zh-CN": "海外市场",
@@ -4520,7 +4520,7 @@
         "ru": "Рынок"
       },
       "sort": 53,
-      "parentId": "20187",
+      "parentId": "96910000192",
       "description": "海外市场",
       "icon": "icon-overseas-market",
       "color": "#3b82f6",
@@ -4528,7 +4528,7 @@
     },
     {
       "id": "uuid-cat-38703",
-      "categoryId": "38703",
+      "categoryId": "96910000239",
       "categoryCode": "global-payment",
       "categoryName": {
         "zh-CN": "跨境支付",
@@ -4539,7 +4539,7 @@
         "ru": "Платежи"
       },
       "sort": 54,
-      "parentId": "20187",
+      "parentId": "96910000192",
       "description": "跨境支付",
       "icon": "icon-global-payment",
       "color": "#8b5cf6",
@@ -4547,7 +4547,7 @@
     },
     {
       "id": "uuid-cat-38801",
-      "categoryId": "38801",
+      "categoryId": "96910000240",
       "categoryCode": "side-business",
       "categoryName": {
         "zh-CN": "副业项目",
@@ -4558,7 +4558,7 @@
         "ru": "Проекты"
       },
       "sort": 55,
-      "parentId": "20188",
+      "parentId": "96910000196",
       "description": "副业项目",
       "icon": "icon-side-business",
       "color": "#f97316",
@@ -4566,7 +4566,7 @@
     },
     {
       "id": "uuid-cat-38802",
-      "categoryId": "38802",
+      "categoryId": "96910000241",
       "categoryCode": "investment",
       "categoryName": {
         "zh-CN": "投资理财",
@@ -4577,7 +4577,7 @@
         "ru": "Инвестиции"
       },
       "sort": 56,
-      "parentId": "20188",
+      "parentId": "96910000196",
       "description": "投资理财",
       "icon": "icon-investment",
       "color": "#ef4444",
@@ -4585,7 +4585,7 @@
     },
     {
       "id": "uuid-cat-38803",
-      "categoryId": "38803",
+      "categoryId": "96910000242",
       "categoryCode": "monetize",
       "categoryName": {
         "zh-CN": "知识变现",
@@ -4596,7 +4596,7 @@
         "ru": "Монетизация"
       },
       "sort": 57,
-      "parentId": "20188",
+      "parentId": "96910000196",
       "description": "知识变现",
       "icon": "icon-monetize",
       "color": "#22c55e",

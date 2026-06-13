@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "琴棋",
+    "en": "Chess & Music",
+    "zh-TW": "琴棋",
+    "ja": "琴棋",
+    "ko": "거문고와 바둑",
+    "ru": "Шахматы и музыка"
+  },
+  "categoryId": "20162",
+  "categoryCode": "chess",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000105",
+      "title": "琴棋",
+      "code": "qinqi;chess",
+      "url": "https://www.google.com/search?q=琴棋",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20005",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 81
+    }
+  ]
+}

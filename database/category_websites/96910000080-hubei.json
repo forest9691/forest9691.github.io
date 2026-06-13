@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "湖北",
+    "en": "Hubei",
+    "zh-TW": "湖北",
+    "ja": "湖北",
+    "ko": "후베이",
+    "ru": "Хубэй"
+  },
+  "categoryId": "96910000080",
+  "categoryCode": "hubei",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000085",
+      "title": "湖北",
+      "code": "hubei;hb",
+      "url": "https://www.google.com/search?q=湖北",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000080",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 61
+    }
+  ]
+}

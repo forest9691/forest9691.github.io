@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷連結分組 - 工業設計（zh-TW）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000048-zh-TW-1",
+      "groupId": "9695477941920",
+      "groupCode": "design-tools",
+      "groupName": "設計工具",
+      "sort": 1,
+      "jobCode": "9691000048",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000048-zh-TW-2",
+      "groupId": "9695628306134",
+      "groupCode": "inspiration",
+      "groupName": "靈感資源",
+      "sort": 2,
+      "jobCode": "9691000048",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

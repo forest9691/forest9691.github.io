@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "软件",
+    "en": "Software",
+    "zh-TW": "軟體",
+    "ja": "ソフト",
+    "ko": "소프트웨어",
+    "ru": "ПО"
+  },
+  "categoryId": "96910000003",
+  "categoryCode": "software",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000066",
+      "title": "软件",
+      "code": "ruanjian;software",
+      "url": "https://www.google.com/search?q=软件",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000076",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 42
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "汽车",
+    "en": "Auto",
+    "zh-TW": "汽車",
+    "ja": "自動車",
+    "ko": "자동차",
+    "ru": "Авто"
+  },
+  "categoryId": "96910000185",
+  "categoryCode": "auto",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000054",
+      "title": "汽车",
+      "code": "qiche;auto",
+      "url": "https://www.google.com/search?q=汽车",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000051",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 30
+    }
+  ]
+}

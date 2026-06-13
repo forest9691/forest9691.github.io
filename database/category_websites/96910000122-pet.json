@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "宠物",
+    "en": "Pet",
+    "zh-TW": "寵物",
+    "ja": "ペット",
+    "ko": "반려동물",
+    "ru": "Питомцы"
+  },
+  "categoryId": "96910000122",
+  "categoryCode": "pet",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000107",
+      "title": "宠物",
+      "code": "chongwu;pet",
+      "url": "https://www.google.com/search?q=宠物",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000110",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 83
+    }
+  ]
+}

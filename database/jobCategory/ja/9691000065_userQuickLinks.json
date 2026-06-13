@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - カスタマーサービス（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000065-ja-1",
+      "groupId": "9695527382951",
+      "groupCode": "ecommerce",
+      "groupName": "EC運営",
+      "sort": 1,
+      "jobCode": "9691000065",
+      "icon": "ShoppingOutlined",
+      "items": [
+        "淘宝",
+        "京东",
+        "拼多多"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000065-ja-2",
+      "groupId": "9695601052397",
+      "groupCode": "analytics",
+      "groupName": "データ分析",
+      "sort": 2,
+      "jobCode": "9691000065",
+      "icon": "BarChartOutlined",
+      "items": [
+        "Google Analytics",
+        "百度统计",
+        "友盟+"
+      ]
+    }
+  ]
+}

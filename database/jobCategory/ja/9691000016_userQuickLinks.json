@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - 人事（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000016-ja-1",
+      "groupId": "9695192182000",
+      "groupCode": "hr-platforms",
+      "groupName": "人事プラットフォーム",
+      "sort": 1,
+      "jobCode": "9691000016",
+      "icon": "TeamOutlined",
+      "items": [
+        "Boss直聘",
+        "猎聘",
+        "智联招聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000016-ja-2",
+      "groupId": "9695921255205",
+      "groupCode": "office-software",
+      "groupName": "オフィスソフト",
+      "sort": 2,
+      "jobCode": "9691000016",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

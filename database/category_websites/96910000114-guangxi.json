@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "广西",
+    "en": "Guangxi",
+    "zh-TW": "廣西",
+    "ja": "広西",
+    "ko": "광시",
+    "ru": "Гуанси"
+  },
+  "categoryId": "96910000114",
+  "categoryCode": "guangxi",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000087",
+      "title": "广西",
+      "code": "guangxi;gx",
+      "url": "https://www.google.com/search?q=广西",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000114",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 63
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "陕西",
+    "en": "Shaanxi",
+    "zh-TW": "陝西",
+    "ja": "陝西",
+    "ko": "산시",
+    "ru": "Шэньси"
+  },
+  "categoryId": "96910000186",
+  "categoryCode": "shanxi2",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000098",
+      "title": "陕西",
+      "code": "shanxi2;sx2",
+      "url": "https://www.google.com/search?q=陕西",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000186",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 74
+    }
+  ]
+}

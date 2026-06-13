@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "股票",
+    "en": "Stock",
+    "zh-TW": "股票",
+    "ja": "株式",
+    "ko": "주식",
+    "ru": "Акции"
+  },
+  "categoryId": "20130",
+  "categoryCode": "stock",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000048",
+      "title": "股票",
+      "code": "gupiao;stock",
+      "url": "https://www.google.com/search?q=股票",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "20002",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 24
+    }
+  ]
+}

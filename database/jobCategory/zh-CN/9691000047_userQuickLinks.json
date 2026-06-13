@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 建筑/室内设计（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000047-zh-CN-1",
+      "groupId": "9695983500545",
+      "groupCode": "design-tools",
+      "groupName": "设计工具",
+      "sort": 1,
+      "jobCode": "9691000047",
+      "icon": "BgColorsOutlined",
+      "items": [
+        "Figma",
+        "Adobe CC",
+        "Canva"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000047-zh-CN-2",
+      "groupId": "9695921709141",
+      "groupCode": "inspiration",
+      "groupName": "灵感资源",
+      "sort": 2,
+      "jobCode": "9691000047",
+      "icon": "AppstoreOutlined",
+      "items": [
+        "站酷",
+        "Dribbble",
+        "Pinterest"
+      ]
+    }
+  ]
+}

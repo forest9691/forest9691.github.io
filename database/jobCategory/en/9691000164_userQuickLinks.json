@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Quick Link Groups - Legal Services（en）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000164-en-1",
+      "groupId": "9695170302488",
+      "groupCode": "translation",
+      "groupName": "Translation Tools",
+      "sort": 1,
+      "jobCode": "9691000164",
+      "icon": "TranslationOutlined",
+      "items": [
+        "DeepL",
+        "Google Translate",
+        "有道翻译"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000164-en-2",
+      "groupId": "9695370372910",
+      "groupCode": "legal-tools",
+      "groupName": "Legal Resources",
+      "sort": 2,
+      "jobCode": "9691000164",
+      "icon": "FileProtectOutlined",
+      "items": [
+        "北大法宝",
+        "裁判文书网",
+        "无讼"
+      ]
+    }
+  ]
+}

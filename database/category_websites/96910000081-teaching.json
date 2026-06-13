@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "教学",
+    "en": "Teaching",
+    "zh-TW": "教學",
+    "ja": "教育",
+    "ko": "교육",
+    "ru": "Обучение"
+  },
+  "categoryId": "96910000081",
+  "categoryCode": "teaching",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000104",
+      "title": "教学",
+      "code": "jiaoxue;teaching",
+      "url": "https://www.google.com/search?q=教学",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000110",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 80
+    }
+  ]
+}

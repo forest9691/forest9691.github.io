@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "广东",
+    "en": "Guangdong",
+    "zh-TW": "廣東",
+    "ja": "広東",
+    "ko": "광둥",
+    "ru": "Гуандун"
+  },
+  "categoryId": "96910000054",
+  "categoryCode": "guangdong",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000084",
+      "title": "广东",
+      "code": "guangdong;gd",
+      "url": "https://www.google.com/search?q=广东",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000054",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 60
+    }
+  ]
+}

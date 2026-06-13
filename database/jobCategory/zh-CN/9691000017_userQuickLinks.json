@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "快捷链接分组 - 行政（zh-CN）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000017-zh-CN-1",
+      "groupId": "9695834107023",
+      "groupCode": "hr-platforms",
+      "groupName": "人力资源平台",
+      "sort": 1,
+      "jobCode": "9691000017",
+      "icon": "TeamOutlined",
+      "items": [
+        "Boss直聘",
+        "猎聘",
+        "智联招聘"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000017-zh-CN-2",
+      "groupId": "9695127081254",
+      "groupCode": "office-software",
+      "groupName": "办公软件",
+      "sort": 2,
+      "jobCode": "9691000017",
+      "icon": "DesktopOutlined",
+      "items": [
+        "WPS Office",
+        "企业微信",
+        "钉钉"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "빠른 링크 그룹 - 금융 영업（ko）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000004-ko-1",
+      "groupId": "9695936585112",
+      "groupCode": "crm-tools",
+      "groupName": "CRM 도구",
+      "sort": 1,
+      "jobCode": "9691000004",
+      "icon": "UserSwitchOutlined",
+      "items": [
+        "Salesforce",
+        "HubSpot",
+        "纷享销客"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000004-ko-2",
+      "groupId": "9695462268994",
+      "groupCode": "communication",
+      "groupName": "커뮤니케이션",
+      "sort": 2,
+      "jobCode": "9691000004",
+      "icon": "MessageOutlined",
+      "items": [
+        "企业微信",
+        "钉钉",
+        "飞书"
+      ]
+    }
+  ]
+}

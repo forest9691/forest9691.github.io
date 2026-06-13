@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - エネルギー・鉱業・地質（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000128-ja-1",
+      "groupId": "9695556100441",
+      "groupCode": "energy-env",
+      "groupName": "エネルギー・環境",
+      "sort": 1,
+      "jobCode": "9691000128",
+      "icon": "EnvironmentOutlined",
+      "items": [
+        "国家能源局",
+        "北极星电力网",
+        "国际能源网"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000128-ja-2",
+      "groupId": "9695958291947",
+      "groupCode": "professional-platforms",
+      "groupName": "専門プラットフォーム",
+      "sort": 2,
+      "jobCode": "9691000128",
+      "icon": "GlobalOutlined",
+      "items": [
+        "中国环保在线",
+        "生态环境部",
+        "中国能源网"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-12T00:00:00.000Z",
+  "description": "职位分类表 - 主播/演艺人员/经纪人",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-ws-001",
+      "categoryId": "9693000001",
+      "categoryCode": "workspace",
+      "categoryName": "我的工作台",
+      "sort": 1,
+      "parentId": "0",
+      "description": "用户自定义的常用工具集合",
+      "icon": "icon-workspace",
+      "color": "#8b5cf6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-stream-cat",
+      "categoryId": "9693000002",
+      "categoryCode": "stream",
+      "categoryName": "直播平台",
+      "sort": 2,
+      "parentId": "0",
+      "description": "直播平台相关资源",
+      "icon": "icon-radio",
+      "color": "#ef4444",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-talent-cat",
+      "categoryId": "9693000003",
+      "categoryCode": "talent",
+      "categoryName": "经纪管理",
+      "sort": 3,
+      "parentId": "0",
+      "description": "经纪管理相关资源",
+      "icon": "icon-users",
+      "color": "#3b82f6",
+      "isDefault": false,
+      "isVisible": true
+    },
+    {
+      "id": "uuid-streamtool-cat",
+      "categoryId": "9693000004",
+      "categoryCode": "streamtool",
+      "categoryName": "直播工具",
+      "sort": 4,
+      "parentId": "0",
+      "description": "直播工具相关资源",
+      "icon": "icon-tool",
+      "color": "#f59e0b",
+      "isDefault": false,
+      "isVisible": true
+    }
+  ]
+}

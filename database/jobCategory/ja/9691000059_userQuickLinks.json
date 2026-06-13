@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "クイックリンクグループ - ウェブサイト運営（ja）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000059-ja-1",
+      "groupId": "9695778502007",
+      "groupCode": "seo-tools",
+      "groupName": "SEO ツール",
+      "sort": 1,
+      "jobCode": "9691000059",
+      "icon": "SearchOutlined",
+      "items": [
+        "Google Search Console",
+        "Ahrefs",
+        "SEMrush"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000059-ja-2",
+      "groupId": "9695532710644",
+      "groupCode": "site-analytics",
+      "groupName": "サイト分析",
+      "sort": 2,
+      "jobCode": "9691000059",
+      "icon": "DashboardOutlined",
+      "items": [
+        "Google Analytics",
+        "Hotjar",
+        "Cloudflare"
+      ]
+    }
+  ]
+}

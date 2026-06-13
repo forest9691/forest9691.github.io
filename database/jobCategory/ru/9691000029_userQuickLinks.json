@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "Группы быстрых ссылок - ИИ/Алгоритмы（ru）",
+  "success": true,
+  "data": [
+    {
+      "id": "uuid-quick-9691000029-ru-1",
+      "groupId": "9695355858194",
+      "groupCode": "dev-tools",
+      "groupName": "Инструменты разработки",
+      "sort": 1,
+      "jobCode": "9691000029",
+      "icon": "CodeOutlined",
+      "items": [
+        "GitHub",
+        "VS Code",
+        "Docker"
+      ]
+    },
+    {
+      "id": "uuid-quick-9691000029-ru-2",
+      "groupId": "9695258615415",
+      "groupCode": "cloud-platforms",
+      "groupName": "Облачные платформы",
+      "sort": 2,
+      "jobCode": "9691000029",
+      "icon": "CloudOutlined",
+      "items": [
+        "AWS",
+        "阿里云",
+        "腾讯云"
+      ]
+    }
+  ]
+}

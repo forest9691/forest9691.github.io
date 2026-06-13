@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "浙江",
+    "en": "Zhejiang",
+    "zh-TW": "浙江",
+    "ja": "浙江",
+    "ko": "저장",
+    "ru": "Чжэцзян"
+  },
+  "categoryId": "96910000163",
+  "categoryCode": "zhejiang",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000094",
+      "title": "浙江",
+      "code": "zhejiang;zj",
+      "url": "https://www.google.com/search?q=浙江",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000163",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 70
+    }
+  ]
+}

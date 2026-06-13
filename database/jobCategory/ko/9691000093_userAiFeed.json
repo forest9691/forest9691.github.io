@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-06-13T00:00:00.000Z",
+  "description": "AI 订阅简报主题 - 은행/금융 서비스（ko）",
+  "success": true,
+  "tab": [
+    {
+      "id": "uuid-ai-feed-9691000093-ko",
+      "topicId": "96949694000911",
+      "topicCode": "general",
+      "topicName": "종합 정보",
+      "sort": 1,
+      "jobCode": "9691000093",
+      "description": "업계 동향과 최신 트렌드",
+      "icon": "icon-globe",
+      "isDefault": true,
+      "isVisible": true
+    }
+  ],
+  "children": [
+    {
+      "title": "Google Gemini AI 개발 및 API 키 플랫폼",
+      "url": "https://aistudio.google.com",
+      "icon": "google-ai"
+    },
+    {
+      "title": "글로벌 LLM API 통합 라우팅 플랫폼",
+      "url": "https://openrouter.ai",
+      "icon": "openrouter"
+    },
+    {
+      "title": "오픈소스 모델 허브 및 데이터셋 커뮤니티",
+      "url": "https://huggingface.co",
+      "icon": "huggingface"
+    }
+  ]
+}

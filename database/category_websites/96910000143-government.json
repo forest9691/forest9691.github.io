@@ -1,0 +1,28 @@
+{
+  "categoryName": {
+    "zh-CN": "政府",
+    "en": "Government",
+    "zh-TW": "政府",
+    "ja": "政府",
+    "ko": "정부",
+    "ru": "Правительство"
+  },
+  "categoryId": "96910000143",
+  "categoryCode": "government",
+  "data": [
+    {
+      "id": "3010000000000000000000000000000110",
+      "title": "政府",
+      "code": "zhengfu;government",
+      "url": "https://www.google.com/search?q=政府",
+      "visitCount": 0,
+      "description": null,
+      "icon": null,
+      "categoryId": "96910000110",
+      "highlight": false,
+      "bold": false,
+      "color": null,
+      "sort": 86
+    }
+  ]
+}
